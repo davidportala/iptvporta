@@ -5084,7 +5084,10 @@ http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_TV.jpg" group-title="INDIA",Republic TV
 http://sshds5-lh.akamaihd.net/i/pcrepublichs_3@503842/index_1300_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/cgy0stoT5ObKHfXCYalZFF7eB8lbAjDzyeqqdwBFdpmuPR1YoC0n6CJup6Awfjcefns=s180" group-title="INDIA",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
 http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-tQ8E_vI8AaI/AAAAAAAAAAI/AAAAAAAAAAA/GYiqfyPIKzE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",Sony Six
@@ -6282,3 +6285,171 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playl
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1,3 HD
+http://139.99.38.15:443/hd-ch3_1080/index.m3u8
+
+#EXTINF:-1,3 SD
+http://139.99.38.15:443/sd-ch3digi_480/index.m3u8
+
+#EXTINF:-1,5 HD
+http://139.99.38.15:443/hd-ch5_1080/index.m3u8
+
+#EXTINF:-1,7 HD
+http://139.99.38.15:443/hd-ch7_1080/index.m3u8
+
+#EXTINF:-1,NBT
+http://139.99.38.15:443/sd-nbt_720/index.m3u8
+
+#EXTINF:-1,TRUE FILM HD
+http://139.99.38.15:443/hd-tfilm_720/index.m3u8
+
+#EXTINF:-1,TRUE FILM ASIA
+http://139.99.38.15:443/sd-filmasia_480/index.m3u8
+
+#EXTINF:-1,FOX ACTION MOVIE
+http://139.99.38.15:443/hd-foxaction_720/index.m3u8
+
+#EXTINF:-1,FOX FAMILY MOVIE
+http://139.99.38.15:443/hd-foxfamily_720/index.m3u8
+
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://139.99.38.15:443/hd-foxpremium_720/index.m3u8
+
+#EXTINF:-1,TRUE SERIE
+http://139.99.38.15:443/sd-series_480/index.m3u8
+
+#EXTINF:-1,HITSTORY
+http://139.99.38.15:443/hd-history_720/index.m3u8
+
+#EXTINF:-1,H2
+http://139.99.38.15:443/hd-history2_720/index.m3u8
+
+#EXTINF:-1,Bein Sport 1
+http://139.99.38.15:443/epl-bein1_720/index.m3u8
+
+#EXTINF:-1,Bein Sport 2
+http://139.99.38.15:443/epl-bein2_720/index.m3u8
+
+#EXTINF:-1,Bein Sport 3
+http://139.99.38.15:443/epl-bein3_720/index.m3u8
+
+#EXTINF:-1,Bein Sport 4
+http://139.99.38.15:443/epl-bein4_720/index.m3u8
+
+#EXTINF:-1,True Sport HD1
+http://139.99.38.15:443/hd-tsport1_720/index.m3u8
+
+#EXTINF:-1,True Sport HD2
+http://139.99.38.15:443/hd-tsport2_720/index.m3u8
+
+#EXTINF:-1,True Sport HD3
+http://139.99.38.15:443/hd-tsport3_720/index.m3u8
+
+#EXTINF:-1,2 ASIA
+http://139.99.38.15:443/sd-asianseries_480/index.m3u8
+
+#EXTINF:-1,2 AXN
+http://139.99.38.15:443/hd-axn_720/index.m3u8
+
+#EXTINF:-1,FIGHT SPORT
+http://139.99.38.15:443/hd-fightsports_720/index.m3u8
+
+#EXTINF:-1,FOX SPORT2 
+http://139.99.38.15:443/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1,FOX SPORT3
+http://139.99.38.15:443/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1,TRUE TENNIS
+http://139.99.38.15:443/hd-tennis_720/index.m3u8
+
+#EXTINF:-1,GOLF CHANNEL
+http://139.99.38.15:443/hd-golf_720/index.m3u8
+
+#EXTINF:-1,FOX pac12 ASN
+http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
+
+#EXTINF:-1,FOX SPORTS HD
+http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1,MONTE LUX
+http://178.132.6.97/MonteLuxTV/index.m3u8
+
+#EXTINF:-1,A1 BOSNA
+http://178.132.6.97/A1Bosnia/index.m3u8
+
+#EXTINF:-1,A1 SRBIJA
+http://178.132.6.97/A1Srbija/index.m3u8
+
+#EXTINF:-1,A1 WORLD
+http://178.132.6.97/A1World/index.m3u8
+
+#EXTINF:-1,ANTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/1024.m3u8
+
+#EXTINF:-1,GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+
+#EXTINF:-1,MNCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+
+#EXTINF:-1,TVONE
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+
+#EXTINF:-1,Indosiar
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+
+#EXTINF:-1,Trans TV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+
+#EXTINF:-1,SCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+
+#EXTINF:-1,SCTV
+http://id1.indostreamingtv.com/live/tv2/index.m3u8
+
+#EXTINF:-1,TRANS7
+http://id2.indostreamingtv.com/live/tv7/index.m3u8
+
+#EXTINF:-1,china
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel86/1300.m3u8
+
+#EXTINF:-1,天威影視
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel87/1300.m3u8
+
+#EXTINF:-1,china
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel88/1300.m3u8
+
+#EXTINF:-1,trace_tropical 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/1/prog_index.m3u8
+
+#EXTINF:-1,trace_africa 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+
+#EXTINF:-1,trace_toca 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/1/prog_index.m3u8
+
+#EXTINF:-1,trace_naija 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/1/prog_index.m3u8
+
+#EXTINF:-1,trace_mziki 320
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/1/prog_index.m3u8
+
+#EXTINF:-1,trace_kitoko 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
+
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+
+#EXTINF:-1,HRT 4
+http://195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8
