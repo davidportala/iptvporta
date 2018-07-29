@@ -3270,10 +3270,10 @@ http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u
 http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25
-http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
+http://api.new.livestream.com/accounts/25697071/events/7829275/broadcasts/178244544.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25*
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0009&mode=12
+http://api.new.livestream.com/accounts/25697071/events/7829275/broadcasts/178244544.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telecostaescuintla.com/gallery_gen/87c90468fc51f0112a9e0cf567e32eb5.png" group-title="GUATEMALA",Telecosta
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
