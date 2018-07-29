@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= July.26.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= July.29.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -6453,3 +6453,33 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 
 #EXTINF:-1,HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8
+
+#EXTINF:-1,CINE 1
+http://streaming.i-sat.tv:8081/livestream/osnm/playlist.m3u8
+
+#EXTINF:-1,ART Aflam 1
+http://streaming.i-sat.tv:8081/livestream/arttt1/chunks.m3u8
+
+#EXTINF:-1,ART Aflam 2
+http://streaming.i-sat.tv:8081/livestream/arttt2/chunks.m3u8
+
+#EXTINF:-1,Rotana Aflam
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/playlist.m3u8
+
+#EXTINF:-1,Rotana Khalejeh
+http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/playlist.m3u8
+
+#EXTINF:-1,Rotana Music
+http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
+
+#EXTINF:-1,MTV Lebanon
+http://streaming.i-sat.tv:8081/livestream/mtvv/chunks.m3u8
+
+#EXTINF:-1,LDC Lebanon
+http://streaming.i-sat.tv:8081/livestream/ldcle/chunks.m3u8
+
+#EXTINF:-1,Fox Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1,Sky News
+http://streaming.i-sat.tv:8081/livestream/skynews/playlist.m3u8
