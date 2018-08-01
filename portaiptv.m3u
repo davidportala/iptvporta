@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= July.29.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.1.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -1597,6 +1597,57 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
 http://str81.creacast.com/weo/high/live.m3u8
+
+#EXTINF:-1,ARTE  
+https://s2.tntendirect.com/arte/live/playlist.m3u8
+
+#EXTINF:-1,TF1
+https://s2.tntendirect.com/tf1/live/playlist.m3u8
+
+#EXTINF:-1,M6
+https://s2.tntendirect.com/m6/live/playlist.m3u8
+
+#EXTINF:-1,W9
+https://s2.tntendirect.com/w9/live/playlist.m3u8
+
+#EXTINF:-1,FRANCE 2
+https://s2.tntendirect.com/france2/live/playlist.m3u8
+
+#EXTINF:-1,FRANCE 3
+https://s2.tntendirect.com/france3/live/playlist.m3u8
+
+#EXTINF:-1,FRANCE 4
+https://s2.tntendirect.com/france4/live/playlist.m3u8
+
+#EXTINF:-1,FRANCE 5
+https://s2.tntendirect.com/france5/live/playlist.m3u8
+
+#EXTINF:-1,FRANCE O
+https://s2.tntendirect.com/franceo/live/playlist.m3u8
+
+#EXTINF:-1,NRJ12
+https://s2.tntendirect.com/nrj12/live/playlist.m3u8
+
+#EXTINF:-1,6TER
+https://s2.tntendirect.com/6ter/live/playlist.m3u8
+
+#EXTINF:-1,HD1
+https://s2.tntendirect.com/hd1/live/playlist.m3u8
+
+#EXTINF:-1,NT1
+https://s2.tntendirect.com/nt1/live/playlist.m3u8
+
+#EXTINF:-1,TMC
+https://s2.tntendirect.com/tmc/live/playlist.m3u8
+
+#EXTINF:-1,D8
+https://s2.tntendirect.com/d8/live/playlist.m3u8
+
+#EXTINF:-1,Gulli
+https://s2.tntendirect.com/gulli/live/playlist.m3u8
+
+#EXTINF:-1,NUMERO 23
+https://s2.tntendirect.com/numero23/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/haiti/flag-button-square-250.png" group-title="LABEL",~ Haiti TV ~
 http://www.lengua.com/anthems/Haiti.mp3
@@ -5323,6 +5374,57 @@ http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="IRAN",VoA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+#EXTINF:-1,IRAN A TV
+http://63.237.48.3/ios/IRAN_A_TV/IRAN_A_TV.m3u8
+
+#EXTINF:-1,IRAN ASRE_EMROZZ
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+
+#EXTINF:-1,IRAN ASTV
+http://63.237.48.3/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
+
+#EXTINF:-1,IRAN CHANNEL_ONE
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+
+#EXTINF:-1,IRAN FMTV
+http://63.237.48.3/ios/IRAN_FMTV/IRAN_FMTV.m3u8
+
+#EXTINF:-1,IRAN GEM_KURD
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+
+#EXTINF:-1,IRAN GEM_TRAVEL
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+
+#EXTINF:-1,IRAN IRINN
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+
+#EXTINF:-1,IRAN ITC TV
+http://63.237.48.3/ios/ITC/ITC.m3u8
+
+#EXTINF:-1,IRAN JAME_JAM
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+
+#EXTINF:-1,IRAN Mbc 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,IFILM
+http://63.237.48.3/ios/IFILM/IFILM.m3u8
+
+#EXTINF:-1,TIME
+http://63.237.48.3/ios/TIME_TV/TIME_TV.m3u8
+
+#EXTINF:-1,GEM_TV
+http://63.237.48.3/ios/GEM_TV/GEM_TV.m3u8
+
+#EXTINF:-1,GEM_USA
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
+
+#EXTINF:-1,VOA_PERSIAN
+http://63.237.48.3/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+
+#EXTINF:-1,4U_CARTOON
+http://63.237.48.3/ios/4U_CARTOON/4U_CARTOON.m3u8
 
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
