@@ -3548,6 +3548,27 @@ http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="ROMANIA",UTV (Opt-2)
 rtmp://82.76.40.76:80/utvedge/ playpath=utvlive swfUrl=http://www.utv.ro/player/jwplayer/jwplayer.flash.swf pageUrl=http://www.utv.ro/live/
 
+#EXTINF:-1,Columna TV
+http://77.36.61.147/hls/channel4/adaptive.m3u8
+
+#EXTINF:-1,rtv
+http://77.36.61.147/hls/channel6/adaptive.m3u8
+
+#EXTINF:-1,Traditii TV
+http://77.36.61.147/hls/channel5/adaptive.m3u8
+
+#EXTINF:-1,Bucuresti TV
+http://77.36.61.147/hls/channel3/adaptive.m3u8
+
+#EXTINF:-1,VP
+http://77.36.61.147/hls/channel2/adaptive.m3u8
+
+#EXTINF:-1,Columna TV
+http://77.36.61.147/hls/channel1/adaptive.m3u8
+
+#EXTINF:-1,TVH
+http://77.36.61.147/hls/channel7/adaptive.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
 http://www.lengua.com/anthems/Moldova.mp3
 
