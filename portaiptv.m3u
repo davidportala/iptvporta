@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.1.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.3.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -6283,6 +6283,36 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newscctv.net/data/cctvnewsplatform//images/company/icon_10122_1493349547.jpg" group-title="CHINA",Oriental Finance Pudong
 http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+
+#EXTINF:-1,icn
+http://116.66.222.46:8082/TV4018.m3u8
+
+#EXTINF:-1,icn
+http://116.66.222.46:8082/TV4017.m3u8
+
+#EXTINF:-1,icn
+http://116.66.222.46:8082/TV4007.m3u8
+
+#EXTINF:-1,icn
+http://116.66.222.46:8082/TV4005.m3u8
+
+#EXTINF:-1,icn
+http://116.66.222.46:8082/TV4002.m3u8
+
+#EXTINF:-1,EXTINF:-iCNTV新聞
+http://116.66.222.46:8082/TV4020.m3u8
+
+#EXTINF:-1,EXTINF:-iCNTV音樂
+http://116.66.222.46:8082/TV4012.m3u8
+
+#EXTINF:-1,ICNTV KIDS HD
+http://116.66.222.46:8082/TV4009.m3u8
+
+#EXTINF:-1,13 HD
+http://116.66.222.46:8082/TV4013.m3u8
+
+#EXTINF:-1,19 HD
+http://116.66.222.46:8082/TV4019.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31 (Hong Kong)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
