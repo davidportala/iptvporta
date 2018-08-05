@@ -1649,6 +1649,24 @@ https://s2.tntendirect.com/gulli/live/playlist.m3u8
 #EXTINF:-1,NUMERO 23
 https://s2.tntendirect.com/numero23/live/playlist.m3u8
 
+#EXTINF:-1,trace_tropical 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/1/prog_index.m3u8
+
+#EXTINF:-1,trace_africa 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+
+#EXTINF:-1,trace_toca 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/1/prog_index.m3u8
+
+#EXTINF:-1,trace_naija 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/1/prog_index.m3u8
+
+#EXTINF:-1,trace_mziki 320
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/1/prog_index.m3u8
+
+#EXTINF:-1,trace_kitoko 320
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/haiti/flag-button-square-250.png" group-title="LABEL",~ Haiti TV ~
 http://www.lengua.com/anthems/Haiti.mp3
 
@@ -3728,6 +3746,21 @@ rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rtAznnQ.jpg" group-title="CROATIA",Trend TV
 rtmp://185.62.75.22:1935/trend/myStream
 
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+
+#EXTINF:-1,HRT 4
+http://195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",~ Serbia TV ~
 http://www.lengua.com/anthems/Serbia.mp3
 
@@ -3790,6 +3823,18 @@ http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nett
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/Logos/bih/tv_sarajevo.png" group-title="BOSNIA",TV Sarajevo
 rtmp://91.148.117.134:1935/radios/radiosweb.stream
+
+#EXTINF:-1,MONTE LUX
+http://178.132.6.97/MonteLuxTV/index.m3u8
+
+#EXTINF:-1,A1 BOSNA
+http://178.132.6.97/A1Bosnia/index.m3u8
+
+#EXTINF:-1,A1 SRBIJA
+http://178.132.6.97/A1Srbija/index.m3u8
+
+#EXTINF:-1,A1 WORLD
+http://178.132.6.97/A1World/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-button-square-250.png" group-title="LABEL",~ Macedonia TV ~
 http://www.lengua.com/anthems/Macedonia.mp3
@@ -5501,6 +5546,18 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2saULa.png" group-title="LEBANON",LBCi
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 
+#EXTINF:-1,MTV Lebanon
+http://streaming.i-sat.tv:8081/livestream/mtvv/chunks.m3u8
+
+#EXTINF:-1,LDC Lebanon
+http://streaming.i-sat.tv:8081/livestream/ldcle/chunks.m3u8
+
+#EXTINF:-1,Fox Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1,Sky News
+http://streaming.i-sat.tv:8081/livestream/skynews/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
 http://www.lengua.com/anthems/Syria.mp3
 
@@ -5647,6 +5704,24 @@ http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="SAUDI ARABIA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,CINE 1
+http://streaming.i-sat.tv:8081/livestream/osnm/playlist.m3u8
+
+#EXTINF:-1,ART Aflam 1
+http://streaming.i-sat.tv:8081/livestream/arttt1/chunks.m3u8
+
+#EXTINF:-1,ART Aflam 2
+http://streaming.i-sat.tv:8081/livestream/arttt2/chunks.m3u8
+
+#EXTINF:-1,Rotana Aflam
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/playlist.m3u8
+
+#EXTINF:-1,Rotana Khalejeh
+http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/playlist.m3u8
+
+#EXTINF:-1,Rotana Music
+http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ UAE TV ~
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
@@ -6050,6 +6125,33 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="INDONESIA",TVRI 4
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
+#EXTINF:-1,ANTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/1024.m3u8
+
+#EXTINF:-1,GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+
+#EXTINF:-1,MNCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+
+#EXTINF:-1,TVONE
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+
+#EXTINF:-1,Indosiar
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+
+#EXTINF:-1,Trans TV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+
+#EXTINF:-1,SCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+
+#EXTINF:-1,SCTV
+http://id1.indostreamingtv.com/live/tv2/index.m3u8
+
+#EXTINF:-1,TRANS7
+http://id2.indostreamingtv.com/live/tv7/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
 
@@ -6314,6 +6416,15 @@ http://116.66.222.46:8082/TV4013.m3u8
 #EXTINF:-1,19 HD
 http://116.66.222.46:8082/TV4019.m3u8
 
+#EXTINF:-1,china
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel86/1300.m3u8
+
+#EXTINF:-1,天威影視
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel87/1300.m3u8
+
+#EXTINF:-1,china
+http://guoguang.live.otvcloud.com/otv/xjgg/live/channel88/1300.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31 (Hong Kong)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 
@@ -6358,86 +6469,6 @@ http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
 http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://macnhien.files.wordpress.com/2011/09/vietnam.png" group-title="LABEL",~ Vietnam TV ~
-http://www.lengua.com/anthems/Vietnam.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="VIETNAM",SET TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="LABEL",~ Music Choice ~
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Dance
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Hip Hop/R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Kidz Only
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",R&B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Today's Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
 
 #EXTINF:-1,3 HD
 http://139.99.38.15:443/hd-ch3_1080/index.m3u8
@@ -6526,104 +6557,139 @@ http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
 #EXTINF:-1,FOX SPORTS HD
 http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
 
-#EXTINF:-1,MONTE LUX
-http://178.132.6.97/MonteLuxTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://macnhien.files.wordpress.com/2011/09/vietnam.png" group-title="LABEL",~ Vietnam TV ~
+http://www.lengua.com/anthems/Vietnam.mp3
 
-#EXTINF:-1,A1 BOSNA
-http://178.132.6.97/A1Bosnia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="VIETNAM",SET TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
 
-#EXTINF:-1,A1 SRBIJA
-http://178.132.6.97/A1Srbija/index.m3u8
+#EXTINF:-1,DN RTV1
+rtmp://vtsstr4.sctv.vn:1935/testlive1/DongNai1_SD_3
 
-#EXTINF:-1,A1 WORLD
-http://178.132.6.97/A1World/index.m3u8
+#EXTINF:-1,DN RTV1
+rtmp://vtsstr4.sctv.vn:1935/testlive1/DongNai1_SD_1
 
-#EXTINF:-1,ANTV
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/1024.m3u8
+#EXTINF:-1,DN RTV1
+rtmp://vtsstr4.sctv.vn:1935/testlive1/DongNai1_SD_2
 
-#EXTINF:-1,GLOBALTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1,sctv10
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
 
-#EXTINF:-1,MNCTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1,vtc5
+rtmp://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD_3
 
-#EXTINF:-1,TVONE
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1,VTC5
+rtmp://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD_4
 
-#EXTINF:-1,Indosiar
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+#EXTINF:-1,SCTV1 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
 
-#EXTINF:-1,Trans TV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1,SCTV5-SCJ
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv5_SD_4
 
-#EXTINF:-1,SCTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1,SCTV7-SHOW
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau.smil/playlist.m3u8
 
-#EXTINF:-1,SCTV
-http://id1.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1,SCTV8-VITV
+http://vtsstr4.sctv.vn:1935/testlive/SCTV8_SD.smil/chunklist.m3u8
 
-#EXTINF:-1,TRANS7
-http://id2.indostreamingtv.com/live/tv7/index.m3u8
+#EXTINF:-1,SCTV9 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimChauA.smil/playlist.m3u8
 
-#EXTINF:-1,china
-http://guoguang.live.otvcloud.com/otv/xjgg/live/channel86/1300.m3u8
+#EXTINF:-1,SCTV10-AZ SHOP
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_4
 
-#EXTINF:-1,天威影視
-http://guoguang.live.otvcloud.com/otv/xjgg/live/channel87/1300.m3u8
+#EXTINF:-1,SCTV12 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD.smil/playlist.m3u8
 
-#EXTINF:-1,china
-http://guoguang.live.otvcloud.com/otv/xjgg/live/channel88/1300.m3u8
+#EXTINF:-1,SCTV14 HD-PHIMVIET
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimViet.smil/playlist.m3u8
 
-#EXTINF:-1,trace_tropical 320
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/1/prog_index.m3u8
+#EXTINF:-1,SCTV15-SSPORT2
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao.smil/playlist.m3u8
 
-#EXTINF:-1,trace_africa 320
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+#EXTINF:-1,SCTV17-SSPORT
+http://vtsstr4.sctv.vn:1935/testlive/SCTV17_HD.smil/playlist.m3u8
 
-#EXTINF:-1,trace_toca 320
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/1/prog_index.m3u8
+#EXTINF:-1,SCTV19-CHANNEL T
+http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD.smil/playlist.m3u8
 
-#EXTINF:-1,trace_naija 320
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/1/prog_index.m3u8
+#EXTINF:-1,BTV5-SSPORT3
+http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD.smil/chunklist_b2692000.m3u8
 
-#EXTINF:-1,trace_mziki 320
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="LABEL",~ Music Choice ~
 
-#EXTINF:-1,trace_kitoko 320
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
-
-#EXTINF:-1,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1,HRT 1
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-
-#EXTINF:-1,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1,HRT 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-
-#EXTINF:-1,HRT 4
-http://195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8
-
-#EXTINF:-1,CINE 1
-http://streaming.i-sat.tv:8081/livestream/osnm/playlist.m3u8
-
-#EXTINF:-1,ART Aflam 1
-http://streaming.i-sat.tv:8081/livestream/arttt1/chunks.m3u8
-
-#EXTINF:-1,ART Aflam 2
-http://streaming.i-sat.tv:8081/livestream/arttt2/chunks.m3u8
-
-#EXTINF:-1,Rotana Aflam
-http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/playlist.m3u8
-
-#EXTINF:-1,Rotana Khalejeh
-http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/playlist.m3u8
-
-#EXTINF:-1,Rotana Music
-http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Hip Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Kidz Only
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
 
 #EXTINF:-1,MTV Lebanon
 http://streaming.i-sat.tv:8081/livestream/mtvv/chunks.m3u8
