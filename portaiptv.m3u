@@ -1259,6 +1259,9 @@ http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14637428725379.png" group-title="AUSTRIA",W24
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="AUSTRIA",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
 #EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg TV ~
 http://www.lengua.com/anthems/Luxembourg.mp3
 
@@ -2363,6 +2366,9 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="SPAIN",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
 http://50.7.56.2:8016
 
@@ -2717,6 +2723,9 @@ http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xr4EiV2.png" group-title="MEXICO",Canal del Congreso
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
 
+#EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO",Canal Iberoamericano
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PV6BVbi.png" group-title="MEXICO",Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
@@ -2843,8 +2852,8 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png" group-title="ARGENTINA",Aire de Santa Fe
 http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America
-http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America (New!)
+http://level3itvo.cdnar.net/itvmedia/16/1/channel_000.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Canal 3 Pinamar
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -2891,11 +2900,17 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/03/58de3e4a33307__838x390.jpg" group-title="ARGENTINA",Chacra TV
 http://server5.stweb.tv/chacra/ngrp:live_all/chunklist_w119888637_b346000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="ARGENTINA",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nR6Fcm2.png" group-title="ARGENTINA",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el1webtv.com.ar/wp-content/uploads/2016/08/logo.png" group-title="ARGENTINA",El 1 Web TV La Matanza
 http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",El Nueve
+http://level3itvo.cdnar.net/itvmedia/17/1/channel_000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el10tv.com/images/logo_footer.png" group-title="ARGENTINA",El 10 Salta
 http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
@@ -2932,6 +2947,9 @@ http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9CR5FLb.png" group-title="ARGENTINA",TDC Online Firmat
 http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/--G_fUXJrItc/Vc14oBwScnI/AAAAAAAACA4/lykWanz3M_g/s1600/TEC%2BTV%2Ben%2Bvivo%2Bonline.png" group-title="ARGENTINA",TECtv
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2cprJRx.png" group-title="ARGENTINA",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -3041,6 +3059,9 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png"" group-title="CHILE",VTV
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/1885a3cabce72bd2c4be9c340a3eb792o.png" group-title="CHILE",Televida Chillan
+http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador TV ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
@@ -3093,7 +3114,7 @@ https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
-http://tvpremiumhd.club/lista-gratuita/195925/tv/live.php?id=66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830175884283875328/oudc8eAY.jpg" group-title="COLOMBIA",Teleenvigado
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
@@ -4318,6 +4339,18 @@ http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png" group-title="RUSSIA",Zvezda
 http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
+
+#EXTINF:-1,sporthit
+http://moscow-commpass.cdnvideo.ru:80/sporthit/hls-00/index.m3u8
+
+#EXTINF:-1,futbol2
+http://moscow-commpass.cdnvideo.ru:80/futbol2/hls-00/index.m3u8
+
+#EXTINF:-1,futbol1
+http://moscow-commpass.cdnvideo.ru:80/futbol1/hls-00/index.m3u8
+
+#EXTINF:-1,Матч Премьер HD
+http://moscow-commpass.cdnvideo.ru/nashfutbolhd/hls-00/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Belarus-01.png" group-title="LABEL",~ Belarus TV ~
 http://www.lengua.com/anthems/Belarus.mp3
