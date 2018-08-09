@@ -1214,6 +1214,36 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="GERMANY",QVC
 http://ios-stream.qvc.de/qvc.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="GERMANY",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png" group-title="GERMANY",h1
+http://livestream.htp.tv/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" group-title="GERMANY",kulturmdTV
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="GERMANY",MyTVplus
+rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ok54.de/wp-content/uploads/2012/01/ok54.png" group-title="GERMANY",OK54
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png" group-title="GERMANY",SWR 3
+http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.goldbachgermany.de/uploads/Sylt1-Logo-1024x449.png" group-title="GERMANY",SYLT1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tidenet.de/img/navi_tv_logo.png" group-title="GERMANY",Tide TV
+http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.firstonetv.net/images/logos/de/TV38.png" group-title="GERMANY",TV38
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TV_Mittelrhein_Logo.svg/2000px-TV_Mittelrhein_Logo.svg.png" group-title="GERMANY",TV Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.geriderklostertaler.eu/images/landimage/A.png" group-title="LABEL",~ Austria TV ~
 http://www.lengua.com/anthems/Austria.mp3
 
@@ -1726,6 +1756,15 @@ http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/TeleZuri.PNG" group-title="SWITZERLAND",TeleZuri
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.firstonetv.net/images/logos/ch/KANAL9.png" group-title="SWITZERLAND",Kanal9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/LFMTV.png" group-title="SWITZERLAND",LFM TV
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="SWITZERLAND",TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",~ Italy TV ~
 http://www.lengua.com/anthems/Italy.mp3
