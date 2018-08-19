@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.14.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.19.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -6959,6 +6959,9 @@ http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD.smil/playlist.m3u8
 #EXTINF:-1,BTV5-SSPORT3
 http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD.smil/chunklist_b2692000.m3u8
 
+#EXTINF:-Jaal TV
+http://209.58.160.112/jaaltvhls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="LABEL",~ Music Choice ~
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",90s
@@ -7032,15 +7035,3 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playl
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-
-#EXTINF:-1,MTV Lebanon
-http://streaming.i-sat.tv:8081/livestream/mtvv/chunks.m3u8
-
-#EXTINF:-1,LDC Lebanon
-http://streaming.i-sat.tv:8081/livestream/ldcle/chunks.m3u8
-
-#EXTINF:-1,Fox Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF:-1,Sky News
-http://streaming.i-sat.tv:8081/livestream/skynews/playlist.m3u8
