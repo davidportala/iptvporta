@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.19.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.21.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -6118,6 +6118,9 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
 http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8
+
+#EXTINF:-1 Bein Sports 1
+http://streaming.i-sat.tv:8081/livestream/sport1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",~ Kuwait TV ~
 http://www.lengua.com/anthems/Kuwait.mp3
