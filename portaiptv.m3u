@@ -4580,11 +4580,32 @@ http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/97/PNG/256/ukraine_flags_flag_17076.png" group-title="LABEL",~ Ukraine TV ~
 http://www.lengua.com/anthems/Ukraine.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/1200px-Logo_5_Channel.svg.png" group-title="UKRAINE",5 Kanal
+#EXTINF:-1 tvg-logo="https://www.politnavigator.net/wp-content/uploads/2017/01/1PLUS1-TV.png" group-title="UKRAINE",1+1
+http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/2%2B2logo.png" group-title="UKRAINE",2+2
+http://85.132.71.6/ua/2+2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://4news.com.ua/images/logo.png" group-title="UKRAINE",4 Kanal
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/1200px-Logo_5_Channel.svg.png" group-title="UKRAINE",5 Kanal (Opt-1)
 http://94.158.80.101:8080/5channel/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" group-title="UKRAINE",24 Krim (Crimea)
-http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/1200px-Logo_5_Channel.svg.png" group-title="UKRAINE",5 Kanal (Opt-2)
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.at.ua/1logo/1/7_kanal-odessa.png" group-title="UKRAINE",7 Kanal
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2015-10/1443772295_21-uzhgorod.gif" group-title="UKRAINE",21 Uzhgorod
+http://s9.crafit.com:8087/live/qa6pk3/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/33-kanal-hmeln.jpg" group-title="UKRAINE",33 Kanal
+http://77.120.29.10/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/34_channel_logo.svg/440px-34_channel_logo.svg.png" group-title="UKRAINE",34 Kanal
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&app=playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xmtvplayer.com/chan-imgs/100_percent_news.png" group-title="UKRAINE",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
@@ -4595,11 +4616,80 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="UKRAINE",112 Ukraine (Opt-2)
 http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="UKRAINE",112 Ukraine HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="UKRAINE",112 Ukraine (Opt-3)
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.start.crimea.ua/news/images/201410081430410.atr_n_b.jpg" group-title="UKRAINE",ATR (Crimea)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="UKRAINE",112 Ukraine (Opt-4)
+http://85.132.71.6/ua/112/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://odessamedia.net/upload/ckedit/2015-07-28/A1_logo_new.jpg" group-title="UKRAINE",A1 Odessa
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ak.od.ua/wp-content/uploads/2017/02/ACADEMY-LOGORUR.png" group-title="UKRAINE",Academy
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://detector.media/doc/images/news/archive/2016/114248/ArticleImage_114248.jpg" group-title="UKRAINE",Antenna Online
+http://streamer.antenna.com.ua/hls/antenna.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.1550.com.ua/uploads/ent_company/114034_arxatlogo.png" group-title="UKRAINE",Arhat TV
+http://arhat.tv/public/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.start.crimea.ua/news/images/201410081430410.atr_n_b.jpg" group-title="UKRAINE",ATR
 http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ua/BAMBARBIA.png" group-title="UKRAINE",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bdmsummit.com/wp-content/uploads/2016/03/brain-tv-1.png" group-title="UKRAINE",Brain TV
+http://jabber.divan.tv:8002/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9IdWf.png" group-title="UKRAINE",BRT
+http://194.11.28.3:7070/udp/239.255.1.1:1234?box_mac=c802104fe8fc
+ 
+#EXTINF:-1 tvg-logo="https://bukovyna.tv/wp-content/uploads/2016/12/logotyp-e1495104255467.png" group-title="UKRAINE",Bukovina
+rtmp://gigaz.wi.com.ua/hallDemoHLS/BUKOVINA
+
+#EXTINF:-1 tvg-logo="http://ukrtvr.org/images/Chernivzi/chrnpr.jpg" group-title="UKRAINE",Chernіveckij Promіn
+http://langate.tv/promin/live_720/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgGw0QK.png" group-title="UKRAINE",Chernіvtsі
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://madmax.ws/uploads/posts/2016-05/1463435276_42520293.png" group-title="UKRAINE",ChP.Info
+http://109.68.40.67/life/magnolia.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png" group-title="UKRAINE",Domashny
+http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8?codec=mpeg4&app=playlist
+ 
+#EXTINF:-1 tvg-logo="https://kor.ill.in.ua/m/400x253/104427.jpg" group-title="UKRAINE",Donbas TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8?codec=mpeg4&app=playlist
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHqUHfw.png" group-title="UKRAINE",Donechchina TV
+http://stream.dn.ua/hls/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://dumskaya.net/i3/logotv.png" group-title="UKRAINE",Dumskaya-TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://evpatoria.tv/assets/img/logo-circles.png" group-title="UKRAINE",Evpatoria TV
+http://evpatoriatv.cdnvideo.ru/li/pl.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlVNwEj.png" group-title="UKRAINE",Exclusive TV
+http://excl.com.ua/hls/ex.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://rusvesna.su/sites/default/files/styles/orign_wm/public/1_respublikanskiy_tv.png" group-title="UKRAINE",First Republic
+http://185.114.136.25/first_republic_st/first_republic_st.mpd
+ 
+#EXTINF:-1 tvg-logo="http://galtv.if.ua/assets/images/logo.png" group-title="UKRAINE",Galichina
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-logo="http://odessamedia.net/upload/ckedit/2015-07-28/GTV_.jpg" group-title="UKRAINE",GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png" group-title="UKRAINE",Herson
+http://46.175.163.130/ks_plus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/ua/HDFL.png" group-title="UKRAINE",HD Fashion and Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qwwhqh9.jpg" group-title="UKRAINE",Hromadske TV
 http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
@@ -4607,47 +4697,251 @@ http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://detector.media/doc/images/news/archive/2016/122748/ArticleImage_122748.jpg" group-title="UKRAINE",ICTV
 http://live.ictv.ua/hls/ICTV.m3u8
 
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/iks-tv.png" group-title="UKRAINE",IKS Sevastopol
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://inter.ua/uploads/news_oneday/2013/02/21/4b31651e07e70da9597c51e052a6457ad26f4083.jpg" group-title="UKRAINE",Inter
+http://85.132.71.6/ua/enter/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zAC1cK.png" group-title="UKRAINE",ITV
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zyiROw1.png" group-title="UKRAINE",JaTB
+https://webcams.ks.ua/tvhls/stream2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://allkharkov.ua/img_33730.jpg" group-title="UKRAINE",Kharkov TV
+http://stream.otb.com.ua/hls/otb1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://ye.ua/images/news/_U_Hmelnickomu_obrali_brend_mista_1_2018_02_23_12_49_15.png" group-title="UKRAINE",Khmelnytskyi
+rtmp://gigaz.wi.com.ua/hallDemoHLS/PODILLYTV
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844175084210343936/VgesfQnT_400x400.jpg" group-title="UKRAINE",Kiev TV
 http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Первый_Крымский.jpg" group-title="UKRAINE",Krym 1 (Crimea)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5FXGPX.jpg" group-title="UKRAINE",Kilia Kontakt
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.vefire.ru/l/ru/KRATUTV.gif" group-title="UKRAINE",Kratu TV
+http://212.113.32.169:8080/Apple/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453827617_www.satsis.info__krt.jpg" group-title="UKRAINE",KRT
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Первый_Крымский.jpg" group-title="UKRAINE",Krym 1
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" group-title="UKRAINE",Krym 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://odessamedia.net/upload/ckedit/2015-07-28/KTK.jpg" group-title="UKRAINE",KTK Odessa
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tariffa.com.ua/img/ktm-logo.jpg" group-title="UKRAINE",КТМ Oleksandriia
+http://109.196.177.12:55555
+ 
+#EXTINF:-1 tvg-logo="http://telesputnik.ru/upload/iblock/3b3/na_telekanale_kultura_proshli_massovye_sokrashcheniya.png" group-title="UKRAINE",Kultura
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.artlebedev.com/lale/lale-logo.gif" group-title="UKRAINE",Lale
 http://stream.atr.ua/lale//live/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cs5-2.4pda.to/8450543.png" group-title="UKRAINE",Lanet TV Brain
+http://play.lanet.tv/live/2007.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cs5-2.4pda.to/8450543.png" group-title="UKRAINE",Lanet TV Live
+http://play.lanet.tv/live/2008.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cs5-2.4pda.to/8450543.png" group-title="UKRAINE",Lanet TV Trailer
+http://play.lanet.tv/live/2001.m3u8
+
+#EXTINF:-1 tvg-logo="http://lime-tv.ru/uploads/posts/2018-03/1522084208_lybimoetv.png" group-title="UKRAINE",Ljubimoe TV
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOPMied.png group-title="UKRAINE",Lugansk 24
+http://91.103.120.140:10000/live.webm
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m2.tv/images/logo.png" group-title="UKRAINE",M2
 http://live.m2.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://hd-li.ga/images/malyatko.png" group-title="UKRAINE",Maljatko
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+ 
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/mariupolskoe-tv.jpg" group-title="UKRAINE",Mariupol TV
+rtmp://31.202.208.204/live/livestream1
+ 
+#EXTINF:-1 tvg-logo="http://cdn01.ru/files/users/images/49/d6/49d672de627a4d9d3f29d337ba277df6.png" group-title="UKRAINE",Маxxi TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
+ 
+#EXTINF:-1 tvg-logo="http://trkmillet.ru/assets/images/logo_soc.png" group-title="UKRAINE",Millet
+http://serv25.vintera.tv:8081/millet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abload.de/img/musicv0pjo.png" group-title="UKRAINE",Music Box
 rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nts.crimea.marketing/files/img/nts.PNG" group-title="UKRAINE",NTS (Crimea)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/od7TH7G.jpg" group-title="UKRAINE",Novorossia TV
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+ 
+#EXTINF:-1 tvg-logo="http://www.nta.ua/wp-content/uploads/2017/04/nta_logo_cut-300x102.png" group-title="UKRAINE",NTA
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJxIRwX.png" group-title="UKRAINE",NTK
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nts.crimea.marketing/files/img/nts.PNG" group-title="UKRAINE",NTS
 http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.li/7heKM/f82dde3902d4102657181e1b7c79c6d72ee27f10.jpg" group-title="UKRAINE",NewsOne TV
 http://77.120.104.64/hls/newsone-hd/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nnm-list.ru/images/channels/rada.png" group-title="UKRAINE",Rada TV
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/e5301c0c/6c5c8b91_med.png" group-title="UKRAINE",O TV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://east-expo.com.ua/images/logo/rti_logo_transparent_233x105.png" group-title="UKRAINE",RTI
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1 tvg-logo="https://my.volia.com/uploaded/images/2017_48/oboz_tv.png" group-title="UKRAINE",Oboz TV
+https://player.obozrevatel.com/live/1080_livestream2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2jLl6rP9uB0/UWCjNwyiHqI/AAAAAAAABXA/giDBQTC3Gvw/s1600/ont3+copy.jpg" group-title="UKRAINE",ONT
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://365tv.online/wp-content/uploads/2018/05/kanal-oplot-tv.png" group-title="UKRAINE",Oplot TV
+http://dprtv.phoenix-dnr.ru/oplot-tv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.112.international/original/2017/02/05/260806.jpg" group-title="UKRAINE",UA-TV
-http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/2%2B2logo.png" group-title="UKRAINE",2+2
-http://85.132.71.6/ua/2+2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://inter.ua/uploads/news_oneday/2013/02/21/4b31651e07e70da9597c51e052a6457ad26f4083.jpg" group-title="UKRAINE",Inter
-http://85.132.71.6/ua/enter/index.m3u8
+#EXTINF:-1 tvg-logo="https://mediacast.tv/wp-content/uploads/2018/03/pershui-dilovyi.png" group-title="UKRAINE",Pershij Dilovij (Opt-1)
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mediacast.tv/wp-content/uploads/2018/03/pershui-dilovyi.png" group-title="UKRAINE",Pershij Dilovij (Opt-2)
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1zahid.com/img/logo.png" group-title="UKRAINE",Pershij Zahіdnij
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://shokernadom.ru/wp-content/img/perviy-gorodskoy-kirov-efiri.png" group-title="UKRAINE",Pervyj Gorodskoj
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.otzovik.com/objects/b/160000/155153.png" group-title="UKRAINE",Piksel
 http://85.132.71.6/ua/piksel/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://irt.pl.ua/img/irt-poltava-logo.png" group-title="UKRAINE",Poltava
+http://ltava.poltava.ua:8000/hls/tvltava.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2016/12/pravdatutlogo.png" group-title="UKRAINE",Pravda TUT
+http://94.158.80.101:8080/pravdatyt/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2016/12/pravdatutlogo.png" group-title="UKRAINE",Pravda TUT Kiev
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2016/12/pravdatutlogo.png" group-title="UKRAINE",Pravda TUT Lviv
+http://95.67.57.10/hls/pravdatytlviv_ua_hi/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ukrtvr.org/images/Symu/23.png" group-title="UKRAINE",Pulsar
+rtmp://78.154.164.191:19350/Pulsar/forever
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nnm-list.ru/images/channels/rada.png" group-title="UKRAINE",Rada TV
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ini.net.ua/wp-content/uploads/rai.png" group-title="UKRAINE",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-BXqnkrGy7QU/VCSquHgODJI/AAAAAAAAG0Y/g5apuIcKbOY/s1600/RenoMe!.jpg" group-title="UKRAINE",Renome
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://etnarovych.od.ua/upload/photos/reporter-lg.png" group-title="UKRAINE",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://east-expo.com.ua/images/logo/rti_logo_transparent_233x105.png" group-title="UKRAINE",RTI
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7Nx9u2.jpg" group-title="UKRAINE",Rudana
+http://134.249.128.243/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://dozor.kharkov.ua/content/documents/11327/1132686/thumb-big-420x305-e6be.jpg" group-title="UKRAINE",Simon
+rtmp://rtmp.abcdn.ua/simon//live
+
+#EXTINF:-1 tvg-logo="http://kanalsirius.tv/wp-content/uploads/2017/11/Logo_02_01.png" group-title="UKRAINE",Sirius
+http://live-cdn.lanet.tv/tv/1019.m3u8
+
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510691037_sk1-zhitomir.png" group-title="UKRAINE",SК1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divan.tv/img/global_img/channel_website/ua_1182.png" group-title="UKRAINE",Skrypin
+http://kiev1-cdn.lanet.tv/live/1008.m3u8
+
 #EXTINF:-1 tvg-logo="https://ki.ill.in.ua/m/670x450/24250923.jpg" group-title="UKRAINE",STB
 http://85.132.71.6/ua/stb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22ygbZg.jpg" group-title="UKRAINE",STB Odessa
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bSFbqMf.jpg" group-title="UKRAINE",Svarozhichi
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0fYFfw.jpg" group-title="UKRAINE",TIS Odessa
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/ua/TISA1.png" group-title="UKRAINE",Tisa 1
+rtmp://213.174.8.15/live/live1
+ 
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510690232_tretiy-cifrovoy-odessa.png" group-title="UKRAINE",Tretiy Cifrovoy
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://slotos.eu/upload/channels/2/282.png" group-title="UKRAINE",TRK 555
+http://trk555.tv:8888/live
+
+#EXTINF:-1 tvg-logo="http://dumskaya.net/pics/atagpic246.jpg" group-title="UKRAINE",TRK Krug Odessa
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.otzovik.com/objects/b/760000/757585.png" group-title="UKRAINE",Trofej
+http://str.trofey.net:1935/live/2_max.smil/chunklist_b4000000.m3u8?id=2&session=1
+
+#EXTINF:-1 tvg-logo="https://tv5.zp.ua/wp-content/uploads/2017/04/TV5_logo_UA-01.png" group-title="UKRAINE",TV 5
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.brd24.com/up/iblock/04f/news1060.jpg" group-title="UKRAINE",TV Berdjansk
+http://193.16.101.27:8080/hls/tvbrd/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvdom.ua/media/img/bg/logo_bw.png" group-title="UKRAINE",TV Dom
+http://78.26.128.21:1234
+ 
+#EXTINF:-1 tvg-logo="http://mediafm.tv/wp-content/uploads/2014/03/logo2x.png" group-title="UKRAINE",TV FM
+http://193.238.110.158:8080/hq.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVmrVQg.png" group-title="UKRAINE",TVA
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTGBI0Y.png" group-title="UKRAINE",TV7+
+http://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alfaplus.com.ua/image/TV/tviy+.png" group-title="UKRAINE",Tvіj Plus
+http://62.64.92.118:8080/Apple/1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://stv.detector.media/content/news/003000-004000/donbas_3690.jpg" group-title="UKRAINE",UA: Donbas
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.112.international/original/2017/02/05/260806.jpg" group-title="UKRAINE",UA-TV (Opt-1)
+http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.112.international/original/2017/02/05/260806.jpg" group-title="UKRAINE",UA-TV (Opt-2)
+https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vsednr.ru/wp-content/uploads/2018/07/union.png" group-title="UKRAINE",Union
+http://dprtv.phoenix-dnr.ru/union
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iCj3rxy.jpg" group-title="UKRAINE",Vozrozhdenie
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv-com.org/wp-content/uploads/2015/09/xsport.png" group-title="UKRAINE",XSPORT
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510689068_yuzhnaya-volna-hd.png" group-title="UKRAINE",Yuzhnaja Volna
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://smartkids.zp.ua/wp-content/uploads/2017/10/MTM.png" group-title="UKRAINE",Z TV
+rtmp://91.214.29.99/live/livestream
+
+#EXTINF:-1 tvg-logo="https://nacasting.com.ua/media/reviews/photos/original/82/48/65/i75-ArticleImage-120276-51-1520070004.jpg" group-title="UKRAINE",Zdorove Odessa
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510609557_zhitomir-tv.png" group-title="UKRAINE",Zhytomyr
+http://cdn10.live-tv.od.ua:8081/odtrkzt/odtrkzt-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Kazakhstan-icon.png" group-title="LABEL",~ Kazakhstan TV ~
 http://www.lengua.com/anthems/Kazakhstan.mp3
