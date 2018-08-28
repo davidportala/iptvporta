@@ -1,4 +1,4 @@
-#EXTM3U
+9#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.27.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.28.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -4076,14 +4076,29 @@ rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",~ Bulgaria TV ~
 http://www.lengua.com/anthems/Bulgaria.mp3
 
+#EXTINF: -1.1 Mystic
+http://85.25.213.143:8445/mnogotv/mistika/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="BULGARIA",100% Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
+#EXTINF: -1, Cognitive TV
+http://85.25.213.143:8445/mnogotv/poznanie/index.m3u8
+
+#EXTINF: -1, Fantasy
+http://85.25.213.143:8445/mnogotv/Fantasy/index.m3u8
+
+#EXTINF: -1, Family
+http://85.25.213.143:8445/mnogotv/SemeinoeSD/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2788.jpeg" group-title="BULGARIA",Heavy Metal Television
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+
+#EXTINF: -1, Kids TV
+http://85.25.213.143:8445/mnogotv/KidsTV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" group-title="BULGARIA",MM TV
 http://live-24.viewer.dacast.com/i/dclive_1@407356/master.m3u8
@@ -4094,11 +4109,17 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/23mwoyd.jpg" group-title="BULGARIA",Roma TV
 http://185.46.161.3/hls/sd.m3u8
 
+#EXTINF: -1, Star Media
+http://85.25.213.143:8445/mnogotv/SMedia/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vhxMefIdkA4/AAAAAAAAAAI/AAAAAAAAAAA/10vB6Rm4S20/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BULGARIA",Tatai Televizio
 http://91.82.85.41:1935/liverelay/tataitv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.traveltv.bg/wp-content/uploads/sites/2/2014/12/TRAVEL_CURVES_SHADOW-728x288.png" group-title="BULGARIA",Travel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF: -1, TV Music
+http://85.25.213.143:8445/mnogotv/TVMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.byalareka.com/ikoni/kanal/bg-stoychevtv.png" group-title="BULGARIA",TV Stoichev
 http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
@@ -7836,46 +7857,4 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playl
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",R&B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Today's Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE",Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&M
