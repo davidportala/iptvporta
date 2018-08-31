@@ -1,4 +1,4 @@
-9#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.28.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= August.31.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -2820,10 +2820,10 @@ http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?fluxustv.m3u8
 http://50.7.56.2:8016
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png" group-title="LATINO",A&E
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/257.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="LATINO",Animal Planet
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/253.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xE51fHv.png" group-title="LATINO",America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
@@ -2832,10 +2832,13 @@ http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="LATINO",AXN
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/399.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LATINO",Boomerang
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/826.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png" group-title="LATINO",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -2846,11 +2849,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="LATINO",Cinelatino
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(03)/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",Cinemax (Opt-1)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",Cinemax (Opt-2)
-http://mirandatv.tk/hpI1lasigms/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",Cinemax
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1384.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11737_7_225568.png" group-title="LATINO",Cinema Dinamita
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(03)/index.m3u8
@@ -2873,12 +2873,18 @@ http://mirandatv.tk/hpI1lasigms/depelicula.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
+#EXTINF:-1,Discovery Channel
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/824.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-G3JxPMhAjN4/WVr-tXqHkSI/AAAAAAAABUU/LUeSpwsY7mQ4WjJ8DSKc-8SK9rIHg9OWgCLcBGAs/s1600/logo_discovery%2Bcivilization.png" group-title="LATINO",Discovery Civilization
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/3135.m3u8
  
 #EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="LATINO",Discovery Home & Health
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(05)/index.m3u8
- 
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/2353.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/822.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="LATINO",Discovery Science
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(03)/index.m3u8
  
@@ -2886,13 +2892,13 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="LATINO",Discovery Turbo
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1387.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LATINO",Disney Junior
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="LATINO",Disney XD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/818.m3u8
 
 #EXTINF:-1,DW Entretenimiento
 http://tvpremiumhd.club/lista-gratuita/214529/dwentretenimiento.m3u8
@@ -2904,13 +2910,13 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8
 http://gameriptv.com:80/chan/sd54fs21ds654/elgourmet.php?.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2000px-ESPN_wordmark.svg.png" group-title="LATINO",ESPN
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/6810.ts
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/276.m3u8
  
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="LATINO",ESPN 2
 http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/6809.ts
  
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LATINO",ESPN 3
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/6861.ts
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1692.m3u8
 
 #EXTINF:-1,Europa Europa
 http://tvpremiumhd.club/lista-gratuita/214529/europac4.m3u8
@@ -2919,28 +2925,16 @@ http://tvpremiumhd.club/lista-gratuita/214529/europac4.m3u8
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="LATINO",Fox
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/262.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" group-title="LATINO",Fox Life
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE_HD)/Stream(05)/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360003766972/FOX_Premium_Action.png" group-title="LATINO",Fox Premium Action (Opt-1)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_ACTION)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360003766972/FOX_Premium_Action.png" group-title="LATINO",Fox Premium Action
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/610.m3u8
  
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360003766972/FOX_Premium_Action.png" group-title="LATINO",Fox Premium Action (Opt-2)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360003766972/FOX_Premium_Action.png" group-title="LATINO",Fox Premium Action (Opt-3)
-http://gameriptv.com:80/chan/sd54fs21ds654/foxaction.php?.m3u8
-
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360003766972/FOX_Premium_Action.png" group-title="LATINO",Fox Premium Action MX
-http://gameriptv.com:80/chan/sd54fs21ds654/foxactionmx.php?.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema (Opt-1)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema (Opt-2)
-http://gameriptv.com:80/chan/sd54fs21ds654/foxcinema.php?.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/609.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Classics-Logo-300x98.png" group-title="LATINO",Fox Premium Classics (Opt-1)
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8
@@ -2954,11 +2948,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(03)
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="LATINO",Fox Premium Comedy (Opt-2)
 http://gameriptv.com:80/chan/sd54fs21ds654/foxcomedy.php?.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="LATINO",Fox Premium Family (Opt-1)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="LATINO",Fox Premium Family (Opt-2)
-http://gameriptv.com:80/chan/sd54fs21ds654/hbofam.php?.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="LATINO",Fox Premium Family
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/606.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies (Opt-1)
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/index.m3u8
@@ -2974,6 +2965,9 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png" group-title="LATINO",Gol TV
 http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/9696.ts
+
+#EXTINF:-1,Golden
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1720.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a2417c8b455b_GoldenPlus(Negro).png.9534b5113b089f65d6e76b2dd7645820.png" group-title="LATINO",Golden Plus
 http://mirandatv.tk/hpI1lasigms/golden.m3u8
@@ -2985,25 +2979,19 @@ http://mirandatv.tk/hpI1lasigms/goldenprem.m3u8
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.newmediafilmfestival.com/img/hbo.png" group-title="LATINO",HBO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1594.m3u8
+
+#EXTINF:-1,HBO2
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/2804.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png" group-title="LATINO",HBO Family
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/598.m3u8
  
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus (Opt-1)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/593.m3u8
  
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus (Opt-2)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus (Opt-3)
-http://gameriptv.com:80/chan/sd54fs21ds654/hboplus.php?.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/02/HBO_Signature_Latin_Atlansia.png" group-title="LATINO",HBO Signature (Opt-1)
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/02/HBO_Signature_Latin_Atlansia.png" group-title="LATINO",HBO Signature (Opt-1)
-http://gameriptv.com:80/chan/sd54fs21ds654/hbosign.php?.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/02/HBO_Signature_Latin_Atlansia.png" group-title="LATINO",HBO Signature
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/592.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
 http://107.189.40.49:1935/live/hispantv/playlist.m3u8
@@ -3072,13 +3060,13 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(03)/
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="LATINO",Sony Channel
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/269.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/tntla/images/portal/fixed/combate/img/logo.png" group-title="LATINO",Space
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/265.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/220px-Logo_Studio_Universal.svg.png" group-title="LATINO",Studio Universal
-http://mirandatv.tk/hpI1lasigms/studiouniv.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/267.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2014/01/sundancetv_logo_a_l.jpg" group-title="LATINO",Sundance TV
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/Stream(03)/index.m3u8
@@ -3090,7 +3078,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TBS)/Stream(01)/index.m3u
 http://mirandatv.tk/hpI1lasigms/tbs.m3u8
  
 #EXTINF:-1 tvg-logo="http://endorfinacultural.com/wp-content/uploads/2016/02/WCZqKIB.png" group-title="LATINO",TCM
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1719.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png" group-title="LATINO",Telemundo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
@@ -3108,17 +3096,16 @@ http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.3-mob.com/wp-content/uploads/2015/08/TLC_presenter.jpg" group-title="LATINO",TLC
-http://tvpremiumhd.club/lista-gratuita/214529/tv/s/TLC_HD/03.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/814.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tlnovelas_logo.svg/1200px-Tlnovelas_logo.svg.png" group-title="LATINO",TLNovelas
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1713.m3u8
 
- 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png" group-title="LATINO",TNT
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1705.m3u8
  
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2999.png" group-title="LATINO",TNT Series
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/813.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="LATINO",Tooncast
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(03)/index.m3u8
@@ -3214,10 +3201,10 @@ http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/ejWiB9Z.png" group-title="MEXICO",Fox Sports
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/6804.ts
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1709.m3u8
  
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/ejWiB9Z.png" group-title="MEXICO",Fox Sports 2
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/9738.ts
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/694.m3u8
  
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/ejWiB9Z.png" group-title="MEXICO",Fox Sports 3
 http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/6854.ts
@@ -3558,6 +3545,9 @@ http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1499498801_b
 #EXTINF:-1 tvg-logo="http://www.cachipum.tv/img/logo.png" group-title="CHILE",Cachipum.tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
+#EXTINF:-1,Canal 13
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/446.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="CHILE",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
@@ -3594,8 +3584,11 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8U5Ww24.png" group-title="CHILE",Gufo Indie
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega [Geo]
-http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1,La Red
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/1074.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/596.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NnfRtiG.png" group-title="CHILE",Mundo Auto TV
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
@@ -3790,7 +3783,7 @@ http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
 http://tvpremiumhd.club/lista-gratuita/214529/tc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/902547125799669762/AVoSOZLm_400x400.jpg" group-title="PERU",Latina
-http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/t/3862.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU",Mega TV Araquipa
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
@@ -3837,6 +3830,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-l483UPtdcAU/VmXUK42u_KI/AAAAAAAACsE/2Qhcj5Inxdk/s1600/unotv-tacna.jpg" group-title="PERU",Uno TV
 http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
 
+#EXTINF:-1,Via Television Tarapoto
+http://tvpremiumhd.club/lista-gratuita/214529/tv/ti/2270.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fulltelevisionhd.net/wp-content/uploads/2013/02/ovacion.jpg" group-title="PERU",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -3875,6 +3871,9 @@ http://tvpremiumhd.club/lista-gratuita/214529/tv/t/217.m3u8
 
 #EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay TV ~
 http://www.lengua.com/anthems/Paraguay.mp3
+
+#EXTINF:-1,HEI
+http://tvpremiumhd.club/lista-gratuita/214529/tv/t/3410.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-3KbSajG6LeE/AAAAAAAAAAI/AAAAAAAAAAA/sG7xDprauik/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PARAGUAY",Intercable
 http://tvpremiumhd.club/lista-gratuita/214529/tv/t/3409.m3u8
@@ -4159,7 +4158,7 @@ http://www.lengua.com/anthems/Bolivia.mp3
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=658130495
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.paginasiete.bo/u/fotografias/m/2017/8/22/f999x666-174824_269889_36.jpg" group-title="BOLIVIA",Bolivia TV
-http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+http://tvpremiumhd.club/lista-gratuita/214529/tv/t/678.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Red_pat_new.jpg" group-title="BOLIVIA",PAT
 http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
