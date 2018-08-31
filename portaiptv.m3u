@@ -789,8 +789,6 @@ http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedetroit.tv/TVPops/images/WPHRst.jpg" group-title="USA",WHPR TV 33 Detroit
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="USA",XiveTV
-
 #EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
 http://167.88.154.169/wnycfm-tunein
 
@@ -1120,6 +1118,12 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="UK",Disney Channel
 http://93.87.85.70/PLTV/88888888/224/3221226894/01.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7SvhhqwnQxiVWTwRxF5qgCx8pYgdU%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001908%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
+
+#EXTINF:-1,Eurosport
+http://c0.cdn.trinity-tv.net/hls/71/stream.m3u8
+
+#EXTINF:-1,Eurosport 2 
+http://c0.cdn.trinity-tv.net/hls/117/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-dmax.png" group-title="UK",DMAX
 http://wowza2.mysoltv.com:1992/UK_ENG_dmax/tracks-v1a1/index.m3u8
@@ -1816,6 +1820,9 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" group-title="FRANCE",Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1,Mezzo 
+http://c0.cdn.trinity-tv.net/hls/195/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -2701,6 +2708,12 @@ http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg" group-title="SPAIN",Informacion TV
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+
+#EXTINF:-1,La 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+
+#EXTINF:-1,La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg" group-title="SPAIN",La Otra
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
