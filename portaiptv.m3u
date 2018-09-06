@@ -8660,7 +8660,7 @@ http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1,Animax
 http://45.126.83.51/uq2663/h/h18/index.m3u8
 
-#EXTINF:-1,Aniplus
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPAfn-mR-VkiURmkcDofBy0jgpyNYg7SXmtOZyMUU7H2jHdVV", Aniplus
 http://45.126.83.51/uq2663/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV
