@@ -8657,20 +8657,74 @@ http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",~ Indonesia TV ~
 http://www.lengua.com/anthems/Indonesia.mp3
 
+#EXTINF:-1,Animax
+http://45.126.83.51/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1,Aniplus
+http://45.126.83.51/uq2663/h/h02/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+
+#EXTINF:-1,AXN
+http://45.126.83.51/uq2663/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="INDONESIA",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="INDONESIA",Jakarta Globe (English)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1,Channel News Asia
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1,DaVinci
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1,Fox
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1,FOX Life
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1,Fox Movies (Opt 1)
+http://45.126.83.51/uq2663/h/h14/index.m3u8
+
+#EXTINF:-1,FOX Movies (Opt 2)
+http://45.126.83.51/uq2663/h/h24/index.m3u8
+
+#EXTINF:-1,Fox Movies Action (Opt 1)
+http://45.126.83.51/uq2663/h/h15/index.m3u8
+
+#EXTINF:-1,Fox Movies Action (Opt 2)
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1,Fox Movies Family
+http://45.126.83.51/uq2663/h/h16/index.m3u8
+
+#EXTINF:-1,Fox Sports
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://45.126.83.51/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://45.126.83.51/uq2663/h/h21/index.m3u8
+
+#EXTINF:-1,Global TV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s28.postimg.org/lpinb43pp/indosiar.png" group-title="INDONESIA",Indosiar
-https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/t56iq66ib/insan_id_tv.png" group-title="INDONESIA",Insan TV [Off]
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="INDONESIA",Jakarta Globe (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1,K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1,Kix
+http://45.126.83.51/uq2663/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDONESIA",Kompas TV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
@@ -8682,7 +8736,16 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/globaltvindonesia/images/4/45/MNCTV_tegak.png" group-title="INDONESIA",MNC TV [Off]
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+
+#EXTINF:-1,Nat Geo
+http://45.126.83.51/uq2663/h/h11/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://45.126.83.51/uq2663/h/h12/index.m3u8
+
+#EXTINF:-1,NHK World
+http://45.126.83.51/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/s2lo7kz7b/o_channel_id.png" group-title="INDONESIA",O Channel
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/chunklist_b846000.m3u8
@@ -8693,20 +8756,29 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="INDONESIA",RTV
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u8
 
+#EXTINF:-1,SBS
+http://45.126.83.51/uq2663/h/h28/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s24.postimg.org/6ld67eod1/sctv_id.png" group-title="INDONESIA",SCTV
-https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+
+#EXTINF:-1,Sony Channel
+http://45.126.83.51/uq2663/h/h06/index.m3u8
+
+#EXTINF:-1,Sony One
+http://45.126.83.51/uq2663/h/h13/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",Trans 7
-https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+http://id2.indostreamingtv.com/live/tv7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="INDONESIA",Trans TV
-https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.etere.com/DocImageArchive/636029732513782479.png" group-title="INDONESIA",TV Edukasi
 http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="INDONESIA",TV One
-https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -8716,102 +8788,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="INDONESIA",TVRI 4
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1,ANTV
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/1024.m3u8
-
-#EXTINF:-1,GLOBALTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
-
-#EXTINF:-1,MNCTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
-
-#EXTINF:-1,TVONE
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
-
-#EXTINF:-1,Indosiar
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
-
-#EXTINF:-1,Trans TV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
-
-#EXTINF:-1,SCTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
-
-#EXTINF:-1,SCTV
-http://id1.indostreamingtv.com/live/tv2/index.m3u8
-
-#EXTINF:-1,TRANS7
-http://id2.indostreamingtv.com/live/tv7/index.m3u8
-
-#EXTINF:-1,DaVinci
-http://45.126.83.51/uq2663/h/h01/index.m3u8
-
-#EXTINF:-1,ANIPLUS
-http://45.126.83.51/uq2663/h/h02/index.m3u8
-
-#EXTINF:-1,FOXlife
-http://45.126.83.51/uq2663/h/h03/index.m3u8
-
-#EXTINF:-1,FOX
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1,SonyChannel
-http://45.126.83.51/uq2663/h/h06/index.m3u8
-
-#EXTINF:-1,KIX
-http://45.126.83.51/uq2663/h/h07/index.m3u8
-
-#EXTINF:-1,K+
-http://45.126.83.51/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1,AXN
-http://45.126.83.51/uq2663/h/h09/index.m3u8
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://45.126.83.51/uq2663/h/h11/index.m3u8
-
-#EXTINF:-1,NATGEO WILD
-http://45.126.83.51/uq2663/h/h12/index.m3u8
-
-#EXTINF:-1,SONY ONE
-http://45.126.83.51/uq2663/h/h13/index.m3u8
-
-#EXTINF:-1,FOX MOVIES
-http://45.126.83.51/uq2663/h/h14/index.m3u8
-
-#EXTINF:-1,FOX MOVIES ACTION
-http://45.126.83.51/uq2663/h/h15/index.m3u8
-
-#EXTINF:-1,FOX MOVIES FAMILY HD
-http://45.126.83.51/uq2663/h/h16/index.m3u8
-
-#EXTINF:-1,ANIMAX
-http://45.126.83.51/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1,FOX SPORTS
-http://45.126.83.51/uq2663/h/h19/index.m3u8
-
-#EXTINF:-1,FOX SPORTS 2
-http://45.126.83.51/uq2663/h/h20/index.m3u8
-
-#EXTINF:-1,FOX SPORTS 3
-http://45.126.83.51/uq2663/h/h21/index.m3u8
-
-#EXTINF:-1,FOX MOVIES ACTION
-http://45.126.83.51/uq2663/h/h22/index.m3u8
-
-#EXTINF:-1,NHK WORLD
-http://45.126.83.51/uq2663/h/h23/index.m3u8
-
-#EXTINF:-1,FOX MOVIES
-http://45.126.83.51/uq2663/h/h24/index.m3u8
-
-#EXTINF:-1,SBS in HD
-http://45.126.83.51/uq2663/h/h28/index.m3u8
-
-#EXTINF:-1,NEWS ASIA CHANNEL
-http://45.126.83.51/uq2663/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
@@ -9152,6 +9128,63 @@ http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",~ Singapore TV ~
 http://www.lengua.com/anthems/Singapore.mp3
 
+#EXTINF:-1,2 Asia
+http://139.99.38.15:443/sd-asianseries_480/index.m3u8
+
+#EXTINF:-1,3
+http://139.99.38.15:443/sd-ch3digi_480/index.m3u8
+
+#EXTINF:-1,5
+http://139.99.38.15:443/hd-ch5_1080/index.m3u8
+
+#EXTINF:-1,7
+http://139.99.38.15:443/hd-ch7_1080/index.m3u8
+
+#EXTINF:-1,2 AXN
+http://139.99.38.15:443/hd-axn_720/index.m3u8
+
+#EXTINF:-1,beIN Sports
+http://139.99.38.15:443/epl-bein1_720/index.m3u8
+
+#EXTINF:-1,beIN Sports 2
+http://139.99.38.15:443/epl-bein2_720/index.m3u8
+
+#EXTINF:-1,beIN Sports 3
+http://139.99.38.15:443/epl-bein3_720/index.m3u8
+
+#EXTINF:-1,beIN Sports 4
+http://139.99.38.15:443/epl-bein4_720/index.m3u8
+
+#EXTINF:-1,Fight Sports
+http://139.99.38.15:443/hd-fightsports_720/index.m3u8
+
+#EXTINF:-1,Fox Action Movies
+http://139.99.38.15:443/hd-foxaction_720/index.m3u8
+
+#EXTINF:-1,Fox Family Movies
+http://139.99.38.15:443/hd-foxfamily_720/index.m3u8
+
+#EXTINF:-1,Fox PAC 12
+http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
+
+#EXTINF:-1,Fox Premium Movies
+http://139.99.38.15:443/hd-foxpremium_720/index.m3u8
+
+#EXTINF:-1,Fox Sports
+http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://139.99.38.15:443/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://139.99.38.15:443/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1,History
+http://139.99.38.15:443/hd-history_720/index.m3u8
+
+#EXTINF:-1,H2
+http://139.99.38.15:443/hd-history2_720/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
 http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
 
@@ -9161,89 +9194,32 @@ http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
 http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
 
-#EXTINF:-1,3 HD
-http://139.99.38.15:443/hd-ch3_1080/index.m3u8
-
-#EXTINF:-1,3 SD
-http://139.99.38.15:443/sd-ch3digi_480/index.m3u8
-
-#EXTINF:-1,5 HD
-http://139.99.38.15:443/hd-ch5_1080/index.m3u8
-
-#EXTINF:-1,7 HD
-http://139.99.38.15:443/hd-ch7_1080/index.m3u8
+#EXTINF:-1,NBC Golf
+http://139.99.38.15:443/hd-golf_720/index.m3u8
 
 #EXTINF:-1,NBT
 http://139.99.38.15:443/sd-nbt_720/index.m3u8
 
-#EXTINF:-1,TRUE FILM HD
+#EXTINF:-1,True Film
 http://139.99.38.15:443/hd-tfilm_720/index.m3u8
 
-#EXTINF:-1,TRUE FILM ASIA
+#EXTINF:-1,True Film Asia
 http://139.99.38.15:443/sd-filmasia_480/index.m3u8
 
-#EXTINF:-1,FOX ACTION MOVIE
-http://139.99.38.15:443/hd-foxaction_720/index.m3u8
-
-#EXTINF:-1,FOX FAMILY MOVIE
-http://139.99.38.15:443/hd-foxfamily_720/index.m3u8
-
-#EXTINF:-1,FOX MOVIE PREMIUM
-http://139.99.38.15:443/hd-foxpremium_720/index.m3u8
-
-#EXTINF:-1,TRUE SERIE
+#EXTINF:-1,True Serie
 http://139.99.38.15:443/sd-series_480/index.m3u8
 
-#EXTINF:-1,HITSTORY
-http://139.99.38.15:443/hd-history_720/index.m3u8
-
-#EXTINF:-1,H2
-http://139.99.38.15:443/hd-history2_720/index.m3u8
-
-#EXTINF:-1,Bein Sport 1
-http://139.99.38.15:443/epl-bein1_720/index.m3u8
-
-#EXTINF:-1,Bein Sport 2
-http://139.99.38.15:443/epl-bein2_720/index.m3u8
-
-#EXTINF:-1,Bein Sport 3
-http://139.99.38.15:443/epl-bein3_720/index.m3u8
-
-#EXTINF:-1,Bein Sport 4
-http://139.99.38.15:443/epl-bein4_720/index.m3u8
-
-#EXTINF:-1,True Sport HD1
+#EXTINF:-1,True Sport
 http://139.99.38.15:443/hd-tsport1_720/index.m3u8
 
-#EXTINF:-1,True Sport HD2
+#EXTINF:-1,True Sport 2
 http://139.99.38.15:443/hd-tsport2_720/index.m3u8
 
-#EXTINF:-1,True Sport HD3
+#EXTINF:-1,True Sport 3
 http://139.99.38.15:443/hd-tsport3_720/index.m3u8
 
-#EXTINF:-1,2 ASIA
-http://139.99.38.15:443/sd-asianseries_480/index.m3u8
-
-#EXTINF:-1,2 AXN
-http://139.99.38.15:443/hd-axn_720/index.m3u8
-
-#EXTINF:-1,FIGHT SPORT
-http://139.99.38.15:443/hd-fightsports_720/index.m3u8
-
-#EXTINF:-1,FOX SPORT2 
-http://139.99.38.15:443/sd-foxsports2_480/index.m3u8
-
-#EXTINF:-1,FOX SPORT3
-http://139.99.38.15:443/sd-foxsports3_480/index.m3u8
-
-#EXTINF:-1,TRUE TENNIS
+#EXTINF:-1,True Tennis
 http://139.99.38.15:443/hd-tennis_720/index.m3u8
-
-#EXTINF:-1,GOLF CHANNEL
-http://139.99.38.15:443/hd-golf_720/index.m3u8
-
-#EXTINF:-1,FOX pac12 ASN
-http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
 
 #EXTINF:-1,FOX SPORTS HD
 http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
