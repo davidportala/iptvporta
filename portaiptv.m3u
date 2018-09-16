@@ -6240,11 +6240,89 @@ http://s1.media-planet.sk:80/live/pezinok/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",~ Poland TV ~
 http://www.lengua.com/anthems/Poland.mp3
 
+#EXTINF:-1tvg-logo="https://4fun.tv/assets/images/4fun-tv.jpg" group-title="POLAND",4Fun TV
+http://api.planetapl.tv/playTV/553459/22493359/97.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.13ulica.pl/sites/all/themes/pint_themes/base_13thstreet_v2/logo-pl.svg" group-title="POLAND",13 Ulica
+http://api.planetapl.tv/playTV/553459/22493359/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.13ulica.pl/sites/all/themes/pint_themes/base_13thstreet_v2/logo-pl.svg" group-title="POLAND",Ale Kino+
+http://api.planetapl.tv/playTV/553459/22493359/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="POLAND",Animal Planet
+http://api.planetapl.tv/playTV/553459/22493359/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png" group-title="POLAND",AXN
+http://api.planetapl.tv/playTV/553459/22493359/98.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/BBC_Earth_logo.png" group-title="POLAND",BBC Earth
+http://api.planetapl.tv/playTV/553459/22493359/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.hd.com.do/wp-content/uploads/2012/08/bbc-hd.jpg?resize=600%2C338" group-title="POLAND",BBC HD
+http://api.planetapl.tv/playTV/553459/22493359/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="POLAND",Boomerang
+http://api.planetapl.tv/playTV/553459/22493359/7.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.filmneweurope.com/media/k2/items/cache/5196534451fba879104dc42ae7978e92_XL.jpg" group-title="POLAND",Canal+
+http://api.planetapl.tv/playTV/553459/22493359/10.m3u8
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Canal%2BFamily2009.svg/1200px-Canal%2BFamily2009.svg.png" group-title="POLAND",Canal+ Family
+http://api.planetapl.tv/playTV/553459/22493359/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Canal%2B_Film_2015.png" group-title="POLAND",Canal+ Film
+http://api.planetapl.tv/playTV/553459/22493359/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Canal%2B_Seriale.png" group-title="POLAND",Canal+ Seriale
+http://api.planetapl.tv/playTV/553459/22493359/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://3xx7nl1fbose1byyhi1zsziu-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/canal-plus-sport-300x194.jpg" group-title="POLAND",Canal+ Sport
+http://api.planetapl.tv/playTV/553459/22493359/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kabelmax.tv/files/logopack/Scandinavia/canal+%20sport%202.png" group-title="POLAND",Canal+ Sport 2
+http://api.planetapl.tv/playTV/553459/22493359/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="POLAND",Cinemax
+http://api.planetapl.tv/playTV/553459/22493359/14.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.change.org/photos/3/rc/ud/NArcuDOfADnFKYx-800x450-noPad.jpg?1509886299" group-title="POLAND",Comedy Central
+http://api.planetapl.tv/playTV/553459/22493359/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="POLAND",Comedy Central Extra
+http://api.planetapl.tv/playTV/553459/22493359/15.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2014/06/da-vinci-learning-new.jpg" group-title="POLAND",DaVinci Learning
+http://api.planetapl.tv/playTV/553459/22493359/17.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/ZDU7MDA_/dd0f17239d25d0ddf590175be0d4d4c0.png" group-title="POLAND",Disco Polo Music
 http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
 
+#EXTINF:-1 tvg-logo="http://cdn.24.co.za/files/Cms/General/d/2564/ad12d1309a7d4cb6a8d8f9adc6945613.jpg" group-title="POLAND",Discovery Channel
+http://api.planetapl.tv/playTV/553459/22493359/19.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Discovery_HISTORIA.png" group-title="POLAND",Discovery Historia
+http://api.planetapl.tv/playTV/553459/22493359/20.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="POLAND",Discovery Life
+http://api.planetapl.tv/playTV/553459/22493359/21.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.discovery_science.png.8aff00f74c45b99695f3584d3c789ef0.png" group-title="POLAND",Discovery Science
+http://api.planetapl.tv/playTV/553459/22493359/22.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="POLAND",Disney Junior
+http://api.planetapl.tv/playTV/553459/22493359/24.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="POLAND",Disney XD
+http://api.planetapl.tv/playTV/553459/22493359/99.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png" group-title="POLAND",DTX
+http://api.planetapl.tv/playTV/553459/22493359/23.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="POLAND",Duck TV
 http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/masterlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="POLAND",Eleven Sports
+http://api.planetapl.tv/playTV/553459/22493359/25.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Best Music
 rtmp://stream.smcdn.pl/best-t/best_720p
@@ -6258,8 +6336,65 @@ https://stream.smcdn.pl/eskarocktv-p/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Rock (Opt-2)
 rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
 
+#EXTINF:-1 tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="POLAND",Eurosport
+http://api.planetapl.tv/playTV/553459/22493359/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="POLAND",Eurosport 2
+http://api.planetapl.tv/playTV/553459/22493359/28.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/FIGHT-BOX-300x140.png" group-title="POLAND",FightBox (Opt-1)
 http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxaction-logo.png" group-title="POLAND",Filmbox Action
+http://api.planetapl.tv/playTV/553459/22493359/31.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmbox-famly-logo.png" group-title="POLAND",Filmbox Family
+http://api.planetapl.tv/playTV/553459/22493359/32.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FilmBoxPremium-logo.png" group-title="POLAND",Filmbox Premium
+http://api.planetapl.tv/playTV/553459/22493359/33.m3u8
+
+#EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/b5b1f242d19ead8599ce7c79cc142569-520x293.jpeg" group-title="POLAND",Fokus TV
+http://api.planetapl.tv/playTV/553459/22493359/100.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2d7xd1owstlh.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="POLAND",H2
+http://api.planetapl.tv/playTV/553459/22493359/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="POLAND",HBO West
+http://api.planetapl.tv/playTV/553459/22493359/37.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/HBO2_3d_white_bg.jpg" group-title="POLAND",HBO 2 West
+http://api.planetapl.tv/playTV/553459/22493359/35.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="POLAND",HBO 3 West
+http://api.planetapl.tv/playTV/553459/22493359/36.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Kino_Polska_TV_Logo.jpg" group-title="POLAND",Kino Polska
+http://api.planetapl.tv/playTV/553459/22493359/41.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Program_kino_polska_muzyka_w_inea.jpg/revision/latest?cb=20160117090410" group-title="POLAND",Kino Polska Muzyka
+http://api.planetapl.tv/playTV/553459/22493359/42.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="POLAND",Kino TV
+http://api.planetapl.tv/playTV/553459/22493359/30.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/9/9c/Kuchnia%2B_%282014-.n.v.%29.png/revision/latest/scale-to-width-down/640?cb=20171105061927" group-title="POLAND",Kuchnia+
+http://api.planetapl.tv/playTV/553459/22493359/43.m3u8
+
+#EXTINF:-1 tvg-logo="https://play.milifetime.tv/assets/icon/logo-lif.png" group-title="POLAND",Lifetime
+http://api.planetapl.tv/playTV/553459/22493359/45.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IpmCeGtOnmE/WUAyERIXG4I/AAAAAAAAGmI/Vpqo1iB6Dx8ywSpsZS1oM7T9WkDuIUYiwCLcB/s1600/metro_tv_pl.png" group-title="POLAND",Metro
+http://api.planetapl.tv/playTV/553459/22493359/46.m3u8
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.org/wp-content/uploads/2014/05/MiniMini_logo-poland.jpg" group-title="POLAND",MiniMini
+http://api.planetapl.tv/playTV/553459/22493359/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://interzona.tv/media/image/exposure/moto_wizja.1455635095.png" group-title="POLAND",Moto Wizja
+http://api.planetapl.tv/playTV/553459/22493359/48.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/200px-MTV_Logo.svg.png" group-title="POLAND",MTV
+http://api.planetapl.tv/playTV/553459/22493359/49.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg" group-title="POLAND",Music Vox TV (Opt-1)
 http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
@@ -6270,11 +6405,44 @@ rtmp://stream.smcdn.pl/vox2-p/stream1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456433030.png" group-title="POLAND",Music VOX TV Old's Cool
 rtmp://stream.smcdn.pl/vox-t/vox_720p
 
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/NGC_POS-500x250.jpg" group-title="POLAND",National Geographic
+http://api.planetapl.tv/playTV/553459/22493359/51.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png" group-title="POLAND",Nat Geo Wild
+http://api.planetapl.tv/playTV/553459/22493359/50.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xrPOrrh2BRc/maxresdefault.jpg" group-title="POLAND",Nickelodeon
+http://api.planetapl.tv/playTV/553459/22493359/53.m3u8
+
+#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="POLAND",Nick Jr.
+http://api.planetapl.tv/playTV/553459/22493359/52.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/NSport_web.png" group-title="POLAND",nSport+
+http://api.planetapl.tv/playTV/553459/22493359/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="POLAND",Paramount Channel
+http://api.planetapl.tv/playTV/553459/22493359/55.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/59552/logo_planete+.png" group-title="POLAND",Planete+
+http://api.planetapl.tv/playTV/553459/22493359/56.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV
 rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Polsat.svg/2000px-Logo_Polsat.svg.png" group-title="POLAND",Polsat
+http://api.planetapl.tv/playTV/553459/22493359/60.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NDg7MDA_/d3cf17ada98e7a4343adfc892c45084a.png" group-title="POLAND",Polsat 2
 http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Polsat_Café_-_Logo.svg/2000px-Polsat_Café_-_Logo.svg.png" group-title="POLAND",Polsat Cafe
+http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0b/Polsat_Film_%282009-.n.v.%29.png/revision/latest?cb=20171227141627" group-title="POLAND",Polsat Film
+http://api.planetapl.tv/playTV/553459/22493359/59.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-5y-5R4ROmuI/WUldJXWDPdI/AAAAAAAAG88/uiZu8BwCRaEfHfdQSvL8lotnEOmA-ARBACLcBGAs/s1600/jim_jam_polsat.png" group-title="POLAND",Polsat JimJam
+http://api.planetapl.tv/playTV/553459/22493359/40.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Polsat_News_Logo.svg/1200px-Polsat_News_Logo.svg.png" group-title="POLAND",Polsat News
 http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
@@ -6282,14 +6450,41 @@ http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Polsat_News_2.png" group-title="POLAND",Polsat News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Polsat_Café_-_Logo.svg/2000px-Polsat_Café_-_Logo.svg.png" group-title="POLAND",Polsat Cafe
-http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Polsat_Play.svg/1200px-Polsat_Play.svg.png" group-title="POLAND",Polsat Play
+http://api.planetapl.tv/playTV/553459/22493359/63.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png" group-title="POLAND",Polsat Sport
+http://api.planetapl.tv/playTV/553459/22493359/64.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg" group-title="POLAND",Polsat Sport Extra
+http://api.planetapl.tv/playTV/553459/22493359/65.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5X4Vmvdb56A/WUliuwl1BwI/AAAAAAAAG9s/4_IPhNuZ9FYC4ASK2CkqmhgKnDwbsCosgCLcBGAs/s1600/polsat_sport_news.png" group-title="POLAND",Polsat Sport News
+http://api.planetapl.tv/playTV/553459/22493359/66.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Romance_TV.png/revision/latest?cb=20161213225731" group-title="POLAND",Romance TV
+http://api.planetapl.tv/playTV/553459/22493359/67.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/f/png/32041/stars-tv-logo.png" group-title="POLAND",Stars TV
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Teletoon_Plus_%28Polska%29.png" group-title="POLAND",Teletoon+
+http://api.planetapl.tv/playTV/553459/22493359/71.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wirtualnemedia.pl/media/top/tvrepublika2015.jpg" group-title="POLAND",Telewizja Republika [Off]
 http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="POLAND",TLC
+http://api.planetapl.tv/playTV/553459/22493359/72.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" group-title="POLAND",TNT
+http://api.planetapl.tv/playTV/553459/22493359/73.m3u8
+
+#EXTINF:-1 tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/08/15/bc/travel-channel_web-logo.rend.hgtvcom.616.462.suffix/1491581086334.jpeg" group-title="POLAND",Travel Channel
+http://api.planetapl.tv/playTV/553459/22493359/74.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0b/TV4_%282007-.n.v.%29.png/revision/latest?cb=20171227141312" group-title="POLAND",TV4
+http://api.planetapl.tv/playTV/553459/22493359/75.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvlider.pl/wp-content/uploads/2013/10/tv-asta-logo.png" group-title="POLAND",TV Asta
 http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
@@ -6300,11 +6495,53 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://okteve.com/wp-content/uploads/media/1dce1414e29f97a89d588b47ba9e63a3.jpeg" group-title="POLAND",TV Kujawy (Opt-2)
 rtmp://stream.tvkujawy.pl/live/broadcast
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/TV_Puls_logo.jpg/1200px-TV_Puls_logo.jpg" group-title="POLAND",TV Puls
+http://api.planetapl.tv/playTV/553459/22493359/76.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/TV_Republika_2017.png/revision/latest?cb=20171009140010" group-title="POLAND",TV Republika
+http://api.planetapl.tv/playTV/553459/22493359/77.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toruntv.pl/public/img/new/logo.png" group-title="POLAND",TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/YjI7MDA_/2073d209b23c7e8fa91b433eccabe863.png" group-title="POLAND",TV Trwam
 http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
+http://api.planetapl.tv/playTV/553459/22493359/79.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TVN_7_logo.PNG" group-title="POLAND",TVN 7
+http://api.planetapl.tv/playTV/553459/22493359/81.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/250px-Tvn24_Logo.svg.png" group-title="POLAND",TVN 24
+http://api.planetapl.tv/playTV/553459/22493359/80.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/TVN_Style.svg/revision/latest?cb=20100219095815" group-title="POLAND",TVN Style
+http://api.planetapl.tv/playTV/553459/22493359/82.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/1200px-TVN_turbo.svg.png" group-title="POLAND",TVN Turbo
+http://api.planetapl.tv/playTV/553459/22493359/83.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/TVP_Historia.svg/revision/latest/scale-to-width-down/510?cb=20100219130927" group-title="POLAND",TVP Historia
+http://api.planetapl.tv/playTV/553459/22493359/85.m3u8
+
+#EXTINF:-1 tvg-logo="http://zw.lt/timthumb.php?src=http://zw.lt/assets/Tvp_info.png&w=780&h=520&f=&zc=2&cc=d4d4d4" group-title="POLAND",TVP Info
+http://api.planetapl.tv/playTV/553459/22493359/86.m3u8
+
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/M2Y7MDA_/0ecfd007900ea94ba75641c8ff66cafc.png" group-title="POLAND",TVP Kultura
+http://api.planetapl.tv/playTV/553459/22493359/87.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/TVP_SERIALE.jpg/1200px-TVP_SERIALE.jpg" group-title="POLAND",TVP Seriale
+http://api.planetapl.tv/playTV/553459/22493359/88.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/NewTVP_SPORT.png" group-title="POLAND",TVP Sport
+http://api.planetapl.tv/playTV/553459/22493359/89.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/1200px-TVP1_logo.svg.png" group-title="POLAND",TVP1
+http://api.planetapl.tv/playTV/553459/22493359/90.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/1200px-TVP2_logo.svg.png" group-title="POLAND",TVP2
+http://api.planetapl.tv/playTV/553459/22493359/91.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Bialystok
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
@@ -6356,6 +6593,9 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Wroclaw
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/500px-TVS_%28Fernsehsender%29_Logo.svg.png" group-title="POLAND",TVS
+http://api.planetapl.tv/playTV/553459/22493359/93.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://haldajazz.com/2016/images/sponsor/tvt.jpg" group-title="POLAND",TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
@@ -9082,6 +9322,9 @@ http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="CHINA",24/7 Shin Chan
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/327_300.png" group-title="HONG KONG",Asian Action Channel
+http://59.125.55.79:60001/60003.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" group-title="CHINA",CCTV-1
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000120&playtoken=ABCDEFGH&auth=no
  
@@ -9124,8 +9367,20 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="CHINA",CCTV 15
 http://103.242.13.90:5555/udp/239.4.2.72:10000
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="CHINA",Celestial Movies
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/d7458271/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 tvg-logo="https://tva2.sinaimg.cn/crop.0.0.180.180.180/77eb4aa6jw8euhaw6iuw9j2050050t8r.jpg" group-title="CHINA",CHC Action Movie
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/2xhjk3rg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tva4.sinaimg.cn/crop.784.467.490.490.180/77eb3ddejw1e9oaedgw1pj21kw16ojun.jpg" group-title="CHINA",CHC Home Theater
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hztn484w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tva4.sinaimg.cn/crop.776.487.497.497.180/77eb57eajw1e9o3j1l2shj21kw16odj1.jpg" group-title="CHINA",CHC Movie
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0bzz6wkj/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="CHINA",China Business Network
 http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
@@ -9148,6 +9403,12 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADzw27g.jpg" group-title="CHINA",Happiness HD
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000100&playtoken=ABCDEFGH&auth=no
 
+#EXTINF:-1 tvg-logo="https://images.idgesg.net/images/article/2018/07/hbologo-100763744-large.jpg" group-title="CHINA",HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+
+#EXTINF:-1 group-title="CHINA",Hollywood
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q0rskj6h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hunantv-live.jpg" group-title="CHINA",Hunan TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
 
@@ -9162,6 +9423,9 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/f/fe/MTV_Russia_%28%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%29.png/revision/latest?cb=20150830124654&path-prefix=ru" group-title="CHINA",MTV
+http://218.202.220.2:5000/nn_live.m3u8?id=MTV
 
 #EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="CHINA",National Geographic
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000101&playtoken=ABCDEFGH&auth=no
@@ -9187,20 +9451,62 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
 http://ec.sinovision.net/video/ts/lv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png" group-title="CHINA",Star Chinese Movies
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="CHINA",The Travel Channel
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thestandard.com.hk/newsImage/20180629/50015060contentPhoto1.jpg" group-title="HONG KONG",TVB
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="HONG KONG",TVB Xing He
+http://59.125.55.79:60001/60002.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg" group-title="CHINA",Zhejiang TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
+
+#EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdzjdy.jpg" group-title="CHINA",Zhujiang Movies
+http://59.125.55.79:60001/60001.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
 http://www.lengua.com/anthems/Taiwan.mp3
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/etmovie.jpg" group-title="TAIWAN",EBC Movie
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q6t7f6hg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingtiankatong.jpg" group-title="TAIWAN",Golden TV
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/h25ntcr8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV
+http://live.streamingfast.net/osmflivech8.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV 6
+http://live.streamingfast.net/osmflivech6.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV 7
+http://live.streamingfast.net/osmflivech7.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV 9
+http://live.streamingfast.net/osmflivech9.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV 10
+http://live.streamingfast.net/osmflivech10.m3u8
+
+#EXTINF:-1 tvg-logo="https://cool-style.pixfs.net/cool/2014/02/YIPPf.png" group-title="TAIWAN",LS Time Movie
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0xz20xk6/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/64/5f/26/645f2613781cda1b4417188007f90d16.jpg" group-title="TAIWAN",Macroview TV
 http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/MeiAh.png" group-title="TAIWAN",Mei Ah Movies Channel
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4vphhg1h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="TAIWAN",Warner TV
+http://59.125.55.79:60001/60004.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",~ Singapore TV ~
 http://www.lengua.com/anthems/Singapore.mp3
