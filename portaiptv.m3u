@@ -1205,11 +1205,23 @@ http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/22.ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="UK",BBC World News
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/800px-BeIN_Sports.png" group-title="UK",beIN Sports
+http://72.76.39.230:8000/play/a00z/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
-http://sport7.pw/lba/NWQ4OGRiYzA3NzFlMWUxOWU0NDU5YWYyMTZiZmIzNmI=/g6/btsportespn.m3u8
+#EXTINF:-1 tvg-logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png" group-title="UK",BT Sport 1
+http://185.53.163.205:2700
+ 
+#EXTINF:-1 tvg-logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png" group-title="UK",BT Sport 2
+http://185.53.163.205:2506
+ 
+#EXTINF:-1 tvg-logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png" group-title="UK",BT Sport 3
+http://185.53.163.205:2701
+ 
+#EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/05/bt-sport-png-1.png" group-title="UK",BT Sport ESPN
+http://185.53.163.205:2507
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -2204,11 +2216,20 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",~ Italy TV ~
 http://www.lengua.com/anthems/Italy.mp3
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/400px-20_Mediaset_-_Logo_2018.svg.png" group-title="ITALY",20 Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="ITALY",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/895636cf89509fb3e35cba8a36ac58ac.jpeg" group-title="ITALY",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_antenna_sicilia.jpg" group-title="ITALY",Antenna Sicilia
+rtmp://live.lasiciliaweb.it:1935/tg/as
+
+#EXTINF:-1 tvg-logo="http://www.fnsi.it/upload/9b/9bf31c7ff062936a96d3c8bd1f8f2ff3/9e2b5c1325984f7738eff999de9704af.jpg" group-title="ITALY",Antenna Tre Nordest
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coolstreaming.us/blog/wp-content/uploads/logo-automototv-def.jpg" group-title="ITALY",AutoMoto TV (Opt-1)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
@@ -2216,14 +2237,23 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="ITALY",CafeTV24 Veneto
 rtmp://srv3.meway.tv:1957/cafe/live
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Canale_5_logo_2018.svg/1200px-Canale_5_logo_2018.svg.png" group-title="ITALY",Canale 5 Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sudestival.org/wp-content/uploads/2015/01/canale7.png" group-title="ITALY",Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.monopolicalcio.it/1966/wp-content/uploads/2013/07/canale7.jpg" group-title="ITALY",Canale 7 TV Puglia
 rtmp://wms.shared.streamshow.it:80/canale7/canale7
 
+#EXTINF:-1 tvg-logo="http://www.tuttobasket.net/wp-content/uploads/2016/01/c8-Logo-2015-01.jpg" group-title="ITALY",Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png" group-title="ITALY",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/canale74.jpg" group-title="ITALY",Canale 74 Sicilia
+http://151.80.100.112:1935/canale74/canale74/chunklist_w174779335.m3u8
 
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781422/logo_canale%2085.png" group-title="ITALY",Canale 85 Puglia
 http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
@@ -2258,6 +2288,9 @@ http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/felzsi.jpg" group-title="ITALY",FM Italia
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1200px-Focus_Logo.svg.png" group-title="ITALY",Focus Mediaset
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch26)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" group-title="ITALY",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
@@ -2276,11 +2309,26 @@ http://media.ilmeteo.it/video/iphone/dopodomani.m4v
 #EXTINF:-1 tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="ITALY",IRC Sport TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2015/02/iris-mediaset-live.gif" group-title="ITALY",Iris Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.appgrid.accedo.tv/content/file/5ae6ec03a0e845000cd36a5b" group-title="ITALY",Italia 1 Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/1200px-Logo_Italia2.svg.png" group-title="ITALY",Italia 2 Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/523px-La5_Italy.svg.png" group-title="ITALY",La 5 Mediaset
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7
 http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Mediaset_Extra_logo.png" group-title="ITALY",Mediaset Extra
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/79/LogopiublutelemilanoTG8A_w288.jpg/1200px-LogopiublutelemilanoTG8A_w288.jpg" group-title="ITALY",Piu Blu Lombardia
 rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
@@ -2317,6 +2365,9 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="ITALY",Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="ITALY",Radio Monte Carlo
 http://wow01.105.net/live/rmc1/playlist.m3u8
@@ -2366,17 +2417,35 @@ http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1200px-Rai_5_-_Logo_2017.svg.png" group-title="ITALY",Rai 5
 https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/rai5_1200/chunklist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="ITALY",Rai Gulp
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0004119
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALY",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="ITALY",Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikitv.eu/wp-content/uploads/2016/01/Rai-Premium.jpg" group-title="ITALY",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/1200px-Rai_Scuola_-_Logo_2017.svg.png" group-title="ITALY",Rai Scuola
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024268
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png" group-title="ITALY",Rai Sport (Geo)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Sport_HD_new_logo.svg.png/revision/latest?cb=20170413234751" group-title="ITALY",Rai Sport+ (Geo)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1200px-Rai_Storia_-_Logo_2017.svg.png" group-title="ITALY",Rai Storia
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024269
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Südtirol.svg-0.png" group-title="ITALY",Rai Sudtirol (Switzerland)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="ITALY",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.excellencedentalnetwork.com/wp-content/uploads/2015/02/rete4.jpg" group-title="ITALY",Rete 4
 https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
@@ -2390,14 +2459,26 @@ rtmp://sb.top-ix.org:1935/retebiella/streaming
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com//images/tv7/retesole.jpg" group-title="ITALY",Retesole
 http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/RTV_San_Marino_2013.png" group-title="ITALY",RTV San Marino
+http://o4.senape.tv:1935/webtv_live4/_definst_/0QBXFQ2L0I5P/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png" group-title="ITALY",RTV San Marino Sport
+http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/home/logo_interne.gif" group-title="ITALY",Senato TV
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
  
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781590/logo_sicilia%20media%20tv.png" group-title="ITALY",Sicilia Media TV
 http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="ITALY",Sky TG24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="ITALY",Sky TG24 (Opt-1)
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="ITALY",Sky TG24 (Opt-2)
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dailyonline.it/wp-content/uploads/2017/02/Logo-Sportitalia-HD-page-001-Copia-copia-e1486299148551.jpeg" group-title="ITALY",Sportitalia
+http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/qzrjvl.jpg" group-title="ITALY",Standby TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
@@ -2440,9 +2521,15 @@ rtmp://fms.tvavicenza.it:1935/telechiara/diretta
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/5/5c/TeleColor.png" group-title="ITALY",Telecolor
 http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHxozuy.png" group-title="ITALY",Telecupole
+http://dcunilive15-lh.akamaihd.net/i/dclive_1@90423/master.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.telefoggiatv.it/images/share-image.jpg" group-title="ITALY",Telefoggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+
+#EXTINF:-1 tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg" group-title="ITALY",Telefriuli
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781420/logo_teleitalia%202.png" group-title="ITALY",Teleitalia 2
 rtmp://live.flv.xuniplay.fdnames.com:1935/live/centroserena
@@ -2497,9 +2584,24 @@ http://livetr.teleromagna.it/mia/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="ITALY",Teleromagna Lifestyle
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telesud3.com/wp-content/themes/telesud/assets/img/logotelesud.png" group-title="ITALY",Telesud Trapani
+http://live.streamcaster.net:1935/telesud3_live/telesud/chunklist_w1977902813.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TeleTicino.png" group-title="ITALY",TeleTicino (Switzerland)
+http://teleticinolive.vedge.infomaniak.com/livecast/teleticinolive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.italianews24.it/public/tv/Televomero.jpg" group-title="ITALY",Televomero Campania
 http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="ITALY",TG Norba 24
+http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.weglint.com/img/rassegna-stampa/tgcom24.jpg" group-title="ITALY",TGCOM24 Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Logo_Top_Crime.png" group-title="ITALY",Top Crime Mediaset
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ildolomiti.it/sites/default/files/styles/articolo/public/articoli-blog/TrentinoTV.jpg" group-title="ITALY",Trentino TV (Opt-1)
 http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
@@ -2543,8 +2645,14 @@ http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/579290315338608640/fGSNs2SZ.png" group-title="ITALY",Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.videomediterraneo.it/images/gruppo/chi_siamo/chi_siamo_vm_4.jpg" group-title="ITALY",Video Mediterraneo
+http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
+
 #EXTINF:-1 tvg-logo="http://videonola.tv/wp-contenuti/uploads/2017/04/logovnnew_eppj13ji.png" group-title="ITALY",Videonola
 http://79.143.181.106:8000/live/videonola/videonola/1021.m3u8
+
+#EXTINF:-1 tvg-logo="http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg" group-title="ITALY",Videostar TV Lombardia
+http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Portugal-icon.png" group-title="LABEL",~ Portugal TV ~
 http://www.lengua.com/anthems/Portugal.mp3
