@@ -8992,7 +8992,7 @@ http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-logo="http://dojo-box.com/wp-content/uploads/2015/09/logo-aditv.png" group-title="INDONESIA",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Animax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="INDONESIA",Animax
 http://45.126.83.51/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPAfn-mR-VkiURmkcDofBy0jgpyNYg7SXmtOZyMUU7H2jHdVV", Aniplus
@@ -9004,7 +9004,7 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5EtJenC.jpg" group-title="INDONESIA",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",AXN
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="INDONESIA",AXN
 http://45.126.83.51/uq2663/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" group-title="INDONESIA",BBSTV Surabaya
@@ -9016,7 +9016,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.
 #EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA",BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Channel News Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="INDONESIA",Channel News Asia
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
@@ -9025,43 +9025,43 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",DaVinci
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/40/Da_vinci_learning_1.png/revision/latest?cb=20171012130212" group-title="INDONESIA",DaVinci
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="INDONESIA",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="INDONESIA",Fox
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",FOX Life
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/FOXLIFE.jpg" group-title="INDONESIA",FOX Life
 http://45.126.83.51/uq2663/h/h03/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Movies (Opt 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="INDONESIA",Fox Movies (Opt 1)
 http://45.126.83.51/uq2663/h/h14/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",FOX Movies (Opt 2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="INDONESIA",FOX Movies (Opt 2)
 http://45.126.83.51/uq2663/h/h24/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Movies Action (Opt 1)
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/434_300.png" group-title="INDONESIA",Fox Movies Action (Opt 1)
 http://45.126.83.51/uq2663/h/h15/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Movies Action (Opt 2)
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/434_300.png" group-title="INDONESIA",Fox Movies Action (Opt 2)
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Movies Family
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="INDONESIA",Fox Movies Family
 http://45.126.83.51/uq2663/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="INDONESIA",Fox Sports
 http://45.126.83.51/uq2663/h/h19/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="INDONESIA",Fox Sports 2
 http://45.126.83.51/uq2663/h/h20/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="INDONESIA",Fox Sports 3
 http://45.126.83.51/uq2663/h/h21/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Global TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="INDONESIA",Global TV
 http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="INDONESIA",Home & Living
@@ -9079,10 +9079,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jawapos.tv/assets/img/list/pandeglang&tangerang.jpg" group-title="INDONESIA",Jawa Pos TV
 rtmp://122.248.32.234:1935/ch6/myStream
 
-#EXTINF:-1 group-title="INDONESIA",K+
+#EXTINF:-1 tvg-logo="https://www.easytv.ph/wp-content/uploads/2018/04/K-300x250.jpg" group-title="INDONESIA",K+
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Kix
+#EXTINF:-1 tvg-logo="https://images.wikia.nocookie.net/__cb18/kix/images/5/50/Wiki-background" group-title="INDONESIA",Kix
 http://45.126.83.51/uq2663/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDONESIA",Kompas TV
@@ -9097,13 +9097,13 @@ https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/globaltvindonesia/images/4/45/MNCTV_tegak.png" group-title="INDONESIA",MNC TV [Off]
 http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Nat Geo
+#EXTINF:-1 tvg-logo="http://headliner.rs/wp-content/uploads/2016/09/nat_geo_channel.png" group-title="INDONESIA",Nat Geo
 http://45.126.83.51/uq2663/h/h11/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="INDONESIA",Nat Geo Wild
 http://45.126.83.51/uq2663/h/h12/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",NHK World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png" group-title="INDONESIA",NHK World
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INDONESIA",Nick Jr.
@@ -9127,16 +9127,16 @@ https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/a3/cc/9aa3cca889c266b1cd750a452d982a9e.jpg" group-title="INDONESIA",Saling Sapa TV
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",SBS
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mDW8Pz6tG-Q/WqBwxt1pXZI/AAAAAAAAAKQ/17Ly3Rs_XkkmJVi6jl0YvirfD4VCRLEzwCLcBGAs/s1600/sbs.png" group-title="INDONESIA",SBS In
 http://45.126.83.51/uq2663/h/h28/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s24.postimg.org/6ld67eod1/sctv_id.png" group-title="INDONESIA",SCTV
 http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Sony Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="INDONESIA",Sony Channel
 http://45.126.83.51/uq2663/h/h06/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Sony One
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/ONE_logo.jpg/200px-ONE_logo.jpg" group-title="INDONESIA",Sony One
 http://45.126.83.51/uq2663/h/h13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7kAO7Y.jpg" group-title="INDONESIA",Star Bridge TV
@@ -9598,6 +9598,9 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="HONG KONG",TVB Xing He
 http://59.125.55.79:60001/60002.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wanzhou.jpg" group-title="CHINA",Wanzhou Film & Art TV
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://a1.att.hudong.com/83/83/01000000000000119088339934283_s.jpg" group-title="CHINA",Xiamen Channel
 http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
 
@@ -9643,6 +9646,9 @@ http://59.125.55.79:60001/60001.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
 http://www.lengua.com/anthems/Taiwan.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="TAIWAN",Animax
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zmz9k2hc/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/etmovie.jpg" group-title="TAIWAN",EBC Movie
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q6t7f6hg/index.m3u8
 
@@ -9682,6 +9688,15 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4vphhg1h/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/mtv-logo-png-transparent.png" group-title="TAIWAN",MTV Mandarin
 http://103.242.13.90:5555/udp/239.4.1.71:10000
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="TAIWAN",National Geographic
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/nvhgfr5c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png" group-title="TAIWAN",NatGeo Wild
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/w7tx0758/index.m3u8
+
+#EXTINF:-1 1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/9/9b/Star_movies_tw.png/revision/latest?cb=20160130084012" group-title="TAIWAN",Star Movies
+http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1vnt5wqn/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="TAIWAN",Warner TV
 http://59.125.55.79:60001/60004.m3u8
 
@@ -9700,49 +9715,49 @@ http://139.99.38.15:443/hd-ch5_1080/index.m3u8
 #EXTINF:-1 group-title="SINGAPORE",7
 http://139.99.38.15:443/hd-ch7_1080/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",2 AXN
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="SINGAPORE",2 AXN
 http://139.99.38.15:443/hd-axn_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",beIN Sports
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="SINGAPORE",beIN Sports
 http://139.99.38.15:443/epl-bein1_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",beIN Sports 2
+#EXTINF:-1 tvg-logo="https://skynz.akamaized.net/documents/24003/641510/MK_beIN_SPORTS_2_NEW_250x180.png/2ddeca6b-978d-4549-b322-1a22d1f07fc5?t=1485889369163" group-title="SINGAPORE",beIN Sports 2
 http://139.99.38.15:443/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://youcompare.com.au/assets/img/paytv_logos/bein-sports-3.png" group-title="SINGAPORE",beIN Sports 3
 http://139.99.38.15:443/epl-bein3_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",beIN Sports 4
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/11/bein4.png" group-title="SINGAPORE",beIN Sports 4
 http://139.99.38.15:443/epl-bein4_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fight Sports
+#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SINGAPORE",Fight Sports
 http://139.99.38.15:443/hd-fightsports_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox Action Movies
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/434_300.png" group-title="SINGAPORE",Fox Action Movies
 http://139.99.38.15:443/hd-foxaction_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox Family Movies
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="SINGAPORE",Fox Family Movies
 http://139.99.38.15:443/hd-foxfamily_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox PAC 12
+#EXTINF:-1 tvg-logo="https://nbccollegefootballtalk.files.wordpress.com/2011/01/pac-12-logo.jpg?w=250&h=332&crop=1" group-title="SINGAPORE",Fox PAC 12
 http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox Premium Movies
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_fox-movies_m.png" group-title="SINGAPORE",Fox Premium Movies
 http://139.99.38.15:443/hd-foxpremium_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SINGAPORE",Fox Sports
 http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="SINGAPORE",Fox Sports 2
 http://139.99.38.15:443/sd-foxsports2_480/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SINGAPORE",Fox Sports 3
 http://139.99.38.15:443/sd-foxsports3_480/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="SINGAPORE",History
 http://139.99.38.15:443/hd-history_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",H2
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kCDrN9jEaNQ/VJc67yCQDhI/AAAAAAAABEY/KuDbcawkOLw/s1600/HISTORY%2BCHANNEL%2B2.jpg" group-title="SINGAPORE",H2
 http://139.99.38.15:443/hd-history2_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
@@ -9754,31 +9769,31 @@ http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
 http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",NBC Golf
+#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_flat_rgb.png" group-title="SINGAPORE",NBC Golf
 http://139.99.38.15:443/hd-golf_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",NBT
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfFiY-R013b0LARnLQRWSEbg9Z_9rRPmYwCtVA=s900-mo-c-c0xffffffff-rj-k-no" group-title="SINGAPORE",NBT
 http://139.99.38.15:443/sd-nbt_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Film
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjY8wOCpVA6nMizqNFSpOYmSfFrstyi4728HJA3tLvLwGh3wcD" group-title="SINGAPORE",True Film
 http://139.99.38.15:443/hd-tfilm_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Film Asia
+#EXTINF:-1 tvg-logo="http://radio.พารวย.com/wp-content/uploads/2017/10/True-Film-Asia.jpg" group-title="SINGAPORE",True Film Asia
 http://139.99.38.15:443/sd-filmasia_480/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Serie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97jOUunE8GJkMLA6Xh9ZVh4m_ab1GXhSQXvB1wmIZKhSNW3MK" group-title="SINGAPORE",True Series
 http://139.99.38.15:443/sd-series_480/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png" group-title="SINGAPORE",True Sport
 http://139.99.38.15:443/hd-tsport1_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Sport 2
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_013.png" group-title="SINGAPORE",True Sport 2
 http://139.99.38.15:443/hd-tsport2_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Sport 3
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3783187/logo_true%20sport%203.png" group-title="SINGAPORE",True Sport 3
 http://139.99.38.15:443/hd-tsport3_720/index.m3u8
 
-#EXTINF:-1 group-title="SINGAPORE",True Tennis
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_045.png" group-title="SINGAPORE",True Tennis
 http://139.99.38.15:443/hd-tennis_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cambodia/flag-round-250.png" group-title="LABEL",~ Cambodia TV ~
@@ -9790,7 +9805,7 @@ http://103.242.13.90:5555/udp/239.4.2.199:10000
 #EXTINF:-1 tvg-logo="https://macnhien.files.wordpress.com/2011/09/vietnam.png" group-title="LABEL",~ Vietnam TV ~
 http://www.lengua.com/anthems/Vietnam.mp3
 
-#EXTINF:-Jaal TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OnoR2uR879CFw_u3bBbp-LVELW4N3CI0A-qCKpX4NnbMtjP0xAaBkPyWB1jUTkbggQ" group-title="VIETNAM",Jaal TV
 http://209.58.160.112/jaaltvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.saigontv.tv/saigon/wp-content/uploads/2015/02/KVLAlogo640x360.png" group-title="VIETNAM",KVLA TV (USA)
