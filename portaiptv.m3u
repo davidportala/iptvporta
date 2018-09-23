@@ -9373,7 +9373,7 @@ http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/kp.png" group-title="LABEL",~ North Korea TV ~
 http://www.lengua.com/anthems/NorthKorea.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="NORTH KOREA",KCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/976921693691240448/XSagoM_w.jpg" group-title="NORTH KOREA",KCTV
 http://tv.nknews.org/tvhls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
@@ -9541,16 +9541,16 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="CHINA",Jingbao Tiyu Sports
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000102&playtoken=ABCDEFGH&auth=no
 
-#EXTINF:-1 group-title="CHINA",Jinhua TV 1
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 1
 http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
 
-#EXTINF:-1 group-title="CHINA",Jinhua TV 2
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 2
 http://stream.jinhua.com.cn/jykj/app/live.m3u8
 
-#EXTINF:-1 group-title="CHINA",Jinhua TV 3
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 3
 http://stream2.jinhua.com.cn/jjsh/app/live.m3u8
 
-#EXTINF:-1 group-title="CHINA",Jinhua TV 4
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 4
 http://stream.jinhua.com.cn/dsnc/app/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV
