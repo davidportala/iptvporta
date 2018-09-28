@@ -2681,35 +2681,101 @@ http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Portugal-icon.png" group-title="LABEL",~ Portugal TV ~
 http://www.lengua.com/anthems/Portugal.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="PORTUGAL",A Bola TV
+http://perolabranca.dynu.net:8000/live/vimo/vimo/48.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/1a62e626926751.55756a4b190d7.png" group-title="PORTUGAL",Afro Music Channel
 http://4.31.30.145:9034/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" group-title="PORTUGAL",Agueda TV
 http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="PORTUGAL",Biggs
+http://perolabranca.dynu.net:8000/live/vimo/vimo/99.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/caca-pesca/highlight/large.jpg" group-title="PORTUGAL",Caça e Pesca
+http://perolabranca.dynu.net:8000/live/vimo/vimo/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/ieg4YoZtDdTVJCGWvhFvwGZesvI4qhqmkyW-Yob5l11YNQoLJ_cQf-TGShMk5hT0RNw=s180" group-title="PORTUGAL",Caçavision
+http://perolabranca.dynu.net:8000/live/vimo/vimo/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/11/Angelus-TV-e1511471779878.jpg" group-title="PORTUGAL",Canal Angelus TV
+http://perolabranca.dynu.net:8000/live/vimo/vimo/11633.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalpanda.es/wp-content/themes/site/images/main-logo.png" group-title="PORTUGAL",Canal Panda
+http://perolabranca.dynu.net:8000/live/vimo/vimo/96.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a8/Canal_Q.png/revision/latest?cb=20160328152805" group-title="PORTUGAL",Canal Q
+http://perolabranca.dynu.net:8000/live/vimo/vimo/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL",CMTV
+http://perolabranca.dynu.net:8000/live/vimo/vimo/14.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/JimJam_logo.png/revision/latest?cb=20100220170544" group-title="PORTUGAL",Jim Jam
+http://perolabranca.dynu.net:8000/live/vimo/vimo/101.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Medium_kuriakos.jpg/revision/latest?cb=20170715125251" group-title="PORTUGAL",Kuriakos TV
+http://perolabranca.dynu.net:8000/live/vimo/vimo/11632.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" group-title="PORTUGAL",Porto Canal
-http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/6720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="PORTUGAL",RTP 1
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/8447.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="PORTUGAL",RTP2
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg??q=70&w=350&v=2" group-title="PORTUGAL",RTP3
+http://perolabranca.dynu.net:8000/live/vimo/vimo/6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" group-title="PORTUGAL",RTP Acores
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/149.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_negativo.jpg" group-title="PORTUGAL",RTP Africa
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/148.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" group-title="PORTUGAL",RTP Internacional
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_negativo.jpg" group-title="PORTUGAL",RTP Madeira
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/147.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" group-title="PORTUGAL",RTP Memoria
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
+http://perolabranca.dynu.net:8000/live/vimo/vimo/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/maio2017/fatimatv-logo/large_fatimatv.jpg" group-title="PORTUGAL",Santuario Fatima
+http://perolabranca.dynu.net:8000/live/vimo/vimo/11634.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/SIC-TV-PT.png?fit=500%2C300" group-title="PORTUGAL",SIC
+http://perolabranca.dynu.net:8000/live/vimo/vimo/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
+http://perolabranca.dynu.net:8000/live/vimo/vimo/8929.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/Sic_k.png/revision/latest?cb=20161102122948" group-title="PORTUGAL",SIC K
+http://perolabranca.dynu.net:8000/live/vimo/vimo/95.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/Sic_mulher.png/revision/latest?cb=20110817042417" group-title="PORTUGAL",SIC Mulher
+http://perolabranca.dynu.net:8000/live/vimo/vimo/21.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/SIC_Noticias.jpg/revision/latest?cb=20130328095203" group-title="PORTUGAL",SIC Noticias
+http://perolabranca.dynu.net:8000/live/vimo/vimo/12.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/60/SICRadical2011logo.png" group-title="PORTUGAL",SIC Radical
+http://perolabranca.dynu.net:8000/live/vimo/vimo/2387.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.prisa.com/uploads/2017/06/tvi.png" group-title="PORTUGAL",TVI
+http://perolabranca.dynu.net:8000/live/vimo/vimo/4423.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Tvi24logotype.png" group-title="PORTUGAL",TVI 24
+http://perolabranca.dynu.net:8000/live/vimo/vimo/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="PORTUGAL",TVI Ficçao
+http://perolabranca.dynu.net:8000/live/vimo/vimo/23.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality
+http://perolabranca.dynu.net:8000/live/vimo/vimo/3708.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
 http://www.lengua.com/anthems/Brazil.mp3
@@ -9637,6 +9703,9 @@ http://218.60.94.32:1935/live/cs10.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/951033579340947456/caiG8P6Z_400x400.jpg" group-title="JAPAN",MTV Japan
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs31.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium
+http://buyiptv.link:25461/live/W7f67c1jNC/kTnLXaDhsj/3586.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s1.dmcdn.net/dFFwY/240x240-G2G.png" group-title="JAPAN",Nihon Eiga TV
 http://218.60.94.32:1935/live/cs19.stream/playlist.m3u8
 
@@ -9666,6 +9735,12 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs28.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prtimes.jp/i/3065/456/resize/d3065-456-913135-0.jpg" group-title="JAPAN",TBS News Bird
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs15.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/90/WOWOW_Live.png/revision/latest?cb=20170708073205" group-title="JAPAN",WOWOW Live
+http://buyiptv.link:25461/live/W7f67c1jNC/kTnLXaDhsj/4279.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/88/WOWOW_Prime.png/revision/latest?cb=20170708073145" group-title="JAPAN",WOWOW Prime
+http://buyiptv.link:25461/live/W7f67c1jNC/kTnLXaDhsj/4280.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
