@@ -3467,13 +3467,16 @@ http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(BABYTV)/Stream(02)/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LATINO",Boomerang
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/f1_latin_america-mediano.png" group-title="LATINO",Canal F1 Latinoamerica
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15947.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png" group-title="LATINO",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNSnbl.jpg" group-title="LATINO",Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINO",Cinecanal
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="LATINO",Cinelatino
@@ -3497,11 +3500,17 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://dynamicimages.directvsports.com/images/rest/Photo/Photos/General/65/44/26/654426_Rect169_480.jpg" group-title="LATINO",DirecTV Sports
 http://serviceonline.live/LIVE_EXE/H03/DIRECTVSPORTS/playlist.m3u8?key=B18Ag2Uh37t6r3Bu/I00kwOq/Kl6mRPBRX53DdORBQmPs55BcLey1GjQbN3vgxmN+0Mfe1jNZLE7z8Tr67ymXQ==
 
+#EXTINF:-1 tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="LATINO",Discovery Channel
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15935.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-G3JxPMhAjN4/WVr-tXqHkSI/AAAAAAAABUU/LUeSpwsY7mQ4WjJ8DSKc-8SK9rIHg9OWgCLcBGAs/s1600/logo_discovery%2Bcivilization.png" group-title="LATINO",Discovery Civilization
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="LATINO",Discovery Home & Health
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATINO",Discovery Kids
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15938.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="LATINO",Discovery Science
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(03)/index.m3u8
@@ -3511,6 +3520,9 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Str
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="LATINO",Discovery Turbo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="LATINO",Discovey World
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15943.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LATINO",Disney Junior
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
@@ -3521,11 +3533,17 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/266px-E%21_Logo.svg.png" group-title="LATINO",E!
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/e/ec/El_gourmet_2015.jpg/revision/latest?cb=20151227232158&path-prefix=es" group-title="LATINO",Elgourmet
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15915.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="LATINO", ESPN+
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(06)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.estrellatv.com/assets/images/HeaderLogo.png" group-title="LATINO", Estrella TV
 https://s2.limpi.tv/live/40153.m3u8?token=rZ8G_23cWUKBkcqpM7qXEA&expires=1535589714&ip=187.145.221.96
+
+#EXTINF:-1 tvg-logo="http://www.filmandarts.tv/images/fa_share.jpg" group-title="LATINO",Film & Arts
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15919.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Filmzone2016.png" group-title="LATINO",Film Zone
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
@@ -3560,6 +3578,12 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-WUviCrDic6E/WPrc_KxbnTI/AAAAAAAAAk4/tZOKjwVhHfcdJK8RlLgYmp5ttSIMSehfACLcB/s1600/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png" group-title="LATINO",Fox Premium Series
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(05)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="LATINO",Fox Sports
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15954.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LATINO",Fox Sports 2
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15955.m3u8
+
 #EXTINF:-1 tvg-logo="https://nypdecider.files.wordpress.com/2017/08/fx-tca.jpg" group-title="LATINO",FX
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m3u8
 
@@ -3567,13 +3591,13 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m
 http://s1.multicanal.tel:25461/live/jortuz/jortuz/3127.&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="LATINO",Glitz
-http://serviceonline.live/LIVE_EXE/H03/glitz/playlist.m3u8?key=B18Ag2Uh37t6r3Bu/I00kwOq/Kl6mRPBRX53DdORBQmPs55BcLey1GjQbN3vgxmN+0Mfe1jNZLE7z8Tr67ymXQ==
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15957.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="LATINO",Golden
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15960.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cf/2qwqV7S.png/revision/latest?cb=20160415162818&path-prefix=es" group-title="LATINO",Golden Edge
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3100.m3u8?key=Ouiu9eaCn0t/ovlYCLK8wiz1bJYhsulurH9/Qhb4aq4CIhNSLRDTw7eCyEqpCgPIFbDIORd51lscEUlIW0le4CWQtZWMyqCz
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15959.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730",Golden Plus
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
@@ -3646,6 +3670,9 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(05)/index.
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="LATINO",Multipremier
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="LATINO",NatGeo Wild
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15966.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="LATINO",National Geographic (Opt-1)
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(03)/index.m3u8
@@ -3675,7 +3702,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/inde
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecestaticos.com/imagestatic/clipping/4f9/c3a/4f9c3a5c54b4bac3fd08b3c810b7857e/syfy-vuelve-a-cambiar-su-imagen-en-todo-el-mundo.jpg?mtime=1504270318" group-title="LATINO",SyFy
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3097.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/11721.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_112139.png" group-title="LATINO",TBS
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TBS)/Stream(01)/index.m3u8
@@ -3685,6 +3712,9 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(03)/index.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png" group-title="LATINO",Telemundo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png" group-title="LATINO",Telemundo Internacional
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15969.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.3-mob.com/wp-content/uploads/2015/08/TLC_presenter.jpg" group-title="LATINO",TLC
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(05)/index.m3u8
@@ -3705,7 +3735,7 @@ http://s1.multicanal.tel:25461/live/jortuz/jortuz/2832.&f=.m3u8
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO",TruTV
-http://serviceonline.live/LIVE_EXE/H03/trutvHD/playlist.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15971.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="LATINO",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
@@ -3727,6 +3757,9 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(04)/i
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png" group-title="LATINO",Warner TV
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.periodicoenfoque.com.mx/wp-content/uploads/2014/05/Wobi.jpg" group-title="LATINO",WOBI
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7634.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
@@ -3753,7 +3786,7 @@ http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11326.&f=.m3u8
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11342.&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_az-cinema_m.png" group-title="MEXICO",AZ Cinema
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11285.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15927.m3u8
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",Az Clic
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11260.&f=.m3u8
@@ -3783,7 +3816,7 @@ http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11401.&f=.m3u8
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",Canal 5
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11406.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15929.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.xejtv.com/images/xejnews.png" group-title="MEXICO",Canal 50 Cd. Juarez
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11332.&f=.m3u8
@@ -3824,6 +3857,9 @@ http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-ak
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="MEXICO",Claro Sports
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/4599.&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO",De Pelicula
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15934.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" group-title="MEXICO",Distrito Comedia
 http://ligatv.net:25461/live/televall01/20082018/317.m3u8?key=DvHWsANwJTDzhdHFDHDyMnqvFgGJdomD4CRtptCOS8Gk16UBCV+OvDX2jBAxWCWX0s1nR5GhrfmFnij5K8Uj4Q==
 
@@ -3855,7 +3891,7 @@ http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_
 http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/715f703/2147483647/strip/true/crop/1024x576+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa.brightspotcdn.com%2F83%2F2d%2F305e6fca46c5bb0f962596bfe22c%2Flas-estrellas.jpg" group-title="MEXICO",Las Estrellas
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11405.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15930.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vYoOv48.png" group-title="MEXICO",Mexiquense Toluca
 http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
@@ -3876,7 +3912,7 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO",Nu9ve
-https://s2.limpi.tv/live/40909.m3u8?token=JHwNqZdkPV9_Va9ricEhYQ&expires=1535590071&ip=187.145.221.96
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15956.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
@@ -3978,7 +4014,7 @@ https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(UNICABLE)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png",Univision TDN
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/4582.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15968.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
@@ -4593,7 +4629,7 @@ http://s1.multicanal.tel:25461/live/jortuz/jortuz/3914.&f=.m3u8
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CARACOL_INT)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3876.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15958.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/895766074452566016/uZx3koXo.jpg" group-title="COLOMBIA",CNC
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
@@ -4602,7 +4638,7 @@ http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/cana
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/RCN_HD2_2016.png/revision/latest?cb=20160529172429" group-title="COLOMBIA",RCN HD2
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3916.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15928.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA",RCN Novelas
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(RCN_TELENOVELAS)/Stream(04)/index.m3u8
@@ -4620,7 +4656,7 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",Win Sports
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/4560.&f=.m3u8
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15922.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.travelindicator.com/images/flags/173.png" group-title="LABEL",~ Peru TV ~
 http://www.lengua.com/anthems/Peru.mp3
