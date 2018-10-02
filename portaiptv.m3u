@@ -10249,18 +10249,6 @@ http://59.125.55.79:60001/60004.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",~ Singapore TV ~
 http://www.lengua.com/anthems/Singapore.mp3
 
-#EXTINF:-1 group-title="SINGAPORE",2 Asia
-http://139.99.38.15:443/sd-asianseries_480/index.m3u8
-
-#EXTINF:-1 group-title="SINGAPORE",3
-http://139.99.38.15:443/sd-ch3digi_480/index.m3u8
-
-#EXTINF:-1 group-title="SINGAPORE",5
-http://139.99.38.15:443/hd-ch5_1080/index.m3u8
-
-#EXTINF:-1 group-title="SINGAPORE",7
-http://139.99.38.15:443/hd-ch7_1080/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="SINGAPORE",2 AXN
 http://139.99.38.15:443/hd-axn_720/index.m3u8
 
@@ -10350,6 +10338,9 @@ http://103.242.13.90:5555/udp/239.4.2.199:10000
 
 #EXTINF:-1 tvg-logo="https://macnhien.files.wordpress.com/2011/09/vietnam.png" group-title="LABEL",~ Vietnam TV ~
 http://www.lengua.com/anthems/Vietnam.mp3
+
+#EXTINF:-1 tvg-logo="https://tutimviec.com/wp-content/uploads/2016/04/truyen-hinh-gia-lai-tuyen-dung.jpg" group-title="VIETNAM",THGL
+http://vietcago.net/vstv/gialaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OnoR2uR879CFw_u3bBbp-LVELW4N3CI0A-qCKpX4NnbMtjP0xAaBkPyWB1jUTkbggQ" group-title="VIETNAM",Jaal TV
 http://209.58.160.112/jaaltvhls/live.m3u8
