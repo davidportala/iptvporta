@@ -4101,7 +4101,7 @@ http://www.lengua.com/anthems/Mexico.mp3
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Canal52Mexico.jpg/245px-Canal52Mexico.jpg" group-title="MEXICO",52 MX
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11266.&f=.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68780.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vzTZCxv.png" group-title="MEXICO",ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
@@ -4109,32 +4109,38 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="MEXICO",Aprende TV Mexico City
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png/revision/latest?cb=20170917052727&path-prefix=es" group-title="MEXICO",AyM Sports
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68850.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png" group-title="MEXICO",Azteca Uno
-http://tvpremiumhd.club/lista-gratuita/214529/tv/v/606.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/89698.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11326.&f=.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/89697.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/8/8f/AYMSportslogo.jpg/revision/latest?cb=20160110005121&path-prefix=es" group-title="MEXICO",AYM Sports
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11342.&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_az-cinema_m.png" group-title="MEXICO",AZ Cinema
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15927.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77745.m3u8
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",Az Clic
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11260.&f=.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/80191.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_6112.png" group-title="MEXICO",AZ Corazón
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AZCORAZON_HD)/Stream(02)/index.m3u8?key=B18Ag2Uh37uYXkKCxhKUjtjPl4o1Hrs0CbEt9d1FdAMDrL69TcLAyVrwACpk5uMI26HgcKrPwFVVmfeRuh8Ir3+DF5sPYzOGdpBIV07PyJLeqQpomfgKpg/BBRTI2A0L
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",AZ Mundo
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AZMUNDO_HD)/Stream(02)/index.m3u8?key=B18Ag2Uh37uYXkKCxhKUjtjPl4o1Hrs0CbEt9d1FdAMDrL69TcLAyVrwACpk5uMI26HgcKrPwFUr7qzpCm9Z0Hj29WbNyt5VeK6T1+29sHksgyvdN1J7HHGjbcp9c2gT
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/78683.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_Azteca_7.png/210px-Logo_Azteca_7.png" group-title="MEXICO",Azteca 7
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11408.&f=.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77856.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="MEXICO",Azteca Uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal241-792x612-863910366.png" group-title="MEXICO",Bandamax
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68367.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.c7jalisco.com/sites/default/files/logo%20web.jpg" group-title="MEXICO",C7 Jalisco
 http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
@@ -4149,7 +4155,7 @@ http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11401.&f=.m3u8
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",Canal 5
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15929.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/80190.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.xejtv.com/images/xejnews.png" group-title="MEXICO",Canal 50 Cd. Juarez
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11332.&f=.m3u8
@@ -4188,7 +4194,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="MEXICO",Claro Sports
-http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/4599.&f=.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68685.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO",De Pelicula
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15934.m3u8
@@ -4201,6 +4207,9 @@ http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_el-financiero-bloomberg_m.png" group-title="MEXICO",El Financiero Bloomberg
 http://iptv.wtf:25461/live/p16uTeyBT/28c1Yq2kVb/11340.&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://exa.tv/imagenes/exa_tv.png" group-title="MEXICO",Exa TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/97567.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png" group-title="MEXICO",FOROtv
 http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
@@ -4224,7 +4233,7 @@ http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_
 http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/715f703/2147483647/strip/true/crop/1024x576+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa.brightspotcdn.com%2F83%2F2d%2F305e6fca46c5bb0f962596bfe22c%2Flas-estrellas.jpg" group-title="MEXICO",Las Estrellas
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15930.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68587.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vYoOv48.png" group-title="MEXICO",Mexiquense Toluca
 http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
@@ -4245,7 +4254,7 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO",Nu9ve
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15956.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/99781.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
@@ -4344,7 +4353,7 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-u-logo.jpg" group-title="MEXICO",U
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(UNICABLE)/Stream(04)/index.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68462.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png",Univision TDN
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15968.m3u8
@@ -5025,16 +5034,22 @@ http://miiptvlatino.com:8000/live/ruben/ruben/3967.m3u8
 http://www.lengua.com/anthems/Peru.mp3
 
 #EXTINF:-1 tvg-logo="http://teveonline.net/wp-content/uploads/2010/04/america_tv.png" group-title="PERU",America TV
-http://miiptvlatino.com:8000/live/ruben/ruben/809.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/97667.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg" group-title="PERU",Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png/1200px-ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV+
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/118871.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU",BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/blog_704_328/public/Nota%20de%20prensa%201%20-%20Logo%20Canal%20IPe.png" group-title="PERU",Canal IPe
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2017/03/29/58db9340b3640.jpeg" group-title="PERU",Canal N
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/116117.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.paginasiete.bo/u/fotografias/m/2017/8/22/f999x666-174824_269889_36.jpg" group-title="PERU",Capital TV (Opt-1)
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
@@ -5060,20 +5075,32 @@ http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Digital_TV_Peru.jpg" group-title="PERU",Educa TC
 http://tvpremiumhd.club/lista-gratuita/214529/tc.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="PERU",IPE
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68867.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/902547125799669762/AVoSOZLm_400x400.jpg" group-title="PERU",Latina
-http://miiptvlatino.com:8000/live/ruben/ruben/814.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77878.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU",Mega TV Araquipa
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="PERU",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/99858.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/a/ad/NexTV.jpg/revision/latest?cb=20170327052750&path-prefix=es" group-title="PERU",Next TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/107337.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/797085707680550912/ghxg1eJ1_400x400.jpg" group-title="PERU",NTV Peru
 http://st2.worldkast.com/8028/smil:8028.smil/chunklist_w1878432359_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_039be0b331.png" group-title="PERU",Panamericana TV
-http://miiptvlatino.com:8000/live/ruben/ruben/813.m3u8
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77877.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="PERU",Peru Magico
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77876.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.universidadperu.com/imgmarca/2006-276527.gif" group-title="PERU",Plus TV
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/77875.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="PERU",Radio San Borja 91.1 FM Lima
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
@@ -5609,6 +5636,9 @@ http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_27037.png" group-title="VENEZUELA",Canal i
 http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="VENEZUELA",Globovisión
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/71039.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1154505403/LOGO_PLUS_V1_400x400.jpg" group-title="VENEZUELA",Plus TV
 http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
 
@@ -5635,6 +5665,12 @@ http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gentiuno.com/gt1media/2014/11/Vale-TV-Portada-620x310.jpg" group-title="VENEZUELA",Vale TV
 http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_de_Venevisi%C3%B3n.svg/854px-Logo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA",Venevision
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68886.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999310206923255808/2sdl67vU_400x400.jpg" group-title="VENEZUELA",Venevision Plus
+http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/68721.m3u8
 
 #EXTINF:0 tvg-logo="http://vepacotv.tv/images/logo.png" group-title="VENEZUELA",Vepaco TV
 http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
