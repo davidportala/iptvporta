@@ -10849,6 +10849,15 @@ http://www.lengua.com/anthems/Vietnam.mp3
 #EXTINF:-1 tvg-logo="https://tutimviec.com/wp-content/uploads/2016/04/truyen-hinh-gia-lai-tuyen-dung.jpg" group-title="VIETNAM",THGL
 http://vietcago.net/vstv/gialaitv.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://i.imgur.com/JVuFpbW.png" group-title="VIETNAM",THVL 1
+https://live2.thvli.vn/e4af824269287d5ebd0b44048eaad90d1539614969/live/thvl1hd_2160000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tivi.101vn.com/images/thvl2.png" group-title="VIETNAM",THVL 2
+https://live2.thvli.vn/cd76f076648aebe7b7a8badaf78529d81539614146/live/thvl2hd_2160000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20150321182312%21THVL_Logo.png" group-title="VIETNAM",THVL Radio
+https://radio.thvli.vn/523a857fe36ef58234915f6d41a552a11539613937/thvlaudio/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OnoR2uR879CFw_u3bBbp-LVELW4N3CI0A-qCKpX4NnbMtjP0xAaBkPyWB1jUTkbggQ" group-title="VIETNAM",Jaal TV
 http://209.58.160.112/jaaltvhls/live.m3u8
 
