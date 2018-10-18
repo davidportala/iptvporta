@@ -10220,13 +10220,13 @@ http://218.60.94.32:1935/live/cs02.stream/playlist.m3u8
 http://218.60.94.32:1935/live/cs14.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J-Sports 1
-http://218.60.94.32:1935/live/cs05.stream/playlist.m3u8
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16594.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J-Sports 2
-http://218.60.94.32:1935/live/cs06.stream/playlist.m3u8
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16593.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J-Sports 3
-http://218.60.94.32:1935/live/cs07.stream/playlist.m3u8
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16592.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J-Sports 4
 http://218.60.94.32:1935/live/cs09.stream/playlist.m3u8
@@ -10280,10 +10280,10 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs28.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs15.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/9/90/WOWOW_Live.png/revision/latest?cb=20170708073205" group-title="JAPAN",WOWOW Live
-http://buyiptv.link:25461/live/W7f67c1jNC/kTnLXaDhsj/4279.m3u8
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16590.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/88/WOWOW_Prime.png/revision/latest?cb=20170708073145" group-title="JAPAN",WOWOW Prime
-http://buyiptv.link:25461/live/W7f67c1jNC/kTnLXaDhsj/4280.m3u8
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16591.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
@@ -10326,6 +10326,9 @@ http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/G1_sbs_South_Korea.jpg" group-title="SOUTH KOREA", G1 SBS
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kcontentbank.com//page/a//page/distributor_group/image.cm?fileid=539908&contents_id=&image_type=D" group-title="SOUTH KOREA",Jei TV
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16589.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.im/wp-content/uploads/2014/04/KBC-SBS-HD-live.gif" group-title="SOUTH KOREA",KBC SBS
 http://221.157.125.232:1935/live/kbctv/playlist.m3u8
