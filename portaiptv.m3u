@@ -7215,6 +7215,9 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5d/EPSIlon.png" group-title="GREECE",Epsilon TV
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png" group-title="GREECE",ERT World
+http://216.241.148.28:8000/play/a00j/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/rff1DsY.gif" group-title="GREECE",Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
@@ -7284,17 +7287,47 @@ http://zouglacam.mdc.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rlv.zcache.com/cyprus_national_world_flag_square_sticker-r38fa1b624e1c483ea70d516fbd66397f_v9wf3_8byvr_324.jpg" group-title="LABEL",~ Cyprus TV ~
 http://www.lengua.com/anthems/Cyprus.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png" group-title="CYPRUS",Rik Sat (Greek)
-http://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a_eq473601t9w8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="CYPRUS",Sigma TV (Greek)
-http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 tvg-logo=https://i1.wp.com/livingcolorfestival.com/wp-content/uploads/2018/05/10.png?resize=350%2C350&ssl=1" group-title="CYPRUS",Alpha Cyprus
+http://216.241.148.28:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039529.png" group-title="CYPRUS",BRT 1 (Turkish)
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039476.png" group-title="CYPRUS",BRT 2 (Turkish)
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jobwatch.com/files/companies/3390/LOGO.png" group-title="CYPRUS",Capital
+http://216.241.148.28:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" group-title="CYPRUS",CBC TV Mall
+http://216.241.148.28:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" group-title="CYPRUS",Extra
+http://216.241.148.28:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Plus_Channel_02_-_Grey.png" group-title="CYPRUS",Plus
+http://216.241.148.28:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Logo_%CE%A1%CE%99%CE%9A1_2015.svg.png/revision/latest?cb=20161008211537" group-title="CYPRUS",RIK 1
+http://216.241.148.28:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Logo_%CE%A1%CE%99%CE%9A2_2015.svg.png/revision/latest?cb=20161008211644" group-title="CYPRUS",RIK 2
+http://216.241.148.28:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/RIK_HD_logo_80x70.png/revision/latest?cb=20180117192531" group-title="CYPRUS",RIK HD
+http://216.241.148.28:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png" group-title="CYPRUS",Rik Sat (Greek)
+http://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a_eq473601t9w8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="CYPRUS",Sigma TV (Greek)
+http://81.21.47.74/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Smile_TV.jpg" group-title="CYPRUS",Smile TV
+http://216.241.148.28:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://protevousa.com/wp-content/uploads/2018/06/logo_tvone-cyprus.jpg" group-title="CYPRUS",TVONE
+http://216.241.148.28:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",~ Turkey TV ~
 http://www.lengua.com/anthems/Turkey.mp3
