@@ -9898,53 +9898,62 @@ http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="CHINA",24/7 Shin Chan
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/327_300.png" group-title="HONG KONG",Asian Action Channel
-http://59.125.55.79:60001/60003.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="CHINA",Anhui Satellite TV
+http://112.50.243.7/PLTV/88888888/224/3221225945/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",BTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",Beijing TV
+http://112.50.243.7/PLTV/88888888/224/3221225937/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",BTV International
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" group-title="CHINA",CCTV-1
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000120&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225922/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_财经.svg/1200px-CCTV-2_财经.svg.png" group-title="CHINA",CCTV-2
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000121&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225923/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3综艺.png" group-title="CHINA",CCTV-3
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000122&playtoken=ABCDEFGH&auth=no
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/1200px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" group-title="CHINA",CCTV-4
+http://112.50.243.7/PLTV/88888888/224/3221225816/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" group-title="CHINA",CCTV-5
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000123&playtoken=ABCDEFGH&auth=no
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B体育赛事.png" group-title="CHINA",CCTV-5+
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000131&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225831/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6电影.png" group-title="CHINA",CCTV-6
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000124&playtoken=ABCDEFGH&auth=no
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7军事农业.png" group-title="CHINA",CCTV-7
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000125&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225927/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8电视剧.png" group-title="CHINA",CCTV-8
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000126&playtoken=ABCDEFGH&auth=no
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" group-title="CHINA",CCTV-9
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000127&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225929/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" group-title="CHINA",CCTV-10
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000128&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225824/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CCTV-11%E6%88%8F%E6%9B%B2.png" group-title="CHINA",CCTV-11
+http://112.50.243.7/PLTV/88888888/224/3221225825/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" group-title="CHINA",CCTV-12
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000129&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225826/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV 13
-http://61.155.167.11/live/cctv13.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225827/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" group-title="CHINA",CCTV-14
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
+http://112.50.243.7/PLTV/88888888/224/3221225933/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="CHINA",CCTV 15
-http://103.242.13.90:5555/udp/239.4.2.72:10000
+http://112.50.243.7/PLTV/88888888/224/3221225828/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="CHINA",Celestial Movies
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/d7458271/index.m3u8
@@ -9970,6 +9979,9 @@ http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eAHHqs0.png" group-title="CHINA",China Weather TV [NoKodi]
 http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="CHINA",CQTV-Chongqing
+http://112.50.243.7/PLTV/88888888/224/3221225949/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqu0Aqb.jpg" group-title="CHINA",DOX TV
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000114&playtoken=ABCDEFGH&auth=no
 
@@ -9985,8 +9997,8 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
 #EXTINF:-1 tvg-logo="https://images.idgesg.net/images/article/2018/07/hbologo-100763744-large.jpg" group-title="CHINA",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 
-#EXTINF:-1 group-title="CHINA",Hollywood
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q0rskj6h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Hljtv.png" group-title="CHINA",Heilongjiang TV
+http://112.50.243.7/PLTV/88888888/224/3221225940/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/f3/c9/b3/f3c9b37c-2bba-fd77-5c6b-155bbaf0ef6b/source/512x512bb.jpg" group-title="CHINA",Huangshi TV 1
 http://huangshifb.live.cjyun.org/video/s10200-hsxwzh.m3u8
@@ -10025,13 +10037,10 @@ http://live.cjyun.org/video/s10008-hbws2018/index.m3u8
 http://live.cjyun.org/video/s10008-klcz2018/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hunantv-live.jpg" group-title="CHINA",Hunan TV
-http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hunantv-live.jpg" group-title="CHINA",Hunan TV*
-http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
+http://112.50.243.7/PLTV/88888888/224/3221225935/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="CHINA",Jiangsu Satellite TV
-http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225930/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251044163J.png" group-title="CHINA",Jiangxi TV
 http://223.110.243.173/PLTV/3/224/3221227214/index.m3u8
@@ -10054,8 +10063,11 @@ http://stream2.jinhua.com.cn/jjsh/app/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 4
 http://stream.jinhua.com.cn/dsnc/app/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=19cac33ab7fb43161a1f7d7c189f211e/7e3e6709c93d70cf1f6009fcfddcd100bba12bac.jpg" group-title="CHINA" group-title="CHINA",Kangba Satellite TV
+#EXTINF:-1 tvg-logo="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=19cac33ab7fb43161a1f7d7c189f211e/7e3e6709c93d70cf1f6009fcfddcd100bba12bac.jpg" group-title="CHINA",Kangba Satellite TV
 http://scgctvshow.sctv.com/sdlive/kangba/3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.juhua15.com/epg/upfile/85a81dd0-1904-4196-a36c-4d8071ffcaf9.jpg" group-title="CHINA",Liaoning TV
+http://112.50.243.7/PLTV/88888888/224/3221225947/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV
 http://stream.mastvnet.com/MSTV/playlist.m3u8
@@ -10102,6 +10114,21 @@ http://stream.snrtv.com/sxtvs-5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg" group-title="CHINA",Shandong TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
 
+#EXTINF:-1 tvg-logo="http://a2.att.hudong.com/54/15/01200000023788136453155156544_s.jpg" group-title="CHINA",Shanghai Art Media
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ysrw/700000/d1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mlzhongguo.com/Upload/Image/Content/2014-06-11/201406111002367177.jpg" group-title="CHINA",Shanghai Business Network
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/dycj/700000/d1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xinshang.jpg" group-title="CHINA",Shanghai Channel Young
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/shss/700000/d1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaiyule.jpg" group-title="CHINA",Shanghai Entertainment TV
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ylpd/700000/d1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaixinwen_zbb.jpg" group-title="CHINA",Shanghai News
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/xwzhhd/700000/d1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.globalfromasia.com/reviews/wp-content/uploads/sites/5/2018/10/shenzhen-tv.jpeg" group-title="CHINA",Shenzhen TV
 http://live.italkdd.com/cds160/hls/channel033/channel033_2000.m3u8
 
@@ -10137,6 +10164,9 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png" group-title="CHINA",Star Chinese Movies
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/taishan_tv_cn.png" group-title="CHINA",Taishan TV
+http://112.50.243.7/PLTV/88888888/224/3221225943/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="CHINA",The Travel Channel
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
@@ -10193,7 +10223,7 @@ http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg" group-title="CHINA",Zhejiang TV
-http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225934/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdzjdy.jpg" group-title="CHINA",Zhujiang Movies
 http://59.125.55.79:60001/60001.m3u8
