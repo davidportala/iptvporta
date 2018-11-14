@@ -3137,11 +3137,17 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="BRAZIL",E-Parana
 http://200.189.113.201/hls/tve.m3u8
 
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo-880x660.png" group-title="BRAZIL",Fox
+https://nn3.azureedge.net//hls1/fox.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hapra.com.br/images/foztv-novo.jpg " group-title="BRAZIL",Foz TV
 http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="BRAZIL",HBO Family
+https://nn4.azureedge.net//hls1/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
@@ -3193,6 +3199,12 @@ http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" group-title="BRAZIL",TNT
+https://nn4.azureedge.net//hls1/tnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="BRAZIL",Tooncast
+https://nn3.azureedge.net//hls1/tooncast.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="BRAZIL",TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
@@ -8912,49 +8924,49 @@ http://112.50.243.7/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",BTV International
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" group-title="CHINA",CCTV-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" group-title="CHINA",CCTV-1
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226624/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_财经.svg/1200px-CCTV-2_财经.svg.png" group-title="CHINA",CCTV-2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/1280px-CCTV-2_%E8%B4%A2%E7%BB%8F.svg.png" group-title="CHINA",CCTV-2
 http://120.198.235.70/112.50.243.10/PLTV/88888888/224/3221225800/2.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CCTV-3综艺.png" group-title="CHINA",CCTV-3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CCTV-3%E7%BB%BC%E8%89%BA.svg/1280px-CCTV-3%E7%BB%BC%E8%89%BA.svg.png" group-title="CHINA",CCTV-3
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000122&playtoken=ABCDEFGH&auth=no
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" group-title="CHINA",CCTV-5
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000123&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/310px-CCTV-5%E4%BD%93%E8%82%B2.png" group-title="CHINA",CCTV-5
+http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B体育赛事.png" group-title="CHINA",CCTV-5+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="CHINA",CCTV-5+
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6电影.png" group-title="CHINA",CCTV-6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png" group-title="CHINA",CCTV-6
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000124&playtoken=ABCDEFGH&auth=no
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7军事农业.png" group-title="CHINA",CCTV-7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7%E5%86%9B%E4%BA%8B%E5%86%9C%E4%B8%9A.png" group-title="CHINA",CCTV-7
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8电视剧.png" group-title="CHINA",CCTV-8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="CHINA",CCTV-8
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000126&playtoken=ABCDEFGH&auth=no
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" group-title="CHINA",CCTV-9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9%E7%BA%AA%E5%BD%95.png" group-title="CHINA",CCTV-9
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" group-title="CHINA",CCTV-10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10%E7%A7%91%E6%95%99.png" group-title="CHINA",CCTV-10
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CCTV-11%E6%88%8F%E6%9B%B2.png" group-title="CHINA",CCTV-11
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" group-title="CHINA",CCTV-12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="CHINA",CCTV-12
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV-13
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" group-title="CHINA",CCTV-14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14%E5%B0%91%E5%84%BF.png" group-title="CHINA",CCTV-14
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="CHINA",CCTV-15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15%E9%9F%B3%E4%B9%90.png" group-title="CHINA",CCTV-15
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
