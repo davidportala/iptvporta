@@ -9311,6 +9311,27 @@ http://112.50.243.7/PLTV/88888888/224/3221225934/index.m3u8
 #EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdzjdy.jpg" group-title="CHINA",Zhujiang Movies
 http://59.125.55.79:60001/60001.m3u8
 
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/995276519.png" group-title="LABEL",~ Macau TV ~
+http://www.lengua.com/anthems/Macau.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",Canal Macau
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="MACAU",Macau Satellite
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",Radio Macau FM 100.7
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",TDM News
+http://59.125.55.79:60001/60001.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="MACAU",TDM Ou Mun
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",TDM Sport
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
 http://www.lengua.com/anthems/Taiwan.mp3
 
