@@ -5614,20 +5614,35 @@ https://cdn-01.bonus-tv.ru:8090/zvezda/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Belarus-01.png" group-title="LABEL",~ Belarus TV ~
 http://www.lengua.com/anthems/Belarus.mp3
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/e/e3/Беларусь-1.png/revision/latest?cb=20130804112508&path-prefix=ru" group-title="BELARUS",Belarus 1
+http://85.132.71.6/ru/belarus/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://belarus24.by/upload/iblock/a54/a5430290b155c789334a043833bebae1.png" group-title="BELARUS",Belarus 24
 http://video.tvr.by:1935/belarus24/live/playlist.m3u8
 
-#EXTINF:-1,Hollywood Classic
+#EXTINF:-1 tvg-logo="https://img.tyt.by/p/0a/e/dfdsggf.jpg" group-title="BELARUS",BielMuz TV
+http://streams.tv.mts.by/belmustv/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.voka.tv/rosing-voka-production/5a964458b47d79585f4f_300x300c.png" group-title="BELARUS",Hollywood Classic
 http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.voka.tv/rosing-voka-production/d86dde27f80a389a14f9_300x300c.png" group-title="BELARUS",Indiyskaya Classica
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.borovik.by/assets/uploads/img/raznoe/ont.jpg" group-title="BELARUS",ONT
 http://93.125.31.151:1935/live/ont.stream/playlist.m3u8
 
-#EXTINF:-1,Soviet Classic
-http://streams.tv.mts.by/soviet_classic/1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oboz.by/wp-content/uploads/2016/10/1377853613_stv.jpg" group-title="BELARUS",STV
 http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mtis.by/news/images/2017-07-13-2.png" group-title="BELARUS",Svetloe TV
+http://streams.tv.mts.by/svetloe_tv/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.voka.tv/rosing-voka-production/d86dde27f80a389a14f9_300x300c.png" group-title="BELARUS",Soviet Classic
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.voka.tv/rosing-voka-production/79af56d1996137cd9f86_300x300c.png" group-title="BELARUS",Zarubezhnaya Classica
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/97/PNG/256/ukraine_flags_flag_17076.png" group-title="LABEL",~ Ukraine TV ~
 http://www.lengua.com/anthems/Ukraine.mp3
@@ -6045,6 +6060,18 @@ http://78.40.108.218/7channel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1tv.kz/wp-content/uploads/2017/11/LOG.png" group-title="KAZAKHSTAN",Channel One Eurasia
 http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://halyq-arna.kz/wp-content/uploads/2017/11/hlogo.png" group-title="KAZAKHSTAN",Halyq Arna
+http://sc.id-tv.kz/HalykArna_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kazakh_tv_logo_png_1.png" group-title="KAZAKHSTAN",Kazakh TV
+http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Khabar_Logo.svg/1280px-Khabar_Logo.svg.png" group-title="KAZAKHSTAN",Khabar TV
+http://sc.id-tv.kz/Habar_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="http://telekomza.ru/wp-content/uploads/2012/09/tvoetv.jpg" group-title="KAZAKHSTAN",Тvoe TV
+http://sc.id-tv.kz/TvoeTV_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Kyrgyzstan-icon.png" group-title="LABEL",~ Kyrgyzstan TV ~
 http://www.lengua.com/anthems/Kyrgyzstan.mp3
