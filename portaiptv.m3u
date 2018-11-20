@@ -9425,7 +9425,7 @@ http://61.216.177.73/sta/ch1865033.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Skylinklogo1.png" group-title="TAIWAN",Sky Link TV 2 (USA)
 http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.culturalsurvival.org/sites/default/files/styles/max_1300x1300/public/media/taiwan_indigenous_tv.png?itok=O6ONeKbD" group-title="TAIWAN",TITV
+#EXTINF:-1 tvg-logo="https://www.culturalsurvival.org/sites/default/files/styles/max_1300x1300/public/media/taiwan_indigenous_tv.png" group-title="TAIWAN",TITV
 http://61.216.177.73/sta/ch1865031.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="TAIWAN",TTV News
@@ -9437,10 +9437,10 @@ http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 #EXTINF:-1 tvg-logo="http://www.vivatv.com.tw/common/images/header/logo.png" group-title="TAIWAN",Viva TV 1
 http://61.216.177.73/sta/ch1865029.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.wantblogger.com/wp-content/uploads/2018/07/ZWTV.png" group-title="TAIWAN",YOYO TV
+#EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/39/27/e5a1faf1ab49b04225ccdef91739.jpg" group-title="TAIWAN",YOYO TV
 http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/yoyo.png" group-title="TAIWAN",ZWTV
+#EXTINF:-1 tvg-logo="https://www.wantblogger.com/wp-content/uploads/2018/07/ZWTV.png" group-title="TAIWAN",ZWTV
 http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",~ Singapore TV ~
