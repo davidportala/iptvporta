@@ -8999,11 +8999,17 @@ http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="CHINA",Anhui Satellite TV
 http://112.50.243.7/PLTV/88888888/224/3221225945/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jykt.jpg" group-title="CHINA",Aniworld
+http://120.221.2.54:8089/PLTV/88888888/224/3221225559/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",Beijing TV
 http://112.50.243.7/PLTV/88888888/224/3221225937/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",BTV International
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="CHINA",BTV Kaku Kids Channel
+http://120.221.2.54:8089/PLTV/88888888/224/3221225562/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" group-title="CHINA",CCTV-1
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226624/1.m3u8
@@ -9018,13 +9024,13 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
 http://183.251.61.198/PLTV/88888888/224/3221225802/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/310px-CCTV-5%E4%BD%93%E8%82%B2.png" group-title="CHINA",CCTV-5
-http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
+http://120.221.2.40:8089/PLTV/88888888/224/3221225827/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="CHINA",CCTV-5+
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png" group-title="CHINA",CCTV-6
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000124&playtoken=ABCDEFGH&auth=no
+http://120.221.2.40:8089/PLTV/88888888/224/3221225513/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7%E5%86%9B%E4%BA%8B%E5%86%9C%E4%B8%9A.png" group-title="CHINA",CCTV-7
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
@@ -9092,6 +9098,30 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADzw27g.jpg" group-title="CHINA",Happiness HD
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000100&playtoken=ABCDEFGH&auth=no
 
+#EXTINF:-1 tvg-logo="http://a1.att.hudong.com/74/93/19300533947199133576933767256.jpg" group-title="CHINA",Henan TV
+http://123.163.119.21:9601/live/live1/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV City
+http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV Drama
+http://123.163.119.21:9601/live/live5/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV Huancheng Shopping
+http://123.163.119.21:9601/live/live7/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV Legal
+http://123.163.119.21:9601/live/live4/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV National
+http://123.163.119.21:9601/live/live10/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV News
+http://123.163.119.21:9601/live/live6/500K/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/c2/0f/60/c20f606dd5b8b0227b08291f1a6942fe.png" group-title="CHINA",HNTV Public
+http://123.163.119.21:9601/live/live8/500K/tzwj_video.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.idgesg.net/images/article/2018/07/hbologo-100763744-large.jpg" group-title="CHINA",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 
@@ -9149,16 +9179,16 @@ http://112.50.243.7/PLTV/88888888/224/3221225851/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="CHINA",Jingbao Tiyu Sports
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000102&playtoken=ABCDEFGH&auth=no
 
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 1
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA",Jinhua TV 1
 http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 2
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA",Jinhua TV 2
 http://stream.jinhua.com.cn/jykj/app/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 3
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA",Jinhua TV 3
 http://stream2.jinhua.com.cn/jjsh/app/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA" group-title="CHINA",Jinhua TV 4
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA",Jinhua TV 4
 http://stream.jinhua.com.cn/dsnc/app/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=19cac33ab7fb43161a1f7d7c189f211e/7e3e6709c93d70cf1f6009fcfddcd100bba12bac.jpg" group-title="CHINA",Kangba Satellite TV
@@ -9341,11 +9371,8 @@ http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thestandard.com.hk/newsImage/20180629/50015060contentPhoto1.jpg" group-title="HONG KONG",TVB
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="HONG KONG",TVB Xing He
-http://59.125.55.79:60001/60002.m3u8
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/zuodongkatong.jpg" group-title="CHINA",Toonmax TV
+http://120.221.2.54:8089/PLTV/88888888/224/3221225561/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wanzhou.jpg" group-title="CHINA",Wanzhou Film & Art TV
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
@@ -9385,6 +9412,9 @@ http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="CHINA",Xian TV News
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251TJJ64.png" group-title="CHINA",Yunnan Satellite TV
+http://120.221.2.42:8089/PLTV/88888888/224/3221225596/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.zongyijia.net/images/NewPath/2018/2/2/20180202104519_8585.jpg" group-title="CHINA",Zheijang Satellite TV
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
