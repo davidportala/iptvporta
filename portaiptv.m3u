@@ -8874,6 +8874,21 @@ http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="CHINA",CQTV-Chongqing
 http://112.50.243.7/PLTV/88888888/224/3221225949/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv1.jpg" group-title="CHINA",CTV-1
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv2.jpg" group-title="CHINA",CTV-2
+http://stream.chinactv.com/ctv2/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv3.jpg" group-title="CHINA",CTV-3
+http://stream.chinactv.com/ctv3/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv4.jpg" group-title="CHINA",CTV-4
+http://stream.chinactv.com/ctv4/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://v.guojitv.com/upfile/c44c1344-9894-4200-a663-3482a938c466.jpg" group-title="CHINA",CTV-5
+http://stream.chinactv.com/ctv5/sd/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqu0Aqb.jpg" group-title="CHINA",DOX TV
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000114&playtoken=ABCDEFGH&auth=no
 
