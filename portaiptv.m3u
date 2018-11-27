@@ -2199,8 +2199,8 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws_114_720p.m3u8?f
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",6Ter
-https://s2.tntendirect.com/6ter/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/8_MONT_BLANC.jpg" group-title="FRANCE",8 Mont Blanc
+https://stream-08.ix7.dailymotion.com/dm/3/x3wqv8b/live-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
 http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
@@ -2271,18 +2271,6 @@ https://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.afflelou.com/fstrz/r/s/www.afflelou.com/images/afflelou/france/publications/2018/MARS/CESTAUPROGRAMME_FRANCE2/COUV_France_2.jpg?frz-v=191" group-title="FRANCE",France 2
-https://s2.tntendirect.com/france2/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" group-title="FRANCE",France 3
-https://s2.tntendirect.com/france3/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png" group-title="FRANCE",France 4
-https://s2.tntendirect.com/france4/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="FRANCE",France 5
-https://s2.tntendirect.com/france5/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
@@ -2294,9 +2282,6 @@ https://s2.tntendirect.com/franceo/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gulli_logo_2017.png/200px-Gulli_logo_2017.png" group-title="FRANCE",Gulli
-https://s2.tntendirect.com/gulli/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCE",Gong
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
@@ -2310,9 +2295,6 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE",L'Equipe 21
 http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="FRANCE",M6
-https://s2.tntendirect.com/m6/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" group-title="FRANCE",Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
@@ -2321,15 +2303,6 @@ http://c0.cdn.trinity-tv.net/hls/195/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/NRJ_12_2015_logo.png" group-title="FRANCE",NRJ 12
-https://s2.tntendirect.com/nrj12/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.yonigarcin.com/wp-content/uploads/NT1-logo-2005.png" group-title="FRANCE",NT1
-https://s2.tntendirect.com/nt1/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/fr/NUMERO23.png" group-title="FRANCE",Numero 23
-https://s2.tntendirect.com/numero23/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
 http://streaming-hub.com/stream/rmc.m3u8
@@ -2342,6 +2315,9 @@ http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-149762
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.science-et-vie.tv/images/logo.png" group-title="FRANCE",Science et Vie TV
 http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/telesud.info/wp-content/uploads/2018/10/picto-telesud.png?fit=500%2C500&ssl=1" group-title="FRANCE",TeleSud
+https://stream-09.dc3.dailymotion.com/dm/3/x52et3w/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
@@ -2373,26 +2349,17 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png" group-title="FRANCE",TV5 Monde Info (Opt-2)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TV7_Bordeaux.jpg" group-title="FRANCE",TV7 Bordeaux
+http://stream-13.dc3.dailymotion.com/50/dm/3/x46ancl/live-1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
 http://live2.awedia.com/hls/tebeo.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
-https://s2.tntendirect.com/tf1/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logolounge.com/article_images/artpics/art_012413_Side01.jpg" group-title="FRANCE",TFHD1
-https://s2.tntendirect.com/hd1/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180622/cxi/kisspng-tmc-logo-france-television-channel-50-50-5b2cb251469552.3280258315296558892891.jpg" group-title="FRANCE",TMC
-https://s2.tntendirect.com/tmc/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/671687963689033728/k-tLY6M4.jpg" group-title="FRANCE",Toute l'Histoire
 http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/W_9_logo.png" group-title="FRANCE",W9
-https://s2.tntendirect.com/w9/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
 http://str81.creacast.com/weo/high/live.m3u8
@@ -8659,7 +8626,7 @@ http://192.240.127.34:1935/live/cs10.stream/playlist.m3u8
 http://cdnak9.litecdn.net/channels/4/10804.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium
-http://listaccess.me:8880/live/cordeirokamila/morango1990/2234.m3u8
+http://58.230.68.120:9981/stream/channelid/414842870?ticket=CF023A8A55F233186DA22E9675BC181AB84CABD7&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/260.png" group-title="JAPAN",Nihon Eiga TV
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
