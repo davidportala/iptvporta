@@ -8634,6 +8634,9 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
 http://www.news24.jp/livestream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/220px-QVC_logo_2015.png" group-title="JAPAN",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Xbf-Pbj-H5s/Wdt7y5rob9I/AAAAAAAAdfw/4anpgGjgZhYLh3Uyw5nEOnl2R9eZUaWbACLcBGAs/s1600/q1.jpg" group-title="JAPAN",Samurai Fighting TV
 http://192.240.127.34:1935/live/cs08.stream/playlist.m3u8
 
@@ -8776,7 +8779,7 @@ http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226624/1.m3u8
 http://120.198.235.70/112.50.243.10/PLTV/88888888/224/3221225800/2.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CCTV-3%E7%BB%BC%E8%89%BA.svg/1280px-CCTV-3%E7%BB%BC%E8%89%BA.svg.png" group-title="CHINA",CCTV-3
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000122&playtoken=ABCDEFGH&auth=no
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558316_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/1200px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" group-title="CHINA",CCTV-4
 http://183.251.61.198/PLTV/88888888/224/3221225802/index.m3u8
@@ -8794,7 +8797,7 @@ http://120.221.2.40:8089/PLTV/88888888/224/3221225513/index.m3u8
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="CHINA",CCTV-8
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000126&playtoken=ABCDEFGH&auth=no
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558319_800.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9%E7%BA%AA%E5%BD%95.png" group-title="CHINA",CCTV-9
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
@@ -8812,13 +8815,22 @@ http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14%E5%B0%91%E5%84%BF.png" group-title="CHINA",CCTV-14
-http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607553_800.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15%E9%9F%B3%E4%B9%90.png" group-title="CHINA",CCTV-15
 http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CCTV-%E6%96%B0%E7%A7%91%E5%8A%A8%E6%BC%AB.png" group-title="CHINA",CCTV-Shinco Animation
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607563_800.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.53zb.com/images/pindao_img/1-150125214044E7.jpg" group-title="CHINA",Channel Max
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106680414_800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shenghuoshishang.jpg" group-title="CHINA",Channel Young
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558311_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://tva2.sinaimg.cn/crop.0.0.180.180.180/77eb4aa6jw8euhaw6iuw9j2050050t8r.jpg" group-title="CHINA",CHC Action Movie
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/2xhjk3rg/index.m3u8
@@ -8855,6 +8867,9 @@ http://stream.chinactv.com/ctv4/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://v.guojitv.com/upfile/c44c1344-9894-4200-a663-3482a938c466.jpg" group-title="CHINA",CTV-5
 http://stream.chinactv.com/ctv5/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="CHINA",Dongman Show
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558314_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqu0Aqb.jpg" group-title="CHINA",DOX TV
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000114&playtoken=ABCDEFGH&auth=no
@@ -8950,7 +8965,7 @@ http://223.110.243.173/PLTV/3/224/3221227214/index.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221225851/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="CHINA",Jingbao Tiyu Sports
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000102&playtoken=ABCDEFGH&auth=no
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558312_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0712/6aca434039ae6e59084ab6b01dabc4fa.jpg" group-title="CHINA",Jinhua TV 1
 http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
@@ -8972,6 +8987,9 @@ http://112.50.243.7/PLTV/88888888/224/3221225947/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tva4.sinaimg.cn/crop.85.120.360.360.180/8270a6d7gw1endshq6nhcj20er0gojs1.jpg" group-title="CHINA",Meili Music
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558313_800.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/f/fe/MTV_Russia_%28%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%29.png/revision/latest?cb=20150830124654&path-prefix=ru" group-title="CHINA",MTV
 http://218.202.220.2:5000/nn_live.m3u8?id=MTV
@@ -9335,6 +9353,33 @@ http://fosive89.flashmediacast.com:1935/fosive89/livestream/chunklist_w214740390
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="VIETNAM",SET TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png" group-title="VIETNAM",VTV1
+https://live.vtvdigital.vn/hls/cb86a921e0d4a278cfe95ae724385230/1543501102696/live/_definst_/vtv1-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/VTV2%281%29.png/revision/latest?cb=20170304044444" group-title="VIETNAM",VTV2
+https://live.vtvdigital.vn/hls/e44070bb3ec89c0483111dad06f81a37/1543501181267/live/_definst_/vtv2-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Vtv3_logo.png/revision/latest?cb=20170306031833" group-title="VIETNAM",VTV3
+https://live.vtvdigital.vn/hls/31193a7e527655182cb1e5e641ab78af/1543501235043/live/_definst_/vtv3-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png" group-title="VIETNAM",VTV4
+https://live.vtvdigital.vn/hls/a603018e5e6b240a7d0844ba4ae22156/1543501318350/live/_definst_/vtv4-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/VTV5_logo_%282010-2013%29.png/revision/latest?cb=20171028035606" group-title="VIETNAM",VTV5
+https://live.vtvdigital.vn/hls/5c959652d4c61f6206d06c99e11d8b11/1543501340947/live/_definst_/vtv5-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" group-title="VIETNAM",VTV6
+https://live.vtvdigital.vn/hls/ce89a550b3eb61670b6a7fc4eafeed40/1543501361040/live/_definst_/vtv6-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/VTV7.png/revision/latest?cb=20121202082215" group-title="VIETNAM",VTV7
+https://live.vtvdigital.vn/hls/e736e54d27b58e592e0f00289d9764ec/1543501411540/live/_definst_/vtv7-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/VTV8_logo_%282016-present%29.png/revision/latest?cb=20171110022941" group-title="VIETNAM",VTV8
+https://live.vtvdigital.vn/hls/0059b1c22fdd0567a0f1e509a6036de2/1543501432966/live/_definst_/vtv8-high.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/VTV9_logo_%282007-2009%29.png/revision/latest?cb=20171109070819" group-title="VIETNAM",VTV9
+https://live.vtvdigital.vn/hls/b0813a72be324ee9a7c27c874332caa8/1543501452699/live/_definst_/vtv9-high.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="LABEL",~ Music Choice ~
 
