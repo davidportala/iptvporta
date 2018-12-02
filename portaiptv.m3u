@@ -8850,6 +8850,18 @@ http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eAHHqs0.png" group-title="CHINA",China Weather TV [NoKodi]
 http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4202112240-L.jpg" group-title="CHINA",CIBN Action
+http://118.187.1.24/live/5/60/2db3239560074335911ff78a7807921b.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P420212042934.jpg" group-title="CHINA",CIBN Chinese Movie
+http://118.187.1.24/live/5/60/66f508d5fbe14368945f3c2337c839dc.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnqinggan.jpg" group-title="CHINA",CIBN Emotional
+http://118.187.1.24/live/5/60/3e7261b6efba4636b9a42e13af75ba11.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiaoyang.jpg" group-title="CHINA",CIBN Sun
+http://118.187.1.24/live/5/60/25863a7297d74c9696e862d1f3e6f154.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="CHINA",CQTV-Chongqing
 http://112.50.243.7/PLTV/88888888/224/3221225949/index.m3u8
 
