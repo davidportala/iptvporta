@@ -2880,6 +2880,9 @@ http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" group-title="PORTUGAL",RTP Internacional
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fdf24d49ee0_TVIInternacional.png.40b4fa5969c996152b1bff54c6cf2460.png" group-title="PORTUGAL",TVI Internacional
+http://51.15.144.38:8080/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
 http://www.lengua.com/anthems/Brazil.mp3
 
@@ -3051,6 +3054,9 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
 
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="SPAIN",#0
+http://51.15.144.38:8080/play/a02d/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="SPAIN",24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
@@ -3072,14 +3078,23 @@ http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="SPAIN",A Punt
 https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="SPAIN",Atreseries
+http://51.15.144.38:8080/play/a08h/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://alcarria.tv/web/wp-content/uploads/2016/09/logotipo_alcarria_television.png" group-title="SPAIN",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg" group-title="SPAIN",Andorra TV (Andorra)
 http://194.158.80.31:443/live/rtva/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="SPAIN",Antena 3
+http://51.15.144.38:8080/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="SPAIN",Aragon TV
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png" group-title="SPAIN",beIN La Liga
+http://51.15.144.38:8080/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
@@ -3156,6 +3171,9 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-2)
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="SPAIN",Hola! TV
+http://51.15.144.38:8080/play/a05i/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg" group-title="SPAIN",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
 
@@ -3168,6 +3186,9 @@ http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg" group-title="SPAIN",Informacion TV
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="SPAIN",La 1
+http://51.15.144.38:8080/play/a09h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
@@ -3176,6 +3197,9 @@ https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg" group-title="SPAIN",La Otra
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/BF23AB84-4B78-49FB-AA1F-ECD7EAF56EE5//720x540.jpg" group-title="SPAIN",La Sexta
+http://51.15.144.38:8080/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/b/bc/COMR%C3%A0dio_logo_2012.jpg" group-title="SPAIN",La Xarxa
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
@@ -3189,6 +3213,9 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="SPAIN",LifeTV
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" group-title="SPAIN",Mega
+http://51.15.144.38:8080/play/a07t/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png" group-title="SPAIN",Melilla TV
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
 
@@ -3198,11 +3225,23 @@ http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
 #EXTINF:-1 tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="SPAIN",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="SPAIN",Movistar Formula 1
+http://51.15.144.38:8080/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="SPAIN",Movistar Liga de Campeones
+http://51.15.144.38:8080/play/a03g/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV (Opt-1)
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV (Opt-2)
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="SPAIN",Neox
+http://51.15.144.38:8080/play/a050/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/27700/27743/1.jpg" group-title="SPAIN",Nova
+http://51.15.144.38:8080/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2015/11/logooatv.png" group-title="SPAIN",Onda Algeciras
 http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
@@ -3251,6 +3290,9 @@ http://video.telesafor.com/hls/video_low.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png" group-title="SPAIN",TeleValencia
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.30ETJNgOCW.jpg" group-title="SPAIN",Toros TV
+http://51.15.144.38:8080/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="SPAIN",TV3 (Opt-1)
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
@@ -3329,6 +3371,9 @@ http://51.15.144.38:8080/play/a084/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="LATINO",ESPN 3
 http://51.15.144.38:8080/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Europaeuropa.png" group-title="LATINO",Europa Europa
+http://51.15.144.38:8080/play/a09r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/6/6c/Filmzone2016.png" group-title="LATINO",Film Zone
 http://51.15.144.38:8080/play/a00z/index.m3u8
@@ -3506,6 +3551,9 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvapaxtla.com/wp-content/uploads/2018/07/LOGO_NU9VE_FONDOCLARO.png" group-title="MEXICO",Nu9ve
+http://51.15.144.38:8080/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EUkatRJ.png" group-title="MEXICO",OchoTV Guadalajara
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
@@ -4405,7 +4453,7 @@ http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TUmxtZA.jpg" group-title="PARAGUAY",Telefuturo
-http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+http://51.15.144.38:8080/play/a04z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.paraguay.com/photos/images/000/124/527/regular_unica.jpg.jpg" group-title="PARAGUAY",Unicanal
 http://51.15.144.38:8080/play/a045/index.m3u8
@@ -8875,7 +8923,7 @@ http://192.240.127.34:1935/live/cs10.stream/playlist.m3u8
 http://cdnak9.litecdn.net/channels/4/10804.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium
-http://58.230.68.120:9981/stream/channelid/414842870?ticket=CF023A8A55F233186DA22E9675BC181AB84CABD7&profile=pass
+http://39.120.45.46:9981/stream/channelid/227272905?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/260.png" group-title="JAPAN",Nihon Eiga TV
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
@@ -9510,6 +9558,15 @@ http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 #EXTINF:-1 tvg-logo="http://dmc.tavis.tw/Media/download/%E9%99%84%E4%BB%B6%E4%B8%80%E5%A4%A7%E6%84%9BLOGO.png" group-title="TAIWAN",Da Ai TV
 http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" group-title="TAIWAN",EBC Drama
+http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9423cdb0b5112.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="TAIWAN",EBC Foreign Movie
+http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9436cdb0b5112.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20151231132530IByhxc=.png" group-title="TAIWAN",EBC News
+http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9402cdb0b5112.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1 (UK)
 http://61.58.60.230:9000/live/75.m3u8?fluxustv.m3u8
 
@@ -9533,6 +9590,9 @@ http://live.streamingfast.net/osmflivech9.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV 10
 http://live.streamingfast.net/osmflivech10.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.shiting5.com/allimg/141013/6-141013195331A9.jpg" group-title="TAIWAN",GTV Variety Show
+http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8
 
 #EXTINF:-1 tvg-logo="http://123.51.170.209/skyking/Icon/002002.png" group-title="TAIWAN",Hakka TV
 http://61.216.177.73/sta/ch1865024.m3u8
