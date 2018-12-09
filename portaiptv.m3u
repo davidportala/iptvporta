@@ -8691,6 +8691,12 @@ http://194.37.92.13:8000/play/a0ev
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.bilisummaa.com/wp-content/uploads/2015/01/obs1.png" group-title="ETHIOPIA",OBS
 http://194.37.92.13:8000/play/a0c0
 
+#EXTINF:-1 tvg-logo="http://www.lazatigrigna.net/uploads/thumbs/19f16d9ca-1.jpg" group-title="ETHIOPIA",Tigrai TV
+http://194.37.92.13:8000/play/a0ex
+
+#EXTINF:-1 tvg-logo="https://scontent-ort2-2.cdninstagram.com/vp/2d41f1cf274a65c1f2a7f241cc488560/5C519A43/t51.2885-15/e35/41167778_1829172860531588_6605293288581109472_n.jpg" group-title="ETHIOPIA",Zawya TV
+http://194.37.92.13:8000/play/a0d6
+
 #EXTINF:-1 tvg-logo="https://www.foodforfamine.org/cms/wp-content/uploads/2017/02/somalia.png" group-title="LABEL",~ Somalia TV ~
 http://www.lengua.com/anthems/Somalia.mp3
 
