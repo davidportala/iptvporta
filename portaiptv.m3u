@@ -8610,92 +8610,17 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/internet-cons/world-flags-orbs-icons-by-vathanx/png/256/Flag%20of%20Sudan.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
 
-#EXTINF:-1 tvg-logo="http://www.livetvliveradio.com/wp-content/uploads/2017/07/Africa-TV.png" group-title="SUDAN",Africa TV
-http://194.37.92.13:8000/play/a0cd
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-gezira-tv-sd.png" group-title="SUDAN",Al-Gezira
-http://194.37.92.13:8000/play/a07u
-
-#EXTINF:-1 tvg-logo="http://www.bizontv.com/wp-content/uploads/2010/05/8665ff0e80ab2ffa359cc4cb165e55d2.jpg" group-title="SUDAN",Blue Nile Channel
-http://194.37.92.13:8000/play/a0ef
-
-#EXTINF:-1 tvg-logo="" group-title="SUDAN",Elqubba Elkhedhra
-http://194.37.92.13:8000/play/a0cl
-
-#EXTINF:-1 tvg-logo="" group-title="SUDAN",Kassala TV
-http://194.37.92.13:8000/play/a0c5
-
-#EXTINF:-1 tvg-logo="http://www.tv-arab.net/Logos/logo_tv_kk_khartoum_tv_sd.png" group-title="SUDAN",Khartoum TV
-http://194.37.92.13:8000/play/a0c4
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/omdurman_tv.png" group-title="SUDAN",Omdurman TV
-http://194.37.92.13:8000/play/a0c6
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-sea-tv-sd.png" group-title="SUDAN",Red Sea TV
-http://194.37.92.13:8000/play/a0cm
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sahoor-channel-sd.png" group-title="SUDAN",Sahoor Channel
-http://194.37.92.13:8000/play/a0d9
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/shamalia-tv-sd.png" group-title="SUDAN",Shamalia TV
-http://194.37.92.13:8000/play/a070
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sudan-knowledge-sd.png" group-title="SUDAN",Sudan Knowledge
-http://194.37.92.13:8000/play/a0eo
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sudan_music_sd.png" group-title="SUDAN",Sudan Music
-http://194.37.92.13:8000/play/a06z
-
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3780610_logo_sudania_24.png" group-title="SUDAN",Sudania 24
-http://194.37.92.13:8000/play/a06y
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-b5wkaLiUBaQ/WVPMp05SrcI/AAAAAAAAHhg/J9Bd5CPxQqE5UpgjhJ7hJVORFYotNgIFQCLcBGAs/s1600/sudan_tv.png" group-title="SUDAN",Sudan TV
 http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tayba_tv.png" group-title="SUDAN",Tayba TV
-http://194.37.92.13:8000/play/a0d3
 
 #EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",~ Ethiopia TV ~
 http://www.lengua.com/anthems/Ethiopia.mp3
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/afri-health-tv-et.png" group-title="ETHIOPIA",Afri Health TV
-http://194.37.92.13:8000/play/a0ee
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HSBFuWKHf1U/WUUayUuYT_I/AAAAAAAAI7Y/Os97qYQp6UQvY5s_VO3aSTQPh0agRrY-ACLcBGAs/s1600/amhara.png" group-title="ETHIOPIA",Amhara TV
-http://194.37.92.13:8000/play/a0f1
-
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/219.jpg" group-title="ETHIOPIA",ESTV
 http://199.167.151.237:1935/live/sp15_5.stream/gmswf.m3u8
 
-#EXTINF:-1 tvg-logo="https://allaboutethio.com/images/etv-tv.jpg" group-title="ETHIOPIA",ETV Mezinagna
-http://194.37.92.13:8000/play/a0ew
-
-#EXTINF:-1 tvg-logo="https://allaboutethio.com/images/etv-tv.jpg" group-title="ETHIOPIA",ETV Quanquanwoch
-http://194.37.92.13:8000/play/a0ey
-
-#EXTINF:-1 tvg-logo="https://allaboutethio.com/images/etv-tv.jpg" group-title="ETHIOPIA",ETV Zena
-http://194.37.92.13:8000/play/a0eu
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/JTV_Ethiopia.jpg/220px-JTV_Ethiopia.jpg" group-title="ETHIOPIA",JTV Ethiopia
-http://194.37.92.13:8000/play/a02p
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diretube.com/uploads/articles/a8b4536f.jpg" group-title="ETHIOPIA",Kana TV
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/New_nahoo_tv_logo.jpg/220px-New_nahoo_tv_logo.jpg" group-title="ETHIOPIA",Nahoo TV
-http://194.37.92.13:8000/play/a0er
-
-#EXTINF:-1 tvg-logo="http://www.orto.et/documents/10184/44460/logo30x21.jpg" group-title="ETHIOPIA",OBN TV
-http://194.37.92.13:8000/play/a0ev
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.bilisummaa.com/wp-content/uploads/2015/01/obs1.png" group-title="ETHIOPIA",OBS
-http://194.37.92.13:8000/play/a0c0
-
-#EXTINF:-1 tvg-logo="http://www.lazatigrigna.net/uploads/thumbs/19f16d9ca-1.jpg" group-title="ETHIOPIA",Tigrai TV
-http://194.37.92.13:8000/play/a0ex
-
-#EXTINF:-1 tvg-logo="https://scontent-ort2-2.cdninstagram.com/vp/2d41f1cf274a65c1f2a7f241cc488560/5C519A43/t51.2885-15/e35/41167778_1829172860531588_6605293288581109472_n.jpg" group-title="ETHIOPIA",Zawya TV
-http://194.37.92.13:8000/play/a0d6
 
 #EXTINF:-1 tvg-logo="https://www.foodforfamine.org/cms/wp-content/uploads/2017/02/somalia.png" group-title="LABEL",~ Somalia TV ~
 http://www.lengua.com/anthems/Somalia.mp3
@@ -9293,6 +9218,9 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADzw27g.jpg" group-title="CHINA",Happiness HD
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000100&playtoken=ABCDEFGH&auth=no
+
+#EXTINF:-1 tvg-logo="http://www.blycctv.com/uploads/allimg/181009/1-1Q0091F224415.jpg" group-title="CHINA",Hebei TV
+http://117.169.72.6:8080/ysten-businessmobile/live/hebeistv/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://a1.att.hudong.com/74/93/19300533947199133576933767256.jpg" group-title="CHINA",Henan TV
 http://123.163.119.21:9601/live/live1/500K/tzwj_video.m3u8
