@@ -9552,32 +9552,17 @@ http://112.50.243.7/PLTV/88888888/224/3221225934/index.m3u8
 #EXTINF:-1 tvg-logo="http://myfile.icantv.cn/uploads/file/img/gdzjdy.jpg" group-title="CHINA",Zhujiang Movies
 http://59.125.55.79:60001/60001.m3u8
 
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/995276519.png" group-title="LABEL",~ Macau TV ~
-http://www.lengua.com/anthems/Macau.mp3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",Canal Macau
-http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="MACAU",Macau Satellite
-http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",Radio Macau FM 100.7
-http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",TDM News
-http://59.125.55.79:60001/60001.m3u8
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="MACAU",TDM Ou Mun
-http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="MACAU",TDM Sport
-http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
 http://www.lengua.com/anthems/Taiwan.mp3
 
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/833-AsiaTravel.png" group-title="TAIWAN",Asia Travel
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="TAIWAN",CTi Entertainment
+http://60.250.69.26:8080/live/ctihappy89.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="TAIWAN",CTi Variety
+http://60.250.69.26:8080/live/cti89.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="TAIWAN",CTS News & Info
 http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
@@ -9588,17 +9573,29 @@ http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" group-title="TAIWAN",EBC Drama
 http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9423cdb0b5112.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/EBC-FNC-Logo.jpg" group-title="TAIWAN",EBC Financial News
+http://60.250.69.26:8080/live/ebcfinace89.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="TAIWAN",EBC Foreign Movie
 http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9436cdb0b5112.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20151231132530IByhxc=.png" group-title="TAIWAN",EBC News
 http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9402cdb0b5112.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-tv-live.jpg" group-title="TAIWAN",EBC Variety
+http://60.250.69.26:8080/live/ebc89.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3d/25chEBCYoyo2015logo.jpg/220px-25chEBCYoyo2015logo.jpg" group-title="TAIWAN",EBC YOYO
+http://60.250.69.26:8080/live/ebckid89.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1 (UK)
 http://61.58.60.230:9000/live/75.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 2 (UK)
 http://61.58.60.230:9000/live/102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="TAIWAN",Fox Movies
+http://60.250.69.26:8080/live/startwest89.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg" group-title="TAIWAN",FTV News
 http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
@@ -9633,8 +9630,20 @@ http://61.216.177.73/sta/ch1865032.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-momo-shopping-1.jpg" group-title="TAIWAN",Momo Shopping 2
 http://61.216.177.73/sta/ch1865033.m3u8
 
+#EXTINF:-1 tvg-logo="https://photo.sofun.tw/2014/06/SET-TV-Logo.jpg" group-title="TAIWAN",SET Metro
+http://60.250.69.26:8080/live/setcity89.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Skylinklogo1.png" group-title="TAIWAN",Sky Link TV 2 (USA)
 http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="TAIWAN",Star Chinese Channel
+http://60.250.69.26:8080/live/startchines89.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2016/03/scm_crown.jpg" group-title="TAIWAN",Star Chinese Movies
+http://60.250.69.26:8080/live/startmovie89.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/STAR_World_2013.png" group-title="TAIWAN",Star World
+http://60.250.69.26:8080/live/startfamily89.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.culturalsurvival.org/sites/default/files/styles/max_1300x1300/public/media/taiwan_indigenous_tv.png" group-title="TAIWAN",TITV
 http://61.216.177.73/sta/ch1865031.m3u8
@@ -9642,8 +9651,26 @@ http://61.216.177.73/sta/ch1865031.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="TAIWAN",TTV News
 http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180607/fgi/kisspng-taiwan-logo-tvbs-wikipedia-logos-5b18b966dfdd05.660100701528346982917.jpg" group-title="TAIWAN",TVBS
+http://60.250.69.26:8080/live/tvbs89.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/400px-Tvbs-logo-42.png" group-title="TAIWAN",TVBS Entertainment
+http://60.250.69.26:8080/live/tvbsfun89.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.winnoz.com/wp-content/uploads/2018/01/%E9%9D%9E%E5%87%A1-1.jpg" group-title="TAIWAN",USTV News
 http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-maxtv-live.jpg" group-title="TAIWAN",Videoland Entertainment
+http://60.250.69.26:8080/live/vlhappy89.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Japan-Logo.jpg" group-title="TAIWAN",Videoland Japan
+http://60.250.69.26:8080/live/vljp89.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.tv188.com/images/channel/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.jpg" group-title="TAIWAN",Videoland Sports
+http://60.250.69.26:8080/live/vlsports89.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-tv-live.jpg" group-title="TAIWAN",Videoland TV
+http://60.250.69.26:8080/live/vl89.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vivatv.com.tw/common/images/header/logo.png" group-title="TAIWAN",Viva TV 1
 http://61.216.177.73/sta/ch1865029.m3u8
