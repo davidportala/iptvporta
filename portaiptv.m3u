@@ -8304,6 +8304,21 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",~ Saudi Arabia TV ~
 http://www.lengua.com/anthems/SaudiArabia.mp3
 
+#EXTINF:-1 tvg-logo="http://www.ewsat.com/img/ART_AFLAM_1.png" group-title="SAUDI ARABIA",ART Aflam 1
+http://89.163.140.211:9898/ARTAflem1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ewsat.com/img/ART_AFLAM_2.png" group-title="SAUDI ARABIA",ART Aflam 2
+http://89.163.140.211:9898/ARTAflem2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1195_1.png" group-title="SAUDI ARABIA",ART Cinema
+http://89.163.140.211:9898/ARTCinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1122_1.png" group-title="SAUDI ARABIA",ART Hekayat 1
+http://89.163.140.211:9898/ARTHikayat1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png" group-title="SAUDI ARABIA",ART Hekayat 2
+http://89.163.140.211:9898/ARTHikayat2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="SAUDI ARABIA",Masdar TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 
@@ -8988,11 +9003,8 @@ http://192.240.127.34:1935/live/cs10.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/NJPWWorld.png" group-title="JAPAN",New Japan Pro-Wrestling World
 http://cdnak9.litecdn.net/channels/4/10804.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium (Opt. 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium
 http://39.120.45.46:9981/stream/channelid/227272905?profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium (Opt. 2)
-http://23.111.165.178/inhk.m3u8?user=310612&token=2c48bc13889f280806afde66329d19c1&e=1545776049&bands=956
 
 #EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/260.png" group-title="JAPAN",Nihon Eiga TV
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
