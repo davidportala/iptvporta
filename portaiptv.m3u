@@ -9529,7 +9529,7 @@ http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" group-title="TAIWAN",EBC Drama
-http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9423cdb0b5112.m3u8
+http://60.250.69.26:8080/live/ebcdrama89.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/EBC-FNC-Logo.jpg" group-title="TAIWAN",EBC Financial News
 http://60.250.69.26:8080/live/ebcfinace89.m3u8
@@ -9538,7 +9538,7 @@ http://60.250.69.26:8080/live/ebcfinace89.m3u8
 http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9436cdb0b5112.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20151231132530IByhxc=.png" group-title="TAIWAN",EBC News
-http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9402cdb0b5112.m3u8
+http://60.250.69.26:8080/live/ebcnews89.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-tv-live.jpg" group-title="TAIWAN",EBC Variety
 http://60.250.69.26:8080/live/ebc89.m3u8
