@@ -3135,6 +3135,12 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
 http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.activament.org/wp-content/uploads/2016/06/Logo_Taronja_petit.jpg" group-title="SPAIN",Canal Taronja
+http://ventdelnord.tv:8080/taronja/directe.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://terrassadigital.cat/wp-content/uploads/2017/01/terrassadigitalcat.png" group-title="SPAIN",Canal Terrassa
+http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 
@@ -3152,6 +3158,9 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://el9nou.cat/wp-content/themes/el9nou/img/el9tv.svg" group-title="SPAIN",El 9 TV
+http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elpuntavui.tv/templates/tv2014/images/logotip-el-punt-avui-tv.png" group-title="SPAIN",El Punt Avui TV
 http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8
@@ -3185,6 +3194,9 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPAIN",Fight Time (Opt-2)
 http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.txellcosta.com/wp-content/uploads/tv-girona-2.jpg" group-title="SPAIN",Girona TV
+http://ventdelnord.tv:8080/girona/directe.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/gitb.png" group-title="SPAIN",GITB
 https://5940924978228.streamlock.net/8155/8155/master.m3u8
@@ -3228,6 +3240,12 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="SPAIN",LifeTV
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lleida_TV.jpg" group-title="SPAIN",Lleida TV
+http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/MarTV.png" group-title="SPAIN",Mar TV
+http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png" group-title="SPAIN",Melilla TV
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
 
@@ -3248,6 +3266,9 @@ https://5940924978228.streamlock.net/8161/8161/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2015/11/logooatv.png" group-title="SPAIN",Onda Algeciras
 http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-0yBf8Fud8ro/UT3u7LQdQCI/AAAAAAAABgA/ImVQgNeul48/s1600/penedestv.jpeg" group-title="SPAIN",Penedes TV
+https://liveingesta118.cdnmedia.tv//rtvvilafrancalive/smil:live.smil/master.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="SPAIN",PequeRadio TV
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
@@ -3285,6 +3306,9 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.iptvcristiano.com/uploads/channels/28/logo_thumb.jpg" group-title="SPAIN",Solidaria TV
 http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/tac-12.png" group-title="SPAIN",TAC 12
+http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
 http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 
@@ -3317,6 +3341,9 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh5.googleusercontent.com/-9PLgxPlDPwI/UJuu6yeS7WI/AAAAAAAAAXI/EMp3l9mR8LQ/s800/Teve4-LaVall_logo.jpg" group-title="SPAIN",TV4 La Vall
 http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lazonamedia.com/imgsop/TvCostaBrava.jpg" group-title="SPAIN",TV Costa Brava
+http://liveingesta118.cdnmedia.tv//costabravatvlive/smil:live.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="SPAIN",TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
@@ -3353,6 +3380,9 @@ https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="SPAIN",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vocomunicacio.com/wp-content/uploads/2016/09/Logo_Votv.jpg" group-title="SPAIN",VOTV
+http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
 http://50.7.56.2:8016
