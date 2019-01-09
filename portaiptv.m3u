@@ -9013,6 +9013,9 @@ http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-2)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201705/11634_10750_0.jpg" group-title="SOUTH KOREA",CJ O Shopping
+http://183.104.41.77:9981/stream/channelid/1623018882?ticket=5F8FD866687C02A50A2D6EE6F1AB299E3C3C82B3&profile=pass
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SOUTH KOREA",CMC
 http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1/playlist.m3u8
 
@@ -9040,32 +9043,59 @@ http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/5/5f/G1-Logo.jpg" group-title="SOUTH KOREA",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://cphoto.asiae.co.kr/listimglink/1/2017092208521106517_1.jpg" group-title="SOUTH KOREA",Home & Shopping
+http://183.104.41.77:9981/stream/channelid/954240171?ticket=20C8B1B4616BEDA6E178C1280B67D36717259088&profile=pass
+
+#EXTINF:-1 tvg-logo="http://www.futurekorea.co.kr/news/photo/201611/34404_26961_4656.jpg" group-title="SOUTH KOREA",Hyundai Home Shopping
+http://183.104.41.77:9981/stream/channelid/794912145?ticket=89998C3D7D56F147F122A87007901D9A8E846880&profile=pass
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="SOUTH KOREA",K+
 http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/220px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="SOUTH KOREA",KBC
 http://221.157.125.232:1935/live/kbctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 2
-http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 1
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/KNN_logo.jpg" group-title="SOUTH KOREA",KNN
+http://183.104.41.77:9981/stream/channelid/993019127?ticket=11B6406BCD30CD8F8190AAB66C3E2B5E2964F543&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livesport.im/wp-content/uploads/2015/11/KCTV-N.gif" group-title="SOUTH KOREA",KCTV-N
 http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/uKV7kb3EdZ5jEldrnLqABVd-5qTZ8GP6fdmZRln8SBb9kFsRxhBx61ITM6wwH76x75w=h300" group-title="SOUTH KOREA",K Shopping
+http://183.104.41.77:9981/stream/channelid/1922630364?ticket=B5A1AD8E6E30D53EB79DAFAAC141D35FCEAC5860&profile=pass
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yUk2RhO.png" group-title="SOUTH KOREA",KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img77.dreamwiz.net/20180503/b/n/R/bnRid1A_o.jpg" group-title="SOUTH KOREA",Lotte Homeshopping
+http://183.104.41.77:9981/stream/channelid/1270792606?ticket=A04E166FE1081614831B923E62B438B1AF5B9546&profile=pass
+
+#EXTINF:-1 tvg-logo="https://0.soompi.io/wp-content/uploads/sites/8/2018/06/18223537/mbc1.jpg" group-title="SOUTH KOREA",MBC
+http://183.104.41.77:9981/stream/channelid/1274006991?ticket=16079F4B2BF0F56A8611F508EF1F32F75A456D5A&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/mtnlive_koera.jpg" group-title="SOUTH KOREA",MTN
 http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://pr.nsmall.com/images/img/kakaoImg.jpg" group-title="SOUTH KOREA",NS Shopping
+http://183.104.41.77:9981/stream/channelid/330674701?ticket=0CE857EDB9ACC8BF36FF4538B69EA09FB562ADF4&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="SOUTH KOREA",SBS
 http://123.108.164.71/etv2/phd847/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.econovill.com/news/photo/201511/269926_71572_918.jpg" group-title="SOUTH KOREA",Shinsegae
+http://183.104.41.77:9981/stream/channelid/672557058?ticket=85E18AA1EDB9A72C33CB27C94490417A81BD211C&profile=pass
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TBC_logo.svg/440px-TBC_logo.svg.png" group-title="SOUTH KOREA",TBC
 http://221.157.125.232:1935/live/psike/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/c/c5/UBC-Logo.jpg" group-title="SOUTH KOREA",UBC
+http://183.104.41.77:9981/stream/channelid/1480814051?ticket=0778D9ABB15B97B461E3BE637C59FDF91133E11B&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title="SOUTH KOREA",YTN
 http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
@@ -9619,11 +9649,8 @@ http://60.250.69.26:8080/live/ebc89.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3d/25chEBCYoyo2015logo.jpg/220px-25chEBCYoyo2015logo.jpg" group-title="TAIWAN",EBC YOYO
 http://60.250.69.26:8080/live/ebckid89.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1 (UK)
-http://61.58.60.230:9000/live/75.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 2 (UK)
-http://61.58.60.230:9000/live/102.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1
+http://cdn7.woideas.com/tv11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="TAIWAN",Fox Movies
 http://60.250.69.26:8080/live/startwest89.m3u8
