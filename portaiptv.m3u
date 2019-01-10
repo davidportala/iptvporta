@@ -3186,6 +3186,9 @@ http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png" group-title="SPAIN",Costa del Sol TV
 http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg" group-title="SPAIN",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-degBiJe4ass/W4Fo2S7BWgI/AAAAAAAAByM/XGgUBV8JDsoz9G6pkntWERE1bSFEqyFtQCLcBGAs/s1600/cyl7-repro-html.jpg" group-title="SPAIN",CyL 7
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
 
@@ -3408,6 +3411,9 @@ http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="SPAIN",TeleBilbao
 http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg" group-title="SPAIN",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
 http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
 
@@ -3452,6 +3458,9 @@ http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lazonamedia.com/imgsop/TvCostaBrava.jpg" group-title="SPAIN",TV Costa Brava
 http://liveingesta118.cdnmedia.tv//costabravatvlive/smil:live.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="SPAIN",TVE Internacional
+http://210.210.155.35/qwr9ew/s/s25/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="SPAIN",TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
@@ -3894,6 +3903,9 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.inforiojapolitica.com.ar/sitio/logo-mediosrioja.png" group-title="ARGENTINA",Medios Rioja
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 
+#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/cropped-LOGO-APAISADO-OK-01-3-1.png" group-title="ARGENTINA",Multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
@@ -3944,6 +3956,9 @@ https://59c5c86e10038.streamlock.net/95621330/95621330/playlist.m3u8?fluxustv.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jsnI65B.png" group-title="ARGENTINA",Telpin Teve Pinamar
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA",TV Publica
+https://chunks01.tvpublica.com.ar/streams/BJQRNMF6b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nomeolvides.org.ar/wp-content/uploads/2015/06/Logo-XFN.png" group-title="ARGENTINA",XFN Canal 41 Mar del Plata
 http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
@@ -4873,7 +4888,7 @@ http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Red_pat_new.jpg" group-title="BOLIVIA",PAT
-http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_9461_6_28134.png" group-title="BOLIVIA",Red Uno
 http://api.new.livestream.com/accounts/23074572/events/6931404/live.m3u8
@@ -8941,20 +8956,11 @@ http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="JAPAN",Disney Channel
-http://192.240.127.34:1935/live/cs20.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-m-7OO6b5vCM/WdsiS3-AKCI/AAAAAAAAde4/xRzsatnuU_k7Q0IjUv27mY3zALmoUkwqACLcBGAs/s1600/q1.jpg" group-title="JAPAN",Eisei Gekijo
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
 
 #EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2000px-GAORA_SPORTS_logo.svg.png" group-title="JAPAN",GAORA Sports
-http://192.240.127.34:1935/live/cs01.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="JAPAN",Golf Network
-http://192.240.127.34:1935/live/cs03.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
@@ -8964,15 +8970,6 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p-cfPaJFUs4/WdsgLu7Dj-I/AAAAAAAAdek/aQoc18yuHnc3c7Fb_gBPnDRrgbNVowSZwCLcBGAs/s1600/q1.jpg" group-title="JAPAN",J Sports 3
 http://192.240.127.34:1935/live/cs07.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/program/jsports4/img/logo.png" group-title="JAPAN",J Sports 4
-http://192.240.127.34:1935/live/cs09.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/enanimanga/images/4/41/Kids_Station_Logo.png/revision/latest?cb=20171103070809" group-title="JAPAN",Kids Station
-http://192.240.127.34:1935/live/cs12.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.movieplus.jp/movie-detail/film_img/l/CS-0000000000007669-002.jpg" group-title="JAPAN",Movie Plus
-http://192.240.127.34:1935/live/cs10.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/NJPWWorld.png" group-title="JAPAN",New Japan Pro-Wrestling World
 http://cdnak9.litecdn.net/channels/4/10804.m3u8
@@ -8989,11 +8986,11 @@ http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/220px-QVC_logo_2015.png" group-title="JAPAN",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Xbf-Pbj-H5s/Wdt7y5rob9I/AAAAAAAAdfw/4anpgGjgZhYLh3Uyw5nEOnl2R9eZUaWbACLcBGAs/s1600/q1.jpg" group-title="JAPAN",Samurai Fighting TV
-http://192.240.127.34:1935/live/cs08.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+rtmp://mov8.mov3.co/live//main
 
 #EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",WOWOW Cinema
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -9007,11 +9004,17 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (Opt-2)
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbsi.co.kr/img/common/imgAbout01_02.png" group-title="SOUTH KOREA",BBS
+http://183.104.41.77:9981/stream/channelid/489652640?ticket=2007755653F1F831E75754BFE11A6C4E39FD7A1A&profile=pass
+
 #EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-1)
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-2)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://english.cj.net/images/cjBrand/brand_logo/logo_cgv.png" group-title="SOUTH KOREA",CGV
+http://210.121.222.146:9981/stream/channelid/691666324?ticket=F3B1F0BF9AA826355B849184347735573E1E7B81&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201705/11634_10750_0.jpg" group-title="SOUTH KOREA",CJ O Shopping
 http://183.104.41.77:9981/stream/channelid/1623018882?ticket=5F8FD866687C02A50A2D6EE6F1AB299E3C3C82B3&profile=pass
@@ -9021,6 +9024,12 @@ http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8Nx5cfW9uU.jpg" group-title="SOUTH KOREA",CJB SBS
 http://121.78.118.51:1935/live/tv/tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/sOPmQW4L-720.jpg" group-title="SOUTH KOREA",CTS
+http://183.104.41.77:9981/stream/channelid/686343695?ticket=1A370C6E34DCD35576622574FC9E6B2B9660EDB1&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-1.jpg" group-title="SOUTH KOREA",EBS 1
+http://221.159.42.236:9981/stream/channelid/1817101310?ticket=C883174BB4C9FE2D8E02E8F6F8CF3120AC8C6B38&profile=pass
 
 #EXTINF:-1 tvg-logo="http://static.ebs.co.kr/www/common/img/global/thum_default_tv2.jpg" group-title="SOUTH KOREA",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
@@ -9043,6 +9052,9 @@ http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/5/5f/G1-Logo.jpg" group-title="SOUTH KOREA",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://image.fnnews.com/resource/media/image/2015/07/27/201507270937487326_l.jpg" group-title="SOUTH KOREA",GS my Shop
+http://183.104.41.77:9981/stream/channelid/1531202852?ticket=C315A7060AA872C138E9AD7B823FD3F5DC923B28&profile=pass
+
 #EXTINF:-1 tvg-logo="http://cphoto.asiae.co.kr/listimglink/1/2017092208521106517_1.jpg" group-title="SOUTH KOREA",Home & Shopping
 http://183.104.41.77:9981/stream/channelid/954240171?ticket=20C8B1B4616BEDA6E178C1280B67D36717259088&profile=pass
 
@@ -9055,8 +9067,14 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/220px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="SOUTH KOREA",KBC
 http://221.157.125.232:1935/live/kbctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 1
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png" group-title="SOUTH KOREA",KBS 1
+http://221.159.42.236:9981/stream/channelid/174292370?ticket=6F8B34608513BE87EB2B01FDF4B70943C394C94F&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="SOUTH KOREA",KBS 2
+http://221.159.42.236:9981/stream/channelid/1949927078?ticket=6448894D7A7A6CB8FB4B598CCD7BA77DA34B3B7D&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2000px-KBS_World_%282009%29.svg.png" group-title="SOUTH KOREA",KBS World
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/KNN_logo.jpg" group-title="SOUTH KOREA",KNN
 http://183.104.41.77:9981/stream/channelid/993019127?ticket=11B6406BCD30CD8F8190AAB66C3E2B5E2964F543&profile=pass
@@ -9079,14 +9097,29 @@ http://183.104.41.77:9981/stream/channelid/1274006991?ticket=16079F4B2BF0F56A861
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/mtnlive_koera.jpg" group-title="SOUTH KOREA",MTN
 http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.slw.co.kr/default/img/join_123.png" group-title="SOUTH KOREA",NS Shop+
+http://183.104.41.77:9981/stream/channelid/605368762?ticket=6F784827793CB7D2C09F4FB06DDD1A81A3DF2AA3&profile=pass
+
+#EXTINF:-1 tvg-logo="http://media.148apps.com/screenshots/902970360/us-iphone-5-pinkfong-tv-videos-for-kids-and-babies.jpeg" group-title="SOUTH KOREA",Pinkfong TV
+http://183.104.41.77:9981/stream/channelid/353734877?ticket=8E660C76B0E4BB962E20683ADF239FB3E0B251EB&profile=pass
+
+#EXTINF:-1 tvg-logo="http://ssproxy.ucloudbiz.olleh.com/v1/AUTH_3248cb77-c4a8-4686-95cc-d2b1486a7c70/rhomeper/post/2014/05/05/2014050503480313992616831317_63206.PNG" group-title="SOUTH KOREA",Pororo TV
+http://183.104.41.77:9981/stream/channelid/1401137695?ticket=CC87D256D8566D4624C2C605A757345986E81573&profile=pass
+
 #EXTINF:-1 tvg-logo="http://pr.nsmall.com/images/img/kakaoImg.jpg" group-title="SOUTH KOREA",NS Shopping
 http://183.104.41.77:9981/stream/channelid/330674701?ticket=0CE857EDB9ACC8BF36FF4538B69EA09FB562ADF4&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="SOUTH KOREA",SBS
-http://123.108.164.71/etv2/phd847/playlist.m3u8
+http://221.159.42.236:9981/stream/channelid/1765678252?ticket=7132093B40D5D6BCBDF4E2C1235A4B82BEC7C6CC&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.econovill.com/news/photo/201511/269926_71572_918.jpg" group-title="SOUTH KOREA",Shinsegae
 http://183.104.41.77:9981/stream/channelid/672557058?ticket=85E18AA1EDB9A72C33CB27C94490417A81BD211C&profile=pass
+
+#EXTINF:-1 tvg-logo="http://www.cozymashop.com/buy/bbs_data/20180223_2.jpg" group-title="SOUTH KOREA",Shopping NT
+http://183.104.41.77:9981/stream/channelid/1081614166?ticket=4DDF89843D40C2364DD5C2A0887907E9FD16BD49&profile=pass
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5efc1b66154533.5b0cd855d3aaf.jpg" group-title="SOUTH KOREA",SK Stoa
+http://183.104.41.77:9981/stream/channelid/861576722?ticket=AC6391EAEF6E1AD94B62BCFF847B5542A4ADB5AA&profile=pass
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TBC_logo.svg/440px-TBC_logo.svg.png" group-title="SOUTH KOREA",TBC
 http://221.157.125.232:1935/live/psike/playlist.m3u8
@@ -9096,6 +9129,9 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/c/c5/UBC-Logo.jpg" group-title="SOUTH KOREA",UBC
 http://183.104.41.77:9981/stream/channelid/1480814051?ticket=0778D9ABB15B97B461E3BE637C59FDF91133E11B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://m.w-shopping.co.kr/wshoppingImg.png" group-title="SOUTH KOREA",W Shopping
+http://183.104.41.77:9981/stream/channelid/2136005909?ticket=45BDE9DAC7C2134DDE5B5C0CCF0D7769323EB8BC&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title="SOUTH KOREA",YTN
 http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
@@ -9385,6 +9421,9 @@ http://112.50.243.7/PLTV/88888888/224/3221225947/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/MeiAh.png" group-title="HONG KONG",Mei Ah Movie Channel
+http://59.120.242.104:9000/live/live2.m3u8
+
 #EXTINF:-1 tvg-logo="https://tva4.sinaimg.cn/crop.85.120.360.360.180/8270a6d7gw1endshq6nhcj20er0gojs1.jpg" group-title="CHINA",Meili Music
 http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558313_800.m3u8
 
@@ -9622,6 +9661,9 @@ http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="TAIWAN",CTi Entertainment
 http://60.250.69.26:8080/live/ctihappy89.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/CTI-News-Logo.jpg" group-title="TAIWAN",CTi News
+http://59.120.242.104:9000/live/live4.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="TAIWAN",CTi Variety
 http://60.250.69.26:8080/live/cti89.m3u8
 
@@ -9652,8 +9694,17 @@ http://60.250.69.26:8080/live/ebckid89.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1
 http://cdn7.woideas.com/tv11.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg" group-title="TAIWAN",ELTA TV Sports 1
+http://59.120.242.104:9000/live/live9.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/ERANews-Logo.jpg" group-title="TAIWAN",ERA News
+http://59.120.242.104:9000/live/live3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="TAIWAN",Fox Movies
 http://60.250.69.26:8080/live/startwest89.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/400px-FTV_Logo.svg.png" group-title="TAIWAN",FTV General
+http://59.120.242.104:9000/live/live14.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg" group-title="TAIWAN",FTV News
 http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
@@ -9679,6 +9730,9 @@ http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3
 #EXTINF:-1 tvg-logo="http://123.51.170.209/skyking/Icon/002002.png" group-title="TAIWAN",Hakka TV
 http://61.216.177.73/sta/ch1865024.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvyangpian.jpg" group-title="TAIWAN",LTV Movies
+http://59.120.242.104:9000/live/live5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/64/5f/26/645f2613781cda1b4417188007f90d16.jpg" group-title="TAIWAN",Macroview TV
 http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
 
@@ -9688,6 +9742,9 @@ http://61.216.177.73/sta/ch1865032.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-momo-shopping-1.jpg" group-title="TAIWAN",Momo Shopping 2
 http://61.216.177.73/sta/ch1865033.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvappbox.so:8880/appbox/resource/images/www1/20160323/1458671191421.png" group-title="TAIWAN",NEXT TV
+http://59.120.242.104:9000/live/live8.m3u8
+
 #EXTINF:-1 tvg-logo="https://photo.sofun.tw/2014/06/SET-TV-Logo.jpg" group-title="TAIWAN",SET Metro
 http://60.250.69.26:8080/live/setcity89.m3u8
 
@@ -9696,6 +9753,9 @@ http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="TAIWAN",Star Chinese Channel
 http://60.250.69.26:8080/live/startchines89.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/Star_Movies_HD_%28Taiwan%29.jpg" group-title="TAIWAN",Star Movies HD
+http://59.120.242.104:9000/live/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2016/03/scm_crown.jpg" group-title="TAIWAN",Star Chinese Movies
 http://60.250.69.26:8080/live/startmovie89.m3u8
@@ -9722,10 +9782,10 @@ http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 http://60.250.69.26:8080/live/vlhappy89.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Japan-Logo.jpg" group-title="TAIWAN",Videoland Japan
-http://60.250.69.26:8080/live/vljp89.m3u8
+http://59.120.242.104:9000/live/live11.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.tv188.com/images/channel/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.jpg" group-title="TAIWAN",Videoland Sports
-http://60.250.69.26:8080/live/vlsports89.m3u8
+http://59.120.242.104:9000/live/live12.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-tv-live.jpg" group-title="TAIWAN",Videoland TV
 http://60.250.69.26:8080/live/vl89.m3u8
