@@ -1449,6 +1449,15 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="UK",AXN
 http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/BBC_Alba.svg/1280px-BBC_Alba.svg.png" group-title="UK",BBC Alba
+http://185.53.163.214:5678/ipvt_008
+
+#EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg" group-title="UK",BBC News
+http://185.53.163.214:5678/ipvt_006
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/224x126/p02xf4rf.jpg" group-title="UK",BBC Two
+http://185.53.163.214:5678/ipvt_007
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="UK",BBC World News (Opt-1)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
 
@@ -1466,6 +1475,9 @@ http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/1200px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
+http://185.53.163.214:5678/ipvt_009
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="UK",CGTN English (Opt-1)
 http://live.cgtn.com/500/prog_index.m3u8
@@ -1519,10 +1531,19 @@ https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklis
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://ruddstudio.com/app/uploads/2015/09/ITV-rebrand-Rudd-Studio-01-1170x658.jpg" group-title="UK",ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+http://185.53.163.214:5678/ipvt_001
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/ITV2_2015_Blue-colored_gradient.png" group-title="UK",ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+http://185.53.163.214:5678/ipvt_002
+
+#EXTINF:-1 tvg-logo="https://www.chortle.co.uk/images/photos/small/itv3_logo.jpg" group-title="UK",ITV 3
+http://185.53.163.214:5678/ipvt_003
+
+#EXTINF:-1 tvg-logo="http://www.watchallchannels.com/wp-content/uploads/2015/02/itv-4-plus-one.png" group-title="UK",ITV 4
+http://185.53.163.214:5678/ipvt_004
+
+#EXTINF:-1 tvg-logo="https://cdn.itv.com/uploads/show_headline_tout/image/3919/medium_wW38W1mmYI3jlPuXALL7FVg_4hnZzf-1NtMdIBrAY1k.jpg" group-title="UK",ITV Be
+http://185.53.163.214:5678/ipvt_005
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
@@ -1569,6 +1590,9 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News (Opt-2)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Stv_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F.jpg" group-title="UK",STV
+http://185.53.163.214:5678/ipvt_011
+
 #EXTINF:-1 tvg-logo="https://muzenly.com/wp-content/uploads/2017/01/sunburn.png" group-title="UK",Sunburn TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 
@@ -1586,6 +1610,9 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="UK",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK",UTV
+http://185.53.163.214:5678/ipvt_012
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
@@ -2284,7 +2311,7 @@ https://s2.tntendirect.com/franceo/live/playlist.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCE",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="FRANCE",Indies Live (WN)
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
@@ -3114,6 +3141,9 @@ https://pull2a-i.akamaized.net/a3series/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gocciaverde.net/wp-content/uploads/2014/03/teleb-logo.png" group-title="SPAIN",BDN
 http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png" group-title="SPAIN",beIN La Liga
+http://cdn-hw.aliez.me/hls/streama79484/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
@@ -3549,6 +3579,9 @@ http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762255&f=.m3u8
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_ewtn_m.png" group-title="LATINO",ETWN
 http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762258&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W14a1Bg" group-title="LATINO",France 24 Español
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-T_Htj_F9Zes/WpkaOHjPzLI/AAAAAAABMyE/ESd9j3O_M60_PcDLBi5IYMLpw23Yo96jQCLcBGAs/s1600/FOX%2BLife%2BAfrica.png" group-title="LATINO",Fox Life
 http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762243&f=.m3u8
 
@@ -3610,7 +3643,7 @@ http://www.lengua.com/anthems/Mexico.mp3
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vzTZCxv.png" group-title="MEXICO",ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+http://aztecalive-lh.akamaihd.net/i/0e3hprpxt_1@735658/master.m3u8
 
 #EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="MEXICO",Aprende TV Mexico City
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
@@ -4332,8 +4365,17 @@ http://www.lengua.com/anthems/Colombia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="COLOMBIA",Cali TV
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="COLOMBIA",Canal Trece
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14
 http://181.143.238.252/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogot%C3%A1%29_logo.svg/1200px-Canal_Capital_%28Bogot%C3%A1%29_logo.svg.png" group-title="COLOMBIA",Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA",Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV (Geo)
 http://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -4361,6 +4403,12 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA",Telecaribe
+http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png" group-title="COLOMBIA",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830175884283875328/oudc8eAY.jpg" group-title="COLOMBIA",Teleenvigado
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
@@ -4782,6 +4830,9 @@ http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA",Canal Plus
 http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telecostaescuintla.com/gallery_gen/87c90468fc51f0112a9e0cf567e32eb5.png" group-title="GUATEMALA",Telecosta
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 
@@ -4867,6 +4918,9 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://vepacotv.tv/images/logo.png" group-title="VENEZUELA",Vepaco TV
+http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/1200px-VTV_logo.PNG" group-title="VENEZUELA",VTV
 http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://worldcosplay.net/img/flags/new/BO.png" group-title="LABEL",~ Bolivia TV ~
