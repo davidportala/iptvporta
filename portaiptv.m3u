@@ -4381,6 +4381,9 @@ http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Colombia-01.png" group-title="LABEL",~ Colombia TV ~
 http://www.lengua.com/anthems/Colombia.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA",Cablenoticias
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="COLOMBIA",Cali TV
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 
@@ -9367,7 +9370,7 @@ http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221225945/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jykt.jpg" group-title="CHINA",Aniworld
-http://120.221.2.54:8089/PLTV/88888888/224/3221225559/index.m3u8
+http://live.italkdd.com/cds160/hls/channel070/channel070.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png" group-title="CHINA",Beijing TV
 http://112.50.243.7/PLTV/88888888/224/3221225937/index.m3u8
@@ -9376,7 +9379,7 @@ http://112.50.243.7/PLTV/88888888/224/3221225937/index.m3u8
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="CHINA",BTV Kaku Kids Channel
-http://120.221.2.54:8089/PLTV/88888888/224/3221225562/index.m3u8
+http://live.italkdd.com/cds160/hls/channel032/channel032.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" group-title="CHINA",CCTV-1
 http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv01/1.m3u8
@@ -9437,6 +9440,9 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="CHINA",CCTV-Storm Music
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cetv-1-cn.png" group-title="CHINA",CETV 1
+http://live.italkdd.com/cds160/hls/channel050/channel050.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
@@ -9508,13 +9514,19 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221225833/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Gdtv.png" group-title="CHINA",Guangdong TV
-http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
+http://live.italkdd.com/cds160/hls/channel035/channel035.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangxi_tv_cn.png" group-title="CHINA",Guangxi TV
+http://live.italkdd.com/cds160/hls/channel040/channel040.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guizhou_cn_tv.png" group-title="CHINA",Guizhou TV
+http://live.italkdd.com/cds160/hls/channel047/channel047.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADzw27g.jpg" group-title="CHINA",Happiness HD
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000100&playtoken=ABCDEFGH&auth=no
 
 #EXTINF:-1 tvg-logo="http://www.blycctv.com/uploads/allimg/181009/1-1Q0091F224415.jpg" group-title="CHINA",Hebei TV
-http://117.169.72.6:8080/ysten-businessmobile/live/hebeistv/1.m3u8
+http://live.italkdd.com/cds160/hls/channel049/channel049.m3u8
 
 #EXTINF:-1 tvg-logo="http://a1.att.hudong.com/74/93/19300533947199133576933767256.jpg" group-title="CHINA",Henan TV
 http://123.163.119.21:9601/live/live1/500K/tzwj_video.m3u8
@@ -9589,7 +9601,7 @@ http://112.50.243.7/PLTV/88888888/224/3221225935/index.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221225930/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251044163J.png" group-title="CHINA",Jiangxi TV
-http://223.110.243.173/PLTV/3/224/3221227214/index.m3u8
+http://live.italkdd.com/cds160/hls/channel045/channel045.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/jilintv-live.jpg" group-title="CHINA",Jilin TV
 http://112.50.243.7/PLTV/88888888/224/3221225851/1.m3u8
@@ -9699,10 +9711,13 @@ http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42622394O34.jpg" group-title="CHINA",NEWTV Suspense
 http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225885/1.m3u8
 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fantastic_Television.svg/2000px-Fantastic_Television.svg.png" group-title="HONG KONG",Fantastic TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OginkYVgmYw/maxresdefault.jpg" group-title="HONG KONG",Now Chinese Drama
 http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Now_TV_logo.svg/1200px-Now_TV_logo.svg.png" group-title="HONG KONG",Now TV
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Now_TV_logo.svg/1200px-Now_TV_logo.svg.png" group-title="HONG KONG",Now TV International
 http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newscctv.net/data/cctvnewsplatform//images/company/icon_10122_1493349547.jpg" group-title="CHINA",Oriental Finance Pudong
@@ -9720,6 +9735,15 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32 (Hong Kong)
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="HONG KONG",TVB Entertainment News
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="HONG KONG",TVB Finance & Information
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/utv.jpg" group-title="HONG KONG",Universal Television
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="HONG KONG",ViuTV
 https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
 
@@ -9733,6 +9757,9 @@ http://stream.snrtv.com/sxtvs-3.m3u8
 http://stream.snrtv.com/sxtvs-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/Shaanxi_Satellite_TV.png" group-title="CHINA",Shaanxi Public TV
+http://stream.snrtv.com/sxtvs-5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanxi_tv_cn.png" group-title="CHINA",Shaanxi TV
 http://stream.snrtv.com/sxtvs-5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg" group-title="CHINA",Shandong TV
@@ -9772,7 +9799,7 @@ http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
 http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1O_rjcgmyds/AAAAAAAAAAI/AAAAAAAAAAA/tCoHqwYjv7w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHINA",Sichuan TV
-http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
+http://live.italkdd.com/cds160/hls/channel039/channel039.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="CHINA",Sichuan TV 4
 http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
@@ -9799,7 +9826,7 @@ http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/zuodongkatong.jpg" group-title="CHINA",Toonmax TV
-http://120.221.2.54:8089/PLTV/88888888/224/3221225561/index.m3u8
+http://live.italkdd.com/cds160/hls/channel065/channel065.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wanzhou.jpg" group-title="CHINA",Wanzhou Film & Art TV
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
@@ -9841,10 +9868,10 @@ http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251TJJ64.png" group-title="CHINA",Yunnan Satellite TV
-http://120.221.2.42:8089/PLTV/88888888/224/3221225596/index.m3u8
+http://live.italkdd.com/cds160/hls/channel048/channel048.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.zongyijia.net/images/NewPath/2018/2/2/20180202104519_8585.jpg" group-title="CHINA",Zheijang Satellite TV
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+http://live.italkdd.com/cds160/hls/channel034/channel034.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg" group-title="CHINA",Zhejiang TV
 http://112.50.243.7/PLTV/88888888/224/3221225934/index.m3u8
@@ -9854,6 +9881,12 @@ http://59.125.55.79:60001/60001.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
 http://www.lengua.com/anthems/Taiwan.mp3
+
+#EXTINF:-1 tvg-logo="http://www.easyca.ca/wp-content/uploads/2018/08/word-image-17.jpeg" group-title="TAIWAN",600 News (Canada)
+http://live.italkdd.com/cds160/hls/channel023/channel023.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/dianzhangcaijing.png" group-title="TAIWAN",Aniu TV
+http://cclive2.aniu.tv/live/anzb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/833-AsiaTravel.png" group-title="TAIWAN",Asia Travel
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
@@ -9878,6 +9911,9 @@ http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" group-title="TAIWAN",Diva
 http://61.216.177.73/sta/ch91865013.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1Q202210J70-L.jpg" group-title="TAIWAN",EBC America
+http://live.italkdd.com/cds160/hls/channel020/channel020.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" group-title="TAIWAN",EBC Drama
 http://60.250.69.26:8080/live/ebcdrama89.m3u8
@@ -9948,11 +9984,14 @@ http://61.216.177.73/sta/ch1865032.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-momo-shopping-1.jpg" group-title="TAIWAN",Momo Shopping 2
 http://61.216.177.73/sta/ch1865033.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/110px-SET_incorporated_logo.svg.png" group-title="TAIWAN",SET Drama
-http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/next-tv.jpg" group-title="TAIWAN",NEXTTV
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://photo.sofun.tw/2014/06/SET-TV-Logo.jpg" group-title="TAIWAN",SET Metro
 http://60.250.69.26:8080/live/setcity89.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="TAIWAN",SET Taiwan
+http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Skylinklogo1.png" group-title="TAIWAN",Sky Link TV 2 (USA)
 http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
@@ -9966,6 +10005,9 @@ http://60.250.69.26:8080/live/startmovie89.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/STAR_World_2013.png" group-title="TAIWAN",Star World
 http://60.250.69.26:8080/live/startfamily89.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.e-quit.org/UpLoadFile/userfiles/images/%E8%B6%85%E8%A6%96Logo.jpg" group-title="TAIWAN",STV USA
+http://live.italkdd.com/cds160/hls/channel018/channel018.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.culturalsurvival.org/sites/default/files/styles/max_1300x1300/public/media/taiwan_indigenous_tv.png" group-title="TAIWAN",TITV
 http://61.216.177.73/sta/ch1865031.m3u8
 
@@ -9975,8 +10017,11 @@ http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180607/fgi/kisspng-taiwan-logo-tvbs-wikipedia-logos-5b18b966dfdd05.660100701528346982917.jpg" group-title="TAIWAN",TVBS
 http://60.250.69.26:8080/live/tvbs89.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/400px-Tvbs-logo-42.png" group-title="TAIWAN",TVBS Entertainment
+#EXTINF:-1 tvg-logo="http://b.tvb.com/tvbi/files/2010/04/e6ada1e6a882e58fb0logo_e799bde5ba95.jpg" group-title="TAIWAN",TVBS Entertainment
 http://60.250.69.26:8080/live/tvbsfun89.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="TAIWAN",TVBS News
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.winnoz.com/wp-content/uploads/2018/01/%E9%9D%9E%E5%87%A1-1.jpg" group-title="TAIWAN",USTV News
 http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
