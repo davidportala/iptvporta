@@ -9342,6 +9342,9 @@ http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="CHINA",24/7 Shin Chan
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="CHINA",Anhui People Channel
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="CHINA",Anhui Satellite TV
 http://112.50.243.7/PLTV/88888888/224/3221225945/index.m3u8
 
@@ -9405,17 +9408,44 @@ http://117.169.72.6:8080/ysten-businessmobile/live/cctv-14/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15%E9%9F%B3%E4%B9%90.png" group-title="CHINA",CCTV-15
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-15/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png/60px-CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="CHINA",CCTV-Culture of Quality
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000621/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" group-title="CHINA",CCTV-Golf Tennis
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000620/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="CHINA",CCTV-Nostalgia Theater
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://src.onlinedown.net/d/file/p/2017-03-06/dcd6fe4dc3a83a3171508843bc44ecb9.png" group-title="CHINA",CCTV-Securities News
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000606/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/CCTV-%E6%96%B0%E7%A7%91%E5%8A%A8%E6%BC%AB.png" group-title="CHINA",CCTV-Shinco Animation
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607563_800.m3u8
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000625/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/igocctv.jpg" group-title="CHINA",CCTV-Shopping Channel
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000701/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="CHINA",CCTV-Storm Football
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="CHINA",CCTV-Storm Music
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/cctvzhongxuesheng.jpg" group-title="CHINA",CCTV-Students
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000629/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png/200px-CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="CHINA",CCTV-The First Theater
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png/200px-CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="CHINA",CCTV-TV Guide
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png/60px-CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="CHINA",CCTV-Women's Fashion
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000616/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png/60px-CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="CHINA",CCTV-World Geography
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000615/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cetv-1-cn.png" group-title="CHINA",CETV 1
 http://live.italkdd.com/cds160/hls/channel050/channel050.m3u8
@@ -9438,6 +9468,9 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hztn484w/index.m3u8
 #EXTINF:-1 tvg-logo="https://tva4.sinaimg.cn/crop.776.487.497.497.180/77eb57eajw1e9o3j1l2shj21kw16odj1.jpg" group-title="CHINA",CHC Movie
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0bzz6wkj/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/chengdu_tianfu_food_tv_cn.png" group-title="CHINA",Chengdu Tianfu Food TV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000604/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="CHINA",China Business Network
 http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
 
@@ -9445,7 +9478,7 @@ http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eAHHqs0.png" group-title="CHINA",China Weather TV [NoKodi]
-http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000609/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4202112240-L.jpg" group-title="CHINA",CIBN Action
 http://118.187.1.24/live/5/60/2db3239560074335911ff78a7807921b.m3u8
@@ -9458,6 +9491,9 @@ http://118.187.1.24/live/5/60/3e7261b6efba4636b9a42e13af75ba11.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiaoyang.jpg" group-title="CHINA",CIBN Sun
 http://118.187.1.24/live/5/60/25863a7297d74c9696e862d1f3e6f154.m3u8
+
+#EXTINF:-1 group-title="CHINA",CNR Care
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000603/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="CHINA",CQTV-Chongqing
 http://112.50.243.7/PLTV/88888888/224/3221225949/index.m3u8
@@ -9488,6 +9524,9 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fujian-south-east-tv-cn.png" group-title="CHINA",Fujian South East TV
 http://112.50.243.7/PLTV/88888888/224/3221225833/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gansu_tv_cn.png" group-title="CHINA",Gansu TV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Gdtv.png" group-title="CHINA",Guangdong TV
 http://live.italkdd.com/cds160/hls/channel035/channel035.m3u8
@@ -9582,6 +9621,9 @@ http://live.italkdd.com/cds160/hls/channel045/channel045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/jilintv-live.jpg" group-title="CHINA",Jilin TV
 http://112.50.243.7/PLTV/88888888/224/3221225851/1.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Jinan-Television-Channel.gif" group-title="CHINA",Jinan Film and Television
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000064/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="CHINA",Jingbao Tiyu Sports
 http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558312_800.m3u8
 
@@ -9618,76 +9660,13 @@ http://218.202.220.2:5000/nn_live.m3u8?id=MTV
 #EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="CHINA",National Geographic
 http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000101&playtoken=ABCDEFGH&auth=no
 
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4262254200-L.jpg" group-title="CHINA",NEWTV
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nei_monggol_tv.png" group-title="CHINA",Nei Monggol TV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000040/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42622491W48.jpg" group-title="CHINA",NEWTV Action Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/chtv-hk.png" group-title="HONG KONG",CHTV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000602/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42622491W48.jpg" group-title="CHINA",NEWTV Animation
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225878/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg" group-title="CHINA",NEWTV Boutique Drama
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225889/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="CHINA",NEWTV Boutique Record
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225888/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262246003C.jpg" group-title="CHINA",NEWTV Costume Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225880/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P426224331251.jpg" group-title="CHINA",NEWTV Family Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225882/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="CHINA",NEWTV Fine Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225891/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" group-title="CHINA",NEWTV Fine Sports
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225886/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426225Q10-L.jpg" group-title="CHINA",NEWTV Fight
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225895/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvyouxi.jpg" group-title="CHINA",NEWTV Gaming
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225894/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" group-title="CHINA",NEWTV Gold Variety
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225884/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262242033H.jpg" group-title="CHINA",NEWTV Healthy
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225883/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvxiju.jpg" group-title="CHINA",NEWTV Love Comedy
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225877/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262226352Z.jpg" group-title="CHINA",NEWTV Military Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225887/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P426221943132.jpg" group-title="CHINA",NEWTV Military Review
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225890/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P426224459244.jpg" group-title="CHINA",NEWTV Overseas Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225881/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42616140Na.jpg" group-title="CHINA",NEWTV Star Blockbuster
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225893/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5031T9400-L.jpg" group-title="CHINA",NEWTV Super Drama
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225806/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262242033H.jpg" group-title="CHINA",NEWTV Super Movie
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225804/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262242033H.jpg" group-title="CHINA",NEWTV Super Sports
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225803/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4262242033H.jpg" group-title="CHINA",NEWTV Super Variety
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225801/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42622394O34.jpg" group-title="CHINA",NEWTV Suspense
-http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225885/1.m3u8
-
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fantastic_Television.svg/2000px-Fantastic_Television.svg.png" group-title="HONG KONG",Fantastic TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fantastic_Television.svg/2000px-Fantastic_Television.svg.png" group-title="HONG KONG",Fantastic TV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OginkYVgmYw/maxresdefault.jpg" group-title="HONG KONG",Now Chinese Drama
@@ -9723,6 +9702,18 @@ http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 #EXTINF:-1 tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="HONG KONG",ViuTV
 https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/qq/qinghai_tv_cn.png" group-title="CHINA",Qinghai TV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000042/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.filmqingdao.com/Upload/20170601153606034800070.jpg" group-title="CHINA",Qingdao City Channel
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.filmqingdao.com/Upload/20170601153606034800070.jpg" group-title="CHINA",Qingdao Life Service
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.filmqingdao.com/Upload/20170601153606034800070.jpg" group-title="CHINA",Qingdao News General
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://m.leshi123.com/img/shanxitai.png" group-title="CHINA",Shaanxi City TV
 http://stream.snrtv.com/sxtvs-2.m3u8
 
@@ -9738,8 +9729,23 @@ http://stream.snrtv.com/sxtvs-5.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanxi_tv_cn.png" group-title="CHINA",Shaanxi TV
 http://stream.snrtv.com/sxtvs-5.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/90px-SDTV_logo.png" group-title="CHINA",Shandong Agricultural Sciences
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000058/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/90px-SDTV_logo.png" group-title="CHINA",Shandong Education
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL10000062/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/90px-SDTV_logo.png" group-title="CHINA",Shandong Film and Television
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000056/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/90px-SDTV_logo.png" group-title="CHINA",Shandong Qilu
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg" group-title="CHINA",Shandong TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/90px-SDTV_logo.png" group-title="CHINA",Shandong Variety Arts
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000054/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://a2.att.hudong.com/54/15/01200000023788136453155156544_s.jpg" group-title="CHINA",Shanghai Art Media
 http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ysrw/700000/d1.m3u8
@@ -9755,6 +9761,9 @@ http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.
 
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaixinwen_zbb.jpg" group-title="CHINA",Shanghai News
 http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/xwzhhd/700000/d1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanxi_tv_cn.png" group-title="CHINA",Shanxi TV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.globalfromasia.com/reviews/wp-content/uploads/sites/5/2018/10/shenzhen-tv.jpeg" group-title="CHINA",Shenzhen TV
 http://live.italkdd.com/cds160/hls/channel033/channel033_2000.m3u8
@@ -9793,10 +9802,10 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/taishan_tv_cn.png" group-title="CHINA",Taishan TV
-http://112.50.243.7/PLTV/88888888/224/3221225943/index.m3u8
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="CHINA",The Travel Channel
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000030/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
@@ -9806,6 +9815,9 @@ http://live.italkdd.com/cds160/hls/channel065/channel065.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wanzhou.jpg" group-title="CHINA",Wanzhou Film & Art TV
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_origin_min_pic/17/09/14/de5b82befd37b99215af8bb8c3f5a9ff.jpg" group-title="CHINA",Weifang City TV
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000216/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://a1.att.hudong.com/83/83/01000000000000119088339934283_s.jpg" group-title="CHINA",Xiamen Channel
 http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
@@ -9842,6 +9854,9 @@ http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="CHINA",Xian TV News
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xinjiang-tv-1-cn.png" group-title="CHINA",Xinjiang TV 1
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251TJJ64.png" group-title="CHINA",Yunnan Satellite TV
 http://live.italkdd.com/cds160/hls/channel048/channel048.m3u8
