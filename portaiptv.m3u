@@ -1379,6 +1379,9 @@ http://130.88.20.237:1235/monitor.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.entertainment-focus.com/wp-content/uploads/2014/04/rsz_m4m_black.jpg" group-title="UK",Movies4Men
+http://89.163.140.211:8787/movies4men/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="UK",NHK World (Opt-1)
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
  
@@ -2090,6 +2093,12 @@ http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
 http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1024px-Boing_Logo.svg.png" group-title="FRANCE",Boing
+http://89.163.140.211:8787/boing/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="FRANCE",Boomerang
+http://89.163.140.211:8787/boomerang/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="FRANCE",CGTN
 http://live.cgtn.com/1000f/prog_index.m3u8
 
@@ -2098,6 +2107,9 @@ http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg" group-title="FRANCE",CNews
 http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Cstar-logo.jpg" group-title="FRANCE",CStar
+http://89.163.140.211:8787/cstar/index.m3u8
 
 #EXTINF:0 tvg-logo="http://i65.tinypic.com/990umt.jpg" group-title="FRANCE",DJing Animation
 https://www.djing.com/tv/animation.m3u8
@@ -2132,6 +2144,9 @@ https://www.djing.com/tv/session_summer-vibes.m3u8
 #EXTINF:0 tvg-logo="http://i68.tinypic.com/2ztc02c.jpg" group-title="FRANCE",DJing Underground
 https://www.djing.com/tv/underground.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Logo-elle-girl.png" group-title="FRANCE",Elle Girl TV
+http://89.163.140.211:8787/ellegirl/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV (Opt-1)
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 
@@ -2159,11 +2174,17 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/fr/GONGMAX.png" group-title="FRANCE",GONG MAX
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="FRANCE",Investigation Discovery
+http://89.163.140.211:8787/Discovery-investigation/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE",L'Equipe 21
 http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="FRANCE",RMC Sport 2
+http://89.163.140.211:8787/sfrsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/733311146040643584/ETxeN2GZ.jpg" group-title="FRANCE",RT
 http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
@@ -8452,22 +8473,19 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="SAUDI ARABIA",Rotana Cinema
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
+http://89.163.140.211:8787/ROTANA_CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zjyGrV8.png" group-title="SAUDI ARABIA",Rotana Classic
-http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/rotana-masriya/rotana-masriya.png" group-title="SAUDI ARABIA",Rotana Drama
-http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
+http://89.163.140.211:8787/ROTANA_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="SAUDI ARABIA",Rotana Khalijiah
-http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
+http://89.163.140.211:8787/ROTANA_KHALIJI/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gamalnassar.com/main/upload/157لوجو%20روتانا%20مصرية.jpg" group-title="SAUDI ARABIA",Rotana Masrya
-http://selevision9893-i.akamaihd.net/hls/live/219353/98936/1.m3u8
+http://89.163.140.211:8787/ROTANA_MASRIA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/rotana-mousica/rotana-music.png" group-title="SAUDI ARABIA",Rotana Music
-http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
+http://89.163.140.211:8787/ROTANA_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="SAUDI ARABIA",RT Arabic (Russia) (Opt-1)
 http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
@@ -8703,6 +8721,9 @@ http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/b2/7d/63/b27d63c52f73b653d3da44668aeaf70d--live-stream-live-tv.jpg" group-title="EGYPT",Al Kahera Wal Nas
 http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2013/01/cbc-logo.jpg" group-title="EGYPT",CBC
+http://89.163.140.211:8787/CBC/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ioYYJZj_VXU/AAAAAAAAAAI/AAAAAAAAAAA/qs6dk9aMy34/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EGYPT",CBC Drama
 http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 
@@ -8765,6 +8786,9 @@ http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
 http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/220px-Samira_TV_logo.svg.png" group-title="ALGERIA",Samira TV
+http://89.163.140.211:8787/SamiraTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",~ Morocco TV ~
 http://www.lengua.com/anthems/Morocco.mp3
