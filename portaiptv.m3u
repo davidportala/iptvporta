@@ -2765,11 +2765,68 @@ http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Portugal-icon.png" group-title="LABEL",~ Portugal TV ~
 http://www.lengua.com/anthems/Portugal.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="PORTUGAL",Baby TV
+http://85.244.70.140:7000/play/a010
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049322.png" group-title="PORTUGAL",BBC Entertainment
+http://85.244.70.140:7000/play/a00u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/Biggs_2013.png" group-title="PORTUGAL",Biggs
+http://85.244.70.140:7000/play/a013
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="PORTUGAL",Blaze
+http://85.244.70.140:7000/play/a011
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/caca-pesca/highlight/large.jpg" group-title="PORTUGAL",Caca e Pesca
+http://85.244.70.140:7000/play/a00p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="PORTUGAL",Disney Junior
+http://85.244.70.140:7000/play/a015
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="PORTUGAL",Eurosport 1
+http://85.244.70.140:7000/play/a02z
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Motorvision_TV_2010.png" group-title="PORTUGAL",Motorvision TV
+http://85.244.70.140:7000/play/a00t
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="PORTUGAL",Nickelodeon
+http://85.244.70.140:7000/play/a00o
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="PORTUGAL",Nick Jr.
+http://85.244.70.140:7000/play/a03e
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" group-title="PORTUGAL",Porto Canal
 http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" group-title="PORTUGAL",RTP Internacional
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/Sic_mulher.png" group-title="PORTUGAL",SIC Mulher
+http://85.244.70.140:7000/play/a00y
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63219_logo_sport_tv_7.png" group-title="PORTUGAL",Sport TV 1
+http://85.244.70.140:7000/play/a035
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70269_logo_sport_tv_7.png" group-title="PORTUGAL",Sport TV 2
+http://85.244.70.140:7000/play/a02t
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",Sport TV 3
+http://85.244.70.140:7000/play/a02w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/ezzytv.com/wp-content/uploads/2018/09/sport-tv4.png" group-title="PORTUGAL",Sport TV 4
+http://85.244.70.140:7000/play/a02y
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg" group-title="PORTUGAL",TLC
+http://85.244.70.140:7000/play/a00z
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Tvi24logotype.png" group-title="PORTUGAL",TVI 24
+http://85.244.70.140:7000/play/a02v
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png" group-title="PORTUGAL",TVI Reality
+http://85.244.70.140:7000/play/a00x
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="PORTUGAL",VH1
+http://85.244.70.140:7000/play/a012
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
 http://www.lengua.com/anthems/Brazil.mp3
@@ -3315,6 +3372,9 @@ https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="SPAIN",TNT
 https://tinyurl.com/tnt-index-m3u8
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-BKBpFvFvhKE/WP0ljIvbZlI/AAAAAAAAYOs/4fk1JDzQ3FoAxEg1C_TElwmnfeCDP_27QCLcB/s1600/nueva-imagen-del-canal-toros-de-movistar.jpg" group-title="SPAIN",Toros TV
+http://85.244.70.140:7000/play/a014
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" group-title="SPAIN",TPA7
 https://rtpa-live-hls.flumotion.com/chunks.m3u8
@@ -10029,21 +10089,6 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SDTV_logo.png/90px-SDTV_logo.png" group-title="CHINA",Shandong Variety Arts
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000054/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://a2.att.hudong.com/54/15/01200000023788136453155156544_s.jpg" group-title="CHINA",Shanghai Art Media
-http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ysrw/700000/d1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mlzhongguo.com/Upload/Image/Content/2014-06-11/201406111002367177.jpg" group-title="CHINA",Shanghai Business Network
-http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/dycj/700000/d1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xinshang.jpg" group-title="CHINA",Shanghai Channel Young
-http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/shss/700000/d1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaiyule.jpg" group-title="CHINA",Shanghai Entertainment TV
-http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ylpd/700000/d1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaixinwen_zbb.jpg" group-title="CHINA",Shanghai News
-http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/xwzhhd/700000/d1.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanxi_tv_cn.png" group-title="CHINA",Shanxi TV
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8
 
@@ -10082,6 +10127,9 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png" group-title="CHINA",Star Chinese Movies
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225150524638.png" group-title="HONG KONG",Sun TV
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/taishan_tv_cn.png" group-title="CHINA",Taishan TV
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8
@@ -10139,6 +10187,12 @@ http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/xinjiang-tv-1-cn.png" group-title="CHINA",Xinjiang TV 1
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xizangtv.jpg" group-title="CHINA",Xizang TV Chinese
+http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E5%8D%AB%E8%A7%86.png" group-title="CHINA",You Man Cartoon
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251TJJ64.png" group-title="CHINA",Yunnan Satellite TV
 http://live.italkdd.com/cds160/hls/channel048/channel048.m3u8
