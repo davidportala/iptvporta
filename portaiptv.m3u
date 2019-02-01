@@ -1841,6 +1841,9 @@ http://www.lengua.com/anthems/Luxembourg.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bbox-actus.com/img/upload/crime-district.jpg" group-title="LUXEMBOURG",Crime District
 http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_wf1tv_b1096000.m3u8
 
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783866_logo_luxe_tv.png" group-title="LUXEMBOURG",Luxe TV
+http://61.216.177.73/sta/ch91865011.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg" group-title="LUXEMBOURG",RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
 
@@ -2190,7 +2193,7 @@ http://89.163.140.211:8787/sfrsport2/index.m3u8
 http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DvcpjIR.png" group-title="FRANCE",TV5 Monde Asie
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8
+http://61.216.177.73/sta/ch91865008.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png" group-title="FRANCE",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
@@ -2210,8 +2213,14 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="FRANCE",Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="FRANCE",Trace Sport Stars Asia
+http://61.216.177.73/sta/ch91865016.m3u8
+
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="FRANCE",Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="FRANCE",Trace Urban
+http://61.216.177.73/sta/ch91865018.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="FRANCE",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
@@ -10314,6 +10323,12 @@ http://61.216.177.73/sta/ch1865033.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/next-tv.jpg" group-title="TAIWAN",NEXTTV
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Congress_Channel_1_%28Taiwan%29.jpg/440px-Congress_Channel_1_%28Taiwan%29.jpg" group-title="TAIWAN",Parliamentary TV 1
+http://61.216.177.73/sta/ch10119034.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/d/d2/Congress_Channel_2_%28Taiwan%29.jpg/440px-Congress_Channel_2_%28Taiwan%29.jpg" group-title="TAIWAN",Parliamentary TV 2
+http://61.216.177.73/sta/ch10119035.m3u8
+
 #EXTINF:-1 tvg-logo="https://photo.sofun.tw/2014/06/SET-TV-Logo.jpg" group-title="TAIWAN",SET Metro
 http://60.250.69.26:8080/live/setcity89.m3u8
 
@@ -10337,6 +10352,12 @@ http://live.italkdd.com/cds160/hls/channel018/channel018.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.culturalsurvival.org/sites/default/files/styles/max_1300x1300/public/media/taiwan_indigenous_tv.png" group-title="TAIWAN",TITV
 http://61.216.177.73/sta/ch1865031.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/400px-TTV_General_Channel_2016.png" group-title="TAIWAN",TTV General Channel
+http://61.216.177.73/sta/ch10119037.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TTV_HD_2012_logo.png" group-title="TAIWAN",TTV HD
+http://61.216.177.73/sta/ch10119036.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="TAIWAN",TTV News
 http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
@@ -10412,6 +10433,9 @@ http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u
 
 #EXTINF:-1 tvg-logo="https://tutimviec.com/wp-content/uploads/2016/04/truyen-hinh-gia-lai-tuyen-dung.jpg" group-title="VIETNAM",THGL
 http://vietcago.net/vstv/gialaitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="VIETNAM",VTV4
+http://61.216.177.73/sta/ch10119033.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Hinduism-Om-icon-Golden-Brown.png" group-title="LABEL",~ Hinduism
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
