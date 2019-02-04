@@ -6648,38 +6648,11 @@ http://www.lengua.com/anthems/Turkey.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.montajuyduservisi.com/uploads/haber/7MvwpwQ9amvu-1QzZSrLBdWAmyy4KIpt.jpg" group-title="TURKEY",1AN TV
 http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKEY",360 TV
-http://nocvp-usd.noccdn.net/asset/7VhZpLtF/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/13/14/1a/13141a849982ffff85987b333de0e4a1.jpg" group-title="TURKEY",A2
-http://canlitvtr.org/sntxyayin/a2tv.m3u8
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-64On7A_z2AU/V_UzFi4gBBI/AAAAAAAACjA/liQRWBQEm0Iz1ubIcgjAz3AnETGnH7IxwCLcB/s1600/adana-tv1.png" group-title="TURKEY",Adana TV
-http://nocvp-usd.noccdn.net/asset/7VhZqxTS/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://www.etvizle.net/ahaber.png" group-title="TURKEY",A HBR
-http://nocvp-usd.noccdn.net/asset/7VhZq3bp/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o3G9ddv.png" group-title="TURKEY",AKSU TV
 http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/66/c0/72/66c07242-53b1-d165-69ca-a9ffa63bb295/AppIcon-0-1x_U007emarketing-0-0-0-0-85-220-0-10.png/246x0w.jpg" group-title="TURKEY",A Spor
-http://canlitvtr.org/sntxyayin/aspor.m3u8
-
-#EXTINF:0 tvg-logo="https://www.freeetv.com/images/02_logo/a_tv_turkey.jpg" group-title="TURKEY",A TV
-http://nocvp-usd.noccdn.net/asset/7VhZpDwL/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/Beyaz-TV.jpg" group-title="TURKEY",Beyaz TV
-http://canlitvtr.org/sntxyayin/beyaztv.m3u8
-
-#EXTINF:0 tvg-logo="http://www.bursatv.com.tr/images/upload/logo-kunye.jpg" group-title="TURKEY",Bursa TV
-http://nocvp-usd.noccdn.net/asset/7VhZqpUg/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="TURKEY",Cartoon Network
-http://canlitvtr.org/sntxyayin/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.siyred.com/uploads/thumbs/8808168ff-1.jpg" group-title="TURKEY",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
@@ -6690,12 +6663,6 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk (Opt-2)
 https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1046138003557683202/9ItyUqn-_400x400.jpg" group-title="TURKEY",Deha TV
-http://nocvp-usd.noccdn.net/asset/7VhZqk5m/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="TURKEY",Disney Channel
-http://canlitvtr.org/sntxyayin/disneychannel.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY",Dream TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
@@ -6705,50 +6672,17 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tivigi.com/img/kanallar/dost-tv.png" group-title="TURKEY",Dost TV
 http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.sanliurfa63.com/images/haberler/2018/03/duru-tv-nin-frekansi-degisti_t.jpg" group-title="TURKEY",Duru TV
-http://nocvp-usd.noccdn.net/asset/7VhZqfNr/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRyLnR2LnNhbHR1ay5lcnRfaWNvbl8wXzYxZTMxNTdi/icon.png?w=170&fakeurl=1&type=.png" group-title="TURKEY",ER TV
-http://nocvp-usd.noccdn.net/asset/7VhZqphz/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/36268f6f-b8d0-40d9-bee8-12a68e8f4fe3/d97w51a-452997e5-cb7e-4b7d-8ed8-e4903ea30a8f.png/v1/fill/w_900,h_297,strp/fbtv_logo_calismam_by_power_graphic_d97w51a-fullview.png" group-title="TURKEY",FB TV
-http://canlitvtr.org/sntxyayin/fbtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.redd.it/4prlsvr1o4w11.jpg" group-title="TURKEY",Flash TV
-http://canlitvtr.org/sntxyayin/flashtv.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png" group-title="TURKEY",Fox
-http://nocvp-usd.noccdn.net/asset/7VhZpNQr/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frmtv.com/wp-content/uploads/2017/08/frmtvlogo.png" group-title="TURKEY",FRM TV
 http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="TURKEY",Guney TV Tarsus
 rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
 
-#EXTINF:0 tvg-logo="https://im.haberturk.com/assets/images/ht_logo.png" group-title="TURKEY",Haber Turk
-http://nocvp-usd.noccdn.net/asset/7VhZq3BY/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.sozcu.com.tr/wp-content/uploads/2015/12/15/halktv11.jpg" group-title="TURKEY",Halk TV
-http://canlitvtr.org/sntxyayin/halktv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xcrRa9Y.png" group-title="TURKEY",IBB TV
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 
-#EXTINF:-1 tvg-logo="https://www.imalbania.com/video/wp-content/uploads/2014/04/kanal-7-logo.png" group-title="TURKEY",Kanal 7
-http://canlitvtr.org/sntxyayin/kanal7.m3u8
-
-#EXTINF:0 tvg-logo="http://www.kalitetv.live/wp-content/uploads/2018/04/kanal23.png" group-title="TURKEY",Kanal 23
-http://nocvp-usd.noccdn.net/asset/7VhZqFdu/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.sakaryagazetesi.com.tr/uploads/11/1130-190834_1.jpg" group-title="TURKEY",Kanal 26
-http://nocvp-usd.noccdn.net/asset/7VhZqh5E/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="http://partner.ulango.tv/uploads/channels/14773/logo_kanal%2068.png" group-title="TURKEY",Kanal 68
-http://nocvp-usd.noccdn.net/asset/7VhZqwcM/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-1)
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
@@ -6756,17 +6690,8 @@ http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D (Opt-2)
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-41VqfEvhiBM/WQtB8jXoiuI/AAAAAAAAAEU/TB9xcHu2k-ghMWE6G9hJ2OBL-QJCCfR3gCLcB/s1600/urfa.png" group-title="TURKEY",Kanal Urfa
-http://nocvp-usd.noccdn.net/asset/7VhZqvay/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eIGYTkv.png" group-title="TURKEY",Kanal V
 rtmp://stream2.taksimbilisim.com/kanalvip/bant1
-
-#EXTINF:0 tvg-logo="https://l3.tikilive.com/public/files/shows/322/322736/51753-294x165-FFFFFF.jpg" group-title="TURKEY",Kent TV
-http://nocvp-usd.noccdn.net/asset/7VhZqdDf/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="TURKEY",KRAL TV
-http://nocvp-usd.noccdn.net/asset/7VhZqNsp/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://muzrad.com/wp-content/uploads/2015/11/muzrad_kral-world-radio-8-ilde-yayinda.jpg" group-title="TURKEY",KRAL World TV
 http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
@@ -6774,44 +6699,14 @@ http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 
-#EXTINF:0 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f0/9c/88/f09c882a-0f23-d604-197d-87af8c75f336/source/512x512bb.jpg" group-title="TURKEY",Mercan TV
-http://nocvp-usd.noccdn.net/asset/7VhZqqof/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="TURKEY",Minika Çocuk
-http://canlitvtr.org/sntxyayin/minikacocuk.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tenkai-knights/images/c/cb/Minika_GO_Logo.jpg" group-title="TURKEY",Minika Go
-http://canlitvtr.org/sntxyayin/minikago.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ntv.com.tr/content/img/ntv_logo_buyuk.jpg" group-title="TURKEY",NTV Haber
-http://canlitvtr.org/sntxyayin/ntv.m3u8
-
-#EXTINF:0 tvg-logo="https://jrn424.files.wordpress.com/2016/05/ort-tv.jpg" group-title="TURKEY",ORT TV
-http://nocvp-usd.noccdn.net/asset/7VhZqtFM/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png" group-title="TURKEY",Power Turk
-http://nocvp-usd.noccdn.net/asset/7VhZqMkS/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.earthtvnet.com/wp-content/uploads/2016/02/Power-TV.png" group-title="TURKEY",Power TV
-http://nocvp-usd.noccdn.net/asset/7VhZqKn9/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rumelitv.com.tr/img/rumelilogo.png" group-title="TURKEY",Rumeli TV
 http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
-
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="TURKEY",Semerkand
-http://nocvp-sed.noccdn.net/asset/7Xn2QF8D/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="http://turkey.mom-rsf.org/typo3temp/_processed_/7/e/csm_260-101_import_f6e80822c6.png" group-title="TURKEY",Show TV
-http://nocvp-usd.noccdn.net/asset/7VhZpMVb/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.com/files/2014/06/SkyTurk-360.png" group-title="TURKEY",Sky Turk 360
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
-http://canlitvtr.org/sntxyayin/sportstv.m3u8
-
-#EXTINF:0 tvg-logo="http://pbs.twimg.com/profile_images/855479121014554624/n1Jun8Zg_400x400.jpg" group-title="TURKEY",Star TV
-http://nocvp-usd.noccdn.net/asset/7VhZpRps/chunklist.m3u8
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wUPmhTk.png" group-title="TURKEY",Sun TV Mersin
 rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
@@ -6822,14 +6717,8 @@ http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/458666982905098240/Ef3T7N7P.png" group-title="TURKEY",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-XZA7wDbnF54/U14xmkdkMJI/AAAAAAAAfNU/CU3SkOAUnnM/s1600/TGRT-Haber-logo-2014.png" group-title="TURKEY",TGRT Haber
-http://canlitvtr.org/sntxyayin/tgrthaber.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iblog.milliyet.com.tr/imgroot/blogv7/Blog333/2014/03/12/05/452667-3-4-60de4.jpg" group-title="TURKEY",TJK TV
 http://tjktv.ercdn.net/tjktv_576p.m3u8
-
-#EXTINF:0 tvg-logo="https://www.canlitvplayer.com/wp-content/uploads/2017/09/Ton-tv-player.png" group-title="TURKEY",Ton TV
-http://nocvp-usd.noccdn.net/asset/7VhZqCbG/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -6858,15 +6747,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 
-#EXTINF:0 tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/tv4.png" group-title="TURKEY",TV 4
-http://nocvp-usd.noccdn.net/asset/7VhZqd3a/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TV8.png.jpg/199px-TV8.png.jpg" group-title="TURKEY",TV 8
-http://nocvp-usd.noccdn.net/asset/7VhZpDKi/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="TURKEY",TV 8,5
-http://canlitvtr.org/sntxyayin/tv8-buc-tvcanli-3.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurtcetvizle.com/wp-content/uploads/2014/03/tv-10-canli-zindi-izle.jpg" group-title="TURKEY",TV 10
 rtmp://5.135.142.60:1935/tv10/xetero
 
@@ -6876,29 +6756,11 @@ rtmp://stream.taksimbilisim.com/tv41/bant1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L6GE7ZG.png" group-title="TURKEY",TV 52
 rtmp://stream.taksimbilisim.com/tv52/bant1
 
-#EXTINF:0 tvg-logo="http://www.canlitw.com/wp-content/uploads/2018/02/logo-1-1-1-270x250.png" group-title="TURKEY",TV 79
-http://nocvp-usd.noccdn.net/asset/7VhZqmeZ/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frocus.net/images/logotv/original/TV2000-Turkey.jpg" group-title="TURKEY",TV 2000
 rtmp://stream.taksimbilisim.com/tv2000/bant1
 
-#EXTINF:0 tvg-logo="https://www.mobil13.com/wp-content/uploads/2017/06/tvden-uygulamasi.png" group-title="TURKEY",TV Den
-http://nocvp-usd.noccdn.net/asset/7VhZqowd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvnet.com.tr/dist/img/index-image.jpg" group-title="TURKEY",TVNET
-http://canlitvtr.org/sntxyayin/tvnet.m3u8
-
-#EXTINF:0 tvg-logo="https://image.ulketv.com.tr/wp-content/themes/ulketv/images/ulke-tv-share.jpg" group-title="TURKEY",Ülke TV
-http://nocvp-usd.noccdn.net/asset/7VhZqcnR/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://parsiland.net/acc/chlogos/turkey/vatan-tv.jpg" group-title="TURKEY",Vatan TV
-http://canlitvtr.org/sntxyayin/vatantv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="TURKEY",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Yaban_tv_logo_new.png" group-title="TURKEY",Yaban TV
-http://canlitvtr.org/sntxyayin/yabantv.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/azerbaijan/azerbaijan_640.png" group-title="LABEL",~ Azerbaijan TV ~
 http://www.lengua.com/anthems/Azerbaijan.mp3
@@ -9556,6 +9418,9 @@ http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="CHINA",24/7 Shin Chan
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="CHINA",Anduo TV
+http://111.40.205.77/PLTV/88888888/224/3221225659/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="CHINA",Anhui People Channel
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
 
@@ -9736,6 +9601,9 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png" group-title="CHINA",Dragon TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
 
+#EXTINF:-1 tvg-logo="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=d26684462a9759ee4a5067cd8ac0242b/94cad1c8a786c917a5a2b272c53d70cf3ac757dc.jpg" group-title="CHINA",FS Shopping
+http://111.40.205.77/PLTV/88888888/224/3221225679/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fujian-south-east-tv-cn.png" group-title="CHINA",Fujian South East TV
 http://112.50.243.7/PLTV/88888888/224/3221225833/1.m3u8
 
@@ -9882,6 +9750,9 @@ http://220.161.247.82:8199/live/nd1_1128.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-12-15/5c14f68c565db.jpg" group-title="CHINA",Ningde TV 2
 http://220.161.247.82:8199/live/nd2_1128.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ningxiatv.jpg" group-title="CHINA",Ningxia TV
+http://111.40.205.77/PLTV/88888888/224/3221225632/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/chtv-hk.png" group-title="HONG KONG",CHTV
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000602/index.m3u8
@@ -10096,6 +9967,12 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/833-AsiaTravel.png" group-title="TAIWAN",Asia Travel
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="TAIWAN",Baby TV
+http://61.216.177.73/sta/ch10119023.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/zh.uncyclopedia/images/4/42/2016070801014301871.png" group-title="TAIWAN",BLTV
+http://61.216.177.73/sta/ch1865016.m3u8
+
 #EXTINF:-1 tvg-logo="https://cinando.com/img/company/379232.jpg?width=283&height=283&404=noimg_company.png" group-title="TAIWAN",Cai Chang TV
 http://61.216.177.73/sta/ch91865002.m3u8
 
@@ -10124,10 +10001,10 @@ http://live.italkdd.com/cds160/hls/channel020/channel020.m3u8
 http://60.250.69.26:8080/live/ebcdrama89.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/EBC-FNC-Logo.jpg" group-title="TAIWAN",EBC Financial News
-http://60.250.69.26:8080/live/ebcfinace89.m3u8
+http://61.216.177.73/sta/ch10119002.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20151231132530IByhxc=.png" group-title="TAIWAN",EBC News
-http://60.250.69.26:8080/live/ebcnews89.m3u8
+http://61.216.177.73/sta/ch10119001.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20151231132530IByhxc=.png" group-title="TAIWAN",EBC News America
 http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
@@ -10138,11 +10015,29 @@ http://60.250.69.26:8080/live/ebc89.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3d/25chEBCYoyo2015logo.jpg/220px-25chEBCYoyo2015logo.jpg" group-title="TAIWAN",EBC YOYO
 http://60.250.69.26:8080/live/ebckid89.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ehsn.jpg" group-title="TAIWAN",EHS TV 1
+http://61.216.177.73/sta/ch1865017.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ehsn.jpg" group-title="TAIWAN",EHS TV 2
+http://61.216.177.73/sta/ch1865018.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ehsn.jpg" group-title="TAIWAN",EHS TV 3
+http://61.216.177.73/sta/ch1865019.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ehsn.jpg" group-title="TAIWAN",EHS TV 4
+http://61.216.177.73/sta/ch1865020.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ehsn.jpg" group-title="TAIWAN",EHS TV 5
+http://61.216.177.73/sta/ch1865021.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1
 http://cdn7.woideas.com/tv11.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg" group-title="TAIWAN",ELTA TV Sports 1
 http://59.120.242.104:9000/live/live9.m3u8
+
+#EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180903/8227acc7fd3b48a887cb0805e5bcfd96.jpeg" group-title="TAIWAN",Feng Shui TV
+http://61.216.177.73/sta/ch1865004.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="TAIWAN",Fox Movies
 http://60.250.69.26:8080/live/startwest89.m3u8
@@ -10152,6 +10047,30 @@ http://59.120.242.104:9000/live/live14.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg" group-title="TAIWAN",FTV News
 http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fltv.jpg" group-title="TAIWAN",Fu Li TV
+http://61.216.177.73/sta/ch1865022.m3u8
+
+#EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/globalnews.jpg" group-title="TAIWAN",Global News
+http://61.216.177.73/sta/ch10119011.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lizhizu.com/uploads/images/20181024/2f48f571a5431a06c57bdaac9af44ae5.jpg" group-title="TAIWAN",Global News 2
+http://61.216.177.73/sta/ch10119013.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingtiankatong.jpg" group-title="TAIWAN",Golden Cartoon TV
+http://61.216.177.73/sta/ch10119030.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P310114539601.jpg" group-title="TAIWAN",Golden Japan TV
+http://61.216.177.73/sta/ch10119032.m3u8
+
+#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/18/1-1P3101201470-L.jpg" group-title="TAIWAN",Golden Comprehesive TV
+http://61.216.177.73/sta/ch10119029.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P310113930b6.jpg" group-title="TAIWAN",Golden TV
+http://61.216.177.73/sta/ch10119024.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P310113930b6.jpg" group-title="TAIWAN",Golden Yule TV
+http://61.216.177.73/sta/ch10119028.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/good_tv-taiwan.jpg" group-title="TAIWAN",Good TV
 http://live.streamingfast.net/osmflivech8.m3u8
@@ -10174,14 +10093,26 @@ http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3
 #EXTINF:-1 tvg-logo="http://123.51.170.209/skyking/Icon/002002.png" group-title="TAIWAN",Hakka TV
 http://61.216.177.73/sta/ch1865024.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/ITV_Choice.svg/1200px-ITV_Choice.svg.png" group-title="TAIWAN",ITV Choice
+http://61.216.177.73/sta/ch10119025.m3u8
+
 #EXTINF:-1 tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/304-300_orig.png" group-title="TAIWAN",Kah Lai Toi
 http://61.216.177.73/sta/ch10119031.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lifetv.jpg" group-title="TAIWAN",Life TV
+http://61.216.177.73/sta/ch1865007.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvxiju.jpg" group-title="TAIWAN",LTV Drama
+http://61.216.177.73/sta/ch10119008.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvyangpian.jpg" group-title="TAIWAN",LTV Movies
-http://59.120.242.104:9000/live/live5.m3u8
+http://61.216.177.73/sta/ch10119006.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/64/5f/26/645f2613781cda1b4417188007f90d16.jpg" group-title="TAIWAN",Macroview TV
 http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yourart.asia/image/show/news/423190a942e543af7c1cbac3b5818ae6.jpg" group-title="TAIWAN",Medici Arts TV
+http://61.216.177.73/sta/ch10119022.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-momo-shopping-1.jpg" group-title="TAIWAN",Momo Shopping 1
 http://61.216.177.73/sta/ch1865032.m3u8
@@ -10191,6 +10122,15 @@ http://61.216.177.73/sta/ch1865033.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/next-tv.jpg" group-title="TAIWAN",NEXTTV
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nicebingo.jpg" group-title="TAIWAN",Nice Bingo
+http://61.216.177.73/sta/ch10119027.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-text-png-2.png" group-title="TAIWAN",Nickelodeon
+http://61.216.177.73/sta/ch10119026.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="TAIWAN",NTDTV (USA)
+http://61.216.177.73/sta/ch1865015.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Congress_Channel_1_%28Taiwan%29.jpg/440px-Congress_Channel_1_%28Taiwan%29.jpg" group-title="TAIWAN",Parliamentary TV 1
 http://61.216.177.73/sta/ch10119034.m3u8
@@ -10207,6 +10147,27 @@ http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Skylinklogo1.png" group-title="TAIWAN",Sky Link TV 2 (USA)
 http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/08/SportCast-Channel.jpg" group-title="TAIWAN",Sportcast Channel
+http://61.216.177.73/sta/ch10119019.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P430220I10-L.jpg" group-title="TAIWAN",Sportcast Charm
+http://61.216.177.73/sta/ch10119020.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20180101141545SZb2NKy.jpg" group-title="TAIWAN",Sportcast Games
+http://61.216.177.73/sta/ch10119021.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0c2f00ca-f394-413a-8b8f-9723b64c1916.jpg" group-title="TAIWAN",Sportcast Golf 1
+http://61.216.177.73/sta/ch10119015.m3u8
+
+#EXTINF:-1 tvg-logo="http://pic.pimg.tw/sportcast/473fc91ca0a77e679c6dfbc6f10aac39.png" group-title="TAIWAN",Sportcast Golf 2
+http://61.216.177.73/sta/ch10119016.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/Sport-Cast.jpg" group-title="TAIWAN",Sportcast Move 1
+http://61.216.177.73/sta/ch10119017.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/Sport-Cast.jpg" group-title="TAIWAN",Sportcast Move 2
+http://61.216.177.73/sta/ch10119018.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="TAIWAN",Star Chinese Channel
 http://60.250.69.26:8080/live/startchines89.m3u8
 
@@ -10219,8 +10180,14 @@ http://60.250.69.26:8080/live/startfamily89.m3u8
 #EXTINF:-1 tvg-logo="http://www.e-quit.org/UpLoadFile/userfiles/images/%E8%B6%85%E8%A6%96Logo.jpg" group-title="TAIWAN",STV USA
 http://live.italkdd.com/cds160/hls/channel018/channel018.m3u8
 
+#EXTINF:-1 tvg-logo="http://pimg.p30download.com/APK_IMG/t/ookon.tltv/icon/c79feaa5d9818f2669cd14aef69a1df3_small.png" group-title="TAIWAN",Tien Lang TV
+http://61.216.177.73/sta/ch1865001.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.culturalsurvival.org/sites/default/files/styles/max_1300x1300/public/media/taiwan_indigenous_tv.png" group-title="TAIWAN",TITV
 http://61.216.177.73/sta/ch1865031.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/0/06/TTV_Finance_Channel_2016.png/440px-TTV_Finance_Channel_2016.png" group-title="TAIWAN",TTV Finance
+http://61.216.177.73/sta/ch10119039.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/400px-TTV_General_Channel_2016.png" group-title="TAIWAN",TTV General Channel
 http://61.216.177.73/sta/ch10119037.m3u8
