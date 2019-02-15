@@ -1994,6 +1994,9 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/wixedx.jpg" group-title="GERMANY",Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="GERMANY",Disney Channel
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1023.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Donau_TV_Logo.jpg" group-title="GERMANY",Donau TV
 http://217.227.215.27:9981/stream/channelid/1071569557?profile=pass
 
@@ -2032,6 +2035,9 @@ https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/245px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY",Kabel Eins
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1022.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="GERMANY",KiKA
 http://217.227.215.27:9981/stream/channelid/2074698297?profile=pass
@@ -2105,6 +2111,9 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ProSiebenSat1.svg/1200px-ProSiebenSat1.svg.png" group-title="GERMANY",ProSieben
 http://217.227.215.27:9981/stream/channelid/905536154?profile=pass
 
+#EXTINF:-1 tvg-logo="https://www.prosiebensat1.com/uploads/2015/10/26/P7S1MediaSE_WBM_rs_2z_4c.jpg" group-title="GERMANY",ProSiebenSat.1
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/152.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="GERMANY",QVC
 http://ios-stream.qvc.de/qvc.m3u8
 
@@ -2140,6 +2149,9 @@ http://217.227.215.27:9981/stream/channelid/57447055?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.navvis.com/uploads/picture/sat-1-bayern.jpg" group-title="GERMANY",Sat.1 Bayern
 http://217.227.215.27:9981/stream/channelid/1295592592?profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/sat1_rgb_sat1gold.jpg" group-title="GERMANY",Sat.1 Gold
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1021.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/4d/Sat1_HH_und_SH_Logo.svg/2000px-Sat1_HH_und_SH_Logo.svg.png" group-title="GERMANY",Sat.1 HH SH
 http://217.227.215.27:9981/stream/channelid/851578275?profile=pass
@@ -4084,6 +4096,9 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV (Opt-2)
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782331_logo_a1_media_film.png" group-title="SPAIN",A1 Media TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/937.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="SPAIN",A Punt
 https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
@@ -6542,6 +6557,12 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rti.rtsh.al/wp-content/uploads/2018/05/RTSH-LOGO.png" group-title="ALBANIA",TVSH
 http://141.136.9.114:8097/play/a01v
 
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/slovenia/flag-3d-round-250.png" group-title="LABEL",~ Slovenia TV ~
+http://www.lengua.com/anthems/Slovenia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SlyMBgPsuvo/hqdefault.jpg" group-title="SLOVENIA",Sehara TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/219.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="LABEL",~ Croatia TV ~
 http://www.lengua.com/anthems/Croatia.mp3
 
@@ -6560,32 +6581,71 @@ http://195.29.70.82/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/HRT_4_%282014%29.svg/revision/latest?cb=20180124112248" group-title="CROATIA",HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.hrt.hr/media/tt_news/HRTint-LOGO-web.png" group-title="CROATIA",HRT International
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1008.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/news-bar-tv/288028-2-cro-HR/News-Bar-TV.png" group-title="CROATIA",News Bar TV
 http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Plava_Vinkova%C4%8Dka.jpg" group-title="CROATIA",Plava Vinkovacka
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/200.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RTL_Televizija_Logo.svg/2000px-RTL_Televizija_Logo.svg.png" group-title="CROATIA",RTL
 http://195.29.70.82/PLTV/88888888/224/3221226195/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1200px-RTL_2_Logo.svg.png" group-title="CROATIA",RTL 2
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/173.m3u8
+
+#EXTINF:-1 tvg-logo="https://mld.com.hr/wp-content/uploads/2018/04/rtl-danas-3cc6082aede727186d328461baaf6292_view_article_new-370x247.jpg" group-title="CROATIA",RTL Danas
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/482.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/1/16/RTL_Kockica_logo.png" group-title="CROATIA",RTL Kockica
-rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/194.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/rr/rtl_living_de.png" group-title="CROATIA",RTL Living
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/231.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rtAznnQ.jpg" group-title="CROATIA",Trend TV
 rtmp://185.62.75.22:1935/trend/myStream
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="CROATIA",Z1 TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/477.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",~ Serbia TV ~
 http://www.lengua.com/anthems/Serbia.mp3
+
+#EXTINF:-1 tvg-logo="http://teve.ba/img/articles/19126.jpg" group-title="SERBIA",B92 Info
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/232.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstonetv.live/images/logos/rs/DMSAT.png" group-title="SERBIA",DM Sat
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/169.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="SERBIA",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/hh/happy_tv_rs.png" group-title="SERBIA",Happy TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/167.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.navidiku.rs/tv-uzivo/slike/tv/televizija1.jpg" group-title="SERBIA",Novosadska
 mms://176.106.121.32:8090
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Kuvar_logo.png" group-title="SERBIA",Pink Kuvar
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/211.m3u8
 
 #EXTINF:-1 tvg-logo="https://telemach.ba/oec/images/tv_channels/97396413745b2764c3935463a211b2a7.png" group-title="SERBIA",Pink Western
 http://93.87.85.71/PLTV/88888888/224/3221226580/01.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNHSRjQOMVG%2FFxbBJoISM0Cw%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001930%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/799px-RTRS_Logo.svg.png" group-title="SERBIA",RTRS
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/26.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_hd.png" group-title="SERBIA",RTS
 rtmp://rtssat2.videostreaming.rs/rtssat/rtssat.2.stream
+
+#EXTINF:-1 tvg-logo="https://serbia.mom-rsf.org/uploads/tx_lfrogmom/media/5015.png" group-title="SERBIA",RTS1
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/228.m3u8
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/890759_logo_rts_2.png" group-title="SERBIA",RTS2
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/229.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8cb4c664287_logoRTSSvet.png.1c95695e1218a5a5aa5e5f8c40192f0b.png" group-title="SERBIA",RTS Svet
 http://141.136.9.114:8097/play/a01t
@@ -6620,8 +6680,44 @@ http://www.lengua.com/anthems/BosniaandHerzegovina.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="BOSNIA",777 Tehnika TV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3474562_logo_a1_shiptare1.png" group-title="BOSNIA",A1 Albania
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/17.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/aa/alpha_one_tv_balkan.png" group-title="BOSNIA",A1 Balkan
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/28.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-IWwllEpVX34/WQeohIULa-I/AAAAAAAAFpE/g2YCAwsP6bc4mchtqzEyV63pjNFI1NlzgCLcB/s1600/alpha_one_tv_network_es.png" group-title="BOSNIA",A1 Bosnia
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/995.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-IWwllEpVX34/WQeohIULa-I/AAAAAAAAFpE/g2YCAwsP6bc4mchtqzEyV63pjNFI1NlzgCLcB/s1600/alpha_one_tv_network_es.png" group-title="BOSNIA",A1 Cinema
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/998.m3u8
+
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/a1-espana-webtvonlive-com.jpg" group-title="BOSNIA",A1 España
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/19.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e5f34_db505b9a9299441c815a7572846562b8~mv2.gif" group-title="BOSNIA",A1 Exclusive
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/850.m3u8
+
+#EXTINF:-1 tvg-logo="http://katoona.com/iimg/A1-ISLAM.gif" group-title="BOSNIA",A1 Islam
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-IWwllEpVX34/WQeohIULa-I/AAAAAAAAFpE/g2YCAwsP6bc4mchtqzEyV63pjNFI1NlzgCLcB/s1600/alpha_one_tv_network_es.png" group-title="BOSNIA",A1 Kids
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/999.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-NLyfwXIQkrU/WChPRFjOTLI/AAAAAAAAJ1Q/eYvR-cDTutkdCmjV4FdU3lapd0sDUtAWACLcB/s1600/A1.png" group-title="BOSNIA",A1 Serbia
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/176.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3041155/logo_a1%20sports1.png" group-title="BOSNIA",A1 Sports
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/851.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3478616/logo_a1%20world.png" group-title="BOSNIA",A1 World
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/997.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/4b/Aljazeera_Balkans_alternativ.png" group-title="BOSNIA",Al Jazeera Balkans
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/23.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ATdgorp2X14/maxresdefault_live.jpg" group-title="BOSNIA",AnMa TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/899.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1-big.png" group-title="BOSNIA",Arena Sport 1
 http://46.40.5.99:8000/arena_1_high
@@ -6636,13 +6732,97 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/BHT_1_logo.png/180px-BHT_1_logo.png" group-title="BOSNIA",BHT1
-163.172.21.128:25461/live/test/test/9.m3u8
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/BN_Music_logo.png" group-title="BOSNIA",BN Music
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/109.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/logo/BN_BiH.png" group-title="BOSNIA",BN TV
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/27.m3u8
+
+#EXTINF:-1 tvg-logo="http://katoona.com/iimg/A1-SANDZAK-TV1.gif" group-title="BOSNIA",BNV Sandzak TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Logo_of_CITY_TV.png/200px-Logo_of_CITY_TV.png" group-title="BOSNIA",City TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/832.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/logo/FaceTV_BiH.png" group-title="BOSNIA",Face TV
-http://178.132.6.97/FACETV/tracks-v1a1/index.m3u8
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/24.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/F.png" group-title="BOSNIA",FTV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.exyuradio.net/pub/catalog/radio-glas-drine-uzivo.jpg" group-title="BOSNIA",Glas Drine
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/226.m3u8
+
+#EXTINF:-1 tvg-logo="https://totaltv.tv/Picture/33717/jpeg/HAYAT-TV-na-EON-u.jpg" group-title="BOSNIA",Hayat
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/21.m3u8
+
+#EXTINF:-1 tvg-logo="https://telekom.me/content/extra-tv-kanali/hayat%20folk.jpg" group-title="BOSNIA",Hayat Folk
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/hayatplus_logo.png" group-title="BOSNIA",Hayat Plus
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/141.m3u8
+
+#EXTINF:-1 tvg-logo="http://nextgen-iptv.com/Logos/bih/Izvorna-tv.png" group-title="BOSNIA",Izvorna TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/159.m3u8
+
+#EXTINF:-1 tvg-logo="http://katoona.com/iimg/KANAL6.gif" group-title="BOSNIA",Kanal 6
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/124.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alpha_one_tv_mir_europa.png" group-title="BOSNIA",Mir TV Europa
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/938.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/MTV_Igman_Logo.png" group-title="BOSNIA",MTV Igman
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/474.m3u8
+
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/8/7/4/18741901/18741901,640x360,b:2.jpg" group-title="BOSNIA",Neon TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/160.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/NovaBH.png/220px-NovaBH.png" group-title="BOSNIA",Nova BH
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/209.m3u8
+
+#EXTINF:-1 tvg-logo="http://cloveworld.org/mobile/admin/channels/art/5bce25afaa355avdk1nyb3m4r1540236719.jpg" group-title="BOSNIA",NTV 101
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/166.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ntvjata.com/images/logo.png" group-title="BOSNIA",NTV Jata
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/30.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.obn.ba/images/obntvlogo-front.png" group-title="BOSNIA",OBN
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Logo_of_OTV_Valentino.png" group-title="BOSNIA",OTV Valentino
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/195.m3u8
+
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2018-03/1522158382_www.satsis.info__posavina-tv.png" group-title="BOSNIA",Posavina TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/831.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e5f34_e10fdda45dd24f7c851c88a26f340c27~mv2.png" group-title="BOSNIA",Primera Info
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/993.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e5f34_e10fdda45dd24f7c851c88a26f340c27~mv2.png" group-title="BOSNIA",Primera Music
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/994.m3u8
+
+#EXTINF:-1 tvg-logo="http://rtv7.ba/wp-content/uploads/2015/05/RTV7_logo_retina_2015.jpg" group-title="BOSNIA",RTV7
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/132.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Logo_of_RTV_TK.png/200px-Logo_of_RTV_TK.png" group-title="BOSNIA",RTV TK
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/112.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Logo_of_RTV_Zenica.png" group-title="BOSNIA",RTV Zenica
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/138.m3u8
+
+#EXTINF:-1 tvg-logo="http://rtvzivinice.tv/wp-content/uploads/2018/03/LOGO-TVZ-PRIMJER-1.png" group-title="BOSNIA",RTV Živinice
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/142.m3u8
+
+#EXTINF:-1 tvg-logo="http://katoona.com/iimg/SANDZACKA-TV-MREZA.gif" group-title="BOSNIA",Sandzacka TV Mreza
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1004.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvsmart.ba/wp-content/uploads/2017/10/SMART_LOGO-1-1-300x149.png" group-title="BOSNIA",Smart Televizija
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/174.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tatabrada.tv/wp-content/uploads/2017/06/tatabrada-televizija-zanimljive-1-1280x500.jpg" group-title="BOSNIA",Tatabrada TV
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/860.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.logosoft.ba/chanLogo/televizija5.png" group-title="BOSNIA",Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
@@ -6651,10 +6831,16 @@ http://37.59.21.217:8809/live/tv5web.m3u8
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV1_Bosnia_and_Herzegovina_logo.jpg" group-title="BOSNIA",TV1
-http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/146.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BOSNIA",TV Hit
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/135.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/Logos/bih/tv_sarajevo.png" group-title="BOSNIA",TV Sarajevo
 rtmp://91.148.117.134:1935/radios/radiosweb.stream
+
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/04/TV-Slon-Logo-670x300.jpg" group-title="BOSNIA",TV Slon Extra
+http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/111.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-button-square-250.png" group-title="LABEL",~ Macedonia TV ~
 http://www.lengua.com/anthems/Macedonia.mp3
