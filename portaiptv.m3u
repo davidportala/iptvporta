@@ -1916,6 +1916,9 @@ http://www.lengua.com/anthems/SouthAfrica.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://businesstech.co.za/news/wp-content/uploads/2013/10/ANN7.jpg" group-title="SOUTH AFRICA",ANN7
 rtmp://46.4.25.213/live-ann7/ann7-hi.stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Fame-1980-movie-logo.png" group-title="SOUTH AFRICA",Fame TV
+http://iptv-line.com:6969/lucia/lucia1/8227
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" group-title="SOUTH AFRICA",Fashion One
 http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
@@ -2675,11 +2678,17 @@ http://ott-cdn.ucom.am/s49/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.mezzo.tv/5be00c6e/static/img/generic/mezzo.jpg" group-title="FRANCE",Mezzo
 http://92.43.140.249/s35/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nollywoodtv.fr/images/logo-nollywoodtv.png" group-title="FRANCE",Nollywood TV
+http://iptv-line.com:6969/lucia/lucia1/4400
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="FRANCE",RMC Sport 2
 http://89.163.140.211:8787/sfrsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/733311146040643584/ETxeN2GZ.jpg" group-title="FRANCE",RT
 http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.over-blog-kiwi.com/2/18/81/12/20170108/ob_174f88_telesud-logo.png" group-title="FRANCE",Telesud
+http://iptv-line.com:6969/lucia/lucia1/4320
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv5monde.com/programmes/bundles/tv5mondesite/images/logo-og.png" group-title="FRANCE",TV5 Monde Brazil
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/49
@@ -2738,14 +2747,53 @@ http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/VoxAfrica_logo_RD_Black.png" group-title="CAMEROON",Voxafrica
+http://iptv-line.com:6969/lucia/lucia1/4314
+
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-3d-round-250.png" group-title="LABEL",~ Ivory Coast TV ~
 http://www.lengua.com/anthems/IvoryCoast.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.kisspng.com/20180531/fue/kisspng-africa-24-television-channel-logo-5b0fa0325e27b1.8657042815277507063857.jpg" group-title="IVORY COAST",Africa 24
+http://iptv-line.com:6969/lucia/lucia1/7865
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg" group-title="IVORY COAST",RTI 1
-http://185.59.221.143:1935/edge/rti1/playlist.m3u8
+http://iptv-line.com:6969/lucia/lucia1/6806
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RTI_2.jpg" group-title="IVORY COAST",RTI 2
-http://185.59.221.143:1935/edge/rti2/playlist.m3u8
+http://iptv-line.com:6969/lucia/lucia1/6805
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/senegal/flag-3d-round-250.png" group-title="LABEL",~ Senegal TV ~
+http://www.lengua.com/anthems/Senegal.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/623572295630594049/SQSVepkj_400x400.jpg" group-title="SENEGAL",Asfiyah TV
+http://iptv-line.com:6969/lucia/lucia1/4317
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdnandroid.com/2d/97/a3/70/imagen-rts1-senegal-replay-0big.jpg" group-title="SENEGAL",RTS 1
+http://iptv-line.com:6969/lucia/lucia1/4310
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.africaradios.com/wp-content/uploads/2017/10/Rts2-Senegal.jpg" group-title="SENEGAL",RTS 2
+http://iptv-line.com:6969/lucia/lucia1/4323
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.sangatv.com/images/channels/logo/59520440-b98f-11e7-8b9a-1958a345b278.png" group-title="SENEGAL",Sen TV
+http://iptv-line.com:6969/lucia/lucia1/4321
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.sangatv.com/images/channels/logo/37fdc3d0-b98c-11e7-8cf8-4d302e6c6aca.png" group-title="SENEGAL",TFM
+http://iptv-line.com:6969/lucia/lucia1/4306
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdnandroid.com/25/df/49/1d/imagen-walf-tv-replay-0big.jpg" group-title="SENEGAL",Walf TV
+http://iptv-line.com:6969/lucia/lucia1/4313
+
+#EXTINF:-1 tvg-logo="http://aux.iconspalace.com/uploads/1343523038.png" group-title="LABEL",~ Mali TV ~
+http://www.lengua.com/anthems/Mali.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/AFRICABLE_2012.png" group-title="MALI",Africable
+http://iptv-line.com:6969/lucia/lucia1/7866
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ortm.ml/images/ortm.png" group-title="MALI",ORTM
+http://iptv-line.com:6969/lucia/lucia1/4335
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamwebtown.com/xml/images/tm2.jpg" group-title="MALI",TM 2
+http://iptv-line.com:6969/lucia/lucia1/4318
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",~ Rwanda TV ~
 http://www.lengua.com/anthems/Rwanda.mp3
@@ -2753,11 +2801,17 @@ http://www.lengua.com/anthems/Rwanda.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="RWANDA",RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180320/vhq/kisspng-symbol-brand-yellow-logo-mozambique-5ab0f025210fe9.4576669315215452531354.jpg" group-title="LABEL",~ Mozambique TV ~
-http://www.lengua.com/anthems/Mozambique.mp3
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/06/09/13/13/flag-2386841_960_720.jpg" group-title="LABEL",~ Congo RD TV ~
+http://www.lengua.com/anthems/CongoRD.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/TVM-0.png" group-title="MOZAMBIQUE",TVM
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-images-1.medium.com/max/798/0*fau7ftAAELfVFgEo.png" group-title="CONGO RD",Tele Congo
+http://iptv-line.com:6969/lucia/lucia1/4334
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",~ Burkina Faso TV ~
+http://www.lengua.com/anthems/BurkinaFaso.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtb.bf/wp-content/uploads/2015/10/Logo-RTB-544-180.png" group-title="BURKINA FASO",RTB
+http://iptv-line.com:6969/lucia/lucia1/4327
 
 #EXTINF:-1 tvg-logo="http://gevrilgroup.com/images/Baselworld%202012/Switzerland.GIF" group-title="LABEL",~ Switzerland TV ~
 http://www.lengua.com/anthems/Switzerland.mp3
@@ -3490,6 +3544,18 @@ http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4717.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="PORTUGAL",VH1
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4654.ts
+
+#EXTINF:-1 tvg-logo="http://aux.iconspalace.com/uploads/1287323289.png" group-title="LABEL",~ Angola TV ~
+http://www.lengua.com/anthems/Angola.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Televis%C3%A3o_P%C3%BAblica_de_Angola.jpg" group-title="ANGOLA",TPA
+http://iptv-line.com:6969/lucia/lucia1/4305
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180320/vhq/kisspng-symbol-brand-yellow-logo-mozambique-5ab0f025210fe9.4576669315215452531354.jpg" group-title="LABEL",~ Mozambique TV ~
+http://www.lengua.com/anthems/Mozambique.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/TVM-0.png" group-title="MOZAMBIQUE",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
 http://www.lengua.com/anthems/Brazil.mp3
@@ -6138,10 +6204,34 @@ http://ss6.domint.net:1948/zol_str/vzol/chunklist_w745366436.m3u8
 http://www.lengua.com/anthems/Nicaragua.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png" group-title="NICARAGUA",Canal 2
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/canal-4-nicaragua-logo-B52640A282-seeklogo.com.png" group-title="NICARAGUA",Canal 4
-http://dcunilive1-lh.akamaihd.net/i/dclive_1@311302/index_150_av-p.m3u8
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Nicaragua.png" group-title="NICARAGUA",Canal 6
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="NICARAGUA",Canal 8
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/Canal-9-300x300.jpg" group-title="NICARAGUA",Canal 9
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://cdn.canal10.com.ni/sites/common/img/logo_canal10.png" group-title="NICARAGUA",Canal 10
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/TV_Red_Canal_11_2010.png" group-title="NICARAGUA",Canal 11
+http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png" group-title="NICARAGUA",Canal 12
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/vivacanal13-nicaragua.png" group-title="NICARAGUA",Canal 13
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cdnn23.com/images/TV2.gif" group-title="NICARAGUA",CDNN 23
+http://138.117.4.70:8079/streams/d/Canal-23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",~ El Salvador TV ~
 http://www.lengua.com/anthems/ElSalvador.mp3
@@ -6392,6 +6482,9 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryIDXtra/6.m3u8/Level(1677721
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dw13f98.jpg" group-title="ROMANIA",IDA TV
 http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?wowzasessionid=1144202524
 
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782707_logo_infinit_tv_iasi.png" group-title="ROMANIA",Infinit TV
+http://webmobile.xdev.ro:81/tv6/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.informatia-zilei.ro/sm/wp-content/uploads/2012/07/logo_iTV_640x480-350x262.jpg" group-title="ROMANIA",Informatia TV
 http://s1.streamnet.ro:8014/stream.flv
 
@@ -6413,6 +6506,9 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?star
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/2m5z2md.jpg" description="1" group-title="ROMANIA",Mooz RO!
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768717339
 
+#EXTINF:-1 tvg-logo="http://partner.ulango.tv/uploads/channels/469250/logo_nest%20tv1.png" group-title="ROMANIA",Nest TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Paramount_Channel.png" group-title="ROMANIA",Paramount Channel
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
 
@@ -6421,6 +6517,9 @@ http://185.133.64.237/news/stream:1.stream/chunklist_w1324413730.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg" group-title="ROMANIA",Realitatea TV
 http://realitatea.m247.ro/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.somaxtv.com/wp-content/uploads/2014/08/LOGO-SOMAX-p-1170x480.png" group-title="ROMANIA",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wirelessbluetoothheadphones.com/wp-content/uploads/2017/06/tv-xxl.png" group-title="ROMANIA",STV
 http://s2.streamnet.ro:8035/stream.flv
@@ -6471,7 +6570,7 @@ http://www.lengua.com/anthems/Moldova.mp3
 http://hls.protv.md/acasatv/acasatv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/469252/logo_actualitatea%20tv1.png" group-title="MOLDOVA",Actualitatea
-http://188.210.224.6:81/tv4/playlist.m3u8
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7N6vZTd.jpg" group-title="MOLDOVA",NTV
 http://93.115.137.166/hls/ntvm.m3u8
@@ -6487,6 +6586,9 @@ http://217.12.116.122/hls/rutv_direct.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.manutv.net/wp-content/uploads/893793546.png" group-title="MOLDOVA",Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://stvron.com/canale/mari/tele-moldova-plus.png" group-title="MOLDOVA",Tele Moldova +
+http://webmobile.xdev.ro:81/tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MOLDOVA",TV Buzau
 http://95.77.16.72:81/tv20/playlist.m3u8
@@ -6881,6 +6983,9 @@ http://www.lengua.com/anthems/Bulgaria.mp3
 #EXTINF:0 tvg-logo="https://www.satlogo.com/hires/num/24_kitchen_us.png" group-title="BULGARIA",24 Kitchen
 http://78.128.1.137:10112
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="BULGARIA",Animal Planet
+http://212.25.58.237/animalplanet/pl.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="BULGARIA",100% Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
@@ -6958,6 +7063,12 @@ http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ТheVoiceTV-logo.png" group-title="BULGARIA",The Voice
 http://78.128.1.137:10126
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/250px-Viasat_History_Logo.jpg" group-title="BULGARIA",Viasat History
+http://212.25.58.237/viasathistory/pl.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viasat_Nature_Logo.jpg/250px-Viasat_Nature_Logo.jpg" group-title="BULGARIA",Viasat Nature
+http://212.25.58.237/viasatnature/pl.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
@@ -10008,9 +10119,45 @@ http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://iconbug.com/data/7f/256/ffe3a2ec7be0015d10a0b0706b4fd120.png" group-title="LABEL",~ Afghanistan TV ~
 http://www.lengua.com/anthems/Afghanistan.mp3
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/8e/2a/c08e2a94-65da-8182-a819-5179717a4db9/source/512x512bb.jpg" group-title="AFGHANISTAN",1TV Afghanistan
+http://iptv-line.com:6969/lucia/lucia1/5528
+
+#EXTINF:-1 tvg-logo="http://www.afghanlive.tv/wp-content/uploads/2017/05/arezotvliveonline.png" group-title="AFGHANISTAN",Arezo TV
+http://iptv-line.com:6969/lucia/lucia1/5539
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyW491tR4WjLYsBfZk1MXuU8vBuV0RLcU8pWQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="AFGHANISTAN",Ariana TV
 http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.afglive.tv/wp-content/uploads/2018/06/atnnews-360x360.jpg" group-title="AFGHANISTAN",ATN News
+http://iptv-line.com:6969/lucia/lucia1/5533
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/311.png" group-title="AFGHANISTAN",ATV
+http://iptv-line.com:6969/lucia/lucia1/5531
+
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/-80GuQ_2P-Dk/VdA96V7RCyI/AAAAAAAAGrM/jNyXLe81eHI/s640/IMG_20150816_130732.jpg" group-title="AFGHANISTAN",Jawan TV
+http://iptv-line.com:6969/lucia/lucia1/5540
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="AFGHANISTAN",Lemar
+http://iptv-line.com:6969/lucia/lucia1/5544
+
+#EXTINF:-1 tvg-logo="http://negaah.tv/en/wp-content/uploads/2016/10/Favicon.png" group-title="AFGHANISTAN",Negaah TV
+http://iptv-line.com:6969/lucia/lucia1/5543
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Pashtotv_logo.jpg" group-title="AFGHANISTAN",Pashto TV
+http://iptv-line.com:6969/lucia/lucia1/5541
+
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sports/tamadontv.jpg" group-title="AFGHANISTAN",Tamadon TV
+http://iptv-line.com:6969/lucia/lucia1/5536
+
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sports/tamadontv.jpg" group-title="AFGHANISTAN",Tolo News
+http://iptv-line.com:6969/lucia/lucia1/5530
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="AFGHANISTAN",Tolo TV
+http://iptv-line.com:6969/lucia/lucia1/5529
+
+#EXTINF:-1 tvg-logo="https://afghanistansky.com/wp-content/uploads/2016/08/Tuti-Live.jpg" group-title="AFGHANISTAN",Tuti TV
+http://iptv-line.com:6969/lucia/lucia1/5537
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Malta-Flag-icon.png" group-title="LABEL",~ Malta TV ~
 http://www.lengua.com/anthems/Malta.mp3
@@ -10898,7 +11045,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 http://188.93.238.56:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022017/untitled-1_48.jpg" group-title="MOROCCO",Medi 1 TV Afrique
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/95.m3u8
+http://iptv-line.com:6969/lucia/lucia1/6809
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consulatdumaroc.ca/img/tv/8.png" group-title="MOROCCO",Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
@@ -10908,6 +11055,15 @@ http://188.93.238.57:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/internet-cons/world-flags-orbs-icons-by-vathanx/png/256/Flag%20of%20Sudan.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/africa_tv_sd.png" group-title="SUDAN",Africa TV
+http://iptv-line.com:6969/lucia/lucia1/8231
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/africa_tv_sd.png" group-title="SUDAN",Africa TV 2
+http://iptv-line.com:6969/lucia/lucia1/8230
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/africa_tv_sd.png" group-title="SUDAN",Africa TV 3
+http://iptv-line.com:6969/lucia/lucia1/8229
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_6izHM7-NzcQ/TM2F9Dzpx2I/AAAAAAAABEY/5fj5DGgYQKI/s1600/Ashorooq+TV+-+Sudan+TV+LIVE.jpg" group-title="SUDAN",Ashorooq
 http://188.93.238.56:8000/play/a01z/index.m3u8
@@ -10961,22 +11117,22 @@ http://188.93.238.56:8000/play/a02v/index.m3u8
 http://www.lengua.com/anthems/Somalia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://somaliiptv.com/wp-content/uploads/2015/03/kalsan-tv.jpg" group-title="SOMALIA",Kalsan TV
-http://185.53.161.149:8888/play/a019
+http://iptv-line.com:6969/lucia/lucia1/4338
 
 #EXTINF:-1 tvg-logo="http://www.laascaanood.com/wp-content/uploads/2017/04/LOGO.png" group-title="SOMALIA",SLNTV
 http://199.167.151.237:1935/live/sp15_21.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.wardheernews.com/wp-content/uploads/2017/02/SNTV.jpg" group-title="SOMALIA",SNTV 
-http://199.167.151.237:1935/live/sp15_19.stream/gmswf.m3u8
+http://iptv-line.com:6969/lucia/lucia1/4308
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SOMALIA",Somali Cable
-http://185.53.161.149:8888/play/a01a
+http://iptv-line.com:6969/lucia/lucia1/4307
 
 #EXTINF:-1 tvg-logo="http://www.laascaanood.com/wp-content/uploads/2017/04/LOGO.png" group-title="SOMALIA",SomaliLand TV
 http://199.167.151.237:1935/live/sp15_21.stream/gmswf.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.raxanreeb.com/wp-content/uploads/2014/02/universal_somali_tv.png" group-title="SOMALIA",Universal TV
-http://185.53.161.149:8888/play/a010
+http://iptv-line.com:6969/lucia/lucia1/4315
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/eritrea/flag-round-250.png" group-title="LABEL",~ Eritrea TV ~
 http://www.lengua.com/anthems/Eritrea.mp3
@@ -10984,14 +11140,38 @@ http://www.lengua.com/anthems/Eritrea.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png" group-title="ERITREA",Eri TV
 http://188.93.238.56:8000/play/a02u/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/830886360.png" group-title="LABEL",~ Benin TV ~
+http://www.lengua.com/anthems/Benin.mp3
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="BENIN",ORTB TV
+http://iptv-line.com:6969/lucia/lucia1/4330
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ss/sikka_tv_bj.png" group-title="BENIN",Sikka TV
+http://iptv-line.com:6969/lucia/lucia1/4309
+
 #EXTINF:-1 tvg-logo="https://www.icon2s.com/wp-content/uploads/2012/12/Ghana-flag-icon.png" group-title="LABEL",~ Ghana TV ~
 http://www.lengua.com/anthems/Ghana.mp3
 
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="GHANA",TV Africa (Ghana)
+#EXTINF:-1 tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/12/Adom-TV-Ghana.png" group-title="GHANA",Adom TV
+http://iptv-line.com:6969/lucia/lucia1/4399
+
+#EXTINF:-1 tvg-logo="https://afrima.org/public/images/partner/GTV.jpg" group-title="GHANA",GTV
+http://iptv-line.com:6969/lucia/lucia1/4398
+
+#EXTINF:-1 tvg-logo="http://multitvworld.com/wp-content/uploads/2018/06/joynews.png" group-title="GHANA",Joy News
+http://iptv-line.com:6969/lucia/lucia1/4402
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="GHANA",TV Africa
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://topbandeiras.com.br/images/botoes/Nigeria-01.png" group-title="LABEL",~ Nigeria TV ~
 http://www.lengua.com/anthems/Nigeria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.acan.tv/uploads/bc1d74518f8ff489359d7f575b36111e.png" group-title="NIGERIA",MusicTV Africa
+http://iptv-line.com:6969/lucia/lucia1/4332
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mosecon.com/wpc/uploads/2016/06/RaveTV_logo.png" group-title="NIGERIA",Rave TV
+http://iptv-line.com:6969/lucia/lucia1/4328
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/TVC-Ent.png" group-title="NIGERIA",TVC
 http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
