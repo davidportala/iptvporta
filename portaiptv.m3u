@@ -1922,6 +1922,27 @@ http://iptv-line.com:6969/lucia/lucia1/8227
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" group-title="SOUTH AFRICA",Fashion One
 http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/kenya/flag-round-250.png" group-title="LABEL",~ Kenya TV ~
+http://www.lengua.com/anthems/Kenya.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Citizen_TV_%28Kenya%29_logo.png/200px-Citizen_TV_%28Kenya%29_logo.png" group-title="KENYA",Citizen TV
+http://iptv-line.com:6969/lucia/lucia1/8207
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/KBC_Kenya.PNG/200px-KBC_Kenya.PNG" group-title="KENYA",KBC Channel 1
+http://iptv-line.com:6969/lucia/lucia1/18809
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/KTN_News_logo.jpg/250px-KTN_News_logo.jpg" group-title="KENYA",KTN News
+http://iptv-line.com:6969/lucia/lucia1/8209
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/NTV_%28Kenya%29_logo.png" group-title="KENYA",NTV
+http://iptv-line.com:6969/lucia/lucia1/18807
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/06/05080306/Uganda-Flag-Transparent-Background-PNG.png" group-title="LABEL",~ Uganda TV ~
+http://www.lengua.com/anthems/Uganda.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/bigeye.ug/wp-content/uploads/2013/07/NTV.jpg" group-title="UGANDA",NTV
+http://iptv-line.com:6969/lucia/lucia1/8192
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
@@ -2681,6 +2702,9 @@ http://92.43.140.249/s35/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.nollywoodtv.fr/images/logo-nollywoodtv.png" group-title="FRANCE",Nollywood TV
 http://iptv-line.com:6969/lucia/lucia1/4400
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="FRANCE",Novelas TV
+http://iptv-line.com:6969/lucia/lucia1/8196
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="FRANCE",RMC Sport 2
 http://89.163.140.211:8787/sfrsport2/index.m3u8
 
@@ -2744,11 +2768,32 @@ http://www.lengua.com/anthems/Cameroon.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png" group-title="CAMEROON",Afrique Media
 http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvliveradio.com/wp-content/uploads/2017/07/cana-2-tv.jpg" group-title="CAMEROON",Canal 2 International
+http://iptv-line.com:6969/lucia/lucia1/18815
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvliveradio.com/wp-content/uploads/2017/07/cana-2-tv.jpg" group-title="CAMEROON",Canal 2 International English
+http://iptv-line.com:6969/lucia/lucia1/18814
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lefilmcamerounais.files.wordpress.com/2016/05/canal-2-movies_o.jpg" group-title="CAMEROON",Canal 2 Movies
+http://iptv-line.com:6969/lucia/lucia1/18813
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="CAMEROON",CRTV
+http://iptv-line.com:6969/lucia/lucia1/7851
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.equinoxetv.com/images/logotele2.png" group-title="CAMEROON",Equinoxe TV
+http://iptv-line.com:6969/lucia/lucia1/18812
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/VoxAfrica_logo_RD_Black.png" group-title="CAMEROON",Voxafrica
 http://iptv-line.com:6969/lucia/lucia1/4314
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/gabon/flag-button-round-250.png" group-title="LABEL",~ Gabon TV ~
+http://www.lengua.com/anthems/Gabon.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtngabon.org/wp-content/uploads/Logo-en-png.png" group-title="GABON",RTN
+http://iptv-line.com:6969/lucia/lucia1/8186
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-3d-round-250.png" group-title="LABEL",~ Ivory Coast TV ~
 http://www.lengua.com/anthems/IvoryCoast.mp3
@@ -2762,11 +2807,23 @@ http://iptv-line.com:6969/lucia/lucia1/6806
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RTI_2.jpg" group-title="IVORY COAST",RTI 2
 http://iptv-line.com:6969/lucia/lucia1/6805
 
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/guinea/flag-round-250.png" group-title="LABEL",~ Guinea TV ~
+http://www.lengua.com/anthems/Guinea.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/8142/espace_tv_gn.png" group-title="GUINEA",Espace TV
+http://iptv-line.com:6969/lucia/lucia1/7868
+
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/senegal/flag-3d-round-250.png" group-title="LABEL",~ Senegal TV ~
 http://www.lengua.com/anthems/Senegal.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/27/07/77/270777d98920556f08d0439047a7a89b.jpg" group-title="SENEGAL",A2i TV
+http://iptv-line.com:6969/lucia/lucia1/8224
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/623572295630594049/SQSVepkj_400x400.jpg" group-title="SENEGAL",Asfiyah TV
 http://iptv-line.com:6969/lucia/lucia1/4317
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-diaspora-24-5181.jpg" group-title="SENEGAL",Diaspora 24
+http://iptv-line.com:6969/lucia/lucia1/18796
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdnandroid.com/2d/97/a3/70/imagen-rts1-senegal-replay-0big.jpg" group-title="SENEGAL",RTS 1
 http://iptv-line.com:6969/lucia/lucia1/4310
@@ -2780,6 +2837,9 @@ http://iptv-line.com:6969/lucia/lucia1/4321
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.sangatv.com/images/channels/logo/37fdc3d0-b98c-11e7-8cf8-4d302e6c6aca.png" group-title="SENEGAL",TFM
 http://iptv-line.com:6969/lucia/lucia1/4306
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.sangatv.com/images/channels/logo/1a020100-b99c-11e7-bd2e-c1b2afa60289.png" group-title="SENEGAL",Touba TV
+http://iptv-line.com:6969/lucia/lucia1/7859
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cdnandroid.com/25/df/49/1d/imagen-walf-tv-replay-0big.jpg" group-title="SENEGAL",Walf TV
 http://iptv-line.com:6969/lucia/lucia1/4313
 
@@ -2788,6 +2848,9 @@ http://www.lengua.com/anthems/Mali.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/AFRICABLE_2012.png" group-title="MALI",Africable
 http://iptv-line.com:6969/lucia/lucia1/7866
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.satlogo.com/hires/mm/maisha_tv_ml.png" group-title="MALI",Maisha TV
+http://iptv-line.com:6969/lucia/lucia1/7853
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ortm.ml/images/ortm.png" group-title="MALI",ORTM
 http://iptv-line.com:6969/lucia/lucia1/4335
@@ -2803,6 +2866,9 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/06/09/13/13/flag-2386841_960_720.jpg" group-title="LABEL",~ Congo RD TV ~
 http://www.lengua.com/anthems/CongoRD.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1836673794/logo2.jpg" group-title="CONGO RD",RTNC
+http://iptv-line.com:6969/lucia/lucia1/7852
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-images-1.medium.com/max/798/0*fau7ftAAELfVFgEo.png" group-title="CONGO RD",Tele Congo
 http://iptv-line.com:6969/lucia/lucia1/4334
@@ -3536,6 +3602,9 @@ http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4690.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Tvi24logotype.png" group-title="PORTUGAL",TVI 24
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4706.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tviinternacional.png" group-title="PORTUGAL",TVI Internacional
+http://video-auth8.iol.pt:80/live_tvi_internacional_ww/live_tvi_internacional_ww-3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png" group-title="PORTUGAL",TVI Reality
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4689.ts
 
@@ -3561,7 +3630,7 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 http://www.lengua.com/anthems/Brazil.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="BRAZIL",A&E
-http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2996
+http://iptv-line.com:6969/lucia/lucia1/5673
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png" group-title="BRAZIL",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
@@ -3570,25 +3639,25 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/800px-AMC_logo_2016.png" group-title="BRAZIL",AMC
-http://maxptv.ddns.net:25461/live/zac/zac/229.m3u8
+http://iptv-line.com:6969/lucia/lucia1/31549
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="BRAZIL",Animal Planet
-http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2997
+http://iptv-line.com:6969/lucia/lucia1/5674
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/canal-arte-1.jpg" group-title="BRAZIL",Arte1
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/68
+http://iptv-line.com:6969/lucia/lucia1/8056
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="BRAZIL",AXN
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13148
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="BRAZIL",BabyTV
-http://maxptv.ddns.net:25461/live/zac/zac/222.m3u8
+http://iptv-line.com:6969/lucia/lucia1/17535
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png" group-title="BRAZIL",Band
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/126
+http://iptv-line.com:6969/lucia/lucia1/5676
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRAZIL",Band News
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13147
@@ -3597,7 +3666,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13147
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13146
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/2000px-Logo_of_Bis.svg.png" group-title="BRAZIL",BIS
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/78
+http://iptv-line.com:6969/lucia/lucia1/8055
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg.png" group-title="BRAZIL",Boomerang
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13145
@@ -3615,7 +3684,7 @@ http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/86
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/Canal_Rural_logo.svg.png" group-title="BRAZIL",Canal Rural
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/537
+http://iptv-line.com:6969/lucia/lucia1/18918
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1087px-Canal_Sony_logo.svg.png" group-title="BRAZIL",Canal Sony
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13144
@@ -3657,19 +3726,19 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13138
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13137
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="BRAZIL",Discovery Kids
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/19
+http://iptv-line.com:6969/lucia/lucia1/29080
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="BRAZIL",Discovery Science
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/107
+http://iptv-line.com:6969/lucia/lucia1/7363
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="BRAZIL",Discovery Theater
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/24
+http://iptv-line.com:6969/lucia/lucia1/17066
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="BRAZIL",Discovery Turbo
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13136
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="BRAZIL",Discovery World
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/25
+http://iptv-line.com:6969/lucia/lucia1/17064
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="BRAZIL",Disney Channel
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13135
@@ -3693,7 +3762,7 @@ http://maxptv.ddns.net:25461/live/zac/zac/166.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13179
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="BRAZIL",ESPN 2
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/115
+http://iptv-line.com:6969/lucia/lucia1/7331
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="BRAZIL",ESPN Brasil
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13180
@@ -3708,10 +3777,10 @@ http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/58
 http://maxptv.ddns.net:25461/live/zac/zac/156.m3u8
 
 #EXTINF:-1 tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-770x439_c.jpg" group-title="BRAZIL",Fish TV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/69
+http://iptv-line.com:6969/lucia/lucia1/7924
 
 #EXTINF:-1 tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg" group-title="BRAZIL",Food Network
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/310
+http://iptv-line.com:6969/lucia/lucia1/17527
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDY4Nzg4NDcwNTg5MDk0/fox_logoresized-bc.jpg" group-title="BRAZIL",Fox
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13132
@@ -3720,13 +3789,13 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13132
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13131
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium-Channel_Logo_16x91489246103049.png" group-title="BRAZIL",Fox Premium 1
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/79
+http://iptv-line.com:6969/lucia/lucia1/17056
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium2-Channel_Logo_16x91489154525715.png" group-title="BRAZIL",Fox Premium 2
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/80
+http://iptv-line.com:6969/lucia/lucia1/17055
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/92
+http://iptv-line.com:6969/lucia/lucia1/5322
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports 2
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13176
@@ -3735,7 +3804,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13176
 http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BRAZIL",FX
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/51
+http://iptv-line.com:6969/lucia/lucia1/17053
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
@@ -3744,25 +3813,25 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13173
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/TV_Globo_Minas.png" group-title="BRAZIL",Globo Minas
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/572
+http://iptv-line.com:6969/lucia/lucia1/4298
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globonews2017_red_fixed.png" group-title="BRAZIL",Globo News
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13174
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/TV_Globo_Nordeste.jpg" group-title="BRAZIL",Globo Nordeste
-http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/3006
+http://iptv-line.com:6969/lucia/lucia1/29075
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg" group-title="BRAZIL",Globo Rio
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/1
+http://iptv-line.com:6969/lucia/lucia1/17052
 
 #EXTINF:-1 tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/03/globosp.png" group-title="BRAZIL",Globo SP
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/3
+http://iptv-line.com:6969/lucia/lucia1/7842
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-tfn_PoBjtrM/TxOstJ-47nI/AAAAAAAADz0/GgaO3B2S2xo/s1600/Gloob+logo+2012.jpg" group-title="BRAZIL",Gloob
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13172
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="BRAZIL",GNT
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/112
+http://iptv-line.com:6969/lucia/lucia1/17051
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_h2_m.png" group-title="BRAZIL",H2
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13130
@@ -3789,10 +3858,10 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13125
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13169
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_logo_2017.svg.png" group-title="BRAZIL",Lifetime
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/18
+http://iptv-line.com:6969/lucia/lucia1/17051
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="BRAZIL",Mais Globosat
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/81
+http://iptv-line.com:6969/lucia/lucia1/7921
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="BRAZIL",Max
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13168
@@ -3801,16 +3870,16 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13168
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13167
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="BRAZIL",Max UP
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/140
+http://iptv-line.com:6969/lucia/lucia1/7344
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="BRAZIL",Megapix
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13166
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/200px-MTV_Logo.svg.png" group-title="BRAZIL",MTV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/8
+http://iptv-line.com:6969/lucia/lucia1/5689
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg.png" group-title="BRAZIL",Multishow
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/82
+http://iptv-line.com:6969/lucia/lucia1/7343
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="BRAZIL",Nat Geo Kids
 http://maxptv.ddns.net:25461/live/zac/zac/98.m3u8
@@ -3833,6 +3902,9 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13164
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/paramount-channel.jpg" group-title="BRAZIL",Paramount Channel
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13163
 
+#EXTINF:-1 tvg-logo="http://w.assets.static-teleup.com/teleup/img/pfc/teleup-pfc-internacional-futebol.png" group-title="BRAZIL",PFC
+http://iptv-line.com:6969/lucia/lucia1/7339
+
 #EXTINF:-1 tvg-logo="http://w.assets.static-teleup.com/teleup/img/pfc/teleup-pfc-internacional-futebol.png" group-title="BRAZIL",PFC Internacional
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4651.ts
 
@@ -3840,31 +3912,31 @@ http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4651.ts
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/71
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="BRAZIL",Premiere 1
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/34
+http://iptv-line.com:6969/lucia/lucia1/7333
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-a1jKMfYkKZk/W3A0aHnwoyI/AAAAAAAAoFU/wuYN7tGBYxUvBTibEHyzwfhp3nZ33Pg7wCK4BGAYYCw/s1600/premiere-2-contexto.png" group-title="BRAZIL",Premiere 2
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/30
+http://iptv-line.com:6969/lucia/lucia1/7338
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 3
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/27
+http://iptv-line.com:6969/lucia/lucia1/7337
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 4
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/29
+http://iptv-line.com:6969/lucia/lucia1/7336
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 5
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/33
+http://iptv-line.com:6969/lucia/lucia1/7335
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 6
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/31
+http://iptv-line.com:6969/lucia/lucia1/17517
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 7
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/35
+http://iptv-line.com:6969/lucia/lucia1/17516
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 8
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/38
+http://iptv-line.com:6969/lucia/lucia1/17515
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/193-1939643_prime-box-brazil-music-box-brasil.png" group-title="BRAZIL",Prime Box Brazil
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/99
+http://iptv-line.com:6969/lucia/lucia1/7332
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
@@ -3882,7 +3954,7 @@ http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/117
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s2.glbimg.com/ag5jIzwh74Pd8_7NaZfw4qFXt-U=/s.glbimg.com/og/rg/f/original/2013/07/23/600logo_rbstv.png" group-title="BRAZIL",RBS TV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/299
+http://iptv-line.com:6969/lucia/lucia1/17512
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.satlogo.com/hires/rr/rci_br.png" group-title="BRAZIL",RCI TV
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/16
@@ -3894,7 +3966,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13161
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4567.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV MatoGrosso
-http://maxptv.ddns.net:25461/live/zac/zac/63.m3u8
+http://iptv-line.com:6969/lucia/lucia1/5308
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Mozambique
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
@@ -3933,7 +4005,7 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist_w231520491.m3u8
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="BRAZIL",Rede TV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/118
+http://iptv-line.com:6969/lucia/lucia1/5290
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logotipo_da_RedeTV%21_Rondônia.png" group-title="BRAZIL",Rede TV Rondonia
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
@@ -3942,7 +4014,7 @@ http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/44
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/60
+http://iptv-line.com:6969/lucia/lucia1/8070
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
@@ -3951,10 +4023,10 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13123
 
 #EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="BRAZIL",SporTV
-http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/3009
+http://iptv-line.com:6969/lucia/lucia1/7331
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png" group-title="BRAZIL",SporTV 2
-http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/3030
+http://iptv-line.com:6969/lucia/lucia1/5318
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="BRAZIL",SporTV 3
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13157
@@ -4044,7 +4116,7 @@ http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="BRAZIL",TV Brasil
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/91
+http://iptv-line.com:6969/lucia/lucia1/7317
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diariodosurdo.com.br/wp-content/uploads/2015/06/CfRkvHio_400x400.jpeg" group-title="BRAZIL",TV Camara
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/109
@@ -4116,10 +4188,10 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13109
 http://maxptv.ddns.net:25461/live/zac/zac/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1280px-LOGO_VH1_MEGA_HITS.svg.png" group-title="BRAZIL",VH1 Mega Hits
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/9
+http://iptv-line.com:6969/lucia/lucia1/8087
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="BRAZIL",Viva
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/97
+http://iptv-line.com:6969/lucia/lucia1/7316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRAZIL",Warner TV
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13108
@@ -4851,7 +4923,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14444
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="LATINO",Animal Planet
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/253.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1061.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
@@ -4860,7 +4932,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14445
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="LATINO",AXN
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/399.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/977.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" group-title="LATINO",BabyFirst TV
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14387
@@ -4868,11 +4940,14 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14387
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/519_300.png" group-title="LATINO",Bloomberg
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14381
 
+#EXTINF:-1 tvg-logo="https://havokgt.files.wordpress.com/2016/04/7a44b-claro-peru.gif" group-title="LATINO",Canal Claro
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/989.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network (Opt-1)
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network (Opt-2)
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/826.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1029.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png" group-title="LATINO",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -4884,7 +4959,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/11487
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14304
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",Cinemax
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1384.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/7768
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="LATINO",Claro Sports
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14277
@@ -4892,10 +4967,13 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14277
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="LATINO",Comedy Central
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/11483
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png" group-title="LATINO",Concert Channel
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1072.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.mi.tv/channels/mx_de-pelicula_m.png" group-title="LATINO",CDe Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.mi.tv/channels/mx_de-pelicula_m.png" group-title="LATINO",De Pelicula
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14084
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c1.staticflickr.com/1/871/40587920114_afa303deb7.jpg" group-title="LATINO",De Pelicula Plus
@@ -4903,6 +4981,9 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14439
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/0/00/DHE2017.png" group-title="LATINO",DHE
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1064.ts
 
 #EXTINF:-1 tvg-logo="http://thedailytelevision.com/sites/default/files/notas/imagenes/interior/directv_sports_big.jpg" group-title="LATINO",DirecTV Sports
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14550
@@ -4914,13 +4995,13 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14862
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14551
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="LATINO",Discovery Channel
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2038.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1058.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="LATINO",Discovery Civilization
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3135.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/5199
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/H%26h_Discovery.png" group-title="LATINO",Discovery H&H
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2353.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1059.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATINO",Discovery Kids
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14244
@@ -4929,7 +5010,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14244
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/10721
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png" group-title="LATINO",Discovery Turbo
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1387.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/5194
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="LATINO",Discovery World
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/10719
@@ -4953,13 +5034,13 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14437
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14328
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/d2/3c/9f/d23c9f6504a53309b87f501e3d14d9a7.jpg" group-title="LATINO",ESPN
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/276.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/5182
  
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png" group-title="LATINO",ESPN 2
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/272.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1042.ts
  
 #EXTINF:-1 tvg-logo="https://www.imctv.com/wp-content/uploads/2014/10/ESPN3_Network_Logo2.png" group-title="LATINO",ESPN 3
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1692.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/5192
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="LATINO",ESPN+
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14273
@@ -4971,25 +5052,25 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14327
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14301
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="LATINO",Fox
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/262.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/954.ts
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/FOXActionMovies_logo_2.png/revision/latest?cb=20170928080759" group-title="Peliculas",Fox Action Movies
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/610.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/947.ts
  
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="LATINO",Fox Classics
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/608.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/950.ts
  
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/c/c8/Fox_comedy.png" group-title="LATINO",Fox Comedy
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/607.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/948.ts
  
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" group-title="LATINO",Fox Family
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/606.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1022.ts
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-04/FOXLife-Channel_Logo_16x91491838487776.png" group-title="LATINO",Fox Life
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14321
  
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="LATINO",Fox Movies
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/604.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/944.ts
  
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
@@ -4998,22 +5079,22 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 1 (Opt-1)
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2795.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1038.ts
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 1 (Opt-2)
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1709.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/18291
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3272.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1039.ts
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 3
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1714.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1040.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.foxsportsla.com/sites/foxsports-la/files/img/scaled/630x/notes/news/FOX-Sports-Premium-1280x720-170918.jpg" group-title="LATINO",Fox Sports Premium
 http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2312
  
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/network/fx.png" group-title="LATINO",FX
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/268.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/7407
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="LATINO",FXM
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14430
@@ -5025,7 +5106,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14081
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14722
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/2000px-Logo_Golden_TV.svg.png" group-title="LATINO",Golden
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1720.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/964.ts
 
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge-300x300.jpg" group-title="LATINO",Golden Edge
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14298
@@ -5040,22 +5121,22 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/10708
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/16199
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/HBO.png" group-title="LATINO",HBO
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1594.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/933.ts
  
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2 (Opt-1)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2 (Opt-2)
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2804.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/934.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/593.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/935.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/220px-HBO_Family_logo.png" group-title="LATINO",HBO Family
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/598.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/936.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="LATINO",HBO Signature
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/592.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/937.ts
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
 http://107.189.40.49:1935/live/hispantv/playlist.m3u8
@@ -5073,7 +5154,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14260
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14349
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="LATINO",Investigation Discovery
-http://aleman.mine.nu:8000/ji63ZDq7IC/bKkMD2tBv6/2037
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/1060.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="LATINO",I.Sat
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14348
@@ -5097,7 +5178,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14079
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14292
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png" group-title="LATINO",Max Prime
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2335.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/986.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="LATINO",Max UP
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/10700
@@ -5141,6 +5222,9 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14232
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.blogs.es/d334c7/paramount-channel-logo-tm1/450_1000.jpg" group-title="LATINO",Paramount Channel
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/11202
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="LATINO",Pasiones
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/984.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="LATINO",PX Sports
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14392
 
@@ -5151,13 +5235,13 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14253
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png" group-title="LATINO",Sony
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/269.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/979.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/010/original/pic_space.png" group-title="LATINO",Space
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14425
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/2000px-Studio_Universal.svg.png" group-title="LATINO",Studio Universal
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/267.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/7746
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="LATINO",Sundance TV
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14409
@@ -5193,16 +5277,16 @@ http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1075/index.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14231
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="LATINO",TLC
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/814.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/7387
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tlnovelas_logo.svg/1200px-Tlnovelas_logo.svg.png" group-title="LATINO",TLNovelas
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1713.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/16183
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="LATINO",TNT
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14422
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png" group-title="LATINO",TNT Series
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/813.m3u8?fluxustv.m3u8
+http://176.9.80.62:25461/live/AppPlay!/HackVeneno/968.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="LATINO",Tooncast
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14230
@@ -5214,7 +5298,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/10691
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.firstcomicsnews.com/wp-content/uploads/2016/09/ufc-logo-600x257.png" group-title="LATINO",UFC
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1382.m3u8?fluxustv.m3u8
+http://iptv-line.com:6969/lucia/lucia1/7401
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="LATINO",UniMas
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1100/index.m3u8
@@ -6613,6 +6697,9 @@ http://www.lengua.com/anthems/PuertoRico.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/acs.jpg" group-title="PUERTO RICO",ACS Network TV
 https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/wapatv-images/assets/wapatv-logo.png" group-title="PUERTO RICO",WAPA
+http://iptv-line.com:6969/lucia/lucia1/7277
 
 #EXTINF:-1 tvg-logo="http://www.ffpic.com/files/2012/1231/png1225guoqi/ffpic13061228190539.png" group-title="LABEL",~ Guatemala TV ~
 http://www.lengua.com/anthems/Guatemala.mp3
@@ -11470,8 +11557,11 @@ http://www.lengua.com/anthems/Somalia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://somaliiptv.com/wp-content/uploads/2015/03/kalsan-tv.jpg" group-title="SOMALIA",Kalsan TV
 http://iptv-line.com:6969/lucia/lucia1/4338
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://allsbc.com/sbcon/wp-content/themes/sbc-2015/images/sbc-logo-blue-lg.png" group-title="SOMALIA",SBC
+http://iptv-line.com:6969/lucia/lucia1/7856
+
 #EXTINF:-1 tvg-logo="http://www.laascaanood.com/wp-content/uploads/2017/04/LOGO.png" group-title="SOMALIA",SLNTV
-http://199.167.151.237:1935/live/sp15_21.stream/gmswf.m3u8
+http://iptv-line.com:6969/lucia/lucia1/17252
 
 #EXTINF:-1 tvg-logo="http://www.wardheernews.com/wp-content/uploads/2017/02/SNTV.jpg" group-title="SOMALIA",SNTV 
 http://iptv-line.com:6969/lucia/lucia1/4308
@@ -11493,6 +11583,9 @@ http://188.93.238.56:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/830886360.png" group-title="LABEL",~ Benin TV ~
 http://www.lengua.com/anthems/Benin.mp3
+
+#EXTINF:-1 tvg-logo="https://petrolingroup.com/files/cache/bfd56f4718cc074c1dc228f8aaab2187_f103.jpg" group-title="BENIN",Eden TV
+http://iptv-line.com:6969/lucia/lucia1/18785
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="BENIN",ORTB TV
 http://iptv-line.com:6969/lucia/lucia1/4330
@@ -11521,8 +11614,14 @@ http://www.lengua.com/anthems/Nigeria.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.acan.tv/uploads/bc1d74518f8ff489359d7f575b36111e.png" group-title="NIGERIA",MusicTV Africa
 http://iptv-line.com:6969/lucia/lucia1/4332
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vincentpaulorg.com/images/september2012/NTA-LOGO.jpg" group-title="NIGERIA",NTA TV
+http://iptv-line.com:6969/lucia/lucia1/8193
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mosecon.com/wpc/uploads/2016/06/RaveTV_logo.png" group-title="NIGERIA",Rave TV
 http://iptv-line.com:6969/lucia/lucia1/4328
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.media15.tv/wp-content/uploads/2016/09/rok.png" group-title="NIGERIA",Rok TV
+http://iptv-line.com:6969/lucia/lucia1/7867
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/TVC-Ent.png" group-title="NIGERIA",TVC
 http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
@@ -11565,6 +11664,9 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2018/01/ntv7-e1516336088340-700x418.png" group-title="MALAYSIA",NTV7
 http://livecdn.long.tv:8123/live/9C5B434BB49141119F38AF7FDD4B6D83/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MALAYSIA",Thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg" group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
