@@ -12889,6 +12889,9 @@ http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg" group-title="TAIWAN",ELTA TV Sports 1
 http://59.120.242.104:9000/live/live9.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/ERANews-Logo.jpg" group-title="TAIWAN",Eranews
+http://60.250.23.14:18080/eranews/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180903/8227acc7fd3b48a887cb0805e5bcfd96.jpeg" group-title="TAIWAN",Feng Shui TV
 http://61.216.177.73/sta/ch1865004.m3u8
 
@@ -12992,7 +12995,7 @@ http://61.216.177.73/sta/ch10119034.m3u8
 http://61.216.177.73/sta/ch10119035.m3u8
 
 #EXTINF:-1 tvg-logo="https://photo.sofun.tw/2014/06/SET-TV-Logo.jpg" group-title="TAIWAN",SET Metro
-http://60.250.69.26:8080/live/setcity89.m3u8
+http://60.250.23.14:18080/setcity/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="TAIWAN",SET Taiwan
 http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
@@ -13067,10 +13070,10 @@ http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
 http://60.250.69.26:8080/live/vlhappy89.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Japan-Logo.jpg" group-title="TAIWAN",Videoland Japan
-http://60.250.69.26:8080/live/vljp89.m3u8
+http://60.250.23.14:18080/VLJP/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.tv188.com/images/channel/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.jpg" group-title="TAIWAN",Videoland Sports
-http://60.250.69.26:8080/live/vlsports89.m3u8
+http://60.250.23.14:18080/test/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-tv-live.jpg" group-title="TAIWAN",Videoland TV
 http://60.250.69.26:8080/live/vl89.m3u8
