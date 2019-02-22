@@ -81,6 +81,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b3a4249444e05d09cc46/featuredImage.jpg" group-title="24/7 PLUTO TV",Cars
 http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37dec3de714a458f5c0f41/featuredImage.jpg" group-title="24/7 PLUTO TV",Cash Cab
+https://stitcher.pluto.tv/stitch/hls/channel/5c37dec3de714a458f5c0f41/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cde3cigj2626i43pra7jrnrbs4
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" group-title="24/7 PLUTO TV",Cats 24/7
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -104,6 +107,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7cd92dbc-3121-2ec3-774e-a46148805439-CNET-channel-feature.jpg" group-title="24/7 PLUTO TV",CNET
 http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="24/7 PLUTO TV",Cold Case Files
+https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kaasl9n3jh3esnglai5na3geu7
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg" group-title="24/7 PLUTO TV",Combate World
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -225,6 +231,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56b27f85ff3037045055037e/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Animals
 https://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=sb3stkgum0jt2soq367mu97333
 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2e8c4a9e06fa0511b75276/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Biography
+https://stitcher.pluto.tv/stitch/hls/channel/5c2e8c4a9e06fa0511b75276/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jaasl9n3jh3esnglai5na3geu7
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64655f3202714e8dad6e/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Cine
 https://stitcher.pluto.tv/stitch/hls/channel/5c2d64655f3202714e8dad6e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=l8orq3a8c0i8mnij1r1q96i7p0
 
@@ -242,6 +251,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b64a245a202b3337f09e51d/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Family
 http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d35dfa5c02e717a234f86/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV History 
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
  
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58ed63525e2c798008323a1c/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Indies
 http://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -276,6 +288,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561721d6ada51f8004c4b474/featuredImage.jpg" group-title="24/7 PLUTO TV",PopSugar
 http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg" group-title="24/7 PLUTO TV",Revry
+https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.rifftrax.com/sites/default/files/logo-sm.png" group-title="24/7 PLUTO TV",RiffTrax
 http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -305,6 +320,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8
  
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24/7 PLUTO TV",The New Detectives
 http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5616fc1cf39f506e04b61dfc/featuredImage.jpg" group-title="24/7 PLUTO TV",The Onion
+https://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=oaasl9n3jh3esnglai5na3geu7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ad55268cae539bcedb08/featuredImage.jpg" group-title="24/7 PLUTO TV",The Pet Collective
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -522,6 +540,9 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="USA",CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="USA",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
@@ -609,6 +630,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 #EXTINF:-1 tvg-logo="https://cdn3.dpan.tv/content/uploads/settings/55ad46dc6f409-logo.png" group-title="USA",DPAN.TV (Geo)
 https://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://estv.viewerlink.tv/images/nt-ESTW.png" group-title="USA",Entertainment Studios
+http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://myescambia.com/favicon.png" group-title="USA",Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 
@@ -638,6 +662,9 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL.png" group-title="USA",Food Network
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1107/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="USA",Fox
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
@@ -792,14 +819,17 @@ http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1091/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="USA",Movee 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCSh8pD.png" group-title="USA",MTV 97
+http://se1.snickelodeon.com:1935/liveedge/mtv97/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/58ae1e47e58c626fff277e73/t/58b61da420099e5456244539/1488330150325/FB+logo.png" group-title="USA",MUCM-TV - McMinnville
 http://reflect-live-mcm11.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.prlog.org/12364407-my-9-tv-show-announces-partnership-with-urbnation-music-festival.jpg" group-title="USA",My 9
-http://161.0.157.51/PLTV/88888888/224/3221226727/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/220px-WWOR_NewJersey.svg.png" group-title="USA",My9
+http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="USA",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -813,8 +843,8 @@ https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_flat_rgb.png" group-title="USA",NBC Golf
-http://161.0.157.51/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo-1140x570.png" group-title="USA",NBC Golf
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/800px-NBC_Sports_Bay_Area.png" group-title="USA",NBC Sports Bay Area (Geo)
 http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8
@@ -927,6 +957,9 @@ http://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="USA",PBS Kids (Op-3) (Geo)
 http://live-cdn.pbskids.org/out/u/pst.m3u8
 
+#EXTINF:-1 tvg-logo="http://pets.tv/files/2018/09/pets_logo-300x132.png" group-title="USA",Pets.TV
+http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZj3H1x.png" group-title="USA",PGCPS
 http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
@@ -969,6 +1002,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT Documentary
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v5.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT News
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="USA",Runway TV
 http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 
@@ -1001,6 +1043,12 @@ https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="USA",Sky News America
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/7/77/SNICK_logo.png" group-title="USA",Snick (EST)
+http://se1.snickelodeon.com:1935/liveedge/snick-est/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/7/77/SNICK_logo.png" group-title="USA",Snick (PST)
+http://se1.snickelodeon.com:1935/liveedge/snick-pst/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="USA",Sony Movie Channel (Opt-1)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
@@ -1046,6 +1094,12 @@ http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="USA",TNT
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsuMCBm.jpg" group-title="USA",Toonami Aftermath (EST)
+http://se1.snickelodeon.com:1935/liveedge/est/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsuMCBm.jpg" group-title="USA",Toonami Aftermath (PST)
+http://se1.snickelodeon.com:1935/liveedge/pst/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3QAaaZj.png" group-title="USA",TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
@@ -1319,14 +1373,26 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="UK",4Music
+http://line.myott.net:80/live/1234/4321/46527.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/4seven_%28logo%29.svg/150px-4seven_%28logo%29.svg.png" group-title="UK",4Seven
 http://185.70.133.66:131
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/1200px-5Spike_Logo.svg.png" group-title="UK",5Spike
+http://line.myott.net:80/live/1234/4321/17936.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/1200px-5Spike_Logo.svg.png" group-title="UK",5Spike +1
+http://line.myott.net:80/live/1234/4321/17929.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5Star
+http://line.myott.net:80/live/1234/4321/17910.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",5USA
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5916.ts
+http://line.myott.net:80/live/1234/4321/46528.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png" group-title="UK",Alibi
-http://185.70.133.66:132
+http://line.myott.net:80/live/1234/4321/18008.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="UK",Al Jazeera English (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
@@ -1337,8 +1403,11 @@ http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="UK",Al Jazeera English (Opt-3)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="UK",AMC
+http://line.myott.net:80/live/1234/4321/17908.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="UK",Animal Planet
-http://185.70.133.66:1201
+http://line.myott.net:80/live/1234/4321/17967.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -1347,13 +1416,16 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="UK",Baby TV
-http://185.70.133.66:4
+http://line.myott.net:80/live/1234/4321/17948.ts
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p03r0t9m.jpg" group-title="UK",BBC One
 http://91.109.113.38:8000/play/a08b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BBC_Two.svg.png" group-title="UK",BBC Two
 http://91.109.113.38:8000/play/a083
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BBC_Three_logo.svg/1200px-BBC_Three_logo.svg.png" group-title="UK",BBC Three
+http://line.myott.net:80/live/1234/4321/18004.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="UK",BBC Four
 http://91.109.113.38:8000/play/a085
@@ -1376,14 +1448,23 @@ http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/518
 #EXTINF:-1 tvg-logo="https://www.bestdirect.co.uk/skin/frontend/ultimo/industex/images/logo.png" group-title="UK",Best Direct
 http://91.109.113.38:8000/play/a025
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="UK",Blaze
+http://line.myott.net:80/live/1234/4321/17996.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="UK",Bloomberg TV UK
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="UK",Boomerang
+http://line.myott.net:80/live/1234/4321/17947.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="UK",BoxNation (Geo)
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="UK",BoxNation
+http://line.myott.net:80/live/1234/4321/18035.ts
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1518.1464128304.png" group-title="UK",Box Upfront
+http://line.myott.net:80/live/1234/4321/46423.ts
 
 #EXTINF:-1 tvg-logo="http://britasia.tv/wp-content/uploads/2017/06/balogo.png" group-title="UK",Brit Asia TV
 http://91.109.113.38:8000/play/a00p
@@ -1409,11 +1490,20 @@ http://91.109.113.38:8000/play/a07a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.licensingitalia.it/wp-content/uploads/2017/04/Cartoonito-Logo-1.jpg" group-title="UK",Cartoonito
+http://line.myott.net:80/live/1234/4321/17949.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="UK",Cartoon Network
-http://185.70.133.66:1111
+http://line.myott.net:80/live/1234/4321/17981.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/1200px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5863.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png" group-title="UK",CBeebies
+http://line.myott.net:80/live/1234/4321/18002.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0050624.png" group-title="UK",CBS Action
+http://line.myott.net:80/live/1234/4321/17927.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbsdrama.tv/grfx/stuff/cbs-drama-logo.png" group-title="UK",CBS Drama
 http://91.109.113.38:8000/play/a06m
@@ -1433,11 +1523,20 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="UK",CGTN English (Opt-2)
 http://live.cgtn.com/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Challenge_logo_2016.png" group-title="UK",Challenge
+http://line.myott.net:80/live/1234/4321/46524.ts
+
 #EXTINF:-1 tvg-logo="http://www.identitydesigned.com/images/rudd-studio/channel-4-logo.jpg" group-title="UK",Channel 4
-http://91.109.113.38:8000/play/a0an
+http://line.myott.net:80/live/1234/4321/17995.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="UK",Channel 5
-http://77.226.204.228:25461/test/test/8
+http://line.myott.net:80/live/1234/4321/17994.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Channel_5_%2B1_2016.svg.png" group-title="UK",Channel 5 +1
+http://line.myott.net:80/live/1234/4321/46521.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="UK",Chelsea TV
+http://line.myott.net:80/live/1234/4321/18025.ts
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1533856513/1445.png" group-title="UK",Clubland TV
 http://91.109.113.38:8000/play/a01t
@@ -1446,22 +1545,37 @@ http://91.109.113.38:8000/play/a01t
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg.png" group-title="UK",Comedy Central
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5891.ts
+http://line.myott.net:80/live/1234/4321/17945.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="UK",Comedy Central Extra
+http://line.myott.net:80/live/1234/4321/17944.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.idealshoppingdirect.co.uk/wp-content/uploads/2015/11/Picture11.jpg" group-title="UK",Create and Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="UK",Crime & Investigation
-http://185.70.133.66:1401
+http://185.70.133.66:1401http://line.myott.net:80/live/1234/4321/46427.ts
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1494588589/eybc3djncfecrlcqgufg.jpg" group-title="UK",Dave
+http://line.myott.net:80/live/1234/4321/17991.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="UK",Discovery Channel
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5886.ts
+http://line.myott.net:80/live/1234/4321/17972.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/Discovery_History_2010.png" group-title="UK",Discovery History
+http://line.myott.net:80/live/1234/4321/23107.ts
+
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2012/12/19/Discovery_home_health-pos.jpg" group-title="UK",Discovery Home & Health
+http://line.myott.net:80/live/1234/4321/23106.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="UK",Discovery Science
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5887.ts
+http://line.myott.net:80/live/1234/4321/23108.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Discovery_Shed.png" group-title="UK",Discovery Shed
+http://line.myott.net:80/live/1234/4321/23109.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="UK",Discovery Turbo
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5885.ts
+http://line.myott.net:80/live/1234/4321/23105.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="UK",Discovery World (Opt-1)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
@@ -1470,19 +1584,22 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="UK",Disney Channel
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5842.ts
+http://line.myott.net:80/live/1234/4321/17980.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Disney_Junior_The_Channel_logo.png" group-title="UK",Disney Junior
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5883.ts
+http://line.myott.net:80/live/1234/4321/17978.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="UK",Disney XD
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5882.ts
+http://line.myott.net:80/live/1234/4321/17977.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Drama_%28TV_channel%29_logo.png" group-title="UK",Drama
 http://185.70.133.66:1004
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="UK",DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="UK",E!
+http://line.myott.net:80/live/1234/4321/23111.ts
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1122.1539639917.png" group-title="UK",E4
 http://91.109.113.38:8000/play/a0ag
@@ -1491,7 +1608,13 @@ http://91.109.113.38:8000/play/a0ag
 http://91.109.113.38:8000/play/a0ai
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eden_logo.svg/440px-Eden_logo.svg.png" group-title="UK",Eden
-http://185.70.133.66:403
+http://line.myott.net:80/live/1234/4321/17959.ts
+
+#EXTINF:-1 tvg-logo="https://www.firstonetv.live/images/logos/be/ELEVEN_SPORTS_1.png" group-title="UK",Eleven Sports 1
+http://line.myott.net:80/live/1234/4321/46741.ts
+
+#EXTINF:-1 tvg-logo="https://www.firstonetv.live/images/logos/be/ELEVEN_SPORTS_2.png" group-title="UK",Eleven Sports 2
+http://line.myott.net:80/live/1234/4321/46740.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
 http://ott-cdn.ucom.am/s37/index.m3u8
@@ -1503,22 +1626,25 @@ http://61.58.60.230:9000/live/129.m3u8?fluxustv.m3u8
 https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="UK",Eurosport 1
-http://185.70.133.66:1403
+http://line.myott.net:80/live/1234/4321/18029.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="UK",Eurosport 2
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5907.ts
+http://line.myott.net:80/live/1234/4321/18028.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/800px-Extreme_Sports_Channel.svg.png" group-title="UK",Extreme Sports Channel
 http://persik.by/stream/1418/252987/10309.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/800px-Extreme_Sports_Channel.svg.png" group-title="UK",Film4
-http://185.70.133.66:52
+http://line.myott.net:80/live/1234/4321/17958.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="UK",Flow Sports
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/FoodNetworkLOGO2016.png" group-title="UK",Food Network
+http://line.myott.net:80/live/1234/4321/57009.ts
+
 #EXTINF:-1 tvg-logo="https://amusementblog.files.wordpress.com/2013/05/fox-tv.jpg" group-title="UK",Fox
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5875.ts
+http://line.myott.net:80/live/1234/4321/17957.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK",France 24 English (Opt-1)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -1527,7 +1653,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo-light.png" group-title="UK",FreeSports
-http://185.70.133.66:152
+http://line.myott.net:80/live/1234/4321/46410.ts
 
 #EXTINF:-1 tvg-logo="https://www.frontrunner.tv/wp-content/uploads/2016/10/IMAGE-4.-Front-Runner-Logo.jpg" group-title="UK",Front Runner
 http://91.109.113.38:8000/play/a02r
@@ -1536,13 +1662,13 @@ http://91.109.113.38:8000/play/a02r
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="UK",Gold
-http://185.70.133.66:153
+http://line.myott.net:80/live/1234/4321/23114.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/1200px-Good_Food.svg.png" group-title="UK",Good Food
 http://185.70.133.66:404
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="UK",H2
-http://185.70.133.66:53
+http://line.myott.net:80/live/1234/4321/17970.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -1560,7 +1686,7 @@ http://91.109.113.38:8000/play/a06s
 http://91.109.113.38:8000/play/a01p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="UK",History
-http://185.70.133.66:1404
+http://line.myott.net:80/live/1234/4321/17971.ts
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/hochandablog.com/wp-content/uploads/2017/10/hochanda-logo.jpg" group-title="UK",Hochanda TV
 http://91.109.113.38:8000/play/a01n
@@ -1575,7 +1701,7 @@ http://91.109.113.38:8000/play/a06x
 http://91.109.113.38:8000/play/a029
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="UK",Investigation Discovery
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5872.ts
+http://line.myott.net:80/live/1234/4321/17906.ts
 
 #EXTINF:-1 tvg-logo="http://ruddstudio.com/app/uploads/2015/09/ITV-rebrand-Rudd-Studio-01-1170x658.jpg" group-title="UK",ITV
 http://77.226.204.228:25461/test/test/3
@@ -1590,7 +1716,7 @@ http://77.226.204.228:25461/test/test/29
 http://77.226.204.228:25461/test/test/5
 
 #EXTINF:-1 tvg-logo="https://cdn.itv.com/uploads/show_headline_tout/image/3919/medium_wW38W1mmYI3jlPuXALL7FVg_4hnZzf-1NtMdIBrAY1k.jpg" group-title="UK",ITV Be
-http://185.53.163.214:5678/ipvt_005
+http://line.myott.net:80/live/1234/4321/46496.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
@@ -1611,10 +1737,13 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 http://130.88.20.237:1235/monitor.flv
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="UK",LFC TV
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5899.ts
+http://line.myott.net:80/live/1234/4321/46485.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="UK",Lifetime
-http://185.70.133.66:1405
+http://line.myott.net:80/live/1234/4321/17954.ts
+
+#EXTINF:-1 tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg" group-title="UK",Living Foodz
+http://line.myott.net:80/live/1234/4321/57006.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
@@ -1623,7 +1752,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 http://91.109.113.38:8000/play/a00u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1200px-More4_logo_2018.svg.png" group-title="UK",More4
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5866.ts
+http://line.myott.net:80/live/1234/4321/17953.ts
 
 #EXTINF:-1 tvg-logo="https://www.entertainment-focus.com/wp-content/uploads/2014/04/rsz_m4m_black.jpg" group-title="UK",Movies4Men
 http://89.163.140.211:8787/movies4men/index.m3u8
@@ -1631,17 +1760,38 @@ http://89.163.140.211:8787/movies4men/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg.png" group-title="UK",MTV
 http://185.70.133.66:604
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MTV_Base_2013_logo.svg/1200px-MTV_Base_2013_logo.svg.png" group-title="UK",MTV Base
+http://line.myott.net:80/live/1234/4321/17920.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MTV_Classic_2011.png/245px-MTV_Classic_2011.png" group-title="UK",MTV Classic
+http://line.myott.net:80/live/1234/4321/17919.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="UK",MTV Dance
+http://line.myott.net:80/live/1234/4321/17918.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MTV_Hits.svg.png" group-title="UK",MTV Hits
+http://line.myott.net:80/live/1234/4321/17917.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/MTV_Live.svg.png" group-title="UK",MTV Live
 http://185.70.133.66:14
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="UK",MTV Music
+http://line.myott.net:80/live/1234/4321/17916.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/MTV_OMG_Logo.png" group-title="UK",MTV OMG
+http://line.myott.net:80/live/1234/4321/17915.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="UK",MTV Rocks
+http://line.myott.net:80/live/1234/4321/17914.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="UK",MUTV
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5865.ts
+http://line.myott.net:80/live/1234/4321/18027.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="UK",Nat Geo Wild
-http://185.70.133.66:203
+http://line.myott.net:80/live/1234/4321/46426.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/553_300.png" group-title="UK",National Geographic
-http://185.70.133.66:154
+http://line.myott.net:80/live/1234/4321/17969.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="UK",NHK World (Opt-1)
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
@@ -1650,16 +1800,31 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Nick.svg.png" group-title="UK",Nickelodeon
-http://185.70.133.66:605
+http://line.myott.net:80/live/1234/4321/17979.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="UK",Nick  Jr.
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5858.ts
+http://line.myott.net:80/live/1234/4321/17940.ts
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/381232451_1280x720.jpg" group-title="UK",Nick  Jr. +1
+http://line.myott.net:80/live/1234/4321/17934.ts
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/nn/nick_jr_too_uk.png" group-title="UK",Nick  Jr. Too
+http://line.myott.net:80/live/1234/4321/17941.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="UK",Nicktoons
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5859.ts
+http://line.myott.net:80/live/1234/4321/17939.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="UK",Paramount Network
 http://91.109.113.38:8000/play/a07g
+
+#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sports
+http://line.myott.net:80/live/1234/4321/18026.ts
+
+#EXTINF:-1 tvg-logo="https://platform.247cdn.net/247platform-images/73/1067142/4d-1612cc-43-1080-1920-3936-thumb-2.png" group-title="UK",Premier Sports 2
+http://line.myott.net:80/live/1234/4321/46399.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UK",Pick
+http://line.myott.net:80/live/1234/4321/46532.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="UK",Pop
 http://91.109.113.38:8000/play/a07q
@@ -1674,7 +1839,7 @@ http://91.109.113.38:8000/play/a07s
 http://91.109.113.38:8000/play/a07u
 
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/quest.png" group-title="UK",Quest
-http://185.70.133.66:15
+http://line.myott.net:80/live/1234/4321/67720.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6CDOD3.jpg" group-title="UK",QVC
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
@@ -1692,7 +1857,7 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://hamilton-park.co.uk/wp-content/uploads/2018/12/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-003.png" group-title="UK",Racing TV
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5853.ts
+http://line.myott.net:80/live/1234/4321/18030.ts
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1495813746/nzax7n1fps8jx6oaas0u.jpg" group-title="UK",Really
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5851.ts
@@ -1703,8 +1868,8 @@ http://91.109.113.38:8000/play/a02e
 #EXTINF:-1 tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="UK",Rok +1
 http://91.109.113.38:8000/play/a01z
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="UK",RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png" group-title="UK",S4C
 http://91.109.113.38:8000/play/a072
@@ -1712,32 +1877,47 @@ http://91.109.113.38:8000/play/a072
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/826389048604446720/vf0XTPR2_400x400.jpg" group-title="UK",Sewing Quarter
 http://91.109.113.38:8000/play/a09v
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/10/Sky-One-OCT-2017.png" group-title="UK",Sky One
+http://line.myott.net:80/live/1234/4321/18023.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/10/Sky-Two-OCT-2017.png" group-title="UK",Sky Two
+http://line.myott.net:80/live/1234/4321/23112.ts
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Sky_Action.png" group-title="UK",Sky Action
-http://185.70.133.66:1203
+http://line.myott.net:80/live/1234/4321/18011.ts
 
 #EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/channels/sky_arts.jpg" group-title="UK",Sky Arts
 http://185.70.133.66:903
 
+#EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg" group-title="UK",Sky Atlantic
+http://line.myott.net:80/live/1234/4321/18024.ts
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ss/sky_uk_cinema_drama_romance.png" group-title="UK",Sky Cinema Drama & Romance
+http://line.myott.net:80/live/1234/4321/18020.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="UK",Sky Cinema Family
-http://185.70.133.66:1131
+http://line.myott.net:80/live/1234/4321/18019.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="UK",Sky Cinema Greats
-http://185.70.133.66:156
+http://line.myott.net:80/live/1234/4321/18018.ts
+
+#EXTINF:-1 tvg-logo="https://nst.sky.it/content/dam/static/contentimages/original/sezioni/cinema/news/2014/04/14/visore_cinemaheroes.jpg" group-title="UK",Sky Cinema Heroes
+http://line.myott.net:80/live/1234/4321/18010.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Sky_Cinema_Hits.png" group-title="UK",Sky Cinema Hits
-http://185.70.133.66:205
+http://line.myott.net:80/live/1234/4321/18017.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="UK",Sky Cinema Sci-Fi & Horror
-http://185.70.133.66:157
+http://line.myott.net:80/live/1234/4321/18015.ts
 
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="UK",Sky Cinema Thriller
-http://185.70.133.66:1204
+http://line.myott.net:80/live/1234/4321/18013.ts
 
 #EXTINF:-1 tvg-logo="http://simoncaine.co.uk/wp-content/uploads/2018/02/Jon-mountague-sky-comedy-big.jpg" group-title="UK",Sky Comedy
-http://185.70.133.66:114
+http://line.myott.net:80/live/1234/4321/18022.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/c/ce/Media-sky-movies-disney_1.jpg" group-title="UK",Sky Movies Disney
-http://185.70.133.66:306
+http://line.myott.net:80/live/1234/4321/18021.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News (Opt-1)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -1746,25 +1926,40 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sky.com.mx/Code/templates/images/logos/sky-premierelogo.png" group-title="UK",Sky Premiere
-http://185.70.133.66:305
+http://line.myott.net:80/live/1234/4321/18016.ts
 
 #EXTINF:-1 tvg-logo="https://www.sky.de/static/img/select/sky_1609_skyselect.jpg" group-title="UK",Sky Select
-http://185.70.133.66:1005
+http://line.myott.net:80/live/1234/4321/18014.ts
 
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png" group-title="UK",Sky Sports Action
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5827.ts
+http://line.myott.net:80/live/1234/4321/18045.ts
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ARENA.png" group-title="UK",Sky Sports Arena
+http://line.myott.net:80/live/1234/4321/18044.ts
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="UK",Sky Sports Cricket
+http://line.myott.net:80/live/1234/4321/18043.ts
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="UK",Sky Sports F1
+http://line.myott.net:80/live/1234/4321/18042.ts
 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/48/b7/9f48b7df-2b48-77a6-db19-5ed50aa4a757/AppIcon-1x_U007emarketing-85-220-3.png/1200x630wa.png" group-title="UK",Sky Sports Football
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5829.ts
+http://line.myott.net:80/live/1234/4321/18041.ts
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-GOLF.png" group-title="UK",Sky Sports Golf
+http://line.myott.net:80/live/1234/4321/18040.ts
 
 #EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png" group-title="UK",Sky Sports Main Event
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5822.ts
+http://line.myott.net:80/live/1234/4321/68014.ts
 
 #EXTINF:-1 tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="UK",Sky Sports Mix
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5816.ts
+http://line.myott.net:80/live/1234/4321/18037.ts
 
 #EXTINF:-1 tvg-logo="https://www.rokt.co.uk/wp-content/uploads/sky-sports-news-UK-logo.png" group-title="UK",Sky Sports News
-http://185.70.133.66:206
+http://line.myott.net:80/live/1234/4321/18036.ts
+
+#EXTINF:-1 tvg-logo="https://www.sportsnewsireland.com/wp-content/uploads/2017/10/Sky-Sports.jpg" group-title="UK",Sky Sports Premier League
+http://line.myott.net:80/live/1234/4321/18038.ts
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/04/Sky-Sports-Racing.jpg" group-title="UK",Sky Sports Racing
 http://91.109.113.38:8000/play/a077
@@ -1803,10 +1998,13 @@ http://77.226.204.228:25461/test/test/22
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg.png" group-title="UK",Syfy
-http://185.70.133.66:135
+http://line.myott.net:80/live/1234/4321/17966.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/TPTV_promotional_logo.png" group-title="UK",Talking Pictures TV
 http://91.109.113.38:8000/play/a012
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/tcm-1.jpg" group-title="UK",TCM
+http://line.myott.net:80/live/1234/4321/17965.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/tcm-1.jpg" group-title="UK",TCM +1
 http://91.109.113.38:8000/play/a02w
@@ -1818,7 +2016,7 @@ http://91.109.113.38:8000/play/a07p
 http://91.109.113.38:8000/play/a07r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg" group-title="UK",TLC
-http://185.70.133.66:1161
+http://line.myott.net:80/live/1234/4321/17964.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="UK",TLC HD World (Opt-1)
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
@@ -1860,16 +2058,19 @@ http://91.109.113.38:8000/play/a07o
 http://91.109.113.38:8000/play/a02g
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png" group-title="UK",Universal Channel
-http://185.70.133.66:905
+http://line.myott.net:80/live/1234/4321/17962.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK",UTV
 http://185.53.163.214:5678/ipvt_012
 
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/vh1-logo.png" group-title="UK",VH1 Europe
+http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png" group-title="UK",W
-http://185.70.133.66:407
+http://line.myott.net:80/live/1234/4321/18007.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" group-title="UK",Yesterday
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5860.ts
+http://line.myott.net:80/live/1234/4321/46533.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/YourTV_logo.png" group-title="UK",YourTV
 http://91.109.113.38:8000/play/a071
@@ -1877,20 +2078,32 @@ http://91.109.113.38:8000/play/a071
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/3e_logo.png" group-title="IRELAND",3E
+http://line.myott.net:80/live/1234/4321/46529.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="IRELAND",Eir Sport 1
+http://line.myott.net:80/live/1234/4321/17912.ts
+
+#EXTINF:-1 tvg-logo="https://www.eirsport.ie/uploads/eir/package/logos/eirSport2.png" group-title="IRELAND",Eir Sport 2
+http://line.myott.net:80/live/1234/4321/17911.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1
+http://line.myott.net:80/live/1234/4321/17984.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2
+http://line.myott.net:80/live/1234/4321/17983.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr.
+http://line.myott.net:80/live/1234/4321/17937.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1
-http://77.226.204.228:25461/test/test/36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
+http://line.myott.net:80/live/1234/4321/17982.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2
-http://77.226.204.228:25461/test/test/51
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr.
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.entertainment.ie/images_content/rectangle/620x372/TV3Image-copy.jpg" group-title="IRELAND",TV3
+http://line.myott.net:80/live/1234/4321/46534.ts
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/au.png" group-title="LABEL",~ Australia TV ~
 http://www.lengua.com/anthems/Australia.mp3
@@ -2013,7 +2226,7 @@ http://www.lengua.com/anthems/Barbados.mp3
 https://uvodscp-lh.akamaihd.net/i/rjrCvtv_1@79763/master.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/CBC_TV_8.png" group-title="BARBADOS",CBC TV 8
-https://59cc03a18f8dd.streamlock.net/cbcbarbados/live/playlist.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226831/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2613194208/9tihfpegnjyzgh1f9bch_400x400.png" group-title="BARBADOS",Trident 10 TV
 http://161.0.157.51/PLTV/88888888/224/3221226832/index.m3u8
@@ -2720,14 +2933,95 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws_114_720p.m3u8?f
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",6ter
+http://line.myott.net:80/live/1234/4321/1391.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/13%C3%A8me_Rue_Universal.svg/1200px-13%C3%A8me_Rue_Universal.svg.png" group-title="FRANCE",13eme Rue
+http://line.myott.net:80/live/1234/4321/113.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.over-blog-kiwi.com/0/95/30/84/20160202/ob_833c69_a.png" group-title="FRANCE",A+
+http://line.myott.net:80/live/1234/4321/19851.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/AB1_logo.svg/1200px-AB1_logo.svg.png" group-title="FRANCE",AB1
+http://line.myott.net:80/live/1234/4321/128.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_AB3.png/245px-Logo_AB3.png" group-title="FRANCE",AB3
+http://line.myott.net:80/live/1234/4321/46762.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://danton-arts-kustoms.com/wp-content/uploads/2015/09/AB-Moteurs.png" group-title="FRANCE",AB Moteurs
+http://line.myott.net:80/live/1234/4321/19810.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-jjBoj2zkbhk/WOE0RgNNZ1I/AAAAAAAAEps/QJd-weCN0dM02A15bNj_TuqyEOrr9ONmQCLcB/s1600/action_fr.png" group-title="FRANCE",Action
+http://line.myott.net:80/live/1234/4321/119.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 1
+http://line.myott.net:80/live/1234/4321/19833.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 2
+http://line.myott.net:80/live/1234/4321/19832.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 3
+http://line.myott.net:80/live/1234/4321/19831.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 4
+http://line.myott.net:80/live/1234/4321/19830.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 5
+http://line.myott.net:80/live/1234/4321/19829.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 6
+http://line.myott.net:80/live/1234/4321/19828.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.forumdesimages.fr/media/cache/fdi_big_overview/media/fdi/36398-forum-a-la-carte.jpg" group-title="FRANCE",A la Carte 7
+http://line.myott.net:80/live/1234/4321/19827.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="FRANCE",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/17660/logo_animaux.png" group-title="FRANCE",Animaux
+http://line.myott.net:80/live/1234/4321/138.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-LZSJQFBzHag/Ws_jBmk19qI/AAAAAAAAK14/217hVlaIQVsQ94u5Hu1-7f2gQcOA4nLTACLcBGAs/s1600/El-canal-Arte.jpg" group-title="FRANCE",Arte
+http://line.myott.net:80/live/1234/4321/1390.ts
 
 #EXTINF:-1 tvg-logo="http://blackbeautyfair.com/wp-content/uploads/2015/08/logo_bblack_africa-820x442.png" group-title="FRANCE",Bblack! Africa
 http://ec.playmedia.fr/beblack/africa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/vjdid.com/wp-content/uploads/2017/10/logo-bblack-caribbean-contour-noir.png" group-title="FRANCE",Bblack! Caribbean
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/BBLACK_CLASSIK.png" group-title="FRANCE",Bblack! Classik
+http://line.myott.net:80/live/1234/4321/19813.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2017/04/bein-sports-1-hero.png" group-title="FRANCE",beIN Sports 1
+http://line.myott.net:80/live/1234/4321/1419.ts
+
+#EXTINF:-1 tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_2_NEW_250x180.png" group-title="FRANCE",beIN Sports 2
+http://line.myott.net:80/live/1234/4321/1420.ts
+
+#EXTINF:-1 tvg-logo="https://youcompare.com.au/assets/img/paytv_logos/bein-sports-3.png" group-title="FRANCE",beIN Sports 3
+http://line.myott.net:80/live/1234/4321/1421.ts
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ALk6YaIKUc0/Wn8sw6vh71I/AAAAAAAAFy0/TV_GsrA7SKIJbsXLZxuVWoA49LCKnRJSQCLcBGAs/s1600/beinsportmax4.png" group-title="FRANCE",beIN Sports Max 4
+http://line.myott.net:80/live/1234/4321/19820.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="FRANCE",beIN Sports Max 5
+http://line.myott.net:80/live/1234/4321/19819.ts
+
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/09/411401.png" group-title="FRANCE",beIN Sports Max 6
+http://line.myott.net:80/live/1234/4321/19818.ts
+
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0a/411402.png" group-title="FRANCE",beIN Sports Max 7
+http://line.myott.net:80/live/1234/4321/19817.ts
+
+#EXTINF:-1 tvg-logo="http://controlam.com/Logos/bmax8.png" group-title="FRANCE",beIN Sports Max 8
+http://line.myott.net:80/live/1234/4321/19816.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/0a/BeIN_Sports_Max_9_%282017-.n.v.%29.png" group-title="FRANCE",beIN Sports Max 9
+http://line.myott.net:80/live/1234/4321/19815.ts
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/bb/be_in_mena_sports_max_10_hd.png" group-title="FRANCE",beIN Sports Max 10
+http://line.myott.net:80/live/1234/4321/19814.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/brtv_jeunesse.png" group-title="FRANCE",Berbere Jeunesse
 http://188.93.238.56:8000/play/a039/index.m3u8
@@ -2738,11 +3032,17 @@ http://188.93.238.56:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/BerbereTV.jpg" group-title="FRANCE",Berbere Television
 http://188.93.238.56:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="FRANCE",BFM Paris
-http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.bet.com/music/_jcr_content/image.large2x1image.dimg/__1459503666680__1361990340345/16by9-bet-logo-on-black.jpg" group-title="FRANCE",BET
+http://line.myott.net:80/live/1234/4321/19855.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
 http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="FRANCE",BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="FRANCE",BFM TV
+http://line.myott.net:80/live/1234/4321/1398.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/1024px-Boing_Logo.svg.png" group-title="FRANCE",Boing
 http://89.163.140.211:8787/boing/index.m3u8
@@ -2750,17 +3050,113 @@ http://89.163.140.211:8787/boing/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="FRANCE",Boomerang
 http://89.163.140.211:8787/boomerang/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/C8_logo.jpg/1200px-C8_logo.jpg" group-title="FRANCE",C8
+http://line.myott.net:80/live/1234/4321/1402.ts
+
+#EXTINF:-1 tvg-logo="https://www.filmneweurope.com/media/k2/items/cache/5196534451fba879104dc42ae7978e92_XL.jpg" group-title="FRANCE",Canal+
+http://line.myott.net:80/live/1234/4321/1404.ts
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180529/xgb/kisspng-canal-cinma-france-television-channel-5b0d660f1c4ba4.3335454315276047511159.jpg" group-title="FRANCE",Canal+ Cinema
+http://line.myott.net:80/live/1234/4321/1405.ts
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Canal%2B_D%C3%A9cal%C3%A9_logo_2009.svg/500px-Canal%2B_D%C3%A9cal%C3%A9_logo_2009.svg.png" group-title="FRANCE",Canal+ Decale
+http://line.myott.net:80/live/1234/4321/116.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="FRANCE",Canal+ Family
+http://line.myott.net:80/live/1234/4321/1406.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/1200px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE",Canal+ Series
+http://line.myott.net:80/live/1234/4321/117.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE",Canal+ Sport
+http://line.myott.net:80/live/1234/4321/1407.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="FRANCE",Canal J
+http://line.myott.net:80/live/1234/4321/152.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png" group-title="FRANCE",Canal News
+http://line.myott.net:80/live/1234/4321/3041.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE",Canalplay 1
+http://line.myott.net:80/live/1234/4321/19826.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE",Canalplay 2
+http://line.myott.net:80/live/1234/4321/19825.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE",Canalplay 3
+http://line.myott.net:80/live/1234/4321/19824.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE",Canalplay 4
+http://line.myott.net:80/live/1234/4321/19823.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE",Canalplay 5
+http://line.myott.net:80/live/1234/4321/19822.ts
+
+#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/canalsavoir-300x300.png" group-title="FRANCE",Canal Savoir
+http://line.myott.net:80/live/1234/4321/19850.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="FRANCE",Cartoon Network
+http://line.myott.net:80/live/1234/4321/3036.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="FRANCE",CGTN
 http://live.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2014/10/chasse-peche.gif" group-title="FRANCE",Chasse et Peche
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1200px-Logo_Ch%C3%A9rie_25.svg.png" group-title="FRANCE",Cherie 25
+http://line.myott.net:80/live/1234/4321/1399.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="FRANCE",Cine+ Classic
+http://line.myott.net:80/live/1234/4321/1411.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f6/Cine%2B_Club_%282011-.n.v.%29.png" group-title="FRANCE",Cine+ Club
+http://line.myott.net:80/live/1234/4321/1409.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="FRANCE",Cine+ Emotion
+http://line.myott.net:80/live/1234/4321/1412.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f9/Cine%2B_Famiz_%282011-.n.v.%29.png" group-title="FRANCE",Cine+ Famiz
+http://line.myott.net:80/live/1234/4321/118.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1200px-CinePlusFrisson.svg.png" group-title="FRANCE",Cine+ Frisson
+http://line.myott.net:80/live/1234/4321/1410.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/CinePlusPremier.svg/1200px-CinePlusPremier.svg.png" group-title="FRANCE",Cine+ Premier
+http://line.myott.net:80/live/1234/4321/1408.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg" group-title="FRANCE",CNews
 http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Com%C3%A9die%2B.svg/1200px-Com%C3%A9die%2B.svg.png" group-title="FRANCE",Comedie+
+http://line.myott.net:80/live/1234/4321/130.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="FRANCE",Crime District
+http://line.myott.net:80/live/1234/4321/19834.ts
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Cstar-logo.jpg" group-title="FRANCE",CStar
 http://89.163.140.211:8787/cstar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="FRANCE",Discovery Channel
+http://line.myott.net:80/live/1234/4321/1422.ts
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/507.png" group-title="FRANCE",Discovery Family
+http://line.myott.net:80/live/1234/4321/67781.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="FRANCE",Discovery Science
+http://line.myott.net:80/live/1234/4321/135.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="FRANCE",Disney Channel
+http://line.myott.net:80/live/1234/4321/19849.ts
+
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/299.png" group-title="FRANCE",Disney Channel +1
+http://line.myott.net:80/live/1234/4321/19848.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Disney_Junior.png" group-title="FRANCE",Disney Junior
+http://line.myott.net:80/live/1234/4321/151.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="FRANCE",Disney XD
+http://line.myott.net:80/live/1234/4321/146.ts
 
 #EXTINF:0 tvg-logo="http://i65.tinypic.com/990umt.jpg" group-title="FRANCE",DJing Animation
 https://www.djing.com/tv/animation.m3u8
@@ -2795,8 +3191,29 @@ https://www.djing.com/tv/session_summer-vibes.m3u8
 #EXTINF:0 tvg-logo="http://i68.tinypic.com/2ztc02c.jpg" group-title="FRANCE",DJing Underground
 https://www.djing.com/tv/underground.m3u8
 
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="FRANCE",E!
+http://line.myott.net:80/live/1234/4321/3018.ts
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Logo-elle-girl.png" group-title="FRANCE",Elle Girl TV
 http://89.163.140.211:8787/ellegirl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2y0bfd3ultfve.cloudfront.net/img/press/press-releases/equidia.png" group-title="FRANCE",Equidia
+http://line.myott.net:80/live/1234/4321/109.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Logo-equidia-live.png" group-title="FRANCE",Equidia Live
+http://line.myott.net:80/live/1234/4321/112.ts
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uf_n4EnS6xw/WQpHXMrzV6I/AAAAAAAAFtA/kGq9Z6YbmxAuBnPavSoSozj5RxNgNHsSwCLcB/s1600/euronews_fr_hd.png" group-title="FRANCE",Euronews
+http://line.myott.net:80/live/1234/4321/131.ts
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLndFdXJvU3BvcnQxSERfNzc2Njc4MF9zY3JlZW5fN18xNTM2MTk0MjA5XzAzNA/screen-7.jpg?h=800&fakeurl=1&type=.jpg" group-title="FRANCE",Eurosport 1
+http://line.myott.net:80/live/1234/4321/1418.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/eurosports2.jpg" group-title="FRANCE",Eurosport 2
+http://line.myott.net:80/live/1234/4321/144.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="FRANCE",Extreme Sports Channel
+http://line.myott.net:80/live/1234/4321/3023.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV (Opt-1)
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
@@ -2807,6 +3224,21 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunkl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV (Opt-3)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/Foot_2011.png" group-title="FRANCE",Foot+
+http://line.myott.net:80/live/1234/4321/127.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1200px-France_2_2018.svg.png" group-title="FRANCE",France 2
+http://line.myott.net:80/live/1234/4321/1381.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" group-title="FRANCE",France 3
+http://line.myott.net:80/live/1234/4321/1382.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png" group-title="FRANCE",France 4
+http://line.myott.net:80/live/1234/4321/1383.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="FRANCE",France 5
+http://line.myott.net:80/live/1234/4321/1384.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="FRANCE",France 24 (Opt-1)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
@@ -2816,23 +3248,65 @@ http://61.58.60.230:9000/live/131.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://www.ecouter-la-radio.fr/wp-content/uploads/2016/07/franceinfo.png" group-title="FRANCE",FranceInfo
 https://stream-02.nyc.dailymotion.com/39/dm/3/x4rdeu6/live-3.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/1200px-France_%C3%94_2018.svg.png" group-title="FRANCE",France O
+http://line.myott.net:80/live/1234/4321/1385.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/59558_logo_game_one.png" group-title="FRANCE",Game One
+http://line.myott.net:80/live/1234/4321/145.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/1280px-Golf%2B.svg.png" group-title="FRANCE",Golf+
+http://line.myott.net:80/live/1234/4321/3026.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCE",Gong
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/fr/GONGMAX.png" group-title="FRANCE",GONG MAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/fr/GONGMAX.png" group-title="FRANCE",Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/200px-Gulli_2017_nouveau_logo.jpg" group-title="FRANCE",Gulli
+http://line.myott.net:80/live/1234/4321/1388.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Histoire-Chaine-logo.png" group-title="FRANCE",Histoire
+http://line.myott.net:80/live/1234/4321/126.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a4/IS_2016.jpg" group-title="FRANCE",Infosport+
+http://line.myott.net:80/live/1234/4321/142.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="FRANCE",Investigation Discovery
 http://89.163.140.211:8787/Discovery-investigation/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.we-are-girlz.com/wp-content/uploads/2013/07/j-one-logo.jpg" group-title="FRANCE",J-One
+http://line.myott.net:80/live/1234/4321/19845.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.groupe-tf1.fr/sites/default/files/styles/actualites_-_390x235_adaptatif/adaptive-image/public/images/communiques/lci-communique_0.jpg" group-title="FRANCE",LCI
+http://line.myott.net:80/live/1234/4321/2586.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alianzafrancesa.org.mx/wp-content/uploads/2017/10/Recursos-en-linea-lcp-tv.png" group-title="FRANCE",LCP
+http://line.myott.net:80/live/1234/4321/19796.ts
+
 #EXTINF:-1 tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE",L'Equipe 21
 http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lfmtv.ch/wp-content/uploads/2017/02/favicon.png" group-title="FRANCE",LFM TV
+http://line.myott.net:80/live/1234/4321/46757.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="FRANCE",M6
+http://line.myott.net:80/live/1234/4321/1386.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="FRANCE",M6 Music
+http://line.myott.net:80/live/1234/4321/19808.ts
+
+#EXTINF:-1 tvg-logo="http://ab-ressources.fr/ressources/logos/logo-mangas.png" group-title="FRANCE",Mangas
+http://line.myott.net:80/live/1234/4321/149.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MCM_logo.svg/640px-MCM_logo.svg.png" group-title="FRANCE",MCM
+http://line.myott.net:80/live/1234/4321/3032.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/MCM_TOP_logo_2017.png" group-title="FRANCE",MCM Top
 http://ott-cdn.ucom.am/s49/04.m3u8
@@ -2840,20 +3314,233 @@ http://ott-cdn.ucom.am/s49/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.mezzo.tv/5be00c6e/static/img/generic/mezzo.jpg" group-title="FRANCE",Mezzo
 http://92.43.140.249/s35/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/mezzo_live/mezzo_live_moyenne.png" group-title="FRANCE",Mezzo Live
+http://line.myott.net:80/live/1234/4321/3035.ts
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/09/Motorsport.tv_.png" group-title="FRANCE",Motorsport TV
+http://line.myott.net:80/live/1234/4321/19811.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg.png" group-title="FRANCE",MTV
+http://line.myott.net:80/live/1234/4321/3029.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="FRANCE",MTV Dance
+http://line.myott.net:80/live/1234/4321/19805.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MTV_Hits.svg.png" group-title="FRANCE",MTV Hits
+http://line.myott.net:80/live/1234/4321/19807.ts
+
+#EXTINF:-1 tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/noticias/2017/novembro/my_cuisine.jpg" group-title="FRANCE",My Cuisine
+http://line.myott.net:80/live/1234/4321/68015.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="FRANCE",Nat Geo Wild
+http://line.myott.net:80/live/1234/4321/134.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png" group-title="FRANCE",National Geographic
+http://line.myott.net:80/live/1234/4321/1423.ts
+
+#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_flat_rgb.png" group-title="FRANCE",NBC Golf
+http://line.myott.net:80/live/1234/4321/3025.ts
+
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Nickelodeon-Logo.jpg" group-title="FRANCE",Nickelodeon
+http://line.myott.net:80/live/1234/4321/3038.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="FRANCE",Nick Jr.
+http://line.myott.net:80/live/1234/4321/3039.ts
+
 #EXTINF:-1 tvg-logo="https://www.nollywoodtv.fr/images/logo-nollywoodtv.png" group-title="FRANCE",Nollywood TV
-http://iptv-line.com:6969/lucia/lucia1/4400
+http://line.myott.net:80/live/1234/4321/19800.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="FRANCE",Novelas TV
 http://iptv-line.com:6969/lucia/lucia1/8196
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/NRJ_12_2015_logo.png" group-title="FRANCE",NRJ 12
+http://line.myott.net:80/live/1234/4321/1389.ts
+
+#EXTINF:-1 tvg-logo="https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/640x640/P_NRJ_Hits.png" group-title="FRANCE",NRJ Hits
+http://line.myott.net:80/live/1234/4321/19804.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/NT1_logo.svg/1024px-NT1_logo.svg.png" group-title="FRANCE",NT1
+http://line.myott.net:80/live/1234/4321/1400.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/OCS_OnDemand_logo_cmjn_noir.png" group-title="FRANCE",OCS a la Demande 1
+http://line.myott.net:80/live/1234/4321/19792.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/OCS_OnDemand_logo_cmjn_noir.png" group-title="FRANCE",OCS a la Demande 2
+http://line.myott.net:80/live/1234/4321/19791.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/OCS_OnDemand_logo_cmjn_noir.png" group-title="FRANCE",OCS a la Demande 3
+http://line.myott.net:80/live/1234/4321/19790.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/OCS_OnDemand_logo_cmjn_noir.png" group-title="FRANCE",OCS a la Demande 4
+http://line.myott.net:80/live/1234/4321/19789.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/OCS_OnDemand_logo_cmjn_noir.png" group-title="FRANCE",OCS a la Demande 5
+http://line.myott.net:80/live/1234/4321/19788.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/OCS_Choc.svg.png" group-title="FRANCE",OCS Choc
+http://line.myott.net:80/live/1234/4321/1417.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/OCS_City.svg.png" group-title="FRANCE",OCS City
+http://line.myott.net:80/live/1234/4321/1415.ts
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bcJ33so2WM0/WUW-L1ZBqiI/AAAAAAAAGyE/CyNnUOdPQf4m2ekupTNrA902HQRZs2YngCLcBGAs/s1600/ocs_geants.png" group-title="FRANCE",OCS Geants
+http://line.myott.net:80/live/1234/4321/1416.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/OCS_Max.svg.png" group-title="FRANCE",OCS Max
+http://line.myott.net:80/live/1234/4321/1414.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema
+http://line.myott.net:80/live/1234/4321/19780.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema 1
+http://line.myott.net:80/live/1234/4321/19787.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema 2
+http://line.myott.net:80/live/1234/4321/19786.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema 3
+http://line.myott.net:80/live/1234/4321/19785.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema 4
+http://line.myott.net:80/live/1234/4321/19784.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema 5
+http://line.myott.net:80/live/1234/4321/19783.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema Action
+http://line.myott.net:80/live/1234/4321/19782.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema Aventure
+http://line.myott.net:80/live/1234/4321/19781.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Cinema Horreur
+http://line.myott.net:80/live/1234/4321/19779.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Comment C'est Fait
+http://line.myott.net:80/live/1234/4321/19778.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763721323399053313/Q48X7zco_400x400.jpg" group-title="FRANCE",Orange Enquete Exclusive
+http://line.myott.net:80/live/1234/4321/19777.ts
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/d334c7/paramount-channel-logo-tm1/450_1000.jpg" group-title="FRANCE",Paramount Channel
+http://line.myott.net:80/live/1234/4321/110.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Logo_Paris_Premi%C3%A8re_rentr%C3%A9e_2011-2012.jpg" group-title="FRANCE",Paris Premiere
+http://line.myott.net:80/live/1234/4321/114.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/Piwi_2011.png" group-title="FRANCE",Piwi+
+http://line.myott.net:80/live/1234/4321/153.ts
+
+#EXTINF:-1 tvg-logo="http://www.robbo.pl/wp-content/uploads/2015/11/Planet-HD.png" group-title="FRANCE",Planete+
+http://line.myott.net:80/live/1234/4321/132.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/PLAN%C3%88TE%2B_A%26E.png" group-title="FRANCE",Planete+ A&E
+http://line.myott.net:80/live/1234/4321/123.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/PLAN%C3%88TE%2B_ci.png" group-title="FRANCE",Planete+ Ci
+http://line.myott.net:80/live/1234/4321/133.ts
+
+#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/0/95/30/84/20170925/ob_8b7f1c_dkkdbftw4aazfr0.jpg" group-title="FRANCE",Polar+
+http://line.myott.net:80/live/1234/4321/1413.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/8e/RFM_TV_%282002-2005%29.png" group-title="FRANCE",RFM TV
+http://line.myott.net:80/live/1234/4321/3031.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1280px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="FRANCE",RMC Decouverte
+http://line.myott.net:80/live/1234/4321/19838.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="FRANCE",RMC Sport 1
+http://line.myott.net:80/live/1234/4321/46763.ts
+
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="FRANCE",RMC Sport 2
 http://89.163.140.211:8787/sfrsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-twbrGVQbbt4/W6ajVUmf6YI/AAAAAAAAIZk/H3oEUQEV_wo3INxnzAD53IOP7wmOs588gCLcBGAs/s1600/rmc-sport-3-300x200.jpg" group-title="FRANCE",RMC Sport 3
+http://line.myott.net:80/live/1234/4321/46765.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCE",RMC Sport 4
+http://line.myott.net:80/live/1234/4321/46766.ts
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1572.png" group-title="FRANCE",RMC Sport 5
+http://line.myott.net:80/live/1234/4321/46767.ts
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1573.png" group-title="FRANCE",RMC Sport 6
+http://line.myott.net:80/live/1234/4321/46769.ts
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-live-7-1574.png" group-title="FRANCE",RMC Sport 7
+http://line.myott.net:80/live/1234/4321/46768.ts
+
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/www-upc-ch/en/television/buy-tv/add-ons/_jcr_content/background_fullwidth/templatesection_1188293362/section_content/grouping/grouped/collapsible/par/container/containerParsys/colcontainer/colcont0/imageresponsive.img.320.low.png/1537947883385.png" group-title="FRANCE",RMC Sport Access 1
+http://line.myott.net:80/live/1234/4321/2912.ts
+
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/www-upc-ch/en/television/buy-tv/add-ons/_jcr_content/background_fullwidth/templatesection_1188293362/section_content/grouping/grouped/collapsible/par/container/containerParsys/colcontainer/colcont1/imageresponsive.img.320.low.png/1537947996691.png" group-title="FRANCE",RMC Sport Access 2
+http://line.myott.net:80/live/1234/4321/2913.ts
+
+#EXTINF:-1 tvg-logo="https://www.upc.ch/content/www-upc-ch/en/television/buy-tv/add-ons/_jcr_content/background_fullwidth/templatesection_1188293362/section_content/grouping/grouped/collapsible/par/container/containerParsys/colcontainer/colcont2/imageresponsive.img.320.low.png/1537948797740.png" group-title="FRANCE",RMC Sport Access 3
+http://line.myott.net:80/live/1234/4321/2914.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_RMC_Sport_News_2018.png" group-title="FRANCE",RMC Sport News
+http://line.myott.net:80/live/1234/4321/46754.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/RMC_Story.svg.png" group-title="FRANCE",RMC Story
+http://line.myott.net:80/live/1234/4321/1393.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/733311146040643584/ETxeN2GZ.jpg" group-title="FRANCE",RT
 http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCE",RTL 9
+http://line.myott.net:80/live/1234/4321/121.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Seasons_logo.png" group-title="FRANCE",Seasons
+http://line.myott.net:80/live/1234/4321/3028.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://src1.science-et-vie.com/extension/scienceetvie/design/scienceetvie/images/layout/main-logo.png" group-title="FRANCE",Science & Vie
+http://line.myott.net:80/live/1234/4321/140.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Serie_club_hd.png" group-title="FRANCE",Serie Club
+http://line.myott.net:80/live/1234/4321/19857.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Logo_Stingray_Brava.png" group-title="FRANCE",Stingray Brava
+http://line.myott.net:80/live/1234/4321/19803.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vox-cdn.com/thumbor/jQ1X8i003Duvm4rAzFAB9Zb9IVg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/54740455/aliptak_syfi.0.0.jpg" group-title="FRANCE",Syfy
+http://line.myott.net:80/live/1234/4321/115.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-FkxrK4ghaOI/UYtqsBTrsdI/AAAAAAAAZlw/GNfFDp60HOg/s1600/TCM+Cin%C3%A9ma+logo+2013.png" group-title="FRANCE",TCM Cinema
+http://line.myott.net:80/live/1234/4321/3022.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.horizont.net/news/media/21/Teleclub-Zoom-Logo-2017-205232-detailnp.png" group-title="FRANCE",Teleclub Zoom
+http://line.myott.net:80/live/1234/4321/46760.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.over-blog-kiwi.com/2/18/81/12/20170108/ob_174f88_telesud-logo.png" group-title="FRANCE",Telesud
 http://iptv-line.com:6969/lucia/lucia1/4320
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="FRANCE",Teletoon+
+http://line.myott.net:80/live/1234/4321/148.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/T%C3%A9va.svg/1280px-T%C3%A9va.svg.png" group-title="FRANCE",Teva
+http://line.myott.net:80/live/1234/4321/111.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
+http://line.myott.net:80/live/1234/4321/1380.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/TF1_S%C3%A9ries_Films.svg.png" group-title="FRANCE",TF1 Series Films
+http://line.myott.net:80/live/1234/4321/1396.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1200px-TFX_logo.svg.png" group-title="FRANCE",TFX
+http://line.myott.net:80/live/1234/4321/19858.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Tiji_logo.png" group-title="FRANCE",Tiji
+http://line.myott.net:80/live/1234/4321/147.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="FRANCE",TMC
+http://line.myott.net:80/live/1234/4321/1401.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Toonami_2016_logo.svg/1280px-Toonami_2016_logo.svg.png" group-title="FRANCE",Toonami
+http://line.myott.net:80/live/1234/4321/19844.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.halfmarathondessables.com/sites/default/files/styles/partners_logo_inner_page/public/TREK%20baselineNV.png" group-title="FRANCE",Trek
+http://line.myott.net:80/live/1234/4321/3027.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv5monde.com/programmes/bundles/tv5mondesite/images/logo-og.png" group-title="FRANCE",TV5 Monde Brazil
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/49
@@ -2863,6 +3550,9 @@ http://ott-cdn.ucom.am/s75/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png" group-title="FRANCE",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/8_MONT_BLANC.jpg" group-title="FRANCE",TV8 Mont-Blanc
+http://line.myott.net:80/live/1234/4321/46755.ts
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
@@ -2891,14 +3581,44 @@ http://61.216.177.73/sta/ch91865018.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="FRANCE",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/2014_TVBreizh.png" group-title="FRANCE",TV Breizh
+http://line.myott.net:80/live/1234/4321/3017.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795684284057133057/tr1TFkcg_400x400.jpg" group-title="FRANCE",Ushuaia TV
+http://line.myott.net:80/live/1234/4321/136.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="FRANCE",VH1 Classic
+http://line.myott.net:80/live/1234/4321/46759.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/7935c842134753.57c1e3c978b29.jpg" group-title="FRANCE",Viceland
+http://line.myott.net:80/live/1234/4321/58203.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://payload.cargocollective.com/1/4/143724/4340842/logo_vosges_television.gif" group-title="FRANCE",Vosges
+http://line.myott.net:80/live/1234/4321/19853.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.acces.tv/wp-content/uploads/2016/07/voyage-logo.png" group-title="FRANCE",Voyage
+http://line.myott.net:80/live/1234/4321/139.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
+http://line.myott.net:80/live/1234/4321/1387.ts
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/haiti/flag-button-square-250.png" group-title="LABEL",~ Haiti TV ~
 http://www.lengua.com/anthems/Haiti.mp3
 
+#EXTINF:-1 tvg-logo="http://haitiendirect.com/_logos/OpaTV.jpg" group-title="HAITI",Opa TV
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://rtghaiti.com/wp-content/uploads/2013/02/cropped-cropped-rtgnewbig-copy-e1403851731346.jpg" group-title="HAITI",Radio Tele Ginen
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="HAITI",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.haititelevision.com/images/tnh.jpg" group-title="HAITI",Tele Nationale d'Haiti
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_nhaiti/as/live/hln_nhaiti_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MFFnTsV.png" group-title="HAITI",Ynet TV
 http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
@@ -3771,7 +4491,10 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 http://www.lengua.com/anthems/Brazil.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="BRAZIL",A&E
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13150
+http://line.myott.net:80/live/1234/4321/69162.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AGRO_CANAL_-_LOGO.jpg" group-title="BRAZIL",Agro Canal
+http://line.myott.net:80/live/1234/4321/69183.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png" group-title="BRAZIL",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
@@ -3780,40 +4503,43 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/800px-AMC_logo_2016.png" group-title="BRAZIL",AMC
-http://iptv-line.com:6969/lucia/lucia1/31549
+http://line.myott.net:80/live/1234/4321/69043.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="BRAZIL",Animal Planet
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13149
+http://line.myott.net:80/live/1234/4321/69105.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/canal-arte-1.jpg" group-title="BRAZIL",Arte1
-http://iptv-line.com:6969/lucia/lucia1/8056
+http://line.myott.net:80/live/1234/4321/69154.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="BRAZIL",AXN
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13148
+http://line.myott.net:80/live/1234/4321/69034.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="BRAZIL",BabyTV
 http://iptv-line.com:6969/lucia/lucia1/17535
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png" group-title="BRAZIL",Band
-http://iptv-line.com:6969/lucia/lucia1/5676
+http://line.myott.net:80/live/1234/4321/69268.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRAZIL",Band News
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13147
+http://line.myott.net:80/live/1234/4321/69263.ts
 
 #EXTINF:-1 tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="BRAZIL",Band Sports
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13146
+http://line.myott.net:80/live/1234/4321/69233.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/2000px-Logo_of_Bis.svg.png" group-title="BRAZIL",BIS
 http://iptv-line.com:6969/lucia/lucia1/8055
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg.png" group-title="BRAZIL",Boomerang
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13145
+http://line.myott.net:80/live/1234/4321/69197.ts
 
 #EXTINF:-1 tvg-logo="http://www.controversia.com.br/blog/wp-content/uploads/2016/05/canal-brasil-1.png" group-title="BRAZIL",Canal Brasil
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13184
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="BRAZIL",Canal do Boi
+http://line.myott.net:80/live/1234/4321/69182.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="BRAZIL",Canal Futura Rio de Janeiro
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
@@ -3828,19 +4554,22 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 http://iptv-line.com:6969/lucia/lucia1/18918
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1087px-Canal_Sony_logo.svg.png" group-title="BRAZIL",Canal Sony
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13144
+http://line.myott.net:80/live/1234/4321/69037.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="BRAZIL",Cartoon Network
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13143
+http://line.myott.net:80/live/1234/4321/69219.ts
 
 #EXTINF:-1 tvg-logo="https://cbtvinternacional.com/wp-content/uploads/2018/03/cbtv-internacional-logo.png" group-title="BRAZIL",CBTV International
 https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="BRAZIL",Chef TV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/72
+http://line.myott.net:80/live/1234/4321/69166.ts
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60503_logo_cinebrasil_tv.png" group-title="BRAZIL",CineBrasil TV
+http://line.myott.net:80/live/1234/4321/69102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="BRAZIL",Cinemax
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13142
+http://line.myott.net:80/live/1234/4321/69065.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6FepRzn.png" group-title="BRAZIL",Classique TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
@@ -3849,49 +4578,49 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/73
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png" group-title="BRAZIL",Combate
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13141
+http://line.myott.net:80/live/1234/4321/69253.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg.png" group-title="BRAZIL",Comedy Central
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13140
+http://line.myott.net:80/live/1234/4321/69144.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/2000px-Logo_of_Curta%21.svg.png" group-title="BRAZIL",Curta!
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13181
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="BRAZIL",Discovery Channel
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13139
+http://line.myott.net:80/live/1234/4321/69135.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png" group-title="BRAZIL",Discovery Civilization
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13138
+http://line.myott.net:80/live/1234/4321/69123.ts
 
 #EXTINF:-1 tvg-logo="https://www.latam.discoverymujer.com/content/dam/discovery/latam/latam/homeandhealth/logo/LogoHH_FULL_ORANGE-2014.png" group-title="BRAZIL",Discovery Home & Health
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13137
+http://line.myott.net:80/live/1234/4321/69114.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="BRAZIL",Discovery Kids
-http://iptv-line.com:6969/lucia/lucia1/29080
+http://line.myott.net:80/live/1234/4321/69222.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="BRAZIL",Discovery Science
-http://iptv-line.com:6969/lucia/lucia1/7363
+http://line.myott.net:80/live/1234/4321/69126.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="BRAZIL",Discovery Theater
-http://iptv-line.com:6969/lucia/lucia1/17066
+http://line.myott.net:80/live/1234/4321/69120.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="BRAZIL",Discovery Turbo
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13136
+http://line.myott.net:80/live/1234/4321/69132.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="BRAZIL",Discovery World
-http://iptv-line.com:6969/lucia/lucia1/17064
+http://line.myott.net:80/live/1234/4321/69129.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="BRAZIL",Disney Channel
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13135
+http://line.myott.net:80/live/1234/4321/69216.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="BRAZIL",Disney Junior
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13134
+http://line.myott.net:80/live/1234/4321/69213.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg.png" group-title="BRAZIL",Disney XD
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13133
+http://line.myott.net:80/live/1234/4321/69210.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="BRAZIL",E!
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13183
+http://line.myott.net:80/live/1234/4321/69153.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="BRAZIL",E-Parana
 http://200.189.113.201/hls/tve.m3u8
@@ -3900,52 +4629,52 @@ http://200.189.113.201/hls/tve.m3u8
 http://maxptv.ddns.net:25461/live/zac/zac/166.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2010/01/espn.jpg" group-title="BRAZIL",ESPN
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13179
+http://line.myott.net:80/live/1234/4321/69248.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="BRAZIL",ESPN 2
-http://iptv-line.com:6969/lucia/lucia1/7331
+http://line.myott.net:80/live/1234/4321/69245.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="BRAZIL",ESPN Brasil
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13180
+http://line.myott.net:80/live/1234/4321/69249.ts
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="BRAZIL",ESPN Extra
 http://maxptv.ddns.net:25461/live/zac/zac/158.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="BRAZIL",Fashion TV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/58
+http://line.myott.net:80/live/1234/4321/69180.ts
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/filmandarts.jpg" group-title="BRAZIL",Film & Arts
 http://maxptv.ddns.net:25461/live/zac/zac/156.m3u8
 
 #EXTINF:-1 tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-770x439_c.jpg" group-title="BRAZIL",Fish TV
-http://iptv-line.com:6969/lucia/lucia1/7924
+http://line.myott.net:80/live/1234/4321/69232.ts
 
 #EXTINF:-1 tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg" group-title="BRAZIL",Food Network
-http://iptv-line.com:6969/lucia/lucia1/17527
+http://line.myott.net:80/live/1234/4321/69170.ts
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDY4Nzg4NDcwNTg5MDk0/fox_logoresized-bc.jpg" group-title="BRAZIL",Fox
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13132
+http://line.myott.net:80/live/1234/4321/69095.ts
 
 #EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/2/5/b/fox-life.jpg" group-title="BRAZIL",Fox Life
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13131
+http://line.myott.net:80/live/1234/4321/69158.ts
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium-Channel_Logo_16x91489246103049.png" group-title="BRAZIL",Fox Premium 1
-http://iptv-line.com:6969/lucia/lucia1/17056
+http://line.myott.net:80/live/1234/4321/69092.ts
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium2-Channel_Logo_16x91489154525715.png" group-title="BRAZIL",Fox Premium 2
-http://iptv-line.com:6969/lucia/lucia1/17055
+http://line.myott.net:80/live/1234/4321/69087.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports
-http://iptv-line.com:6969/lucia/lucia1/5322
+http://line.myott.net:80/live/1234/4321/69239.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports 2
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13176
+http://line.myott.net:80/live/1234/4321/69236.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hapra.com.br/images/foztv-novo.jpg" group-title="BRAZIL",Foz TV
 http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BRAZIL",FX
-http://iptv-line.com:6969/lucia/lucia1/17053
+http://line.myott.net:80/live/1234/4321/69098.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
@@ -3954,19 +4683,19 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13173
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/TV_Globo_Minas.png" group-title="BRAZIL",Globo Minas
-http://iptv-line.com:6969/lucia/lucia1/4298
+http://line.myott.net:80/live/1234/4321/69273.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globonews2017_red_fixed.png" group-title="BRAZIL",Globo News
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13174
+http://line.myott.net:80/live/1234/4321/69264.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/TV_Globo_Nordeste.jpg" group-title="BRAZIL",Globo Nordeste
-http://iptv-line.com:6969/lucia/lucia1/29075
+http://line.myott.net:80/live/1234/4321/69272.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg" group-title="BRAZIL",Globo Rio
-http://iptv-line.com:6969/lucia/lucia1/17052
+http://line.myott.net:80/live/1234/4321/69271.ts
 
 #EXTINF:-1 tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/03/globosp.png" group-title="BRAZIL",Globo SP
-http://iptv-line.com:6969/lucia/lucia1/7842
+http://line.myott.net:80/live/1234/4321/69274.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-tfn_PoBjtrM/TxOstJ-47nI/AAAAAAAADz0/GgaO3B2S2xo/s1600/Gloob+logo+2012.jpg" group-title="BRAZIL",Gloob
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13172
@@ -3975,73 +4704,76 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/13172
 http://iptv-line.com:6969/lucia/lucia1/17051
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_h2_m.png" group-title="BRAZIL",H2
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13130
+http://line.myott.net:80/live/1234/4321/69138.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="BRAZIL",HBO
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13129
+http://line.myott.net:80/live/1234/4321/69080.ts
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_hbo-2_m.png" group-title="BRAZIL",HBO 2
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13128
+http://line.myott.net:80/live/1234/4321/69077.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="BRAZIL",HBO Family
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13127
+http://line.myott.net:80/live/1234/4321/69074.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="BRAZIL",HBO Plus
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13126
+http://line.myott.net:80/live/1234/4321/69071.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRAZIL",HBO Signature
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13170
+http://line.myott.net:80/live/1234/4321/69068.ts
 
 #EXTINF:-1 tvg-logo="https://hardwareviews.com/wp-content/uploads/2018/07/1200px-History_Logo.svg_.png" group-title="BRAZIL",History
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13125
+http://line.myott.net:80/live/1234/4321/69141.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="BRAZIL",Investigation Discovery
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13169
+http://line.myott.net:80/live/1234/4321/69117.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_logo_2017.svg.png" group-title="BRAZIL",Lifetime
-http://iptv-line.com:6969/lucia/lucia1/17051
+http://line.myott.net:80/live/1234/4321/69165.ts
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="BRAZIL",Mais Globosat
-http://iptv-line.com:6969/lucia/lucia1/7921
+http://line.myott.net:80/live/1234/4321/69159.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="BRAZIL",Max
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13168
+http://line.myott.net:80/live/1234/4321/69064.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="BRAZIL",Max Prime
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13167
+http://line.myott.net:80/live/1234/4321/69059.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="BRAZIL",Max UP
-http://iptv-line.com:6969/lucia/lucia1/7344
+http://line.myott.net:80/live/1234/4321/69056.ts
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="BRAZIL",Megapix
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13166
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/200px-MTV_Logo.svg.png" group-title="BRAZIL",MTV
-http://iptv-line.com:6969/lucia/lucia1/5689
+http://line.myott.net:80/live/1234/4321/69176.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg.png" group-title="BRAZIL",Multishow
 http://iptv-line.com:6969/lucia/lucia1/7343
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MusicBoxBrazilLogo.png/230px-MusicBoxBrazilLogo.png" group-title="BRAZIL",Music Box Brazil
+http://line.myott.net:80/live/1234/4321/69173.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="BRAZIL",Nat Geo Kids
-http://maxptv.ddns.net:25461/live/zac/zac/98.m3u8
+http://line.myott.net:80/live/1234/4321/69192.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="BRAZIL",Nat Geo Wild
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/59
+http://line.myott.net:80/live/1234/4321/69108.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="BRAZIL",National Geographic
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13124
+http://line.myott.net:80/live/1234/4321/69111.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/TV_NBR_-_Logo_2018.png" group-title="BRAZIL",NBR
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/77
+http://line.myott.net:80/live/1234/4321/69255.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nickelodeon-logo-png-transparent.png" group-title="BRAZIL",Nickelodeon
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13165
+http://line.myott.net:80/live/1234/4321/69203.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="BRAZIL",Nick Jr
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13164
+http://line.myott.net:80/live/1234/4321/69200.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/paramount-channel.jpg" group-title="BRAZIL",Paramount Channel
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13163
+http://line.myott.net:80/live/1234/4321/69046.ts
 
 #EXTINF:-1 tvg-logo="http://w.assets.static-teleup.com/teleup/img/pfc/teleup-pfc-internacional-futebol.png" group-title="BRAZIL",PFC
 http://iptv-line.com:6969/lucia/lucia1/7339
@@ -4050,34 +4782,34 @@ http://iptv-line.com:6969/lucia/lucia1/7339
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4651.ts
 
 #EXTINF:-1 tvg-logo="http://www.msmetalagencybrasil.com/ptbr/wp-content/uploads/2016/07/play-tv.jpg" group-title="BRAZIL",Play TV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/71
+http://line.myott.net:80/live/1234/4321/69181.ts
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="BRAZIL",Premiere 1
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13162
+http://line.myott.net:80/live/1234/4321/69230.ts
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-a1jKMfYkKZk/W3A0aHnwoyI/AAAAAAAAoFU/wuYN7tGBYxUvBTibEHyzwfhp3nZ33Pg7wCK4BGAYYCw/s1600/premiere-2-contexto.png" group-title="BRAZIL",Premiere 2
-http://iptv-line.com:6969/lucia/lucia1/7338
+http://line.myott.net:80/live/1234/4321/69229.ts
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 3
-http://iptv-line.com:6969/lucia/lucia1/7337
+http://line.myott.net:80/live/1234/4321/69228.ts
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 4
-http://iptv-line.com:6969/lucia/lucia1/7336
+http://line.myott.net:80/live/1234/4321/69227.ts
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 5
-http://iptv-line.com:6969/lucia/lucia1/7335
+http://line.myott.net:80/live/1234/4321/69226.ts
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 6
-http://iptv-line.com:6969/lucia/lucia1/17517
+http://line.myott.net:80/live/1234/4321/69225.ts
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 7
-http://iptv-line.com:6969/lucia/lucia1/17516
+http://line.myott.net:80/live/1234/4321/69224.ts
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 8
-http://iptv-line.com:6969/lucia/lucia1/17515
+http://line.myott.net:80/live/1234/4321/69223.ts
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/193-1939643_prime-box-brazil-music-box-brasil.png" group-title="BRAZIL",Prime Box Brazil
-http://iptv-line.com:6969/lucia/lucia1/7332
+http://line.myott.net:80/live/1234/4321/69171.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
@@ -4086,7 +4818,7 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png" group-title="BRAZIL",Rá-Tim-Bum
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/88
+http://line.myott.net:80/live/1234/4321/69207.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/media/CwgKoVJXEAAJODO.jpg" group-title="BRAZIL",RBC Salvador
 http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
@@ -4101,7 +4833,7 @@ http://iptv-line.com:6969/lucia/lucia1/17512
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Espirito Santo
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13161
+http://line.myott.net:80/live/1234/4321/69270.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="BRAZIL",RecordTV Internacional
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4567.ts
@@ -4145,8 +4877,11 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist_w231520491.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Rede_S%C3%A9culo_21.jpg/200px-Rede_S%C3%A9culo_21.jpg" group-title="BRAZIL",Rede Seculo 21
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/rede-super.png" group-title="BRAZIL",Rede Super
+http://line.myott.net:80/live/1234/4321/69187.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="BRAZIL",Rede TV
-http://iptv-line.com:6969/lucia/lucia1/5290
+http://line.myott.net:80/live/1234/4321/69267.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logotipo_da_RedeTV%21_Rondônia.png" group-title="BRAZIL",Rede TV Rondonia
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
@@ -4155,73 +4890,79 @@ http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/44
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT
-http://iptv-line.com:6969/lucia/lucia1/8070
+http://line.myott.net:80/live/1234/4321/69269.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.megabonus.com/images/shop_logo/logoshoptime.png" group-title="BRAZIL",Shoptime
+http://line.myott.net:80/live/1234/4321/69184.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="BRAZIL",Space
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13123
+http://line.myott.net:80/live/1234/4321/69101.ts
 
 #EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="BRAZIL",SporTV
-http://iptv-line.com:6969/lucia/lucia1/7331
+http://line.myott.net:80/live/1234/4321/69252.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png" group-title="BRAZIL",SporTV 2
-http://iptv-line.com:6969/lucia/lucia1/5318
+http://line.myott.net:80/live/1234/4321/69251.ts
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="BRAZIL",SporTV 3
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13157
+http://line.myott.net:80/live/1234/4321/69250.ts
 
 #EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/21566_468.jpg" group-title="BRAZIL",Studio Universal
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13156
+
+#EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="BRAZIL",Sundance TV
+http://line.myott.net:80/live/1234/4321/69031.ts
 
 #EXTINF:-1 tvg-logo="http://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg.png" group-title="BRAZIL",Syfy
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13122
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/07/tbs-logo-2015.png" group-title="BRAZIL",TBS
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13121
+http://line.myott.net:80/live/1234/4321/69150.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="BRAZIL",TCM
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13120
+http://line.myott.net:80/live/1234/4321/69040.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13119
+http://line.myott.net:80/live/1234/4321/69086.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="BRAZIL",Telecine Cult
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13118
+http://line.myott.net:80/live/1234/4321/69081.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="BRAZIL",Telecine Fun
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13117
+http://line.myott.net:80/live/1234/4321/69085.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="BRAZIL",Telecine Pipoca
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13116
+http://line.myott.net:80/live/1234/4321/69082.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="BRAZIL",Telecine Premium
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13115
+http://line.myott.net:80/live/1234/4321/69083.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13114
+http://line.myott.net:80/live/1234/4321/69084.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Terra_Viva_logo.svg.png" group-title="BRAZIL",Terra Viva
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/560
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg" group-title="BRAZIL",TLC
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13113
+http://line.myott.net:80/live/1234/4321/69169.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="BRAZIL",TNT
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13112
+http://line.myott.net:80/live/1234/4321/69052.ts
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="BRAZIL",TNT Series
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13111
+http://line.myott.net:80/live/1234/4321/69049.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="BRAZIL",Tooncast
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13110
+http://line.myott.net:80/live/1234/4321/69206.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="BRAZIL",Travel Box Brazil
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/70
+http://line.myott.net:80/live/1234/4321/69172.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRAZIL",TruTV
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/17
+http://line.myott.net:80/live/1234/4321/69147.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="BRAZIL",TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
@@ -4257,16 +4998,16 @@ http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="BRAZIL",TV Brasil
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13154
+http://line.myott.net:80/live/1234/4321/69256.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diariodosurdo.com.br/wp-content/uploads/2015/06/CfRkvHio_400x400.jpeg" group-title="BRAZIL",TV Camara
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/109
+http://line.myott.net:80/live/1234/4321/69259.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696725018718400514/1sgtDGhC_400x400.png" group-title="BRAZIL",TV Cidade Farroupilha
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="BRAZIL",TV Cultura
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/45
+http://line.myott.net:80/live/1234/4321/69265.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
@@ -4295,6 +5036,9 @@ http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_Itararé.jpg" group-title="BRAZIL",TV Itarare
 http://177.73.84.49/hls/live/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.jota.info/wp-content/uploads/2018/01/1502123023_2017-08-07_tvjustica-1024x725.jpg" group-title="BRAZIL",TV Justica
+http://line.myott.net:80/live/1234/4321/69257.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
 http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 
@@ -4311,7 +5055,7 @@ http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="BRAZIL",TV Senado
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/110
+http://line.myott.net:80/live/1234/4321/69258.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvsindeepres.org.br/tv/wp-content/uploads/2014/08/logo-tvsindeepres.png" group-title="BRAZIL",TV Sindeepres
 http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live_720p/livestream.m3u8
@@ -4326,25 +5070,25 @@ http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13109
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="BRAZIL",VH1
-http://maxptv.ddns.net:25461/live/zac/zac/8.m3u8
+http://line.myott.net:80/live/1234/4321/69179.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1280px-LOGO_VH1_MEGA_HITS.svg.png" group-title="BRAZIL",VH1 Mega Hits
-http://iptv-line.com:6969/lucia/lucia1/8087
+http://line.myott.net:80/live/1234/4321/69178.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="BRAZIL",Viva
 http://iptv-line.com:6969/lucia/lucia1/7316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRAZIL",Warner TV
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13108
+http://line.myott.net:80/live/1234/4321/69053.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/537268512708775937/SXePNLIw.jpeg" group-title="BRAZIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Woohoo_logo_2014.png/250px-Woohoo_logo_2014.png" group-title="BRAZIL",Woohoo
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/75
+http://line.myott.net:80/live/1234/4321/69231.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="BRAZIL",ZooMoo
-http://maxptv.ddns.net:25461/live/zac/zac/2.m3u8
+http://line.myott.net:80/live/1234/4321/69194.ts
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
@@ -5294,8 +6038,8 @@ http://iptv.wtf:25461/julio/123/14200
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/0c/b0/42/0cb0421e-e7f1-ec1f-599b-c62dd14c9531/source/512x512bb.jpg" group-title="LATINO",Havoc
 http://iptv.wtf:25461/julio/123/11294
  
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/HBO.png" group-title="LATINO",HBO
-http://iptv.wtf:25461/julio/123/4730
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="LATINO",HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2 (Opt-1)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
@@ -5364,7 +6108,7 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 http://iptv.wtf:25461/julio/123/11275
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg.png" group-title="LATINO",MTV
-http://iptv.wtf:25461/julio/123/11161
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MTV_Base_2013_logo.svg/1200px-MTV_Base_2013_logo.svg.png" group-title="LATINO",MTV Base
 http://iptv.wtf:25461/julio/123/14258
@@ -5513,11 +6257,11 @@ http://iptv.wtf:25461/julio/123/11512
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="LATINO",UniMas
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1100/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="LATINO",Universal Channel
-http://161.0.157.51/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/1200px-Universal_TV_2018.svg.png" group-title="LATINO",Universal TV
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision
-http://iptv.wtf:25461/julio/123/14263
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/1099/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.televisa.com/2017/04/utdn.jpg" group-title="LATINO",Univision TDN USA
 http://iptv.wtf:25461/julio/123/14262
@@ -6818,6 +7562,9 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/1340406/logo_orbit%20tv1.png" group-title="DOMINICAN REP",Orbit TV
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AENttMt.png" group-title="DOMINICAN REP",Oui TV Canal 3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="DOMINICAN REP",Peravia Vision 8
 http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
 
@@ -6875,7 +7622,7 @@ http://ss6.domint.net:2084/203_str/telenovisa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="DOMINICAN REP",Teleradio America 45
 http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8
 
-#EXTINF:-1 tvg-logo="http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="DOMINICAN REP",Telesistema 11 (Updated)
+#EXTINF:-1 tvg-logo="http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="DOMINICAN REP",Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png" group-title="DOMINICAN REP",Teleuniverso 29
@@ -7384,6 +8131,9 @@ rtmp://89.163.208.115/live/topestrada/livestream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png" group-title="ALBANIA",Top News
 http://141.136.9.114:8097/play/a01y
+
+#EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png" group-title="ALBANIA",TV Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/al/TVJUG.png" group-title="ALBANIA",TV JUG
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
@@ -9117,8 +9867,29 @@ http://www.tiszatv.hu:443/tiszatv.f4v
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/georgia/flag-round-250.png" group-title="LABEL",~ Georgia TV ~
 http://www.lengua.com/anthems/Georgia.mp3
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gds_tv_ge.png" group-title="GEORGIA",GDS TV
+http://tv.cdn.xsg.ge/gds/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imedi_tv_ge.png" group-title="GEORGIA",Imedi TV
+http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_1_ge.png" group-title="GEORGIA",Marao TV
+http://tv.cdn.xsg.ge/marao/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mesame-ge.png" group-title="GEORGIA",Mesame
+http://tv.cdn.xsg.ge/axali2hq/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_1_ge.png" group-title="GEORGIA",Radio 1 TV
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://globaltv.ge/img/ragbitv.jpg" group-title="GEORGIA",Rugby TV
 http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rustavi_2_ge.png" group-title="GEORGIA",Rustavi 2
+http://tv.cdn.xsg.ge/rustavi2hqnew/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.myvideo.ge/v3_imgs/tv/tv_shonitv.png" group-title="GEORGIA",Shoni TV
+http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1458074086.png" group-title="GEORGIA",Skynet Sports 1
 http://km.cdnth.com/dggroup/skynet1/playlist.m3u8
@@ -9534,7 +10305,7 @@ http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="ISRAEL",Keshet News (Opt-3)
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png" group-title="ISRAEL",Keshet 12 (Updated)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png" group-title="ISRAEL",Keshet 12
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_5000_av-p.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL",Keshet Music 24 (Opt-1)
@@ -9736,7 +10507,7 @@ http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 #EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="INDIA",Boogle Bollywood 
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2017/03/britasiatv001-800x800.jpg" group-title="INDIA",Brit Asia TV (Updated)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2017/03/britasiatv001-800x800.jpg" group-title="INDIA",Brit Asia TV
 http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bullandtv.com/images/logobulland.png" group-title="INDIA",Bulland TV
@@ -11431,7 +12202,7 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="UAE",Spacetoon
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/75.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE",YAS Sports (Updated)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE",YAS Sports
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/qatar/flag-button-square-250.png" group-title="LABEL",~ Qatar TV ~
