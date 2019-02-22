@@ -1535,11 +1535,86 @@ http://line.myott.net:80/live/1234/4321/51746.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Logo-ici-artv-2016.png" group-title="CANADA",ICI ARTV
 http://line.myott.net:80/live/1234/4321/51827.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ICI_Montreal.png" group-title="CANADA",ICI Montreal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ICI_Montreal.png" group-title="CANADA",ICI Tele Montreal
 http://line.myott.net:80/live/1234/4321/51743.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/ici-radio-canada-vancouver.png" group-title="CANADA",ICI Vancouver
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/ici-radio-canada-vancouver.png" group-title="CANADA",ICI Tele Vancouver
 http://line.myott.net:80/live/1234/4321/51742.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IFC_%28Canada%29_logo.svg/1200px-IFC_%28Canada%29_logo.svg.png" group-title="CANADA",IFC
+http://line.myott.net:80/live/1234/4321/51740.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANADA",Investigation Discovery
+http://line.myott.net:80/live/1234/4321/51741.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.knowledgekids.ca/sites/all/themes/knowledgekids2/images/og/knowledgekids3.png" group-title="CANADA",Knowledge Kids
+http://line.myott.net:80/live/1234/4321/51739.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_LCN_2014.png/1200px-Logo_LCN_2014.png" group-title="CANADA",LCN
+http://line.myott.net:80/live/1234/4321/51737.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Makeful_TV.png" group-title="CANADA",Makeful
+http://line.myott.net:80/live/1234/4321/51644.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANADA",MAVTV
+http://line.myott.net:80/live/1234/4321/51627.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2t86ruphax0oa.cloudfront.net/sites/default/files/styles/large/public/field/image/MAX%20logo.jpg" group-title="CANADA",Max
+http://line.myott.net:80/live/1234/4321/51734.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aravis-vacances.fr/pictures/paragraph_left/chainemeteo,212.png" group-title="CANADA",Meteo
+http://line.myott.net:80/live/1234/4321/51733.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://medias.infopresse.com/infopresse.com/06_10/images/0000019309-001.jpg" group-title="CANADA",Moi & Cie
+http://line.myott.net:80/live/1234/4321/51731.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/movietime.png" group-title="CANADA",Movie Time
+http://line.myott.net:80/live/1234/4321/51730.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.much.com/wp-content/themes/much-1.2.46/dist/images/much-share-logo.jpg" group-title="CANADA",Much
+http://line.myott.net:80/live/1234/4321/51727.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Logo_MusiquePlus.svg/1200px-Logo_MusiquePlus.svg.png" group-title="CANADA",MusiquePlus
+http://line.myott.net:80/live/1234/4321/51726.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ntv.ca/logos/NTV_Large.png" group-title="CANADA",NTV
+http://line.myott.net:80/live/1234/4321/51692.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/OLN_logo_2012.png" group-title="CANADA",OLN
+http://line.myott.net:80/live/1234/4321/51691.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/omni1.png" group-title="CANADA",Omni 1
+http://line.myott.net:80/live/1234/4321/51690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/omni2.png" group-title="CANADA",Omni 2
+http://line.myott.net:80/live/1234/4321/51689.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/omni2.png" group-title="CANADA",Omni BC
+http://line.myott.net:80/live/1234/4321/51688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/omni2.png" group-title="CANADA",Omni East
+http://line.myott.net:80/live/1234/4321/51687.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://latitudgay.files.wordpress.com/2017/11/logo-3d-new.png" group-title="CANADA",OutTV
+http://line.myott.net:80/live/1234/4321/51685.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/peachtree.png" group-title="CANADA",Peachtree TV
+http://line.myott.net:80/live/1234/4321/51681.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-I_Fm2T-jZwo/TWmjo8ReF8I/AAAAAAAAAZk/4nKCkKXdFrM/s1600/Prise+2+logo+2010.png" group-title="CANADA",Prise 2
+http://line.myott.net:80/live/1234/4321/51680.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/RDI_%28TV%29.svg/1280px-RDI_%28TV%29.svg.png" group-title="CANADA",RDI
+http://line.myott.net:80/live/1234/4321/51679.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_rds-490x490.png" group-title="CANADA",RDS
+http://line.myott.net:80/live/1234/4321/51678.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png" group-title="CANADA",RDS 2
+http://line.myott.net:80/live/1234/4321/51677.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1200px-Rds_info.svg.png" group-title="CANADA",RDS Info
+http://line.myott.net:80/live/1234/4321/51676.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BUiwYlr.png" group-title="CANADA",Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
