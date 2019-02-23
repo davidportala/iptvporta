@@ -1706,6 +1706,12 @@ http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5914.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="UK",BBC Parliament
 http://77.226.204.228:25461/test/test/44
 
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p06z9v0k.jpg" group-title="UK",BBC Scotland
+http://77.226.204.228:25461/test/test/41
+
+#EXTINF:-1 tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/715b8dcc-c49a-4774-b52d-cc0d5d73b932/BBC-Sport.png" group-title="UK",BBC Sport
+http://77.226.204.228:25461/test/test/12
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="UK",BBC World News (Opt-1)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
 
@@ -1767,7 +1773,7 @@ http://line.myott.net:80/live/1234/4321/17981.ts
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/5863.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png" group-title="UK",CBeebies
-http://line.myott.net:80/live/1234/4321/18002.ts
+http://77.226.204.228:25461/test/test/14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0050624.png" group-title="UK",CBS Action
 http://line.myott.net:80/live/1234/4321/17927.ts
@@ -1794,10 +1800,10 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://line.myott.net:80/live/1234/4321/46524.ts
 
 #EXTINF:-1 tvg-logo="http://www.identitydesigned.com/images/rudd-studio/channel-4-logo.jpg" group-title="UK",Channel 4
-http://line.myott.net:80/live/1234/4321/17995.ts
+http://77.226.204.228:25461/test/test/16
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="UK",Channel 5
-http://line.myott.net:80/live/1234/4321/17994.ts
+http://77.226.204.228:25461/test/test/8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Channel_5_%2B1_2016.svg.png" group-title="UK",Channel 5 +1
 http://line.myott.net:80/live/1234/4321/46521.ts
@@ -2328,7 +2334,7 @@ http://91.109.113.38:8000/play/a02g
 http://line.myott.net:80/live/1234/4321/17962.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK",UTV
-http://185.53.163.214:5678/ipvt_012
+http://77.226.204.228:25461/test/test/21
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/vh1-logo.png" group-title="UK",VH1 Europe
 http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
@@ -2355,10 +2361,10 @@ http://line.myott.net:80/live/1234/4321/17912.ts
 http://line.myott.net:80/live/1234/4321/17911.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1
-http://line.myott.net:80/live/1234/4321/17984.ts
+http://77.226.204.228:25461/test/test/36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2
-http://line.myott.net:80/live/1234/4321/17983.ts
+http://77.226.204.228:25461/test/test/51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr.
 http://line.myott.net:80/live/1234/4321/17937.ts
@@ -2571,7 +2577,13 @@ http://www.lengua.com/anthems/Germany.mp3
 http://123tv.cdn.ses-ps.com/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/2000px-3sat-Logo.svg.png" group-title="GERMANY",3sat
-http://217.227.215.27:9981/stream/channelid/164869995?profile=pass
+http://188.93.238.43:8000/play/a0c3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/13th_Street_Foxtel_logo.svg/1200px-13th_Street_Foxtel_logo.svg.png" group-title="GERMANY",13th Street
+http://188.93.238.43:8000/play/a0d3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="GERMANY",A&E
+http://188.93.238.43:8000/play/a0dw/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="GERMANY",ALEX Berlin
 http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
@@ -2597,6 +2609,9 @@ http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="GERMANY",Blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg.png" group-title="GERMANY",Boomerang
+http://188.93.238.43:8000/play/a0dx/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",BR Worldwide
 https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
 
@@ -2612,6 +2627,9 @@ http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GERMANY",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="GERMANY",Cartoon Network
+http://188.93.238.43:8000/play/a0dy/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste
 http://217.227.215.27:9981/stream/channelid/206184747?profile=pass
 
@@ -2620,6 +2638,9 @@ http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste Int'l
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://j-p-g.net/if/2018/08/07/0751351001533665308.png" group-title="GERMANY",DAZN 1 Bar
+http://188.93.238.43:8000/play/a0e4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
@@ -2642,6 +2663,9 @@ http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="GERMANY",Disney Channel
 http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1023.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/e/eb/Disney_Cinemagic_HD.png" group-title="GERMANY",Disney Cinemagic
+http://188.93.238.43:8000/play/a0d0/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Donau_TV_Logo.jpg" group-title="GERMANY",Donau TV
 http://217.227.215.27:9981/stream/channelid/1071569557?profile=pass
 
@@ -2651,11 +2675,17 @@ http://217.227.215.27:9981/stream/channelid/1844438634?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Drf1_logo_2016.png" group-title="GERMANY",DRF-1
 http://217.227.215.27:9981/stream/channelid/1297395815?profile=pass
 
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black-880x660.png" group-title="GERMANY",E!
+http://188.93.238.43:8000/play/a0do/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="GERMANY",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="GERMANY",EOTV
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="GERMANY",Eurosport 2
+http://188.93.238.43:8000/play/a0dm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/B-ddZjpJ.png" group-title="GERMANY",Family TV
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
@@ -2666,8 +2696,14 @@ http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" group-title="GERMANY",Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDY4Nzg4NDcwNTg5MDk0/fox_logoresized-bc.jpg" group-title="GERMANY",Fox
+http://188.93.238.43:8000/play/a0co/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png" group-title="GERMANY",h1
 http://livestream.htp.tv/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hardwareviews.com/wp-content/uploads/2018/07/1200px-History_Logo.svg_-770x808.png" group-title="GERMANY",History
+http://188.93.238.43:8000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="GERMANY",HR
 http://217.227.215.27:9981/stream/channelid/6937152?profile=pass
@@ -2681,11 +2717,23 @@ https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.iptv.lu/images/channel/original/403.png" group-title="GERMANY",Jukebox
+http://188.93.238.43:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.iptv.lu/images/channel/original/403.png" group-title="GERMANY",Junior
+http://188.93.238.43:8000/play/a0dc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/245px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY",Kabel Eins
 http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1022.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/1200px-Kabel_eins_Doku_Logo_2016.svg.png" group-title="GERMANY",Kabel Eins Doku
+http://188.93.238.43:8000/play/a0cj/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="GERMANY",KiKA
-http://217.227.215.27:9981/stream/channelid/2074698297?profile=pass
+http://188.93.238.43:8000/play/a0c4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kinowelt_TV_Logo.svg/1200px-Kinowelt_TV_Logo.svg.png" group-title="GERMANY",Kinowelt TV
+http://188.93.238.43:8000/play/a0dj/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" group-title="GERMANY",kulturmdTV
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
@@ -2702,11 +2750,17 @@ http://217.227.215.27:9981/stream/channelid/530760902?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mdr.de/thueringen/mdr-thueringen-logo-100_v-variantBig16x9_wm-true_zc-ecbbafc6.png" group-title="GERMANY",MDR Thüringen
 http://217.227.215.27:9981/stream/channelid/507069886?profile=pass
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV-278x225.png" group-title="GERMANY",Motorvision TV
+http://188.93.238.43:8000/play/a0ds/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="GERMANY",MyTVplus
 rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png" group-title="GERMANY",National Geographic
+http://188.93.238.43:8000/play/a0d1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR
 http://217.227.215.27:9981/stream/channelid/497607752?profile=pass
@@ -2723,6 +2777,9 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Schleswig-Holstein
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/18/Nitro_TV-Logo_2017.png" group-title="GERMANY",Nitro
+http://188.93.238.43:8000/play/a0gu/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 
@@ -2730,7 +2787,7 @@ http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.n-tv.de/stat/images/ntv_logo_App.jpg" group-title="GERMANY",N-TV
-http://217.227.215.27:9981/stream/channelid/1260290995?profile=pass
+http://188.93.238.43:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.otv.de/wp-content/themes/otv/img/logo.png" group-title="GERMANY",Oberpfalz TV
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
@@ -2745,7 +2802,7 @@ http://stream-cdn.ok54.de/hls/ok54.m3u8
 http://217.227.215.27:9981/stream/channelid/385302365?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/400px-One_TV_Logo.svg.png" group-title="GERMANY",One
-http://217.227.215.27:9981/stream/channelid/1274878765?profile=pass
+http://188.93.238.43:8000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png" group-title="GERMANY",Phoenix
 http://217.227.215.27:9981/stream/channelid/1791411897?profile=pass
@@ -2754,7 +2811,10 @@ http://217.227.215.27:9981/stream/channelid/1791411897?profile=pass
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ProSiebenSat1.svg/1200px-ProSiebenSat1.svg.png" group-title="GERMANY",ProSieben
-http://217.227.215.27:9981/stream/channelid/905536154?profile=pass
+http://188.93.238.43:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1d6227193360f396353953aa820d909b.jpeg" group-title="GERMANY",ProSieben Maxx
+http://188.93.238.43:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.prosiebensat1.com/uploads/2015/10/26/P7S1MediaSE_WBM_rs_2z_4c.jpg" group-title="GERMANY",ProSiebenSat.1
 http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/152.m3u8
@@ -2781,19 +2841,25 @@ http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://backstage.rtlgroup.com/files/png2/teaser-rtl-television-logo-september_262x175.png" group-title="GERMANY",RTL
-http://217.227.215.27:9981/stream/channelid/1512941958?profile=pass
+http://188.93.238.43:8000/play/a0gl/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://backstage.rtlgroup.com/files/png2/teaser-rtl-television-logo-september_262x175.png" group-title="GERMANY",RTL Bayern
+http://188.93.238.43:8000/play/a0go/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediathek-hessen.de/image/medienpartner/rtl_hessen_mofr_rgb.jpg" group-title="GERMANY",RTL Hessen
-http://217.227.215.27:9981/stream/channelid/1952096253?profile=pass
+http://188.93.238.43:8000/play/a0gp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aistvnow-a.akamaihd.net/tvnow/format/15566_04metalogo/300x0/rtl-nord-nds-hb.png" group-title="GERMANY",RTL Nord
-http://217.227.215.27:9981/stream/channelid/936328155?profile=pass
+http://188.93.238.43:8000/play/a0gn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" group-title="GERMANY",RTL Plus
+http://188.93.238.43:8000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rtl-west.de/fileadmin/templates/new/img/logo.png" group-title="GERMANY",RTL West
-http://217.227.215.27:9981/stream/channelid/57447055?profile=pass
+http://188.93.238.43:8000/play/a0gm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.navvis.com/uploads/picture/sat-1-bayern.jpg" group-title="GERMANY",Sat.1 Bayern
-http://217.227.215.27:9981/stream/channelid/1295592592?profile=pass
+http://188.93.238.43:8000/play/a0ch/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/sat1_rgb_sat1gold.jpg" group-title="GERMANY",Sat.1 Gold
 http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1021.m3u8
@@ -2805,19 +2871,70 @@ http://217.227.215.27:9981/stream/channelid/851578275?profile=pass
 http://217.227.215.27:9981/stream/channelid/1409926599?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1b/Sat1_Logo_NRW.svg/2000px-Sat1_Logo_NRW.svg.png" group-title="GERMANY",Sat.1 NRW
-http://217.227.215.27:9981/stream/channelid/1549500111?profile=pass
+http://188.93.238.43:8000/play/a0ci/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sat_1%20rhlpf%20hessen.png" group-title="GERMANY",Sat.1 RhlPf Hessen
-http://217.227.215.27:9981/stream/channelid/411540396?profile=pass
+http://188.93.238.43:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sixx.svg/1200px-Sixx.svg.png" group-title="GERMANY",Sixx
 http://217.227.215.27:9981/stream/channelid/1773417297?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg" group-title="GERMANY",Sky Atlantic
+http://188.93.238.43:8000/play/a0cz/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sky.com/tv/images/splash/skymovies-logo.png" group-title="GERMANY",Sky Cinema
+http://188.93.238.43:8000/play/a0da/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Sky_Cinema%2B1_HD_DE_Logo_2016.png" group-title="GERMANY",Sky Cinema +1
+http://188.93.238.43:8000/play/a0dp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3781964_logo_sky_cinema_24.png" group-title="GERMANY",Sky Cinema +24
+http://188.93.238.43:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="GERMANY",Sky Cinema Action
+http://188.93.238.43:8000/play/a0e2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.pressmailing.net/content/1891d71e-ccce-411e-b5c1-e8b26743ead4/Sky%20Cinema%20Awards.jpg" group-title="GERMANY",Sky Cinema Awards
+http://188.93.238.43:8000/play/a0dd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="GERMANY",Sky Cinema Family
+http://188.93.238.43:8000/play/a0dk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Sky_Cinema_Hits.png" group-title="GERMANY",Sky Cinema Hits
+http://188.93.238.43:8000/play/a0cm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Sky_Cinema_Nostalgie_DE_Logo_2016.png" group-title="GERMANY",Sky Cinema Nostalgie
+http://188.93.238.43:8000/play/a0dl/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Sky_de_krimi.png" group-title="GERMANY",Sky Krimi
+http://188.93.238.43:8000/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HPjAruK.jpg" group-title="GERMANY",Sky Sport 1
+http://188.93.238.43:8000/play/a0dh/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg/2000px-Sky_Sport_2_HD_-_Logo_2015.svg.png" group-title="GERMANY",Sky Sport 2
+http://188.93.238.43:8000/play/a0d2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.iptv.lu/images/channel/original/363.png" group-title="GERMANY",Sky Sport Bundesliga 1
+http://188.93.238.43:8000/play/a0cl/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="GERMANY",Sky Sport News
+http://188.93.238.43:8000/play/a0cn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/spiegeltvwissen655440-.jpg" group-title="GERMANY",Spiegel TV Wissen
+http://188.93.238.43:8000/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/clsch.png" group-title="GERMANY",Stingray Classica
+http://188.93.238.43:8000/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.studio47.de/images/logos/s47-logo-weiss-ou-homepage.png" group-title="GERMANY",Studio 47
 http://217.227.215.27:9981/stream/channelid/539138309?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png" group-title="GERMANY",SWR 3
 http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg.png" group-title="GERMANY",Syfy
+http://188.93.238.43:8000/play/a0cp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.goldbachgermany.de/uploads/Sylt1-Logo-1024x449.png" group-title="GERMANY",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
@@ -2830,6 +2947,21 @@ http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="GERMANY",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/TNT_Comedy_Logo_2016.png" group-title="GERMANY",TNT Comedy
+http://188.93.238.43:8000/play/a0dr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tnt-tv.de/dynamic/channel/00000000/2/cc93f8aeb578f45c9d8eb62b0c9849fc596d407c_1464877563.png" group-title="GERMANY",TNT Film
+http://188.93.238.43:8000/play/a0dg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tnt-tv.de/dynamic/channel/00000000/3/93d4f8667b7e2d12b8686d4ed9f2fa95c9258d55_1464704850.png" group-title="GERMANY",TNT Serie
+http://188.93.238.43:8000/play/a0e3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2014/01/toggo-logo-plastisch.jpg" group-title="GERMANY",Toggo
+http://188.93.238.43:8000/play/a0gs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvnow.de/assets/svgs/logos/toggoplus_color.svg.png" group-title="GERMANY",Toggo Plus
+http://188.93.238.43:8000/play/a0gr/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.trp1.de/wp-content/uploads/2015/10/TRP1_alpha1.png" group-title="GERMANY",TRP1
 http://217.227.215.27:9981/stream/channelid/1574529584?profile=pass
@@ -2861,11 +2993,14 @@ http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/play
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" group-title="GERMANY",TV Touring Wurzburg
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="GERMANY",Universal TV
+http://188.93.238.43:8000/play/a0e1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="GERMANY",Unserding
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/VOX.svg/2000px-VOX.svg.png" group-title="GERMANY",VOX
-http://217.227.215.27:9981/stream/channelid/888465338?profile=pass
+http://188.93.238.43:8000/play/a0gt/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.club-aachen-international.de/wp-content/uploads/2014/04/WDR_Logo.svg" group-title="GERMANY",WDR Aachen
 http://217.227.215.27:9981/stream/channelid/558417951?profile=pass
@@ -2900,17 +3035,20 @@ http://217.227.215.27:9981/stream/channelid/2134632486?profile=pass
 #EXTINF:-1 tvg-logo="http://www.club-aachen-international.de/wp-content/uploads/2014/04/WDR_Logo.svg" group-title="GERMANY",WDR Wuppertal
 http://217.227.215.27:9981/stream/channelid/958243045?profile=pass
 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Welt_TV_Alternative_Logo_2016.png/500px-Welt_TV_Alternative_Logo_2016.png" group-title="GERMANY",Welt
+http://188.93.238.43:8000/play/a0ce/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg" group-title="GERMANY",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lz.de/_em_daten/_cache/image/1x9q7rL2z8GLoB2BYABL50AeJmrVyie9dXvnXFvtG_kQt9y0OOUBEjwLumY-o3FBlv/180305-1230-zdf-1271651-1280.png" group-title="GERMANY",ZDF
-http://217.227.215.27:9981/stream/channelid/167489521?profile=pass
+http://188.93.238.43:8000/play/a0c2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/2000px-ZDFinfo_2011.svg.png" group-title="GERMANY",ZDFinfo
-http://217.227.215.27:9981/stream/channelid/1273246378?profile=pass
+http://188.93.238.43:8000/play/a0c5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ZDFneo_2017.svg/1200px-ZDFneo_2017.svg.png" group-title="GERMANY",ZDF Neo
-http://217.227.215.27:9981/stream/channelid/511114186?profile=pass
+http://188.93.238.43:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.geriderklostertaler.eu/images/landimage/A.png" group-title="LABEL",~ Austria TV ~
 http://www.lengua.com/anthems/Austria.mp3
@@ -2947,6 +3085,9 @@ http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="AUSTRIA",ORF Sport +
 http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sky_Sport_Austria_HD_Logo_2016.png" group-title="AUSTRIA",Sky Sport Austria
+http://188.93.238.43:8000/play/a0e5/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/at/W24.png" group-title="AUSTRIA",W24
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
@@ -5055,10 +5196,10 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 http://www.lengua.com/anthems/Brazil.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="BRAZIL",A&E
-http://line.myott.net:80/live/1234/4321/69162.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4193.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AGRO_CANAL_-_LOGO.jpg" group-title="BRAZIL",Agro Canal
-http://line.myott.net:80/live/1234/4321/69183.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="BRAZIL",Agro Brasil
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3099.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png" group-title="BRAZIL",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
@@ -5067,37 +5208,37 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/800px-AMC_logo_2016.png" group-title="BRAZIL",AMC
-http://line.myott.net:80/live/1234/4321/69043.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4192.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="BRAZIL",Animal Planet
-http://line.myott.net:80/live/1234/4321/69105.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/15500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/canal-arte-1.jpg" group-title="BRAZIL",Arte1
-http://line.myott.net:80/live/1234/4321/69154.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10901.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="BRAZIL",AXN
-http://line.myott.net:80/live/1234/4321/69034.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4185.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="BRAZIL",BabyTV
-http://iptv-line.com:6969/lucia/lucia1/17535
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11849.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png" group-title="BRAZIL",Band
-http://line.myott.net:80/live/1234/4321/69268.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/12349.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRAZIL",Band News
-http://line.myott.net:80/live/1234/4321/69263.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17367.m3u8
 
 #EXTINF:-1 tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="BRAZIL",Band Sports
-http://line.myott.net:80/live/1234/4321/69233.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/13526.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/2000px-Logo_of_Bis.svg.png" group-title="BRAZIL",BIS
-http://iptv-line.com:6969/lucia/lucia1/8055
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4174.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg.png" group-title="BRAZIL",Boomerang
-http://line.myott.net:80/live/1234/4321/69197.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4171.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.controversia.com.br/blog/wp-content/uploads/2016/05/canal-brasil-1.png" group-title="BRAZIL",Canal Brasil
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/13184
@@ -5109,7 +5250,7 @@ http://line.myott.net:80/live/1234/4321/69182.ts
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="BRAZIL",Canal Off
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/86
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11043.m3u8
 
 #EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/destaque/user_1841646591.jpg" group-title="BRAZIL",Canal Ricos
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
@@ -5118,10 +5259,10 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 http://iptv-line.com:6969/lucia/lucia1/18918
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1087px-Canal_Sony_logo.svg.png" group-title="BRAZIL",Canal Sony
-http://line.myott.net:80/live/1234/4321/69037.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3918.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="BRAZIL",Cartoon Network
-http://line.myott.net:80/live/1234/4321/69219.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4165.m3u8
 
 #EXTINF:-1 tvg-logo="https://cbtvinternacional.com/wp-content/uploads/2018/03/cbtv-internacional-logo.png" group-title="BRAZIL",CBTV International
 https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
@@ -5133,7 +5274,7 @@ http://line.myott.net:80/live/1234/4321/69166.ts
 http://line.myott.net:80/live/1234/4321/69102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="BRAZIL",Cinemax
-http://line.myott.net:80/live/1234/4321/69065.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4162.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6FepRzn.png" group-title="BRAZIL",Classique TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
@@ -5142,67 +5283,67 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/73
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png" group-title="BRAZIL",Combate
-http://line.myott.net:80/live/1234/4321/69253.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7632.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg.png" group-title="BRAZIL",Comedy Central
-http://line.myott.net:80/live/1234/4321/69144.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4603.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/2000px-Logo_of_Curta%21.svg.png" group-title="BRAZIL",Curta!
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13181
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4155.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="BRAZIL",Discovery Channel
-http://line.myott.net:80/live/1234/4321/69135.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4153.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png" group-title="BRAZIL",Discovery Civilization
-http://line.myott.net:80/live/1234/4321/69123.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4600.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.latam.discoverymujer.com/content/dam/discovery/latam/latam/homeandhealth/logo/LogoHH_FULL_ORANGE-2014.png" group-title="BRAZIL",Discovery Home & Health
-http://line.myott.net:80/live/1234/4321/69114.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10936.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="BRAZIL",Discovery Kids
-http://line.myott.net:80/live/1234/4321/69222.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17381.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="BRAZIL",Discovery Science
-http://line.myott.net:80/live/1234/4321/69126.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11143.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="BRAZIL",Discovery Theater
-http://line.myott.net:80/live/1234/4321/69120.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4148.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="BRAZIL",Discovery Turbo
-http://line.myott.net:80/live/1234/4321/69132.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4147.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="BRAZIL",Discovery World
-http://line.myott.net:80/live/1234/4321/69129.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4145.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="BRAZIL",Disney Channel
-http://line.myott.net:80/live/1234/4321/69216.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4143.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="BRAZIL",Disney Junior
-http://line.myott.net:80/live/1234/4321/69213.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4141.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg.png" group-title="BRAZIL",Disney XD
-http://line.myott.net:80/live/1234/4321/69210.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4140.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="BRAZIL",E!
-http://line.myott.net:80/live/1234/4321/69153.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4137.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="BRAZIL",E-Parana
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/76/EPTV_2010-present.jpg" group-title="BRAZIL",EPTV
-http://maxptv.ddns.net:25461/live/zac/zac/166.m3u8
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4630.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2010/01/espn.jpg" group-title="BRAZIL",ESPN
-http://line.myott.net:80/live/1234/4321/69248.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6611.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="BRAZIL",ESPN 2
-http://line.myott.net:80/live/1234/4321/69245.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11857.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="BRAZIL",ESPN Brasil
-http://line.myott.net:80/live/1234/4321/69249.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4130.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="BRAZIL",ESPN Extra
-http://maxptv.ddns.net:25461/live/zac/zac/158.m3u8
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7634.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="BRAZIL",Fashion TV
 http://line.myott.net:80/live/1234/4321/69180.ts
@@ -5211,133 +5352,136 @@ http://line.myott.net:80/live/1234/4321/69180.ts
 http://maxptv.ddns.net:25461/live/zac/zac/156.m3u8
 
 #EXTINF:-1 tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-770x439_c.jpg" group-title="BRAZIL",Fish TV
-http://line.myott.net:80/live/1234/4321/69232.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10970.m3u8
 
 #EXTINF:-1 tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg" group-title="BRAZIL",Food Network
-http://line.myott.net:80/live/1234/4321/69170.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4123.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDY4Nzg4NDcwNTg5MDk0/fox_logoresized-bc.jpg" group-title="BRAZIL",Fox
-http://line.myott.net:80/live/1234/4321/69095.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4121.m3u8
 
 #EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/2/5/b/fox-life.jpg" group-title="BRAZIL",Fox Life
-http://line.myott.net:80/live/1234/4321/69158.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10976.m3u8
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium-Channel_Logo_16x91489246103049.png" group-title="BRAZIL",Fox Premium 1
-http://line.myott.net:80/live/1234/4321/69092.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10978.m3u8
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium2-Channel_Logo_16x91489154525715.png" group-title="BRAZIL",Fox Premium 2
-http://line.myott.net:80/live/1234/4321/69087.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10980.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports
-http://line.myott.net:80/live/1234/4321/69239.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4113.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports 2
-http://line.myott.net:80/live/1234/4321/69236.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4114.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hapra.com.br/images/foztv-novo.jpg" group-title="BRAZIL",Foz TV
 http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BRAZIL",FX
-http://line.myott.net:80/live/1234/4321/69098.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4110.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="BRAZIL",Globo Amazonas
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/12346.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Glbbsb-logo-divulg.jpg" group-title="BRAZIL",Globo Brasilia
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13173
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11845.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/TV_Globo_Minas.png" group-title="BRAZIL",Globo Minas
-http://line.myott.net:80/live/1234/4321/69273.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4107.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globonews2017_red_fixed.png" group-title="BRAZIL",Globo News
-http://line.myott.net:80/live/1234/4321/69264.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4096.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/TV_Globo_Nordeste.jpg" group-title="BRAZIL",Globo Nordeste
 http://line.myott.net:80/live/1234/4321/69272.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg" group-title="BRAZIL",Globo Rio
-http://line.myott.net:80/live/1234/4321/69271.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4100.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/03/globosp.png" group-title="BRAZIL",Globo SP
-http://line.myott.net:80/live/1234/4321/69274.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4097.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-tfn_PoBjtrM/TxOstJ-47nI/AAAAAAAADz0/GgaO3B2S2xo/s1600/Gloob+logo+2012.jpg" group-title="BRAZIL",Gloob
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13172
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17383.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="BRAZIL",GNT
-http://iptv-line.com:6969/lucia/lucia1/17051
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4092.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_h2_m.png" group-title="BRAZIL",H2
-http://line.myott.net:80/live/1234/4321/69138.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10996.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="BRAZIL",HBO
-http://line.myott.net:80/live/1234/4321/69080.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4085.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_hbo-2_m.png" group-title="BRAZIL",HBO 2
-http://line.myott.net:80/live/1234/4321/69077.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4088.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="BRAZIL",HBO Family
-http://line.myott.net:80/live/1234/4321/69074.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4086.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="BRAZIL",HBO Plus
-http://line.myott.net:80/live/1234/4321/69071.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4082.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRAZIL",HBO Signature
-http://line.myott.net:80/live/1234/4321/69068.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4080.m3u8
 
 #EXTINF:-1 tvg-logo="https://hardwareviews.com/wp-content/uploads/2018/07/1200px-History_Logo.svg_.png" group-title="BRAZIL",History
-http://line.myott.net:80/live/1234/4321/69141.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11514.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="BRAZIL",Investigation Discovery
-http://line.myott.net:80/live/1234/4321/69117.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4074.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_logo_2017.svg.png" group-title="BRAZIL",Lifetime
-http://line.myott.net:80/live/1234/4321/69165.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4069.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="BRAZIL",Mais Globosat
-http://line.myott.net:80/live/1234/4321/69159.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4067.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="BRAZIL",Max
-http://line.myott.net:80/live/1234/4321/69064.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4065.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="BRAZIL",Max Prime
-http://line.myott.net:80/live/1234/4321/69059.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4062.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="BRAZIL",Max UP
-http://line.myott.net:80/live/1234/4321/69056.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4060.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="BRAZIL",Megapix
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13166
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11145.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/200px-MTV_Logo.svg.png" group-title="BRAZIL",MTV
-http://line.myott.net:80/live/1234/4321/69176.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4056.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg.png" group-title="BRAZIL",Multishow
-http://iptv-line.com:6969/lucia/lucia1/7343
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4054.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MusicBoxBrazilLogo.png/230px-MusicBoxBrazilLogo.png" group-title="BRAZIL",Music Box Brazil
-http://line.myott.net:80/live/1234/4321/69173.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4607.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="BRAZIL",Nat Geo Kids
-http://line.myott.net:80/live/1234/4321/69192.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11033.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="BRAZIL",Nat Geo Wild
-http://line.myott.net:80/live/1234/4321/69108.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11182.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="BRAZIL",National Geographic
-http://line.myott.net:80/live/1234/4321/69111.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4047.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/TV_NBR_-_Logo_2018.png" group-title="BRAZIL",NBR
 http://line.myott.net:80/live/1234/4321/69255.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nickelodeon-logo-png-transparent.png" group-title="BRAZIL",Nickelodeon
-http://line.myott.net:80/live/1234/4321/69203.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7604.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="BRAZIL",Nick Jr
-http://line.myott.net:80/live/1234/4321/69200.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4042.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/paramount-channel.jpg" group-title="BRAZIL",Paramount Channel
-http://line.myott.net:80/live/1234/4321/69046.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11045.m3u8
 
 #EXTINF:-1 tvg-logo="http://w.assets.static-teleup.com/teleup/img/pfc/teleup-pfc-internacional-futebol.png" group-title="BRAZIL",PFC
 http://iptv-line.com:6969/lucia/lucia1/7339
@@ -5346,34 +5490,34 @@ http://iptv-line.com:6969/lucia/lucia1/7339
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4651.ts
 
 #EXTINF:-1 tvg-logo="http://www.msmetalagencybrasil.com/ptbr/wp-content/uploads/2016/07/play-tv.jpg" group-title="BRAZIL",Play TV
-http://line.myott.net:80/live/1234/4321/69181.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3066.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="BRAZIL",Premiere 1
-http://line.myott.net:80/live/1234/4321/69230.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4019.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-a1jKMfYkKZk/W3A0aHnwoyI/AAAAAAAAoFU/wuYN7tGBYxUvBTibEHyzwfhp3nZ33Pg7wCK4BGAYYCw/s1600/premiere-2-contexto.png" group-title="BRAZIL",Premiere 2
-http://line.myott.net:80/live/1234/4321/69229.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4615.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 3
-http://line.myott.net:80/live/1234/4321/69228.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4030.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 4
-http://line.myott.net:80/live/1234/4321/69227.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4028.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 5
-http://line.myott.net:80/live/1234/4321/69226.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4026.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 6
-http://line.myott.net:80/live/1234/4321/69225.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4024.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 7
-http://line.myott.net:80/live/1234/4321/69224.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4023.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 8
-http://line.myott.net:80/live/1234/4321/69223.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4022.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/193-1939643_prime-box-brazil-music-box-brasil.png" group-title="BRAZIL",Prime Box Brazil
-http://line.myott.net:80/live/1234/4321/69171.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4606.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
@@ -5382,7 +5526,7 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png" group-title="BRAZIL",Rá-Tim-Bum
-http://line.myott.net:80/live/1234/4321/69207.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11120.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/media/CwgKoVJXEAAJODO.jpg" group-title="BRAZIL",RBC Salvador
 http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
@@ -5391,25 +5535,25 @@ http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/117
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s2.glbimg.com/ag5jIzwh74Pd8_7NaZfw4qFXt-U=/s.glbimg.com/og/rg/f/original/2013/07/23/600logo_rbstv.png" group-title="BRAZIL",RBS TV
-http://iptv-line.com:6969/lucia/lucia1/17512
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11173.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.satlogo.com/hires/rr/rci_br.png" group-title="BRAZIL",RCI TV
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Espirito Santo
-http://line.myott.net:80/live/1234/4321/69270.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11852.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="BRAZIL",RecordTV Internacional
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4567.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV MatoGrosso
-http://iptv-line.com:6969/lucia/lucia1/5308
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/15453.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Mozambique
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Sao Paulo
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/12347.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="BRAZIL",Record News
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000
@@ -5433,7 +5577,7 @@ http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s23.postimg.org/bxsx521vv/download.png" group-title="BRAZIL",Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17364.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" group-title="BRAZIL",Rede New
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist_w231520491.m3u8
@@ -5445,7 +5589,7 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
 http://line.myott.net:80/live/1234/4321/69187.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="BRAZIL",Rede TV
-http://line.myott.net:80/live/1234/4321/69267.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17389.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logotipo_da_RedeTV%21_Rondônia.png" group-title="BRAZIL",Rede TV Rondonia
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
@@ -5453,8 +5597,14 @@ http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rittv.com.br/themes/rittv/images/logomarca-rittv.png" group-title="BRAZIL",Rit TV
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/44
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cb/Logotipo_RPC_2015.png" group-title="BRAZIL",RPC
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7607.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT
-http://line.myott.net:80/live/1234/4321/69269.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3926.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-sKikp5uajiU/Wfg6qvkv-iI/AAAAAAAAwGY/VCD6O6wyxOMgLJ5JvTU-dV1UwaFVHnIAQCLcBGAs/s1600/sbt-nordeste.jpg" group-title="BRAZIL",SBT Nordeste
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6890.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
@@ -5463,70 +5613,82 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u
 http://line.myott.net:80/live/1234/4321/69184.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="BRAZIL",Space
-http://line.myott.net:80/live/1234/4321/69101.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3915.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="BRAZIL",SporTV
-http://line.myott.net:80/live/1234/4321/69252.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3909.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png" group-title="BRAZIL",SporTV 2
-http://line.myott.net:80/live/1234/4321/69251.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3912.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="BRAZIL",SporTV 3
-http://line.myott.net:80/live/1234/4321/69250.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3910.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/21566_468.jpg" group-title="BRAZIL",Studio Universal
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13156
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11181.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="BRAZIL",Sundance TV
-http://line.myott.net:80/live/1234/4321/69031.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/14155.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg.png" group-title="BRAZIL",Syfy
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13122
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3905.m3u8
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/07/tbs-logo-2015.png" group-title="BRAZIL",TBS
-http://line.myott.net:80/live/1234/4321/69150.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3903.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="BRAZIL",TCM
-http://line.myott.net:80/live/1234/4321/69040.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3902.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action
-http://line.myott.net:80/live/1234/4321/69086.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3900.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="BRAZIL",Telecine Cult
-http://line.myott.net:80/live/1234/4321/69081.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7622.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="BRAZIL",Telecine Fun
-http://line.myott.net:80/live/1234/4321/69085.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3896.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="BRAZIL",Telecine Pipoca
-http://line.myott.net:80/live/1234/4321/69082.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3894.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="BRAZIL",Telecine Premium
-http://line.myott.net:80/live/1234/4321/69083.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7694.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch
-http://line.myott.net:80/live/1234/4321/69084.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7886.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Terra_Viva_logo.svg.png" group-title="BRAZIL",Terra Viva
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/560
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg" group-title="BRAZIL",TLC
-http://line.myott.net:80/live/1234/4321/69169.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3889.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="BRAZIL",TNT
-http://line.myott.net:80/live/1234/4321/69052.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3886.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="BRAZIL",TNT Series
-http://line.myott.net:80/live/1234/4321/69049.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3884.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="BRAZIL",Tooncast
-http://line.myott.net:80/live/1234/4321/69206.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3883.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="BRAZIL",Travel Box Brazil
 http://line.myott.net:80/live/1234/4321/69172.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRAZIL",TruTV
 http://line.myott.net:80/live/1234/4321/69147.ts
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/10952_logo_tv_cine_2.png" group-title="BRAZIL",TVCine 1
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7624.m3u8
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="BRAZIL",TVCine 2
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7625.m3u8
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="BRAZIL",TVCine 3
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7626.m3u8
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/11598_logo_tv_cine_5.png" group-title="BRAZIL",TVCine 4
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7627.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="BRAZIL",TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
@@ -5555,6 +5717,9 @@ http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/egbK3vJkZFY/hqdefault_live.jpg" group-title="BRAZIL",TV Alesp
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Logotipo_TV_Anhanguera.png" group-title="BRAZIL",TV Anhanguera
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11142.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://180graus.com/res/imagens/portal/2013/06/29/fdf-300x250e.jpg" group-title="BRAZIL",TV Antares
 http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
 
@@ -5571,7 +5736,7 @@ http://line.myott.net:80/live/1234/4321/69259.ts
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="BRAZIL",TV Cultura
-http://line.myott.net:80/live/1234/4321/69265.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4156.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
@@ -5582,6 +5747,9 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/TV_Faap_Brazil.jpg" group-title="BRAZIL",TV Faap
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvfloripa.org.br/arquivosSGC/LOGO_160409logo1.gif" group-title="BRAZIL",TV Floripa
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17351.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
@@ -5589,7 +5757,7 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Logo_globo_internacional_ID_2005-2008.png" group-title="BRAZIL",TV Globo Internacional
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4707.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7620.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s03.video.glbimg.com/640x360/5807674.jpg" group-title="BRAZIL",TV Goias
 http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
@@ -5603,6 +5771,9 @@ http://177.73.84.49/hls/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.jota.info/wp-content/uploads/2018/01/1502123023_2017-08-07_tvjustica-1024x725.jpg" group-title="BRAZIL",TV Justica
 http://line.myott.net:80/live/1234/4321/69257.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvliberal.png" group-title="BRAZIL",TV Liberal
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7613.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
 http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 
@@ -5614,6 +5785,9 @@ http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/560546630261161984/tPt6vejE.png" group-title="BRAZIL",TV Pocos
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/tv-rio-largo.png" group-title="BRAZIL",TV Rio Largo
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6932.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="BRAZIL",TV Rio Preto
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
@@ -5630,26 +5804,32 @@ http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diocesetb.org.br/f/i/dioceseTubaraoLogoTvTuba.jpg" group-title="BRAZIL",TV Tuba
 http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.produ.com/noticias/1110/big-TVVerdesMares3.jpg" group-title="BRAZIL",TV Verdes Mares
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7689.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/Logotipo_da_TV_Vit%C3%B3ria.png" group-title="BRAZIL",TV Vitoria
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6891.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="BRAZIL",Universal TV
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13109
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11124.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="BRAZIL",VH1
-http://line.myott.net:80/live/1234/4321/69179.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11126.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1280px-LOGO_VH1_MEGA_HITS.svg.png" group-title="BRAZIL",VH1 Mega Hits
-http://line.myott.net:80/live/1234/4321/69178.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3869.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="BRAZIL",Viva
-http://iptv-line.com:6969/lucia/lucia1/7316
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11129.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRAZIL",Warner TV
-http://line.myott.net:80/live/1234/4321/69053.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11131.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/537268512708775937/SXePNLIw.jpeg" group-title="BRAZIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Woohoo_logo_2014.png/250px-Woohoo_logo_2014.png" group-title="BRAZIL",Woohoo
-http://line.myott.net:80/live/1234/4321/69231.ts
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11133.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="BRAZIL",ZooMoo
 http://line.myott.net:80/live/1234/4321/69194.ts
@@ -6399,49 +6579,61 @@ http://iptv.wtf:25461/julio/123/11257
 http://iptv.wtf:25461/julio/123/11253
 
 #EXTINF:-1 tvg-logo="http://comsset.com/wp-content/uploads/2017/04/BabyTV-Logo-with-CloudR-2.png" group-title="LATINO",Baby TV
-http://iptv.wtf:25461/julio/123/11128
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16920.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" group-title="LATINO",BabyFirst TV
 http://iptv.wtf:25461/julio/123/14387
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/519_300.png" group-title="LATINO",Bloomberg
-http://iptv.wtf:25461/julio/123/11246
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16918.m3u8
 
 #EXTINF:-1 tvg-logo="https://havokgt.files.wordpress.com/2016/04/7a44b-claro-peru.gif" group-title="LATINO",Canal Claro
-http://iptv.wtf:25461/julio/123/13991
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16917.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network (Opt-1)
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network (Opt-2)
-http://iptv.wtf:25461/julio/123/11241
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16914.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png" group-title="LATINO",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINO",Cinecanal
-http://iptv.wtf:25461/julio/123/11165
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16910.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="LATINO",Cinelatino
-http://iptv.wtf:25461/julio/123/14304
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16907.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",Cinemax
-http://iptv.wtf:25461/julio/123/11240
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16906.m3u8
+
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg" group-title="LATINO",Claro Cinema
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16903.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916407018004537344/aJc07RI4_400x400.jpg" group-title="LATINO",Claro Musica
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16902.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916407018004537344/aJc07RI4_400x400.jpg" group-title="LATINO",Claro Musica 2
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16901.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="LATINO",Claro Sports
-http://iptv.wtf:25461/julio/123/13984
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16900.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png" group-title="LATINO",CNÑ
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16894.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="LATINO",Comedy Central
-http://iptv.wtf:25461/julio/123/11239
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16892.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png" group-title="LATINO",Concert Channel
-http://iptv.wtf:25461/julio/123/13983
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16889.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.mi.tv/channels/mx_de-pelicula_m.png" group-title="LATINO",De Pelicula
-http://iptv.wtf:25461/julio/123/14084
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16886.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c1.staticflickr.com/1/871/40587920114_afa303deb7.jpg" group-title="LATINO",De Pelicula Plus
 http://iptv.wtf:25461/julio/123/11159
@@ -6450,70 +6642,76 @@ http://iptv.wtf:25461/julio/123/11159
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/0/00/DHE2017.png" group-title="LATINO",DHE
-http://iptv.wtf:25461/julio/123/14009
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16885.m3u8
 
 #EXTINF:-1 tvg-logo="http://thedailytelevision.com/sites/default/files/notas/imagenes/interior/directv_sports_big.jpg" group-title="LATINO",DirecTV Sports
-http://iptv.wtf:25461/julio/123/11706
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16592.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LATINO",DirecTV Sports 2
-http://iptv.wtf:25461/julio/123/11707
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16591.m3u8
 
 #EXTINF:-1 tvg-logo="http://thedailytelevision.com/sites/default/files/notas/imagenes/interior/directv_sports_big.jpg" group-title="LATINO",DirecTV Sports+
-http://iptv.wtf:25461/julio/123/11708
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16590.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="LATINO",Discovery Channel
-http://iptv.wtf:25461/julio/123/11176
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16881.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="LATINO",Discovery Civilization
 http://iptv.wtf:25461/julio/123/14205
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/H%26h_Discovery.png" group-title="LATINO",Discovery H&H
-http://iptv.wtf:25461/julio/123/14334
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16878.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATINO",Discovery Kids
-http://iptv.wtf:25461/julio/123/14244
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16875.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_discovery-science_m.png" group-title="LATINO",Discovery Science
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16872.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINO",Discovery Theater
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/10721
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16871.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png" group-title="LATINO",Discovery Turbo
-http://iptv.wtf:25461/julio/123/10721
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16868.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="LATINO",Discovery World
-http://iptv.wtf:25461/julio/123/14013
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16865.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/800px-DC_2014_hero.svg.png" group-title="LATINO",Disney Channel
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/202-2023000_1200px-disney-junior-svg-disney-junior-logo-png.png" group-title="LATINO",Disney Junior
-http://iptv.wtf:25461/julio/123/14241
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16861.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg.png" group-title="LATINO",Disney XD
-http://iptv.wtf:25461/julio/123/14238
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16860.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="LATINO",Distrito Comedia
 http://iptv.wtf:25461/julio/123/14330
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/e-entertainment-logo-01.png" group-title="LATINO",E!
-http://iptv.wtf:25461/julio/123/11236
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16857.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-eg.amcnlaservices.com/images/header/logo.jpg" group-title="LATINO",Elgourmet
-http://iptv.wtf:25461/julio/123/14328
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16856.m3u8
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/d2/3c/9f/d23c9f6504a53309b87f501e3d14d9a7.jpg" group-title="LATINO",ESPN
-http://iptv.wtf:25461/julio/123/14276
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16853.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/d2/3c/9f/d23c9f6504a53309b87f501e3d14d9a7.jpg" group-title="LATINO",ESPN Sur
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16852.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="LATINO",ESPN 2
-http://iptv.wtf:25461/julio/123/14275
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16850.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.imctv.com/wp-content/uploads/2014/10/ESPN3_Network_Logo2.png" group-title="LATINO",ESPN 3
-http://iptv.wtf:25461/julio/123/14274
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16847.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="LATINO",ESPN+
-http://iptv.wtf:25461/julio/123/14273
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16844.m3u8
 
-#EXTINF:-1 tvg-logo="https://laopinionla.files.wordpress.com/2018/11/estrellalogojpg.jpg" group-title="LATINO",Estrella TV
-http://iptv.wtf:25461/julio/123/14724
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_Eurochannel.png" group-title="LATINO",Eurochannel
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16841.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="LATINO",Europa Europa
 http://iptv.wtf:25461/julio/123/14327
@@ -6528,25 +6726,25 @@ http://iptv.wtf:25461/julio/123/14301
 http://iptv.wtf:25461/julio/123/11295
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="LATINO",Fox
-http://iptv.wtf:25461/julio/123/14326
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16840.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/FOXActionMovies_logo_2.png/revision/latest?cb=20170928080759" group-title="Peliculas",Fox Action Movies
-http://iptv.wtf:25461/julio/123/14320
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16827.m3u8
  
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="LATINO",Fox Classics
-http://iptv.wtf:25461/julio/123/14324
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16818.m3u8
  
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/c/c8/Fox_comedy.png" group-title="LATINO",Fox Comedy
-http://iptv.wtf:25461/julio/123/14323
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16815.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" group-title="LATINO",Fox Family
-http://iptv.wtf:25461/julio/123/14322
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16812.m3u8
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-04/FOXLife-Channel_Logo_16x91491838487776.png" group-title="LATINO",Fox Life
-http://iptv.wtf:25461/julio/123/14321
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16832.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="LATINO",Fox Movies
-http://iptv.wtf:25461/julio/123/14319
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16809.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
@@ -6555,37 +6753,46 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png" group-title="LATINO",Fox Premium Series
-http://iptv.wtf:25461/julio/123/14318
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16806.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports MX
-http://iptv.wtf:25461/julio/123/14272
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16800.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports Sur
-http://iptv.wtf:25461/julio/123/14228
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16797.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2
-http://iptv.wtf:25461/julio/123/14271
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16794.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2 Sur
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16791.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 3
-http://iptv.wtf:25461/julio/123/14270
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16788.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 3 Sur
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16785.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.foxsportsla.com/sites/foxsports-la/files/img/scaled/630x/notes/news/FOX-Sports-Premium-1280x720-170918.jpg" group-title="LATINO",Fox Sports Premium
 http://iptv.wtf:25461/julio/123/10405
  
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/network/fx.png" group-title="LATINO",FX
-http://iptv.wtf:25461/julio/123/14316
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16781.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="LATINO",FXM
-http://iptv.wtf:25461/julio/123/14300
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16775.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="LATINO",Galavision
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16569.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="LATINO",Glitz
-http://iptv.wtf:25461/julio/123/14081
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16772.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="LATINO",Gol TV
 http://iptv.wtf:25461/julio/123/11105
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/2000px-Logo_Golden_TV.svg.png" group-title="LATINO",Golden
-http://iptv.wtf:25461/julio/123/14299
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16771.m3u8
 
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge-300x300.jpg" group-title="LATINO",Golden Edge
 http://iptv.wtf:25461/julio/123/14298
@@ -6594,10 +6801,10 @@ http://iptv.wtf:25461/julio/123/14298
 http://iptv.wtf:25461/julio/123/11496
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="LATINO",Golden Premier
-http://iptv.wtf:25461/julio/123/13996
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16768.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels_logos/logos/000/000/026/original/pic_history2.png" group-title="LATINO",H2
-http://iptv.wtf:25461/julio/123/14200
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16762.m3u8
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/0c/b0/42/0cb0421e-e7f1-ec1f-599b-c62dd14c9531/source/512x512bb.jpg" group-title="LATINO",Havoc
 http://iptv.wtf:25461/julio/123/11294
@@ -6609,37 +6816,37 @@ http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2 (Opt-2)
-http://iptv.wtf:25461/julio/123/14296
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16760.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/220px-HBO_Family_logo.png" group-title="LATINO",HBO Family
-http://iptv.wtf:25461/julio/123/14295
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16757.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus
-http://iptv.wtf:25461/julio/123/14294
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16752.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="LATINO",HBO Signature
-http://iptv.wtf:25461/julio/123/14293
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16747.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
 http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hardwareviews.com/wp-content/uploads/2018/07/1200px-History_Logo.svg_.png" group-title="LATINO",History
-http://iptv.wtf:25461/julio/123/14199
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16742.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oyememagazine.com/wp-content/uploads/2017/09/inicio06.jpg" group-title="LATINO",Hola! TV
-http://iptv.wtf:25461/julio/123/14000
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16738.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="LATINO",HTV
-http://iptv.wtf:25461/julio/123/14260
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16736.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/INTI_Network_TV.png" group-title="LATINO",INTI Network
 http://iptv.wtf:25461/julio/123/14349
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="LATINO",Investigation Discovery
-http://iptv.wtf:25461/julio/123/10723
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16733.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="LATINO",I.Sat
-http://iptv.wtf:25461/julio/123/14348
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16735.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xsxgroC.png" group-title="LATINO",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
@@ -6648,22 +6855,22 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="LATINO",Lifetime
-http://iptv.wtf:25461/julio/123/14197
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16731.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",Locomotion TV
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="LATINO",Mas Chic
-http://iptv.wtf:25461/julio/123/13999
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16729.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="LATINO",Max
-http://iptv.wtf:25461/julio/123/14292
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16727.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png" group-title="LATINO",Max Prime
-http://iptv.wtf:25461/julio/123/14291
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16726.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="LATINO",Max UP
-http://iptv.wtf:25461/julio/123/14018
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16722.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="LATINO",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
@@ -6674,9 +6881,6 @@ http://iptv.wtf:25461/julio/123/11275
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg.png" group-title="LATINO",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MTV_Base_2013_logo.svg/1200px-MTV_Base_2013_logo.svg.png" group-title="LATINO",MTV Base
-http://iptv.wtf:25461/julio/123/14258
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MTV_Classic_2011.png/245px-MTV_Classic_2011.png" group-title="LATINO",MTV Classic
 http://iptv.wtf:25461/julio/123/14257
 
@@ -6684,46 +6888,49 @@ http://iptv.wtf:25461/julio/123/14257
 http://iptv.wtf:25461/julio/123/14256
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MTV_Hits.svg.png" group-title="LATINO",MTV Hits
-http://iptv.wtf:25461/julio/123/14255
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16717.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/MTV_Live.svg.png" group-title="LATINO",MTV Live
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/14415
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16714.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Multipremier_logo.svg.png" group-title="LATINO",Multipremier
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16713.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="LATINO",Nat Geo Kids
-http://iptv.wtf:25461/julio/123/13975
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16712.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="LATINO",Nat Geo Wild
-http://iptv.wtf:25461/julio/123/10699
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16703.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png" group-title="LATINO",National Geographic
-http://iptv.wtf:25461/julio/123/14196
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16698.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_flat_rgb.png" group-title="LATINO",NBC Golf
-http://iptv.wtf:25461/julio/123/13995
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16764.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/nbc-universo-logo.jpg" group-title="LATINO",NBC Universo
 http://iptv.wtf:25461/julio/123/11093
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="LATINO",Nick 2
-http://iptv.wtf:25461/julio/123/13969
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16697.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nickelodeon-logo-png-transparent.png" group-title="LATINO",Nickelodeon
-http://iptv.wtf:25461/julio/123/14233
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16690.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="LATINO",Nick Jr.
-http://iptv.wtf:25461/julio/123/13968
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16694.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="LATINO",Nicktoons
-http://iptv.wtf:25461/julio/123/11350
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16688.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.blogs.es/d334c7/paramount-channel-logo-tm1/450_1000.jpg" group-title="LATINO",Paramount Channel
-http://iptv.wtf:25461/julio/123/14288
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16687.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="LATINO",Pasiones
-http://iptv.wtf:25461/julio/123/14011
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16683.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="LATINO",PX Sports
-http://iptv.wtf:25461/julio/123/14267
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16680.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_Rms.jpg" group-title="LATINO",RMS
 http://iptv.wtf:25461/julio/123/11364
@@ -6732,25 +6939,25 @@ http://iptv.wtf:25461/julio/123/11364
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png" group-title="LATINO",Sony
-http://iptv.wtf:25461/julio/123/14287
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16678.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/010/original/pic_space.png" group-title="LATINO",Space
-http://iptv.wtf:25461/julio/123/14286
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16674.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/2000px-Studio_Universal.svg.png" group-title="LATINO",Studio Universal
-http://iptv.wtf:25461/julio/123/14285
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16672.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="LATINO",Sundance TV
-http://iptv.wtf:25461/julio/123/13993
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16669.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.syfy.com/sites/syfy/themes/syfy/default.jpg" group-title="LATINO",Syfy
-http://iptv.wtf:25461/julio/123/14312
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16667.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="LATINO",TBS
-http://iptv.wtf:25461/julio/123/14284
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16665.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_tcm_m.png" group-title="LATINO",TCM
-http://iptv.wtf:25461/julio/123/11311
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16663.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvapaxtla.com/wp-content/uploads/2018/05/TLHT.png" group-title="LATINO",Telehit
 http://iptv.wtf:25461/julio/123/14252
@@ -6762,7 +6969,7 @@ http://iptv.wtf:25461/farmdpil/kr7td9TD25/14411
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Telemundo_Logo_2018-2.svg/1200px-Telemundo_Logo_2018-2.svg.png" group-title="LATINO",Telemundo Internacional
-http://iptv.wtf:25461/julio/123/14310
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16662.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemusica.png" group-title="LATINO",Telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
@@ -6771,52 +6978,58 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1075/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/mx_tiin_m.png" group-title="LATINO",TIIN
-http://iptv.wtf:25461/julio/123/14231
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16570.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="LATINO",TLC
-http://iptv.wtf:25461/julio/123/11170
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16660.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tlnovelas_logo.svg/1200px-Tlnovelas_logo.svg.png" group-title="LATINO",TLNovelas
 http://iptv.wtf:25461/julio/123/14309
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="LATINO",TNT
-http://iptv.wtf:25461/julio/123/11188
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16657.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png" group-title="LATINO",TNT Series
-http://iptv.wtf:25461/julio/123/10692
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16654.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TNTSportsLA.png" group-title="LATINO",TNT Sports
 http://iptv.wtf:25461/julio/123/14728
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="LATINO",Tooncast
-http://iptv.wtf:25461/julio/123/11356
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16652.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO",TruTV
-http://iptv.wtf:25461/julio/123/11186
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16649.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="LATINO",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/662386206626463744/OpLpvLun.jpg" group-title="LATINO",Ultra Cine
-http://iptv.wtf:25461/julio/123/11520
+http://iptv.wtf:25461/julio/123/11520http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16647.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasico_NLogo.png" group-title="LATINO",Ultra Clasico
-http://iptv.wtf:25461/julio/123/11519
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16646.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.newslinereport.com/online/nota_ultra-docu-estrena-dos-nuevos-bloques-de-programacin-.jpg" group-title="LATINO",Ultra Docu
-http://iptv.wtf:25461/julio/123/11518
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16645.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_fiesta-mediano.png" group-title="LATINO",Ultra Fiesta
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16644.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_film-mediano.png" group-title="LATINO",Ultra Film
-http://iptv.wtf:25461/julio/123/11516
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16643.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ultra_kidz-mediano.png" group-title="LATINO",Ultra Kidz
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16642.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="LATINO",Ultra Luna
-http://iptv.wtf:25461/julio/123/11514
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16641.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pcfGCnsUQhs/maxresdefault.jpg" group-title="LATINO",Ultra Macho
-http://iptv.wtf:25461/julio/123/11513
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16640.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-mex-85364966.jpg" group-title="LATINO",Ultra Mex
-http://iptv.wtf:25461/julio/123/11512
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16639.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="LATINO",UniMas
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1100/index.m3u8
@@ -6831,16 +7044,16 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/1099/index.m3u8
 http://iptv.wtf:25461/julio/123/14262
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="LATINO",VH1
-http://iptv.wtf:25461/julio/123/14250
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16630.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="LATINO",VH1 Classic
-http://iptv.wtf:25461/julio/123/14249
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16632.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg.png" group-title="LATINO",Warner TV
-http://iptv.wtf:25461/julio/123/14280
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16629.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_wobi-tv_m.png" group-title="LATINO",WOBI TV
-http://iptv.wtf:25461/julio/123/14344
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16623.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
@@ -6950,8 +7163,8 @@ http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO",Ingenio TV Mexico City
 http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Las Estrellas
-http://iptv.wtf:25461/julio/123/14377
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Las Estrellas Latinoamerica
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16914.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thematv.us/images/channels/latin-american-sports.png" group-title="MEXICO",Latin America Sports
 http://iptv.wtf:25461/julio/123/11388
@@ -7077,7 +7290,7 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://startvmexico.com.mx/images/unicable.png" group-title="MEXICO",Unicable
-http://iptv.wtf:25461/julio/123/11316
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16638.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
@@ -7776,7 +7989,7 @@ http://stream.shockmedia.com.ar:1935/quillatv/quillatv/chunklist_w1419305422.m3u
 http://iptv.wtf:25461/julio/123/14118
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1200px-RCN_Novelas_logo.svg.png" group-title="COLOMBIA",RCN Novelas
-http://iptv.wtf:25461/julio/123/14117
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16679.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
