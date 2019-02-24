@@ -6727,6 +6727,7 @@ http://iptv.wtf:25461/julio/123/11295
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="LATINO",Fox
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16840.m3u8
+<<<<<<< HEAD
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/FOXActionMovies_logo_2.png/revision/latest?cb=20170928080759" group-title="Peliculas",Fox Action Movies
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16827.m3u8
@@ -6734,6 +6735,15 @@ http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16827.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="LATINO",Fox Classics
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16818.m3u8
 
+=======
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/FOXActionMovies_logo_2.png/revision/latest?cb=20170928080759" group-title="Peliculas",Fox Action Movies
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16827.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="LATINO",Fox Classics
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16818.m3u8
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/c/c8/Fox_comedy.png" group-title="LATINO",Fox Comedy
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16815.m3u8
 
@@ -6742,10 +6752,17 @@ http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16812.m3u8
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-04/FOXLife-Channel_Logo_16x91491838487776.png" group-title="LATINO",Fox Life
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16832.m3u8
+<<<<<<< HEAD
 
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="LATINO",Fox Movies
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16809.m3u8
 
+=======
+ 
+#EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="LATINO",Fox Movies
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16809.m3u8
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
@@ -6754,6 +6771,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png" group-title="LATINO",Fox Premium Series
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16806.m3u8
+<<<<<<< HEAD
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16800.m3u8
@@ -6761,12 +6779,25 @@ http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16800.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports Sur
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16797.m3u8
 
+=======
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16800.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports Sur
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16797.m3u8
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16794.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2 Sur
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16791.m3u8
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 3
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16788.m3u8
 
@@ -6817,16 +6848,27 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2 (Opt-2)
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16760.m3u8
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/220px-HBO_Family_logo.png" group-title="LATINO",HBO Family
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16757.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2b/HBO_Plus_Latin_Atlansia.png" group-title="LATINO",HBO Plus
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16752.m3u8
+<<<<<<< HEAD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="LATINO",HBO Signature
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16747.m3u8
 
+=======
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="LATINO",HBO Signature
+http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16747.m3u8
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
 http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 
@@ -6982,13 +7024,21 @@ http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16570.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="LATINO",TLC
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16660.m3u8
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tlnovelas_logo.svg/1200px-Tlnovelas_logo.svg.png" group-title="LATINO",TLNovelas
 http://iptv.wtf:25461/julio/123/14309
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="LATINO",TNT
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16657.m3u8
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> a7f6337bfc6136f99359f7d3682b596257db3368
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png" group-title="LATINO",TNT Series
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/16654.m3u8
 
