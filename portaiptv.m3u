@@ -5241,7 +5241,7 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 http://www.lengua.com/anthems/Brazil.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="BRAZIL",A&E
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4193.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1915
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="BRAZIL",Agro Brasil
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3099.m3u8
@@ -5253,40 +5253,40 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/800px-AMC_logo_2016.png" group-title="BRAZIL",AMC
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4192.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3058
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="BRAZIL",Animal Planet
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/15500.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1914
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/canal-arte-1.jpg" group-title="BRAZIL",Arte1
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10901.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1912
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="BRAZIL",AXN
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4185.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1911
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="BRAZIL",BabyTV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11849.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5284
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png" group-title="BRAZIL",Band
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/12349.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1908
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRAZIL",Band News
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17367.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1910
 
 #EXTINF:-1 tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="BRAZIL",Band Sports
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/13526.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1909
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/2000px-Logo_of_Bis.svg.png" group-title="BRAZIL",BIS
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4174.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1906
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg.png" group-title="BRAZIL",Boomerang
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4171.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1905
 
 #EXTINF:-1 tvg-logo="http://www.controversia.com.br/blog/wp-content/uploads/2016/05/canal-brasil-1.png" group-title="BRAZIL",Canal Brasil
-http://iptv.wtf:25461/farmdpil/kr7td9TD25/13184
+http://158.69.116.204:80/Mois%C3%A9s/1234/1904
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="BRAZIL",Canal do Boi
 http://line.myott.net:80/live/1234/4321/69182.ts
@@ -5295,19 +5295,19 @@ http://line.myott.net:80/live/1234/4321/69182.ts
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="BRAZIL",Canal Off
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11043.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1842
 
 #EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/destaque/user_1841646591.jpg" group-title="BRAZIL",Canal Ricos
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/Canal_Rural_logo.svg.png" group-title="BRAZIL",Canal Rural
-http://iptv-line.com:6969/lucia/lucia1/18918
+http://158.69.116.204:80/Mois%C3%A9s/1234/1903
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1087px-Canal_Sony_logo.svg.png" group-title="BRAZIL",Canal Sony
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3918.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1902
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="BRAZIL",Cartoon Network
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4165.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1900
 
 #EXTINF:-1 tvg-logo="https://cbtvinternacional.com/wp-content/uploads/2018/03/cbtv-internacional-logo.png" group-title="BRAZIL",CBTV International
 https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
@@ -5319,7 +5319,7 @@ http://line.myott.net:80/live/1234/4321/69166.ts
 http://line.myott.net:80/live/1234/4321/69102.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="BRAZIL",Cinemax
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4162.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1899
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6FepRzn.png" group-title="BRAZIL",Classique TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
@@ -5328,103 +5328,103 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/73
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/combate.png" group-title="BRAZIL",Combate
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7632.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1898
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg.png" group-title="BRAZIL",Comedy Central
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4603.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1897
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/2000px-Logo_of_Curta%21.svg.png" group-title="BRAZIL",Curta!
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4155.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1896
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="BRAZIL",Discovery Channel
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4153.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1895
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png" group-title="BRAZIL",Discovery Civilization
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4600.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/118
 
 #EXTINF:-1 tvg-logo="https://www.latam.discoverymujer.com/content/dam/discovery/latam/latam/homeandhealth/logo/LogoHH_FULL_ORANGE-2014.png" group-title="BRAZIL",Discovery Home & Health
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10936.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1893
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="BRAZIL",Discovery Kids
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17381.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1892
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="BRAZIL",Discovery Science
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11143.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1891
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="BRAZIL",Discovery Theater
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4148.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5273
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="BRAZIL",Discovery Turbo
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4147.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1890
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="BRAZIL",Discovery World
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4145.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3338
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" group-title="BRAZIL",Disney Channel
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4143.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1889
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="BRAZIL",Disney Junior
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4141.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1888
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg.png" group-title="BRAZIL",Disney XD
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4140.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/111
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="BRAZIL",E!
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4137.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1886
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="BRAZIL",E-Parana
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/76/EPTV_2010-present.jpg" group-title="BRAZIL",EPTV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4630.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5301
 
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2010/01/espn.jpg" group-title="BRAZIL",ESPN
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6611.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1786
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="BRAZIL",ESPN 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11857.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/192
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="BRAZIL",ESPN Brasil
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4130.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1882
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="BRAZIL",ESPN Extra
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7634.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3053
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="BRAZIL",Fashion TV
 http://line.myott.net:80/live/1234/4321/69180.ts
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/filmandarts.jpg" group-title="BRAZIL",Film & Arts
-http://maxptv.ddns.net:25461/live/zac/zac/156.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/109
 
 #EXTINF:-1 tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-770x439_c.jpg" group-title="BRAZIL",Fish TV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10970.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1881
 
 #EXTINF:-1 tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg" group-title="BRAZIL",Food Network
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4123.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1880
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDY4Nzg4NDcwNTg5MDk0/fox_logoresized-bc.jpg" group-title="BRAZIL",Fox
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4121.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1879
 
 #EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/2/5/b/fox-life.jpg" group-title="BRAZIL",Fox Life
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10976.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1878
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium-Channel_Logo_16x91489246103049.png" group-title="BRAZIL",Fox Premium 1
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10978.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5265
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-03/FOXPremium2-Channel_Logo_16x91489154525715.png" group-title="BRAZIL",Fox Premium 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10980.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5266
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4113.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1877
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="BRAZIL",Fox Sports 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4114.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1876
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hapra.com.br/images/foztv-novo.jpg" group-title="BRAZIL",Foz TV
 http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BRAZIL",FX
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4110.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1874
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
@@ -5433,136 +5433,136 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/12346.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Glbbsb-logo-divulg.jpg" group-title="BRAZIL",Globo Brasilia
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11845.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5302
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/TV_Globo_Minas.png" group-title="BRAZIL",Globo Minas
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4107.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1781
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globonews2017_red_fixed.png" group-title="BRAZIL",Globo News
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4096.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1872
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/TV_Globo_Nordeste.jpg" group-title="BRAZIL",Globo Nordeste
-http://line.myott.net:80/live/1234/4321/69272.ts
+http://158.69.116.204:80/Mois%C3%A9s/1234/1450
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg" group-title="BRAZIL",Globo Rio
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4100.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/8104
 
 #EXTINF:-1 tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/03/globosp.png" group-title="BRAZIL",Globo SP
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4097.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1442
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-tfn_PoBjtrM/TxOstJ-47nI/AAAAAAAADz0/GgaO3B2S2xo/s1600/Gloob+logo+2012.jpg" group-title="BRAZIL",Gloob
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17383.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1871
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="BRAZIL",GNT
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4092.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1870
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_h2_m.png" group-title="BRAZIL",H2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/10996.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1869
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="BRAZIL",HBO
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4085.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1868
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_hbo-2_m.png" group-title="BRAZIL",HBO 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4088.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1863
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="BRAZIL",HBO Family
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4086.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1867
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="BRAZIL",HBO Plus
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4082.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/90
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="BRAZIL",HBO Signature
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4080.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1864
 
 #EXTINF:-1 tvg-logo="https://hardwareviews.com/wp-content/uploads/2018/07/1200px-History_Logo.svg_.png" group-title="BRAZIL",History
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11514.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1801
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="BRAZIL",Investigation Discovery
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4074.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1861
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_logo_2017.svg.png" group-title="BRAZIL",Lifetime
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4069.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1859
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="BRAZIL",Mais Globosat
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4067.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1858
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="BRAZIL",Max
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4065.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/81
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="BRAZIL",Max Prime
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4062.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1856
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="BRAZIL",Max UP
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4060.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1854
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="BRAZIL",Megapix
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11145.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1853
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/200px-MTV_Logo.svg.png" group-title="BRAZIL",MTV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4056.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1852
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg.png" group-title="BRAZIL",Multishow
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4054.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1851
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MusicBoxBrazilLogo.png/230px-MusicBoxBrazilLogo.png" group-title="BRAZIL",Music Box Brazil
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4607.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/74
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="BRAZIL",Nat Geo Kids
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11033.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3049
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="BRAZIL",Nat Geo Wild
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11182.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1849
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="BRAZIL",National Geographic
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4047.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1848
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/TV_NBR_-_Logo_2018.png" group-title="BRAZIL",NBR
-http://line.myott.net:80/live/1234/4321/69255.ts
+http://158.69.116.204:80/Mois%C3%A9s/1234/71
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nickelodeon-logo-png-transparent.png" group-title="BRAZIL",Nickelodeon
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7604.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1844
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="BRAZIL",Nick Jr
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4042.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1845
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/paramount-channel.jpg" group-title="BRAZIL",Paramount Channel
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11045.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1841
 
 #EXTINF:-1 tvg-logo="http://w.assets.static-teleup.com/teleup/img/pfc/teleup-pfc-internacional-futebol.png" group-title="BRAZIL",PFC
-http://iptv-line.com:6969/lucia/lucia1/7339
+http://158.69.116.204:80/Mois%C3%A9s/1234/8376
 
 #EXTINF:-1 tvg-logo="http://w.assets.static-teleup.com/teleup/img/pfc/teleup-pfc-internacional-futebol.png" group-title="BRAZIL",PFC Internacional
 http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4651.ts
 
 #EXTINF:-1 tvg-logo="http://www.msmetalagencybrasil.com/ptbr/wp-content/uploads/2016/07/play-tv.jpg" group-title="BRAZIL",Play TV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3066.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1840
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="BRAZIL",Premiere 1
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4019.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1830
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-a1jKMfYkKZk/W3A0aHnwoyI/AAAAAAAAoFU/wuYN7tGBYxUvBTibEHyzwfhp3nZ33Pg7wCK4BGAYYCw/s1600/premiere-2-contexto.png" group-title="BRAZIL",Premiere 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4615.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1838
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 3
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4030.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1837
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 4
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4028.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1836
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 5
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4026.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1835
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 6
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4024.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1834
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 7
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4023.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1833
 
 #EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="BRAZIL",Premiere 8
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4022.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/193-1939643_prime-box-brazil-music-box-brasil.png" group-title="BRAZIL",Prime Box Brazil
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4606.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1829
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
@@ -5571,7 +5571,7 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png" group-title="BRAZIL",Rá-Tim-Bum
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11120.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1793
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/media/CwgKoVJXEAAJODO.jpg" group-title="BRAZIL",RBC Salvador
 http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
@@ -5580,25 +5580,25 @@ http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/117
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s2.glbimg.com/ag5jIzwh74Pd8_7NaZfw4qFXt-U=/s.glbimg.com/og/rg/f/original/2013/07/23/600logo_rbstv.png" group-title="BRAZIL",RBS TV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11173.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1827
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.satlogo.com/hires/rr/rci_br.png" group-title="BRAZIL",RCI TV
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Espirito Santo
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11852.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/7396
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="BRAZIL",RecordTV Internacional
-http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4567.ts
+http://158.69.116.204:80/Mois%C3%A9s/1234/8321
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV MatoGrosso
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/15453.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5465
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Mozambique
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Sao Paulo
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/12347.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1825
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="BRAZIL",Record News
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000
@@ -5634,7 +5634,7 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
 http://line.myott.net:80/live/1234/4321/69187.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="BRAZIL",Rede TV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17389.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1823
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Logotipo_da_RedeTV%21_Rondônia.png" group-title="BRAZIL",Rede TV Rondonia
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
@@ -5643,13 +5643,13 @@ http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/44
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cb/Logotipo_RPC_2015.png" group-title="BRAZIL",RPC
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7607.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3089
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3926.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1820
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-sKikp5uajiU/Wfg6qvkv-iI/AAAAAAAAwGY/VCD6O6wyxOMgLJ5JvTU-dV1UwaFVHnIAQCLcBGAs/s1600/sbt-nordeste.jpg" group-title="BRAZIL",SBT Nordeste
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6890.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1463
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
@@ -5658,82 +5658,70 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u
 http://line.myott.net:80/live/1234/4321/69184.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="BRAZIL",Space
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3915.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1816
 
 #EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="BRAZIL",SporTV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3909.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1815
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png" group-title="BRAZIL",SporTV 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3912.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1814
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="BRAZIL",SporTV 3
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3910.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1813
 
 #EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/21566_468.jpg" group-title="BRAZIL",Studio Universal
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11181.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1812
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="BRAZIL",Sundance TV
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/14155.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg.png" group-title="BRAZIL",Syfy
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3905.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1811
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/07/tbs-logo-2015.png" group-title="BRAZIL",TBS
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3903.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1810
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="BRAZIL",TCM
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3902.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1809
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3900.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1808
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="BRAZIL",Telecine Cult
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7622.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1807
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="BRAZIL",Telecine Fun
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3896.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1806
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="BRAZIL",Telecine Pipoca
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3894.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1805
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="BRAZIL",Telecine Premium
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7694.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1804
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7886.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1803
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Terra_Viva_logo.svg.png" group-title="BRAZIL",Terra Viva
-http://msdo.iptvsystem.cloud:8880/a9sqWSJFJA/RaoCk0ul/560
+http://158.69.116.204:80/Mois%C3%A9s/1234/1802
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg" group-title="BRAZIL",TLC
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3889.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1800
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg.png" group-title="BRAZIL",TNT
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3886.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1799
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="BRAZIL",TNT Series
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3884.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1798
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="BRAZIL",Tooncast
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3883.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1797
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="BRAZIL",Travel Box Brazil
 http://line.myott.net:80/live/1234/4321/69172.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRAZIL",TruTV
-http://line.myott.net:80/live/1234/4321/69147.ts
-
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/10952_logo_tv_cine_2.png" group-title="BRAZIL",TVCine 1
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7624.m3u8
-
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="BRAZIL",TVCine 2
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7625.m3u8
-
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="BRAZIL",TVCine 3
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7626.m3u8
-
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/11598_logo_tv_cine_5.png" group-title="BRAZIL",TVCine 4
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7627.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1796
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="BRAZIL",TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
@@ -5763,7 +5751,7 @@ http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Logotipo_TV_Anhanguera.png" group-title="BRAZIL",TV Anhanguera
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11142.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1782
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://180graus.com/res/imagens/portal/2013/06/29/fdf-300x250e.jpg" group-title="BRAZIL",TV Antares
 http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
@@ -5775,13 +5763,13 @@ http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 http://line.myott.net:80/live/1234/4321/69256.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diariodosurdo.com.br/wp-content/uploads/2015/06/CfRkvHio_400x400.jpeg" group-title="BRAZIL",TV Camara
-http://line.myott.net:80/live/1234/4321/69259.ts
+http://158.69.116.204:80/Mois%C3%A9s/1234/2047
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696725018718400514/1sgtDGhC_400x400.png" group-title="BRAZIL",TV Cidade Farroupilha
 http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="BRAZIL",TV Cultura
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/4156.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1794
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
@@ -5793,7 +5781,7 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvfloripa.org.br/arquivosSGC/LOGO_160409logo1.gif" group-title="BRAZIL",TV Floripa
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/17351.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3047
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
@@ -5802,7 +5790,7 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Logo_globo_internacional_ID_2005-2008.png" group-title="BRAZIL",TV Globo Internacional
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7620.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/8324
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s03.video.glbimg.com/640x360/5807674.jpg" group-title="BRAZIL",TV Goias
 http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
@@ -5817,7 +5805,7 @@ http://177.73.84.49/hls/live/live.m3u8
 http://line.myott.net:80/live/1234/4321/69257.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvliberal.png" group-title="BRAZIL",TV Liberal
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7613.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1453
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
 http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
@@ -5832,7 +5820,7 @@ http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8?
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/tv-rio-largo.png" group-title="BRAZIL",TV Rio Largo
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6932.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/8104
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="BRAZIL",TV Rio Preto
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
@@ -5850,34 +5838,34 @@ http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
 http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.produ.com/noticias/1110/big-TVVerdesMares3.jpg" group-title="BRAZIL",TV Verdes Mares
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/7689.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5221
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/Logotipo_da_TV_Vit%C3%B3ria.png" group-title="BRAZIL",TV Vitoria
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/6891.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/5210
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="BRAZIL",Universal TV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11124.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1791
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="BRAZIL",VH1
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11126.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/3467
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1280px-LOGO_VH1_MEGA_HITS.svg.png" group-title="BRAZIL",VH1 Mega Hits
 http://br1.e-tv.xyz:8081/live/amarilis/amarilis/3869.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="BRAZIL",Viva
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11129.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1789
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="BRAZIL",Warner TV
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11131.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1788
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/537268512708775937/SXePNLIw.jpeg" group-title="BRAZIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Woohoo_logo_2014.png/250px-Woohoo_logo_2014.png" group-title="BRAZIL",Woohoo
-http://br1.e-tv.xyz:8081/live/amarilis/amarilis/11133.m3u8
+http://158.69.116.204:80/Mois%C3%A9s/1234/1787
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="BRAZIL",ZooMoo
-http://line.myott.net:80/live/1234/4321/69194.ts
+http://158.69.116.204:80/Mois%C3%A9s/1234/5244
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
@@ -14084,7 +14072,7 @@ http://180.183.130.106:8000/play/a00l
 http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bright_TV.png/240px-Bright_TV.png" group-title="THAILAND",Bright TV
-http://180.183.130.106:8000/play/a017
+https://c01server.mangotv.in.th:8043/tvxy99/live99/brighttv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png" group-title="THAILAND",Cable TV
 http://202.173.216.8:1935/live/ch8/playlist.m3u8
@@ -14092,11 +14080,17 @@ http://202.173.216.8:1935/live/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="THAILAND",Cartoon Network
 http://180.183.130.106:8000/play/a03h
 
+#EXTINF:-1 tvg-logo="http://www.catshortfilm.com/images/logo.png" group-title="THAILAND",CAT Channel
+https://c01server.mangotv.in.th:8043/tvxy99/live99/cat/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAILAND",Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Channel_3_Thailand_Logo.svg/1200px-Channel_3_Thailand_Logo.svg.png" group-title="THAILAND",Channel 3
-http://180.183.130.106:8000/play/a00g
+https://c01server.mangotv.in.th:8043/tvxy99/ch3sd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/Channel3-Family13_Logo2014.png" group-title="THAILAND",Channel 3 Family
+https://c01server.mangotv.in.th:8043/tvxy99/ch3family/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="THAILAND",Channel 5
 http://180.183.130.106:8000/play/a00w
@@ -14105,7 +14099,7 @@ http://180.183.130.106:8000/play/a00w
 http://180.183.130.106:8000/play/a00m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="THAILAND",Channel 8
-http://180.183.130.106:8000/play/a00f
+https://c01server.mangotv.in.th:8043/tvxy99/ch8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Channel_9_MCOT_HD_2016.png" group-title="THAILAND",Channel 9
 http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
@@ -14141,7 +14135,7 @@ http://61.90.226.114:1935/stream/channelid/1613421481?ticket=2D488D390CEE7E1A3F5
 http://61.90.226.114:1935/stream/channelid/1144566682?ticket=DF820C89E0D12BF83ED3FBE8CE82127F9E1DC8DB&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
-http://180.183.130.106:8000/play/a00d
+https://c01server.mangotv.in.th:8043/tvxy99/chgmm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="THAILAND",JCTV
 rtmp://vodjctv.aitstreaming.com:1935/live/live2
@@ -14156,7 +14150,7 @@ http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 http://180.183.130.106:8000/play/a02v
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/MCOT_Family_logo_Horizontal.png" group-title="THAILAND",MCOT Family 14
-http://180.183.130.106:8000/play/a011
+https://c01server.mangotv.in.th:8043/tvxy99/chmcotkids/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.freeetv.com/images/01_logo/money_channel_thailand.jpg" group-title="THAILAND",Money Channel
 http://180.183.130.106:8000/play/a008
@@ -14171,19 +14165,19 @@ http://180.183.130.106:8000/play/a01x
 http://180.183.130.106:8000/play/a01y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-1)
-http://180.183.130.106:8000/play/a019
+https://c01server.mangotv.in.th:8043/tvxy99/chnation/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png" group-title="THAILAND",Nation TV (Opt-2)
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/NBT_EngLogo2009.png" group-title="THAILAND",NBT
-http://180.183.130.106:8000/play/a00x
+https://c01server.mangotv.in.th:8043/tvxy99/chnbt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/NEW%29TV_Thailand_Logo.png" group-title="THAILAND",New TV
-http://180.183.130.106:8000/play/a015
+https://c01server.mangotv.in.th:8043/tvxy99/live99/newtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.isranews.org/images/2017/Thairefrom/02/now2601.jpg" group-title="THAILAND",Now TV
-http://180.183.130.106:8000/play/a00e
+https://c01server.mangotv.in.th:8043/tvxy99/chnow/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://9poto.com/wp-content/uploads/2014/08/LOGO-ONE-HD.jpg" group-title="THAILAND",One 31
 http://180.183.130.106:8000/play/a00i
@@ -14222,7 +14216,7 @@ http://61.90.226.114:1935/stream/channelid/1637708415?ticket=9FC1097496F1761947D
 http://61.90.226.114:1935/stream/channelid/1547773020?ticket=9F39097B453A55DA827C38E194435FBA1AA3D9AB&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg" group-title="THAILAND",Spring News
-http://180.183.130.106:8000/play/a016
+https://c01server.mangotv.in.th:8043/tvxy99/chspringnews/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="THAILAND",Thairath TV
 http://180.183.130.106:8000/play/a00j
@@ -14237,10 +14231,13 @@ http://180.183.130.106:8000/play/a00y
 http://180.183.130.106:8000/play/a01c
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png" group-title="THAILAND",TNN 24
-http://180.183.130.106:8000/play/a013
+https://c01server.mangotv.in.th:8043/tvxy99/chtnn/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png" group-title="THAILAND",TPTV
-http://180.183.130.106:8000/play/a00z
+https://c01server.mangotv.in.th:8043/tvxy99/live99/tptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nungsod.com/uploads/tv_image/true-4u.png" group-title="THAILAND",True 4U
+https://c01server.mangotv.in.th:8043/tvxy99/chtrue4u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_081-1.png" group-title="THAILAND",True Asian Series
 http://61.90.226.114:1935/stream/channelid/1165412672?ticket=A1CFB8E729CE26641D9F917CD7C27C7A7DD4DBFD&profile=pass
@@ -14261,7 +14258,7 @@ http://61.90.226.114:1935/stream/channelid/63228381?ticket=466002A88485D6D2A8E93
 http://61.90.226.114:1935/stream/channelid/494647273?ticket=799B3F8492538580018479DCF1BC5ADB11688849&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/detail/301-3010143_voice-tv-2017-voice-tv-21.png" group-title="THAILAND",Voice TV
-http://180.183.130.106:8000/play/a018
+https://c01server.mangotv.in.th:8043/tvxy99/chvoicetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/th/9/99/Workpoint_TV.png" group-title="THAILAND",Workpoint TV (Opt-1)
 http://180.183.130.106:8000/play/a01a
@@ -14271,6 +14268,9 @@ http://main-a.for-our.info:8081/tv99/chworkpoint/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg" group-title="THAILAND",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Zee_Nung.jpg" group-title="THAILAND",Zee Nung
+https://c01server.mangotv.in.th:8043/tvxy99/chzeenung/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
@@ -14294,7 +14294,7 @@ http://192.240.127.34:1935/live/cs07.stream/playlist.m3u8
 http://cdnak9.litecdn.net/channels/4/10804.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium
-http://114.207.77.30:9981/stream/channelid/725504190?ticket=A7F2F1DB05BDF5E6AFDF1B223B3C76D3298AA60A&profile=pass
+http://114.207.77.30:9981/stream/channelid/725504190?ticket=536CA4FCEB08F244D1B2FF2818073A62FDD7A420&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/260.png" group-title="JAPAN",Nihon Eiga TV
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
@@ -14318,16 +14318,19 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://www.lengua.com/anthems/SouthKorea.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kbca.or.kr/data/file/company/1028913180_pQV4A0kd_c45aaefb15a0134b903ac59776009107891e70db.png" group-title="SOUTH KOREA",9Colors
-http://114.207.77.30:9981/stream/channelid/719659643?ticket=EA6C6D3F042F10CEF7FB719E69A2942C28FF44BC&profile=pass
+http://125.187.143.95:9981/stream/channelid/333053887?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/954160326378897409/v8QhPOGS_400x400.jpg" group-title="SOUTH KOREA",Anibox
-http://114.207.77.30:9981/stream/channelid/1385587418?ticket=F22E542B987D1F97862E7ADE58CCFF9BBE419F7D&profile=pass
+http://125.177.93.61:9981/stream/channelid/1594379433?ticket=25BE9F39E9BEDB26DBF245C1216CD42812B81FEF&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="SOUTH KOREA",Animax
+http://125.187.143.95:9981/stream/channelid/1522719322?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mblogthumb4.phinf.naver.net/20141002_263/anidong3282_1412185926781MMGVC_PNG/%BE%D6%B4%CF%BF%F8TV.png" group-title="SOUTH KOREA",AniOne
-http://182.218.222.224:9981/stream/channelid/978733227?ticket=3F0F8A2FC2047FE8B469E3B534DD8029F03059AD&profile=pass
+http://125.187.143.95:9981/stream/channelid/614131831?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="SOUTH KOREA",Aniplus
-http://114.207.77.30:9981/stream/channelid/1141059101?ticket=61112A5C2937A484A7DD3546A92CE591E47989BB&profile=pass
+http://125.187.143.95:9981/stream/channelid/1353155000?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (Opt-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -14336,43 +14339,43 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/1416_arte_tv_kr.png" group-title="SOUTH KOREA",Arte TV
-http://114.207.77.30:9981/stream/channelid/498316433?ticket=4C1CF5A7DBA9866CBFBC92A40A86643D4D30AA82&profile=pass
+http://125.187.143.95:9981/stream/channelid/844096598?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?idx=3&simg=2018022016290502131d307c1aeb0121131233211.jpg" group-title="SOUTH KOREA",Asia Economic TV
-http://114.207.77.30:9981/stream/channelid/1171485604?ticket=C983EB281B259304B539F770F268EA2074FD3814&profile=pass
+http://125.187.143.95:9981/stream/channelid/354781054?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Asian_Paints_Logo.svg/1280px-Asian_Paints_Logo.svg.png" group-title="SOUTH KOREA",Asia M
 http://114.207.77.30:9981/stream/channelid/1934238229?ticket=7FFDD0A8DA3489493F87AB8A62FB76BE8A4C93E1&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Asian_Paints_Logo.svg/1280px-Asian_Paints_Logo.svg.png" group-title="SOUTH KOREA",Asia N
-http://114.207.77.30:9981/stream/channelid/188412887?ticket=9914F7AD1F5311F1CEE748926C559AE490BAC093&profile=pass
+http://125.187.143.95:9981/stream/channelid/614737459?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="SOUTH KOREA",AXN
-http://114.207.77.30:9981/stream/channelid/359624058?ticket=4F31118A784F8CEFEB43DA1E0E209BD6A90585E8&profile=pass
+http://125.187.143.95:9981/stream/channelid/1315215773?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="SOUTH KOREA",Baby TV
 http://114.207.77.30:9981/stream/channelid/798965485?ticket=061785EA1615D9A06CF5280CBFFD828AB5BB7188&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sweetness.ivyro.net/cj_enm/images/115_IMG.jpg" group-title="SOUTH KOREA",Baduk TV
-http://114.207.77.30:9981/stream/channelid/456873806?ticket=CF3F507A8E5271DA867CCD8E6859ABC69E074DFB&profile=pass
+http://125.187.143.95:9981/stream/channelid/417722619?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg" group-title="SOUTH KOREA",BBC Earth
-http://114.207.77.30:9981/stream/channelid/809596199?ticket=4B970214251A834F0727B3E31F97B5ECC9348D61&profile=pass
+http://125.187.143.95:9981/stream/channelid/1902555521?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bet.com/schedule/_jcr_content/image.large2x1image.dimg/__1536176170924__1401298083170/052714-BET-Logo-Upload-Test.jpg" group-title="SOUTH KOREA",BET
 http://114.207.77.30:9981/stream/channelid/122992123?ticket=4AF906B5F6E20B486C176FCF15BF0DD76DE47055&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/billiards_tv_kr.png" group-title="SOUTH KOREA",Billiards TV
-http://114.207.77.30:9981/stream/channelid/354693491?ticket=AA7D5A7254B49BD02BC66719F3A1883DB8A1165B&profile=pass
+http://125.187.143.95:9981/stream/channelid/1215572769?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="SOUTH KOREA",Boomerang
-http://114.207.77.30:9981/stream/channelid/346141513?ticket=C6B7991501BFB6382BF393F7A16EA594FEC05434&profile=pass
+http://125.187.143.95:9981/stream/channelid/2104020460?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.braintv.co.kr/intro/ci/img/01_img.gif" group-title="SOUTH KOREA",Brain TV
-http://114.207.77.30:9981/stream/channelid/1032644379?ticket=5A55B38787D3839734B9D088F75B58A543DD5296&profile=pass
+http://125.187.143.95:9981/stream/channelid/2083120776?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.characternews.co.kr/news/data/20180820/p1065573535610178_602_thum.png" group-title="SOUTH KOREA",Bravo Kids
-http://114.207.77.30:9981/stream/channelid/1996991480?ticket=EE9570483C25916AE06B34574D627A4A58AB9F30&profile=pass
+http://125.187.143.95:9981/stream/channelid/1123686084?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2017/10/31/AKR20171031089000848_03_i_P2.jpg" group-title="SOUTH KOREA",Bridge TV
 http://114.207.77.30:9981/stream/channelid/1278927534?ticket=58606E00592CB0FE87040D78BDFD210E8CA6C303&profile=pass
@@ -14381,7 +14384,7 @@ http://114.207.77.30:9981/stream/channelid/1278927534?ticket=58606E00592CB0FE870
 http://114.207.77.30:9981/stream/channelid/1835541041?ticket=951778EA77CF3A11D2468C342162C30AC047A6C6&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="SOUTH KOREA",Cartoon Network
-http://114.207.77.30:9981/stream/channelid/989010137?ticket=71586C0508928B2231D19932760677989ACB5C02&profile=pass
+http://125.187.143.95:9981/stream/channelid/2097296240?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.catchonco.com/wp-content/uploads/2019/01/cropped-CatchOn-Logo-Option-2.png" group-title="SOUTH KOREA",Catch On 2
 http://114.207.77.30:9981/stream/channelid/1103805713?ticket=BB176B542FDA12C64893E9C21D7E1D68B6C0F272&profile=pass
@@ -14393,103 +14396,109 @@ http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cchannel.com/images/cchannel_basic.jpg" group-title="SOUTH KOREA",C Channel
-http://114.207.77.30:9981/stream/channelid/1553104557?ticket=CDB34DAEA2AE66324257DD455AB136365CE5760D&profile=pass
+http://125.187.143.95:9981/stream/channelid/1026734198?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dongne.donga.com/wp-content/uploads/2011/05/%EC%B1%84%EB%84%90A2.jpg" group-title="SOUTH KOREA",Channel A
-http://114.207.77.30:9981/stream/channelid/528008143?ticket=D1674C1969C308D867EA20FAE0688DCA3F0A7F17&profile=pass
+http://125.177.93.61:9981/stream/channelid/599847549?ticket=C68127310446BF5A641649FCFE024DF7283D5492&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pds.joins.com/news/component/newsis/201507/01/NISI20150701_0011114245_web.jpg" group-title="SOUTH KOREA",Channel A Plus
-http://114.207.77.30:9981/stream/channelid/269737564?ticket=42E67DDCEADEE2F27B7246E2510AEF7B62993A7B&profile=pass
+http://125.187.143.95:9981/stream/channelid/1982932129?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://icon2.kisspng.com/20180719/caz/kisspng-logo-cntv-brand-symbol-kr-5b508641c7b176.143537861532003905818.jpg" group-title="SOUTH KOREA",Channel China
-http://114.207.77.30:9981/stream/channelid/651127425?ticket=D6C75FA0EFE9AEC1FD3636FAB1A74F7B90B0EBF9&profile=pass
+http://125.187.143.95:9981/stream/channelid/689259975?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://english.cj.net/images/cjBrand/list_enjoy/list_chcgv.png" group-title="SOUTH KOREA",Channel CGV
-http://114.207.77.30:9981/stream/channelid/1073560681?ticket=D05CEE4A29D4D4B1169236D1F0E0C45C676AAD7C&profile=pass
+http://114.207.77.30:9981/stream/channelid/1073560681?ticket=92777A08E5656938228A642E49A9807A39CCC79B&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://file.newswire.co.kr/data/datafile2/thumb_480/2006/03/2006031411423045170.12205100.jpg" group-title="SOUTH KOREA",Channel J
-http://114.207.77.30:9981/stream/channelid/1315124665?ticket=682546F9529084408FDF67FCF770EB7240B32AC6&profile=pass
+http://125.187.143.95:9981/stream/channelid/1950690283?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvTd8Hx.png" group-title="SOUTH KOREA",Channel U
-http://182.218.222.224:9981/stream/channelid/1129221984?ticket=A3083DBC517C31507B13374FD57E2350E6506FED&profile=pass
+http://125.187.143.95:9981/stream/channelid/380644065?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.asiatoday.co.kr/sp_img/090521_4a14db41565f0.jpg" group-title="SOUTH KOREA",Channel View
-http://114.207.77.30:9981/stream/channelid/63728747?ticket=43BA7329DBB8F9C68B64954D5FB330ED6DFAF35C&profile=pass
+http://125.187.143.95:9981/stream/channelid/438325645?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/687449232563830784/klYhGThn_400x400.png" group-title="SOUTH KOREA",Channel W
-http://114.207.77.30:9981/stream/channelid/1000844233?ticket=69BE7C59CA1A30FE7DA95DD48FA1BDCD934C576E&profile=pass
+http://125.187.143.95:9981/stream/channelid/1397072038?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ching.hyundaimedia.com/Contents/C/images/header/default_logo.jpg" group-title="SOUTH KOREA",Ching
 http://114.207.77.30:9981/stream/channelid/373241966?ticket=3D4369889D2F26CB47C00C2A0D375FCDFFC1A86B&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://es-teem.co.kr/images/graphic/36_img01.jpg" group-title="SOUTH KOREA",CineF
-http://114.207.77.30:9981/stream/channelid/1672540541?ticket=3FF4D85611D3DC38036069E23E0D0C3DDAA4C115&profile=pass
+http://125.187.143.95:9981/stream/channelid/1689096983?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8Nx5cfW9uU.jpg" group-title="SOUTH KOREA",CJB SBS
 http://121.78.118.51:1935/live/tv/tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://newsimg.hankookilbo.com/2018/04/24/201804241692300514_1.jpg" group-title="SOUTH KOREA",CJO Shopping
-http://114.207.77.30:9981/stream/channelid/2073220084?ticket=431525BD50C06E4698EF4172B2FBDB20D5A10F9C&profile=pass
+http://125.177.93.61:9981/stream/channelid/1032615103?ticket=35718B5A57B408AB9773816E20CB3B48C1BF2AFC&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://slw.co.kr/default/img/join_120.png" group-title="SOUTH KOREA",CJO Shopping Plus
-http://114.207.77.30:9981/stream/channelid/937891506?ticket=EE7D404FD15E2A0B323CDFAAF12C1E0F34CABC71&profile=pass
+http://125.177.93.61:9981/stream/channelid/2070823340?ticket=01247DABCC1481126F002ED0CA747CC0EBB4D2B2&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SOUTH KOREA",CMC
 http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cntv.co.kr/images/widgets/cn_d.jpg" group-title="SOUTH KOREA",CNTV
-http://49.168.59.96:9981/stream/channelid/653143362?ticket=38C328E5470507AD8C9DFD890473B9A85B21E917&profile=pass
+http://125.177.93.61:9981/stream/channelid/871854129?ticket=0A20364B65A270538D6553BD8F7F0C3A2ECBD429&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000178884334/653912fd8936eb181d12def7a274a9ab.png" group-title="SOUTH KOREA",Comedy TV
-http://110.8.204.200:9981/stream/channelid/539226633?profile=pass
+http://125.187.143.95:9981/stream/channelid/842288836?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000121628819/5b57273b302f4f2787c2ffa6f97d6abc_400x400.png" group-title="SOUTH KOREA",Consumer TV
-http://114.207.77.30:9981/stream/channelid/1420218169?ticket=80C75B7AFCD59C44A8D31E067271BCDB328A2E6A&profile=pass
+http://125.187.143.95:9981/stream/channelid/42825091?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/10/COOK_BrandLogo_Black_US_master-rev-1.png" group-title="SOUTH KOREA",Cook TV
 http://114.207.77.30:9981/stream/channelid/668234123?ticket=846381A6087BB6E184110552243D577B768A1DB5&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/Dgr4QXTVQAAmiBe.jpg" group-title="SOUTH KOREA",Cube TV
-http://114.207.77.30:9981/stream/channelid/904803833?ticket=B7FD08774196ACA2490858D21714111CA06D3788&profile=pass
+http://114.207.77.30:9981/stream/channelid/904803833?ticket=B7834AFD8701831974BA44AAC05F2F1511779FAB&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.newspim.com/news/2016/02/05/1602051334058700.jpg" group-title="SOUTH KOREA",Daekyo TV
-http://114.207.77.30:9981/stream/channelid/947810413?ticket=EE44E31DBEAEF108FEE23D6DA936C8C8999A097E&profile=pass
+http://125.187.143.95:9981/stream/channelid/1930549875?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets-cdn.everyon.co.kr/images/ch_ott_img/725.jpg" group-title="SOUTH KOREA",Daily Economic TV
+http://125.187.143.95:9981/stream/channelid/117070389?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.satlogo.com/hires/dd/dia_tv_kr.png" group-title="SOUTH KOREA",DIA TV
-http://114.207.77.30:9981/stream/channelid/1208036100?ticket=CE5BE6BEB63286012BD68AB68976C5B01A30357A&profile=pass
+http://114.207.77.30:9981/stream/channelid/1208036100?ticket=31D37939CB6B915E8735A6AA1743D056BCEDE58F&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="SOUTH KOREA",Discovery Channel
 http://114.207.77.30:9981/stream/channelid/1088447624?ticket=30DF89EEB2899F64990C1DF5ADF42210EC252C41&profile=pass
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="SOUTH KOREA",Disney Channel
+http://125.187.143.95:9981/stream/channelid/393175169?profile=pass
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="SOUTH KOREA",Disney Jr.
-http://114.207.77.30:9981/stream/channelid/528212448?ticket=F49ED230DE6170AE456890FCB9A82B683984056D&profile=pass
+http://125.187.143.95:9981/stream/channelid/317136693?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.incable.co.kr/news/photo/201707/49753_10249_2746.jpg" group-title="SOUTH KOREA",Docu One
-http://114.207.77.30:9981/stream/channelid/2021957532?ticket=1AE7C96BCFB093DB64E4BF78D68E360C5CA2FA6C&profile=pass
+http://125.187.143.95:9981/stream/channelid/1902555521?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="SOUTH KOREA",Dog TV
-http://114.207.77.30:9981/stream/channelid/1926513220?ticket=2DEB86ED75EAA032A71E40FA77DBDAEEA70EDEB9&profile=pass
+http://114.207.77.30:9981/stream/channelid/1926513220?ticket=81E4BE4829469AB4390FF54F8BEC28B74D8AEC67&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.swisstext.org/img/2017/partner/logo-d-one.png" group-title="SOUTH KOREA",D One
-http://182.218.222.224:9981/stream/channelid/1833875938?ticket=EBC7E144652986E21F8825F7E0ACCC20B9B0BFF0&profile=pass
+http://125.187.143.95:9981/stream/channelid/261064708?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/610609302324183041/LrblJWm5_400x400.jpg" group-title="SOUTH KOREA",Donga TV
-http://114.207.77.30:9981/stream/channelid/1118998?ticket=9986F2D5AE7B943FEFEB11E6C43FECB70C67B4AB&profile=pass
+http://125.187.143.95:9981/stream/channelid/1229926950?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.zdnet.co.kr/2011/01/28/PGMrgukhrR6blSq94zAS.jpg" group-title="SOUTH KOREA",Drama Cube
-http://114.207.77.30:9981/stream/channelid/591323920?ticket=D1264E55C8B35051CD08F2189C5A0D291A83C7CC&profile=pass
+http://125.187.143.95:9981/stream/channelid/1542563087?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.etnews.com/photonews/1508/713354_20150811153903_458_0001.jpg" group-title="SOUTH KOREA",Drama H
-http://114.207.77.30:9981/stream/channelid/781247285?ticket=701A2DF06A3CA561CC6A96C0A250BD76F41FAB6E&profile=pass
+http://125.187.143.95:9981/stream/channelid/1447604802?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file2.nocutnews.co.kr/newsroom/image/2007/10/02175144210_60800010.jpg" group-title="SOUTH KOREA",Dramax
-http://110.8.204.200:9981/stream/channelid/877507833?profile=pass
+http://125.187.143.95:9981/stream/channelid/2078524290?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamworksanimation.com/wp-content/uploads/dtvlogo2.jpg" group-title="SOUTH KOREA",DreamWorks TV
-http://114.207.77.30:9981/stream/channelid/1067751646?ticket=4A2B40DFD5D5DB43EF28A7AE659C61C42B83CD14&profile=pass
+http://114.207.77.30:9981/stream/channelid/1067751646?ticket=AE50CAF24B15FF41B38396A5C354DCD21F258616&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/75/7541e486cdf0ee247040c4bda9e9c153.png" group-title="SOUTH KOREA",E!
-http://114.207.77.30:9981/stream/channelid/291455193?ticket=D45EE2EF7C8F182F5F8DDF3A51B0865EAEB15452&profile=pass
+http://114.207.77.30:9981/stream/channelid/291455193?ticket=87D08FF65C8E26007055BC2879245497191C4361&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.sinktv.com/wp-content/uploads/2016/04/ebs1-banner-1.jpg" group-title="SOUTH KOREA",EBS 1
 http://49.168.59.96:9981/stream/channelid/1132369094?ticket=B991512A77082594E472D863F9E389E30851E6A2&profile=pass
@@ -14513,19 +14522,25 @@ http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.interohrigin.com/upload/bizpartner/%EC%9D%B4%EC%B1%84%EB%84%90%EB%A1%9C%EA%B3%A0.jpg" group-title="SOUTH KOREA",E Channel
-http://182.218.222.224:9981/stream/channelid/1741706866?ticket=FDB90F061659D19A2DDFD33920A378634933F4BF&profile=pass
+http://125.187.143.95:9981/stream/channelid/1844209522?profile=pass
+
+#EXTINF:-1 tvg-logo="http://www.baiyerang.com/wp-content/uploads/2014/04/edaily.jpg" group-title="SOUTH KOREA",E Daily
+http://125.187.143.95:9981/stream/channelid/333565323?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_tv_kr.png" group-title="SOUTH KOREA",Edge TV
-http://114.207.77.30:9981/stream/channelid/547331620?ticket=1C8B78D1DE9E95A3E87B50603618DFCFE60C5B75&profile=pass
+http://125.187.143.95:9981/stream/channelid/665708564?profile=pass
 
 #EXTINF:-1 tvg-logo="http://edukacija.rs/wp-content/uploads/2015/04/eduTV-01-e1430231174787-1024x347.png" group-title="SOUTH KOREA",Edu TV
-http://114.207.77.30:9981/stream/channelid/1538218722?ticket=27ADC4BE7C4EF4395AD01C8C043A96C30CAC2DF0&profile=pass
+http://125.187.143.95:9981/stream/channelid/1903127583?profile=pass
 
 #EXTINF:-1 tvg-logo="http://gameset.co.kr/wp/wp-content/uploads/2018/12/%EC%9E%89%EA%B8%80%EB%A6%AC%EC%8B%9C-%EC%A0%ACEnglish-Gem-%EC%96%B4%ED%94%8C-%EC%A0%95%EB%B3%B4-1.jpg" group-title="SOUTH KOREA",English Gem
 http://114.207.77.30:9981/stream/channelid/1503188522?ticket=A3EE22296AD99823BB311FDD4A81AE4B4749D0BE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://kortv.vo.llnwd.net/v1/Images/appletv/images/Channel_logo/ETN.png" group-title="SOUTH KOREA",ETN
 http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kortv.vo.llnwd.net/v1/Images/appletv/images/Channel_logo/eventtv.png" group-title="SOUTH KOREA",Event TV
+http://125.187.143.95:9981/stream/channelid/1925937238?profile=pass
 
 #EXTINF:-1 group-title="SOUTH KOREA",Family Movie TV
 http://183.104.41.77:9981/stream/channelid/836082422?ticket=217E608B740B02C3B3D45531E660B57290F29BFA&profile=pass
@@ -14534,19 +14549,19 @@ http://183.104.41.77:9981/stream/channelid/836082422?ticket=217E608B740B02C3B3D4
 http://114.207.77.30:9981/stream/channelid/867627867?ticket=929B7AD79539FBB0579AD181B79C223FDB4754AD&profile=pass
 
 #EXTINF:-1 tvg-logo="http://chinatvinc.com/tv/wp-content/uploads/2012/07/fishing_tv_kr.png" group-title="SOUTH KOREA",Fishing TV
-http://114.207.77.30:9981/stream/channelid/2048140770?ticket=C2CAE41C993D953AC15636550AE4088386CA9070&profile=pass
+http://125.187.143.95:9981/stream/channelid/454488291?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU4ODYzODM3MDY2NDM4NDM3/fox_logoresized-bc.jpg" group-title="SOUTH KOREA",Fox
-http://114.207.77.30:9981/stream/channelid/1297321619?ticket=4B8CCEEFE75DB31E23197945C05369C39424A8E6&profile=pass
+http://125.187.143.95:9981/stream/channelid/1646284221?profile=pass
 
 #EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-04/FOXLife-Channel_Logo_16x91491838487776.png" group-title="SOUTH KOREA",Fox Life
 http://114.207.77.30:9981/stream/channelid/1954797052?ticket=F2852659092C2EC30854AF2FE91D6E88926AC342&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ftv_logo.svg/2000px-Ftv_logo.svg.png" group-title="SOUTH KOREA",FTV
-http://114.207.77.30:9981/stream/channelid/1159786974?ticket=1FAD47578A3DECB461D8B7A7AC7C566559037DC6&profile=pass
+http://125.187.143.95:9981/stream/channelid/1512119110?profile=pass
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/allyou/image/upload/h_247,w_482/v1529470339/6/62710/images/6745539/FunTV_logo-2-sm_xdqt2h.png" group-title="SOUTH KOREA",Fun TV
-http://182.218.222.224:9981/stream/channelid/689375400?ticket=AD13EFCCD31C9CF8403EF0E6BE5BB9A9D9504697&profile=pass
+http://125.187.143.95:9981/stream/channelid/191912989?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="SOUTH KOREA",FX
 http://114.207.77.30:9981/stream/channelid/390937883?ticket=64302E9C33BB08965B93B4CB53E55CB6B72AC8BC&profile=pass
@@ -14554,20 +14569,26 @@ http://114.207.77.30:9981/stream/channelid/390937883?ticket=64302E9C33BB08965B93
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/5/5f/G1-Logo.jpg" group-title="SOUTH KOREA",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/bmV0LmdheW90di5hbmRyb2lkLmV4b3BsYXllcl9zY3JlZW5fMV8xNTQ2NDA2ODI0XzAxMg/screen-1.jpg?h=800&fakeurl=1&type=.jpg" group-title="SOUTH KOREA",Gayo TV
+http://125.187.143.95:9981/stream/channelid/1775829935?profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/GMTV.svg/1200px-GMTV.svg.png" group-title="SOUTH KOREA",GM TV
 http://114.207.77.30:9981/stream/channelid/1125014876?ticket=A39A5020527B911FC48DA60BA3FA3AAD1C601155&profile=pass
 
 #EXTINF:-1 tvg-logo="http://image.fnnews.com/resource/media/image/2015/07/27/201507270937487326_l.jpg" group-title="SOUTH KOREA",GS My Shop
-http://114.207.77.30:9981/stream/channelid/412886359?ticket=3077D7D72ABE1282AD027DAC2B3FB63045678FDC&profile=pass
+http://125.177.93.61:9981/stream/channelid/1588359140?ticket=419EEBD14FBD1C436983DB0CB7601E889BADD69A&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.humuson.com/en/wp-content/uploads/sites/30/2015/03/gsshop.png" group-title="SOUTH KOREA",GS Shop
-http://114.207.77.30:9981/stream/channelid/601183272?ticket=43F38AF7D94E1C3A8FA6CA845E5FA8733EBD6F23&profile=pass
+http://125.177.93.61:9981/stream/channelid/1921679574?ticket=01B3AE251B4F9B9B0F286A34CF96A085E871F9C5&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13016496706356.png" group-title="SOUTH KOREA",GTV
-http://114.207.77.30:9981/stream/channelid/1401897837?ticket=AFC89433F71372BD8DB944BD454F55E2FFF3E664&profile=pass
+http://125.187.143.95:9981/stream/channelid/967531472?profile=pass
 
 #EXTINF:-1 tvg-logo="http://healthmedi.hyundaimedia.com/Contents/M/images/mobile/channel/bi.png" group-title="SOUTH KOREA",Health Medic TV
-http://114.207.77.30:9981/stream/channelid/1945134105?ticket=CEC1F914D8A3439EA2EBD0463E4BBD906B95002F&profile=pass
+http://125.187.143.95:9981/stream/channelid/475736170?profile=pass
+
+#EXTINF:-1 tvg-logo="http://highlighttv.co.kr/images/sns_link.png" group-title="SOUTH KOREA",Highlight TV
+http://125.187.143.95:9981/stream/channelid/1821458069?profile=pass
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3780414_logo_history_channel.png" group-title="SOUTH KOREA",History
 http://114.207.77.30:9981/stream/channelid/65198532?ticket=2FBA25B8DFBDD168D1436C9F72ED2F36F7607B7F&profile=pass
@@ -14579,73 +14600,73 @@ http://1.238.132.10:9981/stream/channelid/1070960806?profile=pass
 http://114.207.77.30:9981/stream/channelid/119807579?ticket=BAEFFA35888DA07CD3D19CBF22E6F5981B55FE5B&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.futurekorea.co.kr/news/photo/201611/34404_26961_4656.jpg" group-title="SOUTH KOREA",Hyundai Home Shopping
-http://114.207.77.30:9981/stream/channelid/562300611?ticket=EF5786B2542D86AADEEBFFFFEE04CD89A46242BD&profile=pass
+http://125.177.93.61:9981/stream/channelid/1834963284?ticket=7622789F025AF05B29639F1903E665788F9A6FE8&profile=pass
 
 #EXTINF:-1 tvg-logo="http://imgcdn.pandora.tv/ptv_img/everyon_img/ch_img/1215.jpg" group-title="SOUTH KOREA",Hyundai Home Shopping Plus Shop
-http://114.207.77.30:9981/stream/channelid/1053076068?ticket=A4AE59E9C70AF197F38FE1DA0E78601AC32C6597&profile=pass
+http://125.177.93.61:9981/stream/channelid/1292719685?ticket=402F918544B233771A967525741469DEBE0F0C34&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.maxfc.tv/new/data/05_01/IB_SPORTS_LOGO.jpg" group-title="SOUTH KOREA",IB Sports
-http://114.207.77.30:9981/stream/channelid/1456072596?ticket=BEA1B58CF9EFCD785478D4C8E6AAD6378BE0FF98&profile=pass
+http://125.187.143.95:9981/stream/channelid/1828174257?profile=pass
 
 #EXTINF:-1 tvg-logo="https://modo-phinf.pstatic.net/20150626_145/1435283346555fVhPJ_JPEG/mosaoEIiAU.jpeg" group-title="SOUTH KOREA",I'm Shopping
-http://114.207.77.30:9981/stream/channelid/1810878399?ticket=9B0B3759D8B19A9E2AC124C49B6CB9CA99E613B6&profile=pass
+http://125.177.93.61:9981/stream/channelid/61694499?ticket=F96D613441A144BB5AA273A3B15B1DAB5585BB67&profile=pass
 
 #EXTINF:-1 tvg-logo="http://assets-cdn.everyon.co.kr/images/ch_ott_img/263.jpg" group-title="SOUTH KOREA",INet TV
-http://182.218.222.224:9981/stream/channelid/460646868?ticket=383392E2CEBE1BF8C1B4A457DDFC210F39078728&profile=pass
+http://125.187.143.95:9981/stream/channelid/1803295751?profile=pass
 
 #EXTINF:-1 tvg-logo="http://next.kmug.co.kr/board/data/thumb_img/design/th53650%BD%BA%C5%A9%B8%B0%BC%A6_2015_04_29_%BF%C0%C8%C4_4.51.28.png" group-title="SOUTH KOREA",JEI English TV
-http://114.207.77.30:9981/stream/channelid/1803563119?ticket=E91082A5B20B66671B9576C0B76A2732B9F9630C&profile=pass
+http://125.187.143.95:9981/stream/channelid/1071919090?profile=pass
 
 #EXTINF:-1 tvg-logo="http://dh.aks.ac.kr/Edu/wiki/images/2/25/%EC%9E%AC%EB%8A%A5tv.jpg" group-title="SOUTH KOREA",JEI TV
-http://114.207.77.30:9981/stream/channelid/590788217?ticket=25B83AB209232C62CC1A29845AD9DAA362D38173&profile=pass
+http://125.187.143.95:9981/stream/channelid/1475343022?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.jjctv.co.kr/img_up/shop_pds/tvjjc/farm/ji-bang-ja-chitv-ro-go14618311661.png" group-title="SOUTH KOREA",JJC TV
 http://114.207.77.30:9981/stream/channelid/308081143?ticket=507224786F20F725E6C7AA4F4943E9EB51B018A7&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1200px-JTBC_logo.svg.png" group-title="SOUTH KOREA",JTBC
-http://114.207.77.30:9981/stream/channelid/574898215?ticket=5977EF58A45DA7FB4AB3F6AF5B363B6078E2BC33&profile=pass
+http://125.177.93.61:9981/stream/channelid/284804798?ticket=BA63F8004E6FD3A52EB032439AC8E94CC0EEF2C7&profile=pass
 
 #EXTINF:-1 tvg-logo="http://res.heraldm.com/phpwas/restmb_jhidxmake.php?idx=5&simg=201602151709287913183_20160215170954_01.jpg" group-title="SOUTH KOREA",JTBC2
-http://182.218.222.224:9981/stream/channelid/1203388876?ticket=0276A243E39212DE3668E9CF08BCFC2DA0928A9C&profile=pass
+http://125.187.143.95:9981/stream/channelid/503134747?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jtbc3sports.png/970px-Jtbc3sports.png" group-title="SOUTH KOREA",JTBC3 Fox Sports
-http://114.207.77.30:9981/stream/channelid/1290129334?ticket=5C3A7BB1D9BFC6E9DE66495F91E43B1FC5BF34F1&profile=pass
+http://125.187.143.95:9981/stream/channelid/2072534887?profile=pass
 
 #EXTINF:-1 tvg-logo="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2018/04/20/6QrJ7qE0q2mS636598138591311618.jpg" group-title="SOUTH KOREA",JTBC4
-http://114.207.77.30:9981/stream/channelid/1448060698?ticket=354E25046AC8D029BF92E233E5132C8C99F351BA&profile=pass
+http://125.187.143.95:9981/stream/channelid/1782403283?profile=pass
 
 #EXTINF:-1 tvg-logo="http://imgnews.naver.net/image/025/2015/01/07/htm_20150107141321c010c011_99_20150107141502.jpg" group-title="SOUTH KOREA",JTBC Golf
-http://114.207.77.30:9981/stream/channelid/17336183?ticket=74946EEBABA4606FE4E639E471DE088A5AE66520&profile=pass
+http://125.187.143.95:9981/stream/channelid/1163034024?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="SOUTH KOREA",K+
 http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/3281183349/132f4b4e10436a89311c3396ad511e37.png" group-title="SOUTH KOREA",K Baduk
-http://114.207.77.30:9981/stream/channelid/1526980754?ticket=35C272E8F9E380AD2E359F88E2D5DB847E12AA59&profile=pass
+http://125.187.143.95:9981/stream/channelid/304714776?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/220px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="SOUTH KOREA",KBC
 http://49.168.59.96:9981/stream/channelid/2140198122?ticket=04DC0A793DCE1D4C027B5DB87D1604488DA8DF2C&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png" group-title="SOUTH KOREA",KBS 1
-http://114.207.77.30:9981/stream/channelid/1711541250?ticket=A2545DF89F2FE003AA921A2861B7607765728D82&profile=pass
+http://125.177.93.61:9981/stream/channelid/323758222?ticket=E52D0044C7B62942D116AF58BCE49B4E01D30C4C&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 2
-http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+http://125.177.93.61:9981/stream/channelid/1029034225?ticket=36863C491000EAA7549CE5578B10042343C23D96&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1260259770/___.png" group-title="SOUTH KOREA",KBS Drama
-http://49.168.59.96:9981/stream/channelid/1103672558?ticket=26FE3B26E832B7750372AFB666152716213274BB&profile=pass
+http://125.177.93.61:9981/stream/channelid/412491900?ticket=6553CF0E70985B92A8BD945625786BB337C618C9&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.im/wp-content/uploads/2014/04/KBS-Joy-HD-live.jpg" group-title="SOUTH KOREA",KBS Joy
-http://114.207.77.30:9981/stream/channelid/1490978220?ticket=BFECEB0DB87F25AF772D9F523AB26B4D3C2909BD&profile=pass
+http://125.187.143.95:9981/stream/channelid/405932489?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/KBS_Kids.png" group-title="SOUTH KOREA",KBS Kids
-http://182.218.222.224:9981/stream/channelid/379778715?ticket=04847ED70375246360847D9B65612587F485D4E4&profile=pass
+http://125.187.143.95:9981/stream/channelid/979478502?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh6.googleusercontent.com/-o7HMfwF_TwY/UfvCMNXKI_I/AAAAAAAAAtg/UNne_88gWlM/h1600/kbs+n+sports.jpg" group-title="SOUTH KOREA",KBS N Sports
-http://114.207.77.30:9981/stream/channelid/1296189149?ticket=BF8A8E4353A5FA706F1259F1166C0046CA16C37E&profile=pass
+http://125.187.143.95:9981/stream/channelid/1037424173?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sinktv.com/wp-content/uploads/2016/11/kbs-w-banner.jpg" group-title="SOUTH KOREA",KBS W
-http://114.207.77.30:9981/stream/channelid/1703287767?ticket=7E39BB8807C360553A838296EA28FA67492E5FC3&profile=pass
+http://125.187.143.95:9981/stream/channelid/109131869?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2000px-KBS_World_%282009%29.svg.png" group-title="SOUTH KOREA",KBS World
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
@@ -14654,70 +14675,76 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u
 http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets-cdn.everyon.co.kr/images/ch_ott_img/31.jpg" group-title="SOUTH KOREA",K Force TV
-http://114.207.77.30:9981/stream/channelid/1559408207?ticket=CDB0DC7F0E94907B138C05D625041337B21772FA&profile=pass
+http://125.187.143.95:9981/stream/channelid/2036795499?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/a3Iua2lkc2xhbmQuc2luZ2loYW5uYXJhdHZfc2NyZWVuXzBfMTU1MDYwODUzMV8wMTk/screen-0.jpg?h=800&fakeurl=1&type=.jpg" group-title="SOUTH KOREA",Kidsland TV
+http://125.187.143.95:9981/stream/channelid/552145151?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png" group-title="SOUTH KOREA",KNN
 http://183.104.41.77:9981/stream/channelid/993019127?ticket=7C8EDBB1AC85CF35A471FFC2C69F35A6E274E698&profile=pass
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://board.jinhak.com/BoardV1/Upload/Job/Company/CI/118756.jpg" group-title="SOUTH KOREA",Korea Business News
+http://125.187.143.95:9981/stream/channelid/642833841?profile=pass
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.babytimes.co.kr/news/photo/201508/20150831091847_3294.jpg" group-title="SOUTH KOREA",K Shopping
-http://183.104.41.77:9981/stream/channelid/1922630364?ticket=8AA3C843751A6BA426DE8E4A7C3B31C48D99E3D5&profile=pass
+http://125.187.143.95:9981/stream/channelid/1756621078?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/598037549928480768/1ADCezPG_400x400.png" group-title="SOUTH KOREA",K Star
-http://114.207.77.30:9981/stream/channelid/867474102?ticket=C54754940F54EF0840DE9B2E168F89F22E5F704F&profile=pass
+http://125.187.143.95:9981/stream/channelid/416814454?profile=pass
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yUk2RhO.png" group-title="SOUTH KOREA",KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kukitv.co.kr/img/logo_img/main_logo.gif" group-title="SOUTH KOREA",Kuki TV
-http://114.207.77.30:9981/stream/channelid/770672396?ticket=FA309369EAA26822CB229D16B12436240DA36848&profile=pass
+http://125.187.143.95:9981/stream/channelid/1435279145?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ltn.kr/news/photo/201610/432_290_385.png" group-title="SOUTH KOREA",Law TV
 http://114.207.77.30:9981/stream/channelid/192096674?ticket=1BA1BCBECB219E76860B90E9108185420D0D2AD2&profile=pass
 
 #EXTINF:-1 tvg-logo="https://play.milifetime.tv/assets/icon/logo-lif.png" group-title="SOUTH KOREA",Lifetime
-http://114.207.77.30:9981/stream/channelid/968035260?ticket=F16B11B646800DD4EFD81B14D4732A1937B9A6BE&profile=pass
+http://125.187.143.95:9981/stream/channelid/373600568?profile=pass
 
 #EXTINF:-1 tvg-logo="http://img77.dreamwiz.net/20180503/b/n/R/bnRid1A_o.jpg" group-title="SOUTH KOREA",Lotte Homeshopping
-http://114.207.77.30:9981/stream/channelid/19055495?ticket=3DC0C8A09B4520F27E59781983C0BDA59311CB59&profile=pass
+http://125.177.93.61:9981/stream/channelid/622608252?ticket=20F629EA4A9E6D2B7A06DC9374CCFF66DF2BEF9D&profile=pass
 
 #EXTINF:-1 tvg-logo="https://media.cdnandroid.com/f1/69/ca/df/imagen-ee-ee-i-i-i-lotte-onetv-ee-ee-i-i-ee-0big.jpg" group-title="SOUTH KOREA",Lotte OneTV
-http://125.177.93.61:9981/stream/channelid/827105165?ticket=1CDF28D145B4DCD09338C3E50E7271C044402CC7&profile=pass
+http://125.177.93.61:9981/stream/channelid/950972624?ticket=8CE5A88ECD1E779FF3F2EFDCFC08121301874079&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg" group-title="SOUTH KOREA",MBC
-http://114.207.77.30:9981/stream/channelid/1855808230?ticket=8E6A7C0DABC766548573356BC695BF7A70F4B90E&profile=pass
+http://125.177.93.61:9981/stream/channelid/1469716432?ticket=9F294F4E467AFD67B58B3AC92CFF039257D146F4&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.sorimon.com/image/channel/MBC_DRAMANET@4x.png" group-title="SOUTH KOREA",MBC Drama
-http://110.8.204.200:9981/stream/channelid/916170822?profile=pass
+http://125.187.143.95:9981/stream/channelid/2115931299?profile=pass
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/drama/images/a/a6/Aa4e3a5c42b7479e8ecab1f39982b97d_25pDJ3H3frNn.jpg" group-title="SOUTH KOREA",MBC Every1
-http://114.207.77.30:9981/stream/channelid/1760419383?ticket=BACE47EAFC539A476DECB205D21C576AAF2C94DD&profile=pass
+http://125.177.93.61:9981/stream/channelid/426830211?ticket=982711A2813BC75876A7F9BD5178A4EA38837D52&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/MBC-MUSIC-LOGO.jpeg" group-title="SOUTH KOREA",MBC Music
-http://110.8.204.200:9981/stream/channelid/1797704665?profile=pass
+http://125.187.143.95:9981/stream/channelid/1571011292?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.mbcnet.co.kr/design/images/common/main_ban1_20190118.jpg" group-title="SOUTH KOREA",MBC Net
-http://114.207.77.30:9981/stream/channelid/559380151?ticket=3E7C8F74A94FFD8AE0C65AD314B7A58CD46CA8CE&profile=pass
+http://125.187.143.95:9981/stream/channelid/2037784949?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg" group-title="SOUTH KOREA",MBC On
-http://182.218.222.224:9981/stream/channelid/1678779072?ticket=D18B60B8A7A21484109E3C61468B5634936AE460&profile=pass
+http://125.187.143.95:9981/stream/channelid/493011819?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mbc_kr_sports_plus.png" group-title="SOUTH KOREA",MBC Sports+
-http://114.207.77.30:9981/stream/channelid/6711915?ticket=4E89F032CEF21C0D80F595DFABF020DFB575F9CF&profile=pass
+http://125.187.143.95:9981/stream/channelid/2077164728?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBN_Channel_Logo.svg.png" group-title="SOUTH KOREA",MBN
-http://49.168.59.96:9981/stream/channelid/1832168707?ticket=42A625B96D05EE5922288DFC9EBAA23F6D6C2901&profile=pass
+http://125.177.93.61:9981/stream/channelid/1944928050?ticket=8D86319CA753301B6EAB1C0C7E93CEA67477E4D9&profile=pass
 
 #EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/mbnplus.jpg" group-title="SOUTH KOREA",MBN Plus
-http://114.207.77.30:9981/stream/channelid/1836191297?ticket=FFCC61F4333D065BE7931F9B9136A0509CE9CC01&profile=pass
+http://125.187.143.95:9981/stream/channelid/198353900?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="SOUTH KOREA",Mnet
 http://199.21.149.42:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://file.gamejob.co.kr/Co/Photo/Image_View_Original.asp?FN=2011\7\GJ_Co_kmhgame_12011071322002.jpg" group-title="SOUTH KOREA",Mplex
-http://114.207.77.30:9981/stream/channelid/822606514?ticket=F1BC75CC36633C36AA6767867A45B8A4662B5048&profile=pass
+http://125.187.143.95:9981/stream/channelid/645201411?profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/922757546359668737/RQ6AOaw-.jpg" group-title="SOUTH KOREA",Mountain TV
-http://114.207.77.30:9981/stream/channelid/2044025207?ticket=0426BEAB7819FE297062E4686C06A916C6CCDD0F&profile=pass
+http://125.187.143.95:9981/stream/channelid/1944918247?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/mtnlive_koera.jpg" group-title="SOUTH KOREA",MTN
 http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
@@ -14732,175 +14759,184 @@ http://114.207.77.30:9981/stream/channelid/1768917625?ticket=0F8428932D75087C5D4
 http://114.207.77.30:9981/stream/channelid/530627224?ticket=564726C4E2F056DC5A0C85985F7886046190C290&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png" group-title="SOUTH KOREA",National Geographic
-http://114.207.77.30:9981/stream/channelid/1752228015?ticket=56A00C063DF7E96BF9215E7F226B92645B5DB5B1&profile=pass
+http://125.187.143.95:9981/stream/channelid/1205586102?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.inewspeople.co.kr/news/photo/201708/15913_24544_502.jpg" group-title="SOUTH KOREA",NATV
-http://114.207.77.30:9981/stream/channelid/554208037?ticket=A3D4FD9A3B99E113853A41BE7091363FB33615AD&profile=pass
+http://125.187.143.95:9981/stream/channelid/1348718604?profile=pass
 
 #EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_flat_rgb.png" group-title="SOUTH KOREA",NBC Golf
-http://114.207.77.30:9981/stream/channelid/2095634963?ticket=9F1299969A51B74DED96B2F355768A72FCEF185E&profile=pass
+http://125.187.143.95:9981/stream/channelid/1503858079?profile=pass
+
+#EXTINF:-1 tvg-logo="https://m.nongmin.com/upload/survey/201808/20180821161727768/20180821161727768.jpg" group-title="SOUTH KOREA",NBS
+http://125.187.143.95:9981/stream/channelid/1556672217?profile=pass
 
 #EXTINF:-1 group-title="SOUTH KOREA",New Movie TV
 http://183.104.41.77:9981/stream/channelid/1556296506?ticket=5C89F1504F1703B85B86BC0BFE5DD827EDC08B79&profile=pass
 
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/nick-nickelodeon-logo.jpg" group-title="SOUTH KOREA",Nickelodeon
-http://114.207.77.30:9981/stream/channelid/1073386845?ticket=C0E4CC326FD05ABE390960B1A6E044EB92779DAF&profile=pass
+http://125.187.143.95:9981/stream/channelid/981385571?profile=pass
 
 #EXTINF:-1 tvg-logo="http://mblogthumb3.phinf.naver.net/MjAxNzA5MDJfMTAy/MDAxNTA0MzUzODE4NTI1.oZTVGNH4chUbk9falSqZ0xDrjDvk7E1un1R1X-OjCm0g.OrttvMHSEQZkYP7AZoTvLqbr0gFitIWRomA4ITIQ4gIg.PNG.jibs_blog/%EB%82%98%EC%9A%B0%EC%A0%9C%EC%A3%BC_%EB%A1%9C%EA%B3%A0.png" group-title="SOUTH KOREA",Now Jeju TV
 http://114.207.77.30:9981/stream/channelid/1740765790?ticket=E8F110DCDF068CD5864BEF3976C655E70636105D&profile=pass
 
 #EXTINF:-1 tvg-logo="http://pr.nsmall.com/images/img/kakaoImg.jpg" group-title="SOUTH KOREA",NS Shop
-http://124.60.5.197:9981/stream/channelid/2013018139?ticket=A1D5DC6F94434B03A9FA7761A6C1706DB5F16DBA&profile=pass
+http://125.177.93.61:9981/stream/channelid/1783669150?ticket=E0BF1FF331342628AA675A12EAF072F954A32645&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.skylife.co.kr/upload/channel/201511/logo_nshopplus.PNG" group-title="SOUTH KOREA",NS Shop+
 http://114.207.77.30:9981/stream/channelid/1371450438?ticket=F919BB94AF5C95B830BF3E5D73373CFD3BDFBC1B&profile=pass
 
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/obs-gyeongin-tv-addfba8a-fc62-42dd-9276-f9d3c760481-resize-750.jpg" group-title="SOUTH KOREA",OBS
-http://114.207.77.30:9981/stream/channelid/1133830555?ticket=56FBE0CDB8441660B4CE93BF8414031E8B5B2B79&profile=pass
+http://125.177.93.61:9981/stream/channelid/655485452?ticket=6A89F3C93BB9D326CE36729D1CCB92EB30D6F7C9&profile=pass
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-OE71A6pkJ3I/VS1iULNTQzI/AAAAAAAAAO0/DDL6kJfZXxs/s1600/OBS%2BW.jpg" group-title="SOUTH KOREA",OBS W
-http://114.207.77.30:9981/stream/channelid/1459612430?ticket=49F99D439999635E63548BF5169DF576B83CDAE4&profile=pass
+http://125.187.143.95:9981/stream/channelid/477847391?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.dsdramas.com/wp-content/uploads/1995/03/OCN.png" group-title="SOUTH KOREA",OCN
 http://199.21.149.42:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14rrcc8t6au5h.cloudfront.net/2018/09/12142514/OGNLogo-Color.png" group-title="SOUTH KOREA",OGN
-http://114.207.77.30:9981/stream/channelid/1500224646?ticket=DF0EAEB899CF55EDCA3004988D90C79B72EB0BF9&profile=pass
+http://125.187.143.95:9981/stream/channelid/794406878?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/oo/o_live_kr.png" group-title="SOUTH KOREA",O'Live
-http://110.8.204.200:9981/stream/channelid/1990912334?profile=pass
+http://125.187.143.95:9981/stream/channelid/768210909?profile=pass
 
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/interest_poc/images/common/logo_onstyle.jpg" group-title="SOUTH KOREA",Onstyle
-http://114.207.77.30:9981/stream/channelid/697038345?ticket=595DCCA9D4EDB9A491CC5F8A31F2E484C6CA740A&profile=pass
+http://125.187.143.95:9981/stream/channelid/1722060600?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.flyontario.com/sites/default/files/ont-square-icon-white-thumb.jpg" group-title="SOUTH KOREA",ONT
 http://110.8.204.200:9981/stream/channelid/159445399?profile=pass
 
 #EXTINF:-1 tvg-logo="http://english.cj.net/images/cjCompany/affiliates/brand_otvn.png" group-title="SOUTH KOREA",O tvN
-http://110.8.204.200:9981/stream/channelid/430856449?profile=pass
+http://125.187.143.95:9981/stream/channelid/430739643?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.pinkfong.com/assets/img/logo_ko.png" group-title="SOUTH KOREA",Pinkfong TV
 http://183.104.41.77:9981/stream/channelid/353734877?ticket=650490D512C40DFCC1AC83567748EB55CAC1A920&profile=pass
 
 #EXTINF:-1 tvg-logo="http://contents.dt.co.kr/images/201710/2017101702109923811016[1].jpg" group-title="SOUTH KOREA",Play & Learn TV
-http://114.207.77.30:9981/stream/channelid/1091442767?ticket=EFC9E51F48DF36513B6B9D2EFC36E48360937E0E&profile=pass
+http://125.187.143.95:9981/stream/channelid/1257375319?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.polaristv.com/images/logo2.png" group-title="SOUTH KOREA",Polaris TV
-http://114.207.77.30:9981/stream/channelid/1612635594?ticket=7CD9ADEE59D806618F28BD691F10BE8D3703ED8B&profile=pass
+http://125.187.143.95:9981/stream/channelid/573424025?profile=pass
 
 #EXTINF:-1 tvg-logo="http://simage.lottemart.com/images/tru/contents/brand/logo/C00300020034_234x190.png" group-title="SOUTH KOREA",Pororo TV
 http://183.104.41.77:9981/stream/channelid/1401137695?ticket=9A5A01322C30AD228F49978B224FC0A5F3DFB341&profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2791789330/bca6b1e2ed9b653b6fcfc2d3aef2d17d_400x400.jpeg" group-title="SOUTH KOREA",Real TV
-http://114.207.77.30:9981/stream/channelid/1438138489?ticket=2620DF2CD386CBEC9EC3CEEA2A6BD511B2AA4B8C&profile=pass
+http://125.187.143.95:9981/stream/channelid/229354847?profile=pass
 
 #EXTINF:-1 tvg-logo="http://mblogthumb4.phinf.naver.net/20151008_295/lovemate76_1444288868067CWFYE_JPEG/2013_%C1%DF%C8%ADTV_LOGO_main.jpg" group-title="SOUTH KOREA",Real China TV
-http://114.207.77.30:9981/stream/channelid/894168482?ticket=29DD7578B64D26635CCD8F872ADD7B2CE14D7150&profile=pass
+http://125.187.143.95:9981/stream/channelid/644516023?profile=pass
 
 #EXTINF:-1 tvg-logo="http://mblogthumb3.phinf.naver.net/20160404_54/hap7710_1459761802047zkXDI_JPEG/%C5%E4%B8%B6%C5%E4%B7%CE%B0%ED2.JPG" group-title="SOUTH KOREA",R Tomato
 http://114.207.77.30:9981/stream/channelid/662960984?ticket=13D12DB2FAA86D34C6136F31B48ADF25EE351DF2&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="SOUTH KOREA",SBS
-http://114.207.77.30:9981/stream/channelid/1778048147?ticket=E8647B5104CF490888B4F1B0F306C934BAF141F0&profile=pass
+http://125.177.93.61:9981/stream/channelid/23777129?ticket=23EC1B18DBBB47AD14A54C44BFB9BF8F69151C48&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/SBS_CNBC_CI.svg.png" group-title="SOUTH KOREA",SBS CNBC
-http://182.218.222.224:9981/stream/channelid/1306440621?ticket=190F33F8941DF1E6FD36A3F008237C5F9E21EB99&profile=pass
+http://125.187.143.95:9981/stream/channelid/952859602?profile=pass
 
 #EXTINF:-1 tvg-logo="http://img2.sbs.co.kr/img/sbs_cms/PG/2017/09/11/PG65719207_w1280_h720.jpg" group-title="SOUTH KOREA",SBS FunE
-http://182.218.222.224:9981/stream/channelid/1776229563?ticket=2132369B2E1E7DAE490D50778DD794CD859CE2F5&profile=pass
+http://125.187.143.95:9981/stream/channelid/440148263?profile=pass
 
 #EXTINF:-1 tvg-logo="http://post.phinf.naver.net/20160530_219/sbsgolf11_1464575185403ENGNV_JPEG/sbsgolf11_6674121894901178331.jpg" group-title="SOUTH KOREA",SBS Golf
-http://114.207.77.30:9981/stream/channelid/1908245852?ticket=FAFD833E055924EB8A4457B99C3561E154F73811&profile=pass
+http://125.187.143.95:9981/stream/channelid/38471534?profile=pass
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-bZhefN0OHR0/W5NYbKNEF8I/AAAAAAAAA_M/BARDHRF1sP0nqZFdM5BdIoZZMd8oNOLKgCLcBGAs/s1600/SBS%2BMTV%2BKorea%2B-%2Bkpop%2Boppa%2Btv.jpg" group-title="SOUTH KOREA",SBS MTV
-http://110.8.204.200:9981/stream/channelid/461091222?profile=pass
+http://125.187.143.95:9981/stream/channelid/1972282067?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/SBS_Plus_logo.png/582px-SBS_Plus_logo.png" group-title="SOUTH KOREA",SBS Plus
-http://49.168.59.96:9981/stream/channelid/1100972960?ticket=C5307EA37275D261FBA41F928830AD3161CEF899&profile=pass
+http://125.177.93.61:9981/stream/channelid/1812245575?ticket=8E495696942190C9CF0C47081E4976792CA97DBB&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.sinktv.com/wp-content/uploads/2016/04/sbs-sports-banner.jpg" group-title="SOUTH KOREA",SBS Sports
-http://114.207.77.30:9981/stream/channelid/246839998?ticket=4939030711F27A7D36FBA59AC0EC1F4BEC39A9B9&profile=pass
+http://125.187.143.95:9981/stream/channelid/1249632989?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%EC%8A%A4%ED%81%AC%EB%A6%B0X_%EB%A1%9C%EA%B3%A0.jpg" group-title="SOUTH KOREA",Screen
-http://114.207.77.30:9981/stream/channelid/2032710003?ticket=94729C81E361F37E69E8AA881A3A5A2BEA873731&profile=pass
+http://125.187.143.95:9981/stream/channelid/505437987?profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/966568049066131456/GGuWswvq_400x400.jpg" group-title="SOUTH KOREA",Senior TV
 http://114.207.77.30:9981/stream/channelid/1815423085?ticket=D01DC5BA10BF4709F11947D99F19347E496FE69D&profile=pass
 
 #EXTINF:-1 tvg-logo="https://kmug.co.kr/data/file/design/data_logo_1307164314_%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9CTV.jpg" group-title="SOUTH KOREA",SEN
-http://114.207.77.30:9981/stream/channelid/937416882?ticket=7A3A978CF35A275D5B941F3950D8E0A4E6E7EA93&profile=pass
+http://125.187.143.95:9981/stream/channelid/587260528?profile=pass
 
 #EXTINF:-1 tvg-logo="http://idocoms.co.kr/files/thumbnails/476/600x400.crop.jpg" group-title="SOUTH KOREA",Shinsegae Shopping
-http://114.207.77.30:9981/stream/channelid/1703862436?ticket=A5CD50D1664AA3C86375B4615584C367313F4E96&profile=pass
+http://125.187.143.95:9981/stream/channelid/1511550138?profile=pass
 
 #EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/58169e1514dd97ef54e39ab6/581742af32229fad40d258c0_2015_Shopping%26T.jpg" group-title="SOUTH KOREA",Shopping NT
-http://114.207.77.30:9981/stream/channelid/1367032842?ticket=3E9E673AD09E434EFDB5FB48B68F535C6CEB516E&profile=pass
+http://125.177.93.61:9981/stream/channelid/1633450143?ticket=2816584A17A37936A82DF91D8EA85AE4B03FECAE&profile=pass
 
 #EXTINF:-1 tvg-logo="http://m.cafe-sultang.com/web/product/big/cafesultang_324.jpg" group-title="SOUTH KOREA",SK Stoa
-http://114.207.77.30:9981/stream/channelid/1831616252?ticket=816158FD96EDE847275C4E09326A848F10769E3F&profile=pass
+http://125.187.143.95:9981/stream/channelid/249514866?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.skylifetv.co.kr/images/logo/sky_Drama.png" group-title="SOUTH KOREA",SkyDrama
-http://114.207.77.30:9981/stream/channelid/986633937?ticket=E3176259A19B23E0EFD01A17E16CC8CF4AB68FC9&profile=pass
+http://125.187.143.95:9981/stream/channelid/1991586087?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.skylifetv.co.kr/images/logo/sky_PetPark.png" group-title="SOUTH KOREA",SkyPetPark
-http://114.207.77.30:9981/stream/channelid/537238051?ticket=AE528180FD9C45C00E58898871BD04DD849378CF&profile=pass
+http://125.187.143.95:9981/stream/channelid/1680500244?profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937583753165197312/eZezn2Vk_400x400.jpg" group-title="SOUTH KOREA",SkySports
-http://110.8.204.200:9981/stream/channelid/501061977?profile=pass
+http://125.187.143.95:9981/stream/channelid/33986583?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.skylifetv.co.kr/upload/channel/filee7bee3d9-68bf-47fc-9c49-d9a20acd1eae.jpg" group-title="SOUTH KOREA",SkyTravel
-http://114.207.77.30:9981/stream/channelid/691365607?ticket=B3E14BEED64393AB995E7E8BC8CC087AE5378BD3&profile=pass
+http://125.187.143.95:9981/stream/channelid/1846157890?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.spotv.net/images/intro/intro_logo.png" group-title="SOUTH KOREA",SpoTV
-http://114.207.77.30:9981/stream/channelid/244267229?ticket=C5AA92844F9C41FA9D2677F48622BA1ACE105C5E&profile=pass
+http://125.187.143.95:9981/stream/channelid/581654371?profile=pass
 
 #EXTINF:-1 tvg-logo="http://madpia.net/tv/img/spotv2.gif" group-title="SOUTH KOREA",SpoTV 2
-http://114.207.77.30:9981/stream/channelid/1910405708?ticket=ED62994070696E9C00C2B58B3D45107E5469517A&profile=pass
+http://125.187.143.95:9981/stream/channelid/1182245075?profile=pass
 
 #EXTINF:-1 tvg-logo="http://image.fnnews.com/resource/media/image/2014/02/26/201402261250298427_l.jpg" group-title="SOUTH KOREA",SpoTV +
-http://114.207.77.30:9981/stream/channelid/1552368926?ticket=A872608D13C712EE651C633EBF155D61DC21EF53&profile=pass
+http://125.187.143.95:9981/stream/channelid/1528106660?profile=pass
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/f/fb/SPOTV_Games_2.png" group-title="SOUTH KOREA",SpoTV Games
-http://114.207.77.30:9981/stream/channelid/753711961?ticket=38B3A7124B06B18F441206FD1E77BD97D0004272&profile=pass
+http://125.187.143.95:9981/stream/channelid/392384424?profile=pass
 
 #EXTINF:-1 tvg-logo="http://ph.spotvnews.co.kr/news/photo/201703/115021_142173_3416.jpg" group-title="SOUTH KOREA",SpoTV On
-http://114.207.77.30:9981/stream/channelid/1403080037?ticket=CC0D0C9C5B683A1104A7D4AEE657841AD8AD2456&profile=pass
+http://125.187.143.95:9981/stream/channelid/688080474?profile=pass
+
+#EXTINF:-1 tvg-logo="https://image.fmkorea.com/files/attach/new/20180811/486616/12331560/1207001821/1d6bcdc2246108917b718c7d568ea316.png" group-title="SOUTH KOREA",SpoTV On 2
+http://125.187.143.95:9981/stream/channelid/285803900?profile=pass
 
 #EXTINF:-1 tvg-logo="http://imgcdn.pandora.tv/ptv_img/everyon_img/ch_img/38.jpg" group-title="SOUTH KOREA",STB
-http://114.207.77.30:9981/stream/channelid/1194474872?ticket=407C64EC3E6B78DFE2D0EF5CAD29EBE629AE098D&profile=pass
+http://125.187.143.95:9981/stream/channelid/1495625394?profile=pass
 
 #EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/classica/classica_moyenne_2.png.pagespeed.ce.ncKJSqN2U3.png" group-title="SOUTH KOREA",Stingray Classica
-http://114.207.77.30:9981/stream/channelid/1566132501?ticket=3248EEBFC52589DE8644EFCC5E0DF301CE7F4B9E&profile=pass
+http://114.207.77.30:9981/stream/channelid/1566132501?ticket=D9316F9E2EDF78ADF506941F46A82DEF464BADA8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://cmusic.stingray.com/themes/custom/cmusic/images/Stingray-C-music_TwitterCard.png" group-title="SOUTH KOREA",Stingray CMusic
-http://114.207.77.30:9981/stream/channelid/519252498?ticket=10983F5061C9C28F4F90D25E952E066DF683A388&profile=pass
+http://114.207.77.30:9981/stream/channelid/519252498?ticket=A5006189B3DCDDBA63A9528BCBDF00BB926065DD&profile=pass
 
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/interest_poc/images/common/logo_superaction.jpg" group-title="SOUTH KOREA",Super Action
-http://114.207.77.30:9981/stream/channelid/624896797?ticket=E30A963C7112BAF09FD7DDF8DAA257C7CB2062FC&profile=pass
+http://125.187.143.95:9981/stream/channelid/1265413272?profile=pass
 
 #EXTINF:-1 tvg-logo="http://img.etnews.com/photonews/1712/1019513_20171201172816_183_0001.jpg" group-title="SOUTH KOREA",Talk Talk Kids Plus
-http://114.207.77.30:9981/stream/channelid/29887361?ticket=221751DC238713B3B7210E4FC0CB046B359870B9&profile=pass
+http://125.187.143.95:9981/stream/channelid/307039410?profile=pass
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TBC_logo.svg/440px-TBC_logo.svg.png" group-title="SOUTH KOREA",TBC
 http://49.168.59.96:9981/stream/channelid/834013168?ticket=162FC48D912B315F66DC58E6A92C218BEBFE6701&profile=pass
 
 #EXTINF:-1 tvg-logo="https://m.tbs.seoul.kr/common/images/default/tbs_logo.jpg" group-title="SOUTH KOREA",TBS
-http://114.207.77.30:9981/stream/channelid/855538782?ticket=F71CBA78E41C2EFAC2DDF3334FF7ACE7039624F6&profile=pass
+http://125.187.143.95:9981/stream/channelid/1333669382?profile=pass
 
 #EXTINF:-1 tvg-logo="http://mblogthumb4.phinf.naver.net/20130611_275/tele7540_1370935100758vdUz0_JPEG/telenovela_logo_130130.jpg" group-title="SOUTH KOREA",Telenovela
-http://114.207.77.30:9981/stream/channelid/1196603504?ticket=C99E45CF83B22DAD8BEFB3CBCA95E84533ADCB1D&profile=pass
+http://125.187.143.95:9981/stream/channelid/1636500973?profile=pass
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/films-png-hd-app-icon-300.png" group-title="SOUTH KOREA",The Movie
-http://114.207.77.30:9981/stream/channelid/986350554?ticket=7E3F1FDCE5168F7A888215D1EE87B4629872207A&profile=pass
+http://125.187.143.95:9981/stream/channelid/816316234?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tomato_tv.png" group-title="SOUTH KOREA",Tomato TV
-http://182.218.222.224:9981/stream/channelid/1849631579?ticket=33ECD486B11BC7BA8AF70362FACCFA1F8AF10B89&profile=pass
+http://125.187.143.95:9981/stream/channelid/1941206372?profile=pass
+
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/interest_poc/images/common/logo_tooniverse.jpg" group-title="SOUTH KOREA",Tooniverse
+http://125.187.143.95:9981/stream/channelid/908282288?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="SOUTH KOREA",TV Chosun 2
-http://182.218.222.224:9981/stream/channelid/938797657?ticket=95F10276734DC8E559BE15571A8E3E6CCA6F8E22&profile=pass
+http://125.187.143.95:9981/stream/channelid/1447289294?profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.economytalk.kr/news/photo/201508/129224_8747_4746.jpg" group-title="SOUTH KOREA",tvM
 http://114.207.77.30:9981/stream/channelid/2103215198?ticket=89F5F86C1CBDE0D98FAD8B0F4B925E02B6596B27&profile=pass
@@ -14909,31 +14945,34 @@ http://114.207.77.30:9981/stream/channelid/2103215198?ticket=89F5F86C1CBDE0D98FA
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://file.bodnara.co.kr/logo/insidelogo.php?image=%2Fhttp%3A%2F%2Ffile.bodnara.co.kr%2Fwebedit%2Fnews%2F2014%2F1418901245-d1.jpg" group-title="SOUTH KOREA",U+ TV
-http://125.177.93.61:9981/stream/channelid/145460066?ticket=246739C747ADC2706B60E9E48126E9965A22D949&profile=pass
+http://125.177.93.61:9981/stream/channelid/145460066?ticket=F2D42D15D86F7CD93FE2D862D82852D3793BFB08&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.kinews.net/news/photo/201505/61482_73758_1226.jpg" group-title="SOUTH KOREA",UXN
-http://122.42.35.81:9981/stream/channelid/2000769859?profile=pass
+http://125.177.93.61:9981/stream/channelid/917833296?ticket=9D70192DF348B5E7C82820D3FB631CD238E3355B&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.wbcb.co.kr/image2006/logo.gif" group-title="SOUTH KOREA",WBC TV
-http://114.207.77.30:9981/stream/channelid/534506555?ticket=17BDA3931E7F72ECDF60856BE7CCEEEBA9FEBAB4&profile=pass
+http://125.187.143.95:9981/stream/channelid/1215904257?profile=pass
+
+#EXTINF:-1 tvg-logo="http://www.hanulan.or.kr/files/attach/images/134/194/096/5c260c4e136cc59e404acec0c475f161.jpg" group-title="SOUTH KOREA",WBS
+http://125.187.143.95:9981/stream/channelid/1917060813?profile=pass
 
 #EXTINF:-1 tvg-logo="http://m.w-shopping.co.kr/wshoppingImg.png" group-title="SOUTH KOREA",W Shopping
-http://183.104.41.77:9981/stream/channelid/2136005909?ticket=FED6C4705B52ECDD54A3965D660F5D689D64C12C&profile=pass
+http://125.187.143.95:9981/stream/channelid/1423259840?profile=pass
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/drama/images/d/d3/XtvN-LOGO.png" group-title="SOUTH KOREA",XtvN
-http://114.207.77.30:9981/stream/channelid/1784445429?ticket=0FC23FA2C01158D678418A4A16A9394C2283097F&profile=pass
+http://125.187.143.95:9981/stream/channelid/1177777692?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%EB%B0%A9%EC%86%A1_BI.png" group-title="SOUTH KOREA",Yes TV
-http://114.207.77.30:9981/stream/channelid/2041980416?ticket=4FB3782C09503E083A5C1955A2AB4327858BC0BC&profile=pass
+http://125.187.143.95:9981/stream/channelid/1819801877?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/9/98/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV_%EB%A1%9C%EA%B3%A0.png" group-title="SOUTH KOREA",Yonhap News TV
-http://114.207.77.30:9981/stream/channelid/1188623002?ticket=EE8715A1FDAB7BEB936BC5EF95794232F8C0DD8F&profile=pass
+http://125.177.93.61:9981/stream/channelid/1103894191?ticket=838BBDC828E837B4E7C98E126DC63C625F8928D0&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title="SOUTH KOREA",YTN
-http://114.207.77.30:9981/stream/channelid/786107411?ticket=0B31E76254EBEC0E834E3F70715A60BDE483D431&profile=pass
+http://125.177.93.61:9981/stream/channelid/2049646202?ticket=7EAE27936EB8D2AE342FC7E1D1BD91963A14EA25&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://100vids.com/img/channel/UCDww6ExpwQS0TzmREIOo40Q.jpg" group-title="SOUTH KOREA",YTN Life
-http://114.207.77.30:9981/stream/channelid/1492796192?ticket=C69C8884875090A7B48E0E9E2D8BE575B719554C&profile=pass
+http://125.187.143.95:9981/stream/channelid/640194675?profile=pass
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
