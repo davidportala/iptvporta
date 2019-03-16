@@ -450,6 +450,9 @@ https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="USA",Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/921406126238896133/CBoI4cQj_400x400.jpg" group-title="USA",Big Ten Network Big
+http://161.0.157.50/PLTV/88888888/224/3221226177/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="USA",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
@@ -1588,6 +1591,9 @@ http://line.myott.net:80/live/1234/4321/51727.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Logo_MusiquePlus.svg/1200px-Logo_MusiquePlus.svg.png" group-title="CANADA",MusiquePlus
 http://line.myott.net:80/live/1234/4321/51726.ts
+
+#EXTINF:-1 tvg-logo="https://flixed.io/wp-content/uploads/2017/11/nbcs_stacked_fc_pos.png" group-title="CANADA",NBC Sports Canada
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ntv.ca/logos/NTV_Large.png" group-title="CANADA",NTV
 http://line.myott.net:80/live/1234/4321/51692.ts
@@ -3177,10 +3183,10 @@ http://line.myott.net:80/live/1234/4321/762.ts
 http://line.myott.net:80/live/1234/4321/69024.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="NETHERLANDS",Cartoon Network
-http://line.myott.net:80/live/1234/4321/760.ts
+http://ciciturk.nl:8000/live/TEST/TEST/14.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/comedy-central-featured.jpg" group-title="NETHERLANDS",Comedy Central
-http://line.myott.net:80/live/1234/4321/759.ts
+http://ciciturk.nl:8000/live/TEST/TEST/22.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="NETHERLANDS",Comedy Central Extra
 http://line.myott.net:80/live/1234/4321/3337.ts
@@ -3195,7 +3201,7 @@ http://line.myott.net:80/live/1234/4321/15572.ts
 https://content-ausc5.uplynk.com/3d77e548e4504e7cbb242c43b417850c/f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="NETHERLANDS",Discovery Channel
-http://line.myott.net:80/live/1234/4321/767.ts
+http://ciciturk.nl:8000/live/TEST/TEST/11.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="NETHERLANDS",Discovery Science
 http://line.myott.net:80/live/1234/4321/2644.ts
@@ -3234,34 +3240,34 @@ http://line.myott.net:80/live/1234/4321/15562.ts
 https://media.streamone.net/hlslive/account=HQQBFe-bAB4S/livestream=lwQBr4-YDU8y/events(1513813894)/live-audio_1=96000-video=1904000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/1200px-Film1_Action_SVG.svg.png" group-title="NETHERLANDS",Film1 Action
-http://line.myott.net:80/live/1234/4321/783.ts
+http://ciciturk.nl:8000/live/TEST/TEST/16.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Film1_Spotlight.jpg" group-title="NETHERLANDS",Film1 Drama
-http://line.myott.net:80/live/1234/4321/2647.ts
+http://ciciturk.nl:8000/live/TEST/TEST/15.ts
 
 #EXTINF:-1 tvg-logo="https://nederlandsmedianieuws.nl/images/2017/7/LogoFilm1.jpg" group-title="NETHERLANDS",Film1 Europe
 http://line.myott.net:80/live/1234/4321/56973.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Film1_Comedy_Kids.jpg" group-title="NETHERLANDS",Film1 Family
-http://line.myott.net:80/live/1234/4321/2648.ts
+http://ciciturk.nl:8000/live/TEST/TEST/18.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Film1_Premiere.jpg" group-title="NETHERLANDS",Film1 Premiere
-http://line.myott.net:80/live/1234/4321/785.ts
+http://ciciturk.nl:8000/live/TEST/TEST/17.ts
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDY4Nzg4NDcwNTg5MDk0/fox_logoresized-bc.jpg" group-title="NETHERLANDS",Fox
 http://line.myott.net:80/live/1234/4321/755.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="NETHERLANDS",Fox Sports 1
-http://line.myott.net:80/live/1234/4321/2956.ts
+http://ciciturk.nl:8000/live/TEST/TEST/46.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="NETHERLANDS",Fox Sports 2
-http://line.myott.net:80/live/1234/4321/776.ts
+http://ciciturk.nl:8000/live/TEST/TEST/12.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="NETHERLANDS",Fox Sports 3
 http://line.myott.net:80/live/1234/4321/777.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Twd9ggG.jpg" group-title="NETHERLANDS",Fox Sports 4
-http://line.myott.net:80/live/1234/4321/778.ts
+http://ciciturk.nl:8000/live/TEST/TEST/24.ts
 
 #EXTINF:-1 tvg-logo="https://www.delta.nl/sites/default/files/zender/2018-08/Nieuwlogo5_0.png" group-title="NETHERLANDS",Fox Sports 5
 http://line.myott.net:80/live/1234/4321/779.ts
@@ -3288,7 +3294,7 @@ http://line.myott.net:80/live/1234/4321/27820.ts
 https://content-ausc4.uplynk.com/6348590a21c1424a9739851f750d6aa7/f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="NETHERLANDS",Investigation Discovery
-http://line.myott.net:80/live/1234/4321/766.ts
+http://ciciturk.nl:8000/live/TEST/TEST/10.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.omropfryslan.nl/data/files/imagenodes/Klipkar_tv_logo_banner_nijesite.JPG" group-title="NETHERLANDS",Klipkar TV
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
@@ -3324,7 +3330,7 @@ http://line.myott.net:80/live/1234/4321/749.ts
 http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="NETHERLANDS",Nickelodeon
-http://line.myott.net:80/live/1234/4321/761.ts
+http://ciciturk.nl:8000/live/TEST/TEST/21.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41XIX7ZRd6L.png" group-title="NETHERLANDS",Nick Jr.
 http://line.myott.net:80/live/1234/4321/1445.ts
@@ -3332,17 +3338,14 @@ http://line.myott.net:80/live/1234/4321/1445.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png" group-title="NETHERLANDS",Nick Music
 http://line.myott.net:80/live/1234/4321/3345.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/2000px-Nicktoons_2014_logo.svg.png" group-title="NETHERLANDS",Nicktoons
-http://line.myott.net:80/live/1234/4321/757.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
-http://line.myott.net:80/live/1234/4321/740.ts
+http://ciciturk.nl:8000/live/TEST/TEST/2.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
-http://line.myott.net:80/live/1234/4321/741.ts
+http://ciciturk.nl:8000/live/TEST/TEST/3.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/245px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
-http://line.myott.net:80/live/1234/4321/742.ts
+http://ciciturk.nl:8000/live/TEST/TEST/5.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NPO_Nieuws_logo.png/1200px-NPO_Nieuws_logo.png" group-title="NETHERLANDS",NPO Nieuws
 http://line.myott.net:80/live/1234/4321/3338.ts
@@ -3393,19 +3396,19 @@ http://line.myott.net:80/live/1234/4321/2643.ts
 http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="NETHERLANDS",RTL 4
-http://line.myott.net:80/live/1234/4321/743.ts
+http://ciciturk.nl:8000/live/TEST/TEST/4.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/RTL5.jpg" group-title="NETHERLANDS",RTL 5
-http://line.myott.net:80/live/1234/4321/744.ts
+http://ciciturk.nl:8000/live/TEST/TEST/6.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/RTL_7_logo.png" group-title="NETHERLANDS",RTL 7
-http://line.myott.net:80/live/1234/4321/747.ts
+http://ciciturk.nl:8000/live/TEST/TEST/8.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
-http://line.myott.net:80/live/1234/4321/746.ts
+http://ciciturk.nl:8000/live/TEST/TEST/26.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/RTL_Crime_2016.svg.png" group-title="NETHERLANDS",RTL Crime
-http://line.myott.net:80/live/1234/4321/3342.ts
+http://ciciturk.nl:8000/live/TEST/TEST/25.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/RTLL_Logo.png" group-title="NETHERLANDS",RTL Lounge
 http://line.myott.net:80/live/1234/4321/752.ts
@@ -3435,10 +3438,10 @@ http://d1eexm99gmxi2a.cloudfront.net/live/rijnmond/ngrp:TV-Rijnmond_all/playlist
 http://line.myott.net:80/live/1234/4321/2659.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/SBS6-logo-2018.png" group-title="NETHERLANDS",SBS 6
-http://line.myott.net:80/live/1234/4321/745.ts
+http://ciciturk.nl:8000/live/TEST/TEST/7.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
-http://line.myott.net:80/live/1234/4321/750.ts
+http://ciciturk.nl:8000/live/TEST/TEST/23.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="NETHERLANDS",Silence TV
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
@@ -3456,13 +3459,16 @@ http://line.myott.net:80/live/1234/4321/2660.ts
 https://content-auso1.uplynk.com/b2334b1fe2434d81970eb44454812744/f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg" group-title="NETHERLANDS",TLC
-http://line.myott.net:80/live/1234/4321/751.ts
+http://ciciturk.nl:8000/live/TEST/TEST/28.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.538.nl/social_share.png" group-title="NETHERLANDS",TV 538
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvoranje.nl/images/tvoranje.png" group-title="NETHERLANDS",TV Oranje
 http://line.myott.net:80/live/1234/4321/2663.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Veronicatvlogo.png" group-title="NETHERLANDS",Veronica TV
+http://ciciturk.nl:8000/live/TEST/TEST/9.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="NETHERLANDS",VH1 Classic
 http://line.myott.net:80/live/1234/4321/15558.ts
@@ -3492,10 +3498,10 @@ http://line.myott.net:80/live/1234/4321/769.ts
 http://line.myott.net:80/live/1234/4321/1450.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media02.statarea.com/images/tv/117.png" group-title="NETHERLANDS",Ziggo Sport Select
-http://line.myott.net:80/live/1234/4321/770.ts
+http://ciciturk.nl:8000/live/TEST/TEST/20.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1009029925909692418/7nKDaqns.jpg" group-title="NETHERLANDS",Ziggo Sport Voetbal
-http://line.myott.net:80/live/1234/4321/771.ts
+http://ciciturk.nl:8000/live/TEST/TEST/19.ts
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180603/sk/kisspng-flag-of-curaao-flag-of-honduras-curacao-5b14011d5a4b72.5741835115280376613699.jpg" group-title="LABEL",~ Curazao TV ~
 http://www.lengua.com/anthems/Curazao.mp3
@@ -7095,7 +7101,7 @@ http://micine.club:25461/live/12345/12345/1975.m3u8
 http://iptv.wtf:25461/farmdpil/kr7td9TD25/14411
 
 #EXTINF:-1 tvg-logo="http://now.telemundo.com/sites/nbcutve-telemundo/themes/telemundo/images/default_logo.png" group-title="LATINO",Telemundo
-http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/1080/index.m3u8
+http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Telemundo_Logo_2018-2.svg/1200px-Telemundo_Logo_2018-2.svg.png" group-title="LATINO",Telemundo Internacional
 http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7398
@@ -9013,6 +9019,9 @@ http://185.133.64.237/news/stream:1.stream/chunklist_w1324413730.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg" group-title="ROMANIA",Realitatea TV
 http://realitatea.m247.ro/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/aa29cf35-3a40-4434-a404-2663a434ddb3_romen-tv.png" group-title="ROMANIA",Roman TV (Turkish)
+http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.somaxtv.com/wp-content/uploads/2014/08/LOGO-SOMAX-p-1170x480.png" group-title="ROMANIA",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
@@ -11290,10 +11299,10 @@ http://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya
 http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039529.png" group-title="CYPRUS",BRT 1 (Turkish)
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+http://wms.brtk.net:1935/live/brt1/radyodelisi.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039476.png" group-title="CYPRUS",BRT 2 (Turkish)
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d.sporyeni.com/news/14220.jpg" group-title="CYPRUS",BRT Spor (Turkish)
+http://wms.brtk.net:1935/live/brt2/radyodelisi.m3u8
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",~ Turkey TV ~
 http://www.lengua.com/anthems/Turkey.mp3
@@ -11301,11 +11310,26 @@ http://www.lengua.com/anthems/Turkey.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.montajuyduservisi.com/uploads/haber/7MvwpwQ9amvu-1QzZSrLBdWAmyy4KIpt.jpg" group-title="TURKEY",1AN TV
 http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/13/14/1a/13141a849982ffff85987b333de0e4a1.jpg" group-title="TURKEY",A2
+https://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/eb/c1/76/ebc1763f-9a86-1174-a415-1c9832e0f31a/AppIcon-1x_U007emarketing-85-220-5.png/246x0w.jpg" group-title="TURKEY",A Haber
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o3G9ddv.png" group-title="TURKEY",AKSU TV
 http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://onyeni.com/wp-content/uploads/2017/05/a-para-frekansi.jpg" group-title="TURKEY",A Para
+https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b0/c1/97/b0c1974c-015b-0b81-2772-da804ea7cae4/AppIcon-0-1x_U007emarketing-0-0-0-0-85-220-0-10.png/246x0w.jpg" group-title="TURKEY",A Sspor
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/7/78/Atv_logosu.png/250px-Atv_logosu.png" group-title="TURKEY",ATV
 http://188.93.95.250/atvturk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/f02948/752/395/0/62/612/383?u=https://isbh.tmgrup.com.tr/sbh/2018/07/17/5-milyon-turke-ulasan-atv-avrupaya-yeni-logo-1531842842450.jpeg" group-title="TURKEY",ATV Avrupa
+http://trkvz-m.ercdn.net/atvavrupa/atvavrupa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
@@ -11354,6 +11378,12 @@ http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="TURKEY",Minika Cocuk
+http://trkvz-m.ercdn.net/minikagococuk/minikagococuk.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.oyuncualemi.com/wp-content/uploads/2018/11/minikago-logo.jpeg" group-title="TURKEY",Minika Go
+http://trkvz-m.ercdn.net/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet_turk.png" group-title="TURKEY",Planet Turk
 http://188.93.95.250/planetturk/index.m3u8
@@ -12344,7 +12374,7 @@ http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" group-title="INDIA",Star Sports 1
-http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+http://zerolive.ddns.net:5445/juno/starsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" group-title="INDIA",Star Sports 2
 http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
@@ -12512,7 +12542,7 @@ http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIA",Zee Cinema (Opt-1)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/1.m3u8
+http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIA",Zee Cinema (Opt-2)
 http://185.70.133.66:17
@@ -12608,7 +12638,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="INDIA",Zee TV (Opt-3)
-http://185.70.133.66:207
+http://zerolive.ddns.net:5445/juno/zeetvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="INDIA",Zee TV (Opt-4)
 http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
@@ -12618,6 +12648,9 @@ http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishtracking.com/media/2017/12/Zee-Uttar-Pradesh-Logo.jpg" group-title="INDIA",Zee Uttar Pradesh Uttarakhand
 http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0107446.jpeg" group-title="INDIA",Zee World
+http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nrepl.in/wp-content/uploads/2017/11/ZY.jpg" group-title="INDIA",Zee Yuva (Opt-1)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/1.m3u8
