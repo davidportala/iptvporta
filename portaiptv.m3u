@@ -14377,11 +14377,62 @@ https://c01server.mangotv.in.th:8043/tvxy99/chzeenung/index.m3u8
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="JAPAN",ABC
+http://122.155.180.8:5021/live/321
+
+#EXTINF:-1 tvg-logo="http://logos.megaplay.xyz/bs12.png" group-title="JAPAN",BS 12
+http://122.155.180.8:5021/live/302
+
+#EXTINF:-1 tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="JAPAN",BS Asahi
+http://122.155.180.8:5021/live/308
+
+#EXTINF:-1 tvg-logo="http://www.bsfuji.tv/top/index/img/sns_img.png" group-title="JAPAN",BS Fuji
+http://122.155.180.8:5021/live/307
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BS_Japan_logo.png" group-title="JAPAN",BS Japan
+http://122.155.180.8:5021/live/306
+
+#EXTINF:-1 tvg-logo="http://www.bs4.jp/fb.jpg" group-title="JAPAN",BS NTV
+http://122.155.180.8:5021/live/304
+
+#EXTINF:-1 tvg-logo="https://www.bs-sptv.com/_common/img/logo/fb.png" group-title="JAPAN",BS Sky Perfect!
+http://122.155.180.8:5021/live/58
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/1280px-BS-TBS_logo.svg.png" group-title="JAPAN",BS TBS
+http://122.155.180.8:5021/live/305
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/220px-Discovery_2016.svg.png" group-title="JAPAN",Discovery Channel
+http://122.155.180.8:5021/live/496
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-m-7OO6b5vCM/WdsiS3-AKCI/AAAAAAAAde4/xRzsatnuU_k7Q0IjUv27mY3zALmoUkwqACLcBGAs/s1600/q1.jpg" group-title="JAPAN",Eisei Gekijo
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
 
+#EXTINF:-1 tvg-logo="http://ex-sports.jp/wp/wp-content/uploads/84b6865dbf4b8767896f4c3c869ed4d9-1024x242.png" group-title="JAPAN",EX Sports & Variety
+http://122.155.180.8:5021/live/414
+
 #EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+
+#EXTINF:-1 tvg-logo="https://tv.foxjapan.com/files/img/others/20150730/143824161067947.jpg" group-title="JAPAN",Fox Sports Entertainment
+http://122.155.180.8:5021/live/57
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JAPAN",Fuji TV
+http://122.155.180.8:5021/live/316
+
+#EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/560.png" group-title="JAPAN",Fuji TV One
+http://122.155.180.8:5021/live/212
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/36.jpg" group-title="JAPAN",Fuji TV Next
+http://122.155.180.8:5021/live/54
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2000px-GAORA_SPORTS_logo.svg.png" group-title="JAPAN",Gaora Sports
+http://122.155.180.8:5021/live/413
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="JAPAN",Golf Network
+http://122.155.180.8:5021/live/409
+
+#EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png" group-title="JAPAN",Green Channel
+http://122.155.180.8:5021/live/412
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
@@ -14389,11 +14440,50 @@ http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/72.jpg" group-title="JAPAN",J Sports 1
+http://122.155.180.8:5021/live/415
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/73.jpg" group-title="JAPAN",J Sports 2
+http://122.155.180.8:5021/live/416
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p-cfPaJFUs4/WdsgLu7Dj-I/AAAAAAAAdek/aQoc18yuHnc3c7Fb_gBPnDRrgbNVowSZwCLcBGAs/s1600/q1.jpg" group-title="JAPAN",J Sports 3
-http://192.240.127.34:1935/live/cs07.stream/playlist.m3u8
+http://122.155.180.8:5021/live/410
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/77.jpg" group-title="JAPAN",J Sports 4
+http://122.155.180.8:5021/live/411
+
+#EXTINF:-1 tvg-logo="https://www.ktv.jp/img/ico_sns.jpg" group-title="JAPAN",Kansai TV
+http://122.155.180.8:5021/live/323
+
+#EXTINF:-1 tvg-logo="https://cdn.bulbagarden.net/upload/4/41/Kids_Station_Logo.png" group-title="JAPAN",Kids Station
+http://122.155.180.8:5021/live/494
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JAPAN",MBS
+http://122.155.180.8:5021/live/319
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/3.jpg" group-title="JAPAN",Movie Plus
+http://122.155.180.8:5021/live/497
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="JAPAN",MTV
+http://122.155.180.8:5021/live/52
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_400x400.jpg" group-title="JAPAN",Music Japan TV
+http://122.155.180.8:5021/live/495
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/NJPWWorld.png" group-title="JAPAN",New Japan Pro-Wrestling World
 http://cdnak9.litecdn.net/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/15-BS1-770x480.jpg" group-title="JAPAN",NHK BS 1
+http://122.155.180.8:5021/live/301
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/BSP1-2.png" group-title="JAPAN",NHK BS Premium
+http://122.155.180.8:5021/live/303
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="JAPAN",NHK Educational TV
+http://122.155.180.8:5021/live/310
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1280px-NHK_General_TV_logo.svg.png" group-title="JAPAN",NHK General TV
+http://122.155.180.8:5021/live/309
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2000px-NHK_logo.svg.png" group-title="JAPAN",NHK World Premium
 http://114.207.77.30:9981/stream/channelid/725504190?ticket=536CA4FCEB08F244D1B2FF2818073A62FDD7A420&profile=pass
@@ -14401,20 +14491,86 @@ http://114.207.77.30:9981/stream/channelid/725504190?ticket=536CA4FCEB08F244D1B2
 #EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/260.png" group-title="JAPAN",Nihon Eiga TV
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" group-title="JAPAN",Nippon TV
+http://122.155.180.8:5021/live/312
+
+#EXTINF:-1 tvg-logo="https://www.ntv.co.jp/assets/images/meta/og-image.png" group-title="JAPAN",NTV+
+http://122.155.180.8:5021/live/208
+
+#EXTINF:-1 tvg-logo="http://www.asianboxing.info/uploads/7/1/4/4/7144872/766391482_orig.jpg" group-title="JAPAN",NTV G+
+http://122.155.180.8:5021/live/207
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
 http://www.news24.jp/livestream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/220px-QVC_logo_2015.png" group-title="JAPAN",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
+#EXTINF:-1 tvg-logo="https://knockout.co.jp/wp-content/uploads/2015/11/ece6d082.jpg" group-title="JAPAN",Samurai Fighting TV
+http://122.155.180.8:5021/live/408
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg" group-title="JAPAN",Sky A
+http://122.155.180.8:5021/live/210
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
-rtmp://mov8.mov3.co/live//main
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jcctokyo.com/news/assets_c/2017/09/SS-TV_1000x380-thumb-640x243-797.jpg" group-title="JAPAN",Space Shower TV
+http://122.155.180.8:5021/live/51
 
-#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",WOWOW Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="JAPAN",Star 1
+http://122.155.180.8:5021/live/326
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/9.jpg" group-title="JAPAN",Star 2
+http://122.155.180.8:5021/live/191
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/282.png" group-title="JAPAN",Star 3
+http://122.155.180.8:5021/live/193
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://job-gear.net/s/su/suntv/images/index_main_img01.jpg" group-title="JAPAN",SUN
+http://122.155.180.8:5021/live/320
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://whc.unesco.org/uploads/thumbs/organization_328-364--20180215114206.jpg" group-title="JAPAN",TBS
+http://122.155.180.8:5021/live/314
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs_channel_1.png" group-title="JAPAN",TBS 1
+http://122.155.180.8:5021/live/221
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://news.tbs.co.jp/img/ogp_facebook.png" group-title="JAPAN",TBS News
+http://122.155.180.8:5021/live/220
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://koi-nya.net/img/subidos_posts/2014/03/Tokyo-MX-crea-un-departamento-para-la-producci%C3%B3n-de-Anime.jpg" group-title="JAPAN",Tokyo MX
+http://122.155.180.8:5021/live/311
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png" group-title="JAPAN",Tsuri Vision
+http://122.155.180.8:5021/live/55
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+http://122.155.180.8:5021/live/313
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/22.jpg" group-title="JAPAN",TV Asahi Ch. 1
+http://122.155.180.8:5021/live/223
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/557.png" group-title="JAPAN",TV Asahi Ch. 2
+http://122.155.180.8:5021/live/217
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-osaka.co.jp/corporate/images/tvo_l.png" group-title="JAPAN",TV Osaka
+http://122.155.180.8:5021/live/322
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
+http://122.155.180.8:5021/live/315
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",WOWOW Cinefil
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/34.jpg" group-title="JAPAN",WOWOW Live
+http://122.155.180.8:5021/live/205
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/33.jpg" group-title="JAPAN",WOWOW Prime
+http://122.155.180.8:5021/live/325
+
+#EXTINF:-1 tvg-logo="https://www.ytv.co.jp/common/img/ogp.png" group-title="JAPAN",YTV
+http://122.155.180.8:5021/live/324
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
