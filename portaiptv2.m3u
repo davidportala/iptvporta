@@ -456,8 +456,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mfgSRzB.png" group-title="USA",Fox Business
 https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KyAjfYY.png" group-title="USA",Fox News (New!)
-http://185.236.229.89:8000/play/FOXNEWSSD/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KyAjfYY.png" group-title="USA",Fox News (Updated)
+http://185.140.67.6:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="USA",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
@@ -483,7 +483,7 @@ http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="USA",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3A3NAWZ.png" group-title="USA",Hallmark Movies & Mysteries (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3A3NAWZ.png" group-title="USA",Hallmark Movies & Mysteries
 https://fluxustv.blogspot.com@bit.ly/2qmcmcG?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="USA",HGTV
@@ -516,10 +516,10 @@ https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="USA",Investment Pitch
 http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zy8rt5g.png" group-title="USA",ION (KPXE) (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zy8rt5g.png" group-title="USA",ION TV (KPXE) (New!)
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="USA",It’s at the Movies (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="USA",It's At The Movies (New!)
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="USA",Jewelry Television
@@ -651,7 +651,7 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSH4Z4p.png" group-title="USA",Nothing Scripted
 http://30a-tv.com/NothingScripted.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV (New!)
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAaxN8G.png" group-title="USA",Out of Focus TV
@@ -750,7 +750,7 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X53CnlC.png" group-title="USA",TBS
 https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="USA",The Asylum
@@ -798,7 +798,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="USA",USA Network
 https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DwiHDb.png" group-title="USA",Vegas Stats (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DwiHDb.png" group-title="USA",Vegas Stats
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA",VH1
