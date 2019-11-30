@@ -11732,6 +11732,9 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogFbu15.png" group-title="HONG KONG",Bright Smart Channel (Opt-3)
 rtmp://202.69.69.180:443/webcast/bshdlive-pc
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fantastic_Television.svg/1200px-Fantastic_Television.svg.png" group-title="HONG KONG",Fantastic TV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="HONG KONG",Hong Kong Open TV (Opt-1)
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
  
@@ -11767,6 +11770,9 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNb5dzx.png" group-title="HONG KONG",TVB Finance & Info. (Opt-2)
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil/mobilehd_financeintl.smil/chunklist_w1310863395_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/1462233076.png" group-title="HONG KONG",U Channel (USA)
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCQfNii.png" group-title="HONG KONG",Universal TV
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
@@ -12026,6 +12032,30 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/53787170106.jpg" group-title="TAIWAN",Globle News 2
 http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8?token=vg7VrxRKxQKxmzSMguz_sg&time=1554518626136
 
+#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20190826150547q-QcB-G.png" group-title="TAIWAN",GNews
+http://61.58.60.230:9319/live/202.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/jingtiankatong.jpg" group-title="TAIWAN",Golden Cartoon
+http://61.58.60.230:9319/live/207.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/jingyanxiju.jpg" group-title="TAIWAN",Golden Drama
+http://61.58.60.230:9319/live/203.m3u8
+
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/038038.png" group-title="TAIWAN",Golden Entertainment
+http://61.58.60.230:9319/live/204.m3u8
+
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/088088.png" group-title="TAIWAN",Golden Japan
+http://61.58.60.230:9319/live/243.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/jingtianhuanle.jpg" group-title="TAIWAN",Golden Joy
+http://61.58.60.230:9319/live/201.m3u8
+
+#EXTINF:-1 tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P310120I60-L.jpg" group-title="TAIWAN",Golden Movies
+http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="TAIWAN",KLT
+http://61.58.60.230:9319/live/205.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/64/5f/26/645f2613781cda1b4417188007f90d16.jpg" group-title="TAIWAN",Macroview TV
 http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
 
@@ -12040,6 +12070,9 @@ http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rLvUKD.png" group-title="TAIWAN",Next TV (Opt-4)
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/023023.png" group-title="TAIWAN",Nice Bingo
+http://61.58.60.230:9319/live/206.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvOPoTN.png" group-title="TAIWAN",SinoVision (US) (Opt-1)
 http://ec.sinovision.net/video/ts/lv.m3u8
