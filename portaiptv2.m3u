@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=X8VXPaTub7k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62H9un9.png" group-title="+ IPTV Playlist",+ IPTV Playlist
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="- Update: 11.26.2019",- Update: 11.26.2019
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="- Update: 12.05.2019",- Update: 12.05.2019
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
@@ -1646,6 +1646,9 @@ http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LSVmhy.png" group-title="GERMANY", 24/7 Digital Concert Hall (New!)
+http://m3ukodi.com/canales/digitalconcerthall.php?a=247
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bci3Sbi.png" group-title="GERMANY",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
@@ -4111,14 +4114,125 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KAy3KoE.png" group-title="BRAZIL",Web TV Nova Paraiba
 http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://aux.iconspalace.com/uploads/1524912180.png" group-title="LABEL",~ Andorra TV ~
-http://www.lengua.com/anthems/Andorra.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/P_%C3%91_blank.svg/400px-P_%C3%91_blank.svg.png" group-title="LABEL",~ 24/7 Spanish TV ~
+http://50.7.56.2:8016
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5s2oQKD.png" group-title="24/7 SPANISH",1000 Maneras de Morir (New!)
+http://m3ukodi.com/iptv/247.php?v=1000way
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ANDORRA",RTVA (Opt-1)
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcNHZCh.png" group-title="24/7 SPANISH",Alf (New!)
+http://m3ukodi.com/iptv/247.php?v=alf
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ANDORRA",RTVA (Opt-2)
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMVwHFb.png" group-title="24/7 SPANISH",American Dad (New!)
+http://m3ukodi.com/iptv/247.php?v=papaamericano
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1x539oy.png" group-title="24/7 SPANISH",Animaniacs (New!)
+http://m3ukodi.com/iptv/247.php?v=animaniacs
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDhDq5f.png" group-title="24/7 SPANISH",AstroBoy (New!)
+http://m3ukodi.com/iptv/247.php?v=astroboy
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0hB77v.png" group-title="24/7 SPANISH",Billy & Mandy (New!)
+http://m3ukodi.com/iptv/247.php?v=billymandy
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4ljYTd.png" group-title="24/7 SPANISH",Cantinflas Show (New!)
+http://m3ukodi.com/iptv/247.php?v=cantiflas
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mv0rF3f.png" group-title="24/7 SPANISH",CatDog (New!)
+http://m3ukodi.com/iptv/247.php?v=catdog
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9H3e2j.png" group-title="24/7 SPANISH",Coraje El Perro Cobarde (New!)
+http://m3ukodi.com/iptv/247.php?v=corajeelperrocobarde
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9md4GdJ.png" group-title="24/7 SPANISH",CSI: Miami (New!)
+http://m3ukodi.com/iptv/247.php?v=csi_miami
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAyernv.png" group-title="24/7 SPANISH",Cuentos de La Cripta (New!)
+http://m3ukodi.com/iptv/247.php?v=cuentosdelacripta
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLz5xHM.png" group-title="24/7 SPANISH",Doraemon (New!)
+http://m3ukodi.com/iptv/247.php?v=doraemon
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFa5ers.png" group-title="24/7 SPANISH",Fabulas del Bosque Verde (New!)
+http://m3ukodi.com/iptv/247.php?v=fabulasdelbosqueverde
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfahUwb.png" group-title="24/7 SPANISH",Familia Peluche (New!)
+http://m3ukodi.com/iptv/247.php?v=peluche
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsJ2apk.png" group-title="24/7 SPANISH",Futurama (New!)
+http://m3ukodi.com/iptv/247.php?v=futurama
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWRkCC6.png" group-title="24/7 SPANISH",Garfield y Sus Amigos (New!)
+http://m3ukodi.com/iptv/247.php?v=garfiel
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDHfFiV.png" group-title="24/7 SPANISH",He-Man (New!)
+http://m3ukodi.com/iptv/247.php?v=he-man
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QApb38M.png" group-title="24/7 SPANISH",Heidi (New!)
+http://m3ukodi.com/iptv/247.php?v=heidi
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIk7B2k.png" group-title="24/7 SPANISH",Johnny Bravo (New!)
+http://m3ukodi.com/iptv/247.php?v=jonnybravo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtQfHpO.png" group-title="24/7 SPANISH",La Casa de Los Dibujos (New!)
+http://m3ukodi.com/iptv/247.php?v=lacasadelosdibujos
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sX8Msn5.png" group-title="24/7 SPANISH",La Pantera Rosa (New!)
+http://m3ukodi.com/iptv/247.php?v=panterarosa
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJVN1Lt.png" group-title="24/7 SPANISH",La Teoria del Big Bang (New!)
+http://m3ukodi.com/iptv/247.php?v=thebigbangtheory
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nM3NtXN.png" group-title="24/7 SPANISH",Los Picapiedra (New!)
+http://m3ukodi.com/iptv/247.php?v=lospicapiedras
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTvOls2.png" group-title="24/7 SPANISH",Los Pitufos (New!)
+http://m3ukodi.com/iptv/247.php?v=lospitufos
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3O13qk.png" group-title="24/7 SPANISH",Los Simpson (New!)
+http://m3ukodi.com/iptv/247.php?v=lossimpsons
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcbDLXF.png" group-title="24/7 SPANISH",Los Simpson: La Casita del Horror (New!)
+http://m3ukodi.com/iptv/247.php?v=halloweensimpsons
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9th8Mt.png" group-title="24/7 SPANISH",Los Supersonicos (New!)
+http://m3ukodi.com/iptv/247.php?v=lossupersonicos
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02XdYU8.png" group-title="24/7 SPANISH",MAD (New!)
+http://m3ukodi.com/iptv/247.php?v=mad
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNZnwNr.png" group-title="24/7 SPANISH",Mafalda (New!)
+http://m3ukodi.com/iptv/247.php?v=mafalda
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYVu9CQ.png" group-title="24/7 SPANISH",Mr Bean (New!)
+http://m3ukodi.com/iptv/247.php?v=mr_bean
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mO3Cu3L.png" group-title="24/7 SPANISH",Padre de Familia (New!)
+http://m3ukodi.com/iptv/247.php?v=padredefamilia
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDYxDCS.png" group-title="24/7 SPANISH",Padrinos Magicos (New!)
+http://m3ukodi.com/iptv/247.php?v=padrinosmagicos
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84dObmR.png" group-title="24/7 SPANISH",Pinky y Cerebro (New!)
+http://m3ukodi.com/iptv/247.php?v=pinkyycerebro
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ass6TQm.png" group-title="24/7 SPANISH",Popeye El Marino (New!)
+http://m3ukodi.com/iptv/247.php?v=popeye
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJvHh5s.png" group-title="24/7 SPANISH",Shin-chan (New!)
+http://m3ukodi.com/iptv/247.php?v=shi-chan
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LXs4aS5.png" group-title="24/7 SPANISH",Snoopy (New!)
+http://m3ukodi.com/iptv/247.php?v=snoopy
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x7L6k5e.png" group-title="24/7 SPANISH",South Park (New!)
+http://m3ukodi.com/iptv/247.php?v=SouthPark
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXoppY4.png" group-title="24/7 SPANISH",Super Campeones (New!)
+http://m3ukodi.com/iptv/247.php?v=supercampeones
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QL9EpG.png" group-title="24/7 SPANISH",¡Oye Arnold! (New!)
+http://m3ukodi.com/iptv/247.php?v=hey_arnold
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
@@ -4744,6 +4858,15 @@ http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hPG6ooK.png" group-title="SPAIN",Vision 6
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="http://aux.iconspalace.com/uploads/1524912180.png" group-title="LABEL",~ Andorra TV ~
+http://www.lengua.com/anthems/Andorra.mp3
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ANDORRA",RTVA (Opt-1)
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ANDORRA",RTVA (Opt-2)
+http://videos.rtva.ad:1935/live/web/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latin America TV ~
 http://50.7.56.2:8016
 
@@ -4752,6 +4875,9 @@ http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATIN AMERICA",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="LATIN AMERICA",Cartelera Hollywood (Dual) (New!)
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -11732,9 +11858,6 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogFbu15.png" group-title="HONG KONG",Bright Smart Channel (Opt-3)
 rtmp://202.69.69.180:443/webcast/bshdlive-pc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fantastic_Television.svg/1200px-Fantastic_Television.svg.png" group-title="HONG KONG",Fantastic TV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="HONG KONG",Hong Kong Open TV (Opt-1)
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
  
@@ -11770,9 +11893,6 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNb5dzx.png" group-title="HONG KONG",TVB Finance & Info. (Opt-2)
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil/mobilehd_financeintl.smil/chunklist_w1310863395_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/1462233076.png" group-title="HONG KONG",U Channel (USA)
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCQfNii.png" group-title="HONG KONG",Universal TV
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
@@ -12032,30 +12152,6 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/53787170106.jpg" group-title="TAIWAN",Globle News 2
 http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8?token=vg7VrxRKxQKxmzSMguz_sg&time=1554518626136
 
-#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20190826150547q-QcB-G.png" group-title="TAIWAN",GNews
-http://61.58.60.230:9319/live/202.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/jingtiankatong.jpg" group-title="TAIWAN",Golden Cartoon
-http://61.58.60.230:9319/live/207.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/jingyanxiju.jpg" group-title="TAIWAN",Golden Drama
-http://61.58.60.230:9319/live/203.m3u8
-
-#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/038038.png" group-title="TAIWAN",Golden Entertainment
-http://61.58.60.230:9319/live/204.m3u8
-
-#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/088088.png" group-title="TAIWAN",Golden Japan
-http://61.58.60.230:9319/live/243.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/jingtianhuanle.jpg" group-title="TAIWAN",Golden Joy
-http://61.58.60.230:9319/live/201.m3u8
-
-#EXTINF:-1 tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P310120I60-L.jpg" group-title="TAIWAN",Golden Movies
-http://61.58.60.230:9319/live/244.m3u8
-
-#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="TAIWAN",KLT
-http://61.58.60.230:9319/live/205.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/64/5f/26/645f2613781cda1b4417188007f90d16.jpg" group-title="TAIWAN",Macroview TV
 http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
 
@@ -12070,9 +12166,6 @@ http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rLvUKD.png" group-title="TAIWAN",Next TV (Opt-4)
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-
-#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/023023.png" group-title="TAIWAN",Nice Bingo
-http://61.58.60.230:9319/live/206.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvOPoTN.png" group-title="TAIWAN",SinoVision (US) (Opt-1)
 http://ec.sinovision.net/video/ts/lv.m3u8
