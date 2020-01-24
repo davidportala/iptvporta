@@ -4157,6 +4157,18 @@ https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Portugal-icon.png" group-title="LABEL",~ Portugal TV ~
 http://www.lengua.com/anthems/Portugal.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/800px-24Kitchen.png" group-title="PORTUGAL",24 Kitchen
+http://62.203.143.51:9981/play/KitchenHD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="PORTUGAL",A Bola TV
+http://62.203.143.51:9981/play/BolaTV
+
+#EXTINF:-1 tvg-logo="http://scd.pt.rfi.fr/sites/portugues.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/1a62e626926751.55756a4b190d7.png" group-title="PORTUGAL",Afro Music Channel
+http://62.203.143.51:9981/play/AfroMu
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="PORTUGAL",AMC
+http://62.203.143.51:9981/play/AMC
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/ARTV-Canal-Parlamento.png" group-title="PORTUGAL",ARtv (Opt-1)
 http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8?fluxustv.m3u8
 
@@ -4165,6 +4177,18 @@ http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="PORTUGAL",AXN
 http://94.61.44.29:3280/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="PORTUGAL",AXN Black
+http://62.203.143.51:9981/play/BlackHD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="PORTUGAL",AXN White
+http://62.203.143.51:9981/play/WhiteHD
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="PORTUGAL",Baby TV
+http://62.203.143.51:9981/play/BabyTV
+
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="PORTUGAL",Benfica TV
+http://62.203.143.51:9981/play/BTVHD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ti5nqdj.png" group-title="PORTUGAL",Caça e Pesca
 http://85.244.70.140:7000/play/a00p
@@ -4187,23 +4211,74 @@ http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?fluxustv.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="PORTUGAL",Canal Hollywood
 http://94.61.44.29:3280/play/a026/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2015/07/PANDA_VERTICAL_CANAL.png" group-title="PORTUGAL",Canal Panda
+http://62.203.143.51:9981/play/CanalPan
+
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/59d4d57b268b96ae9afe098c/1555541683970-7SY469YQDRLIIJZISWD9/ke17ZwdGBToddI8pDm48kHrKyFp4hkVun555vNvODs5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwmrzUdyoJ4u6QQ3SWRUVYMG4Oih7JjIm-O8WxhwlOJ2Xbwq0m5k9nJXCq2q5MgCj0/canal+q+logo.png" group-title="PORTUGAL",Canal Q
 http://94.61.44.29:3280/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2004-1024x768.png" group-title="PORTUGAL",Cartoon Network
+http://62.203.143.51:9981/play/CartNet
+
+#EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="PORTUGAL",CBS Reality
+http://62.203.143.51:9981/play/CBSRea
+
+#EXTINF:-1 tvg-logo="https://www.wtvision.com/wp-content/uploads/cinemundo-site-1-1.jpg" group-title="PORTUGAL",Cinemundo
+http://62.203.143.51:9981/play/Cinem
 
 #EXTINF:-1 tvg-logo="https://liderpositivo.com/pt/wp-content/uploads/sites/3/2018/03/cmtv.png" group-title="PORTUGAL",CM TV
 http://94.61.44.29:3280/play/a01v/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="PORTUGAL",Crime+Investigation
+http://62.203.143.51:9981/play/Crimenve
+
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="PORTUGAL",Discovery Channel
 http://94.61.44.29:3280/play/a028/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="PORTUGAL",Disney Channel
+http://62.203.143.51:9981/play/a0on
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_kncJQ5vvL4/TZNtf21dRYI/AAAAAAAAIbQ/e3jzQUrp-CU/s400/Logo%2BDisney%2BJunior.jpg" group-title="PORTUGAL",Disney Junior
 http://94.61.44.29:3280/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black-880x660.png" group-title="PORTUGAL",E!
+http://62.203.143.51:9981/play/EEnter
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/ElevenSports_1.png" group-title="PORTUGAL",Eleven Sports 1
+http://62.203.143.51:9981/play/Eleven1HD
+
+#EXTINF:-1 tvg-logo="http://www.comandotv.com/xbmc/elevensports2.png" group-title="PORTUGAL",Eleven Sports 2
+http://62.203.143.51:9981/play/ElevenSpor2HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" group-title="PORTUGAL",Eleven Sports 3
+http://62.203.143.51:9981/play/ElevenSpo3
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="PORTUGAL",Eleven Sports 4
+http://62.203.143.51:9981/play/Elevsrts4
+
+#EXTINF:-1 tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PORTUGAL",Eleven Sports 5
+http://62.203.143.51:9981/play/EleSports5
+
+#EXTINF:-1 tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PORTUGAL",Eleven Sports 6
+http://62.203.143.51:9981/play/ElevenSpo6
+
+#EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="PORTUGAL",Eurochannel
+http://62.203.143.51:9981/play/Eurocha
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png" group-title="PORTUGAL",Eurosport 1
+http://62.203.143.51:9981/play/Eur1
 
 #EXTINF:-1 tvg-logo="https://www.mesmarques-enbourse.com/wp-content/themes/mes-marques-en-bourse/logos/600x600/40000000215.png" group-title="PORTUGAL",Eurosport 2
 http://94.61.44.29:3280/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.suenosmusicales.es/wp-content/uploads/2014/07/FOX-CHANNEL-Logo-Empresa.png" group-title="PORTUGAL",Fox
 http://94.61.44.29:3280/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Comedy_logo.jpg" group-title="PORTUGAL",Fox Comedy
+http://62.203.143.51:9981/play/FOXCom
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="PORTUGAL",Fox Crime
+http://62.203.143.51:9981/play/CrimeH
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="PORTUGAL",Fox Life
 http://94.61.44.29:3280/play/a01q/index.m3u8
@@ -4213,6 +4288,12 @@ http://94.61.44.29:3280/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="PORTUGAL",Historia
 http://94.61.44.29:3280/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://digital.rozhlas.cz/sites/default/files/images/f313e50672d7bdbbdd7b1a6f6b555342.jpeg" group-title="PORTUGAL",Jim Jam
+http://62.203.143.51:9981/play/JimJ
+
+#EXTINF:-1 tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="PORTUGAL",Kombat Sport
+http://62.203.143.51:9981/play/KombatSpor
 
 #EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png" group-title="PORTUGAL",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
@@ -4234,6 +4315,12 @@ http://94.61.44.29:3280/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Mvm.png" group-title="PORTUGAL",MVM
 http://94.61.44.29:3280/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/573_300.png" group-title="PORTUGAL",National Geographic
+http://62.203.143.51:9981/play/NationalGeo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="PORTUGAL",National Geographic Wild
+http://62.203.143.51:9981/play/NatiGeog
 
 #EXTINF:-1 tvg-logo="https://www.completecontrol.co.uk/wp-content/uploads/2017/01/nick_jr_logo.png" group-title="PORTUGAL",Nick Jr.
 http://94.61.44.29:3280/play/a01k/index.m3u8
@@ -4277,8 +4364,14 @@ http://94.61.44.29:3280/play/a02k/index.m3u8http://94.61.44.29:3280/play/a02k/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png" group-title="PORTUGAL",SIC
 http://94.61.44.29:3280/play/a022/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SIC_CARAS.png" group-title="PORTUGAL",SIC Caras
+http://62.203.143.51:9981/play/SICCa
+
 #EXTINF:-1 tvg-logo="https://vivenciaspressnews.com/wp-content/uploads/2017/11/mw-320.jpg" group-title="PORTUGAL",SIC Internacional
 http://198.255.23.18:2095/streams/81_.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="PORTUGAL",SIC K
+http://62.203.143.51:9981/play/SICK
 
 #EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/12/sic-mulher-logoatv.png" group-title="PORTUGAL",SIC Mulher
 http://94.61.44.29:3280/play/a01p/index.m3u8
@@ -4313,14 +4406,32 @@ https://sportbar.biz/lba/123/g8/ptsport5.m3u8
 #EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png" group-title="PORTUGAL",Sport TV+
 http://94.61.44.29:3280/play/a023/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png" group-title="PORTUGAL",TVCine Action
+http://62.203.143.51:9981/play/TVCi4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="PORTUGAL",TVCine Edition
+http://62.203.143.51:9981/play/TVCi2
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" group-title="PORTUGAL",TVCine Emotion
+http://62.203.143.51:9981/play/TVCi3
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png" group-title="PORTUGAL",TVCine Top
+http://62.203.143.51:9981/play/TVCi1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="PORTUGAL",TVI
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png/500px-TVI_Fic%C3%A7%C3%A3o_logo.png" group-title="PORTUGAL",TVI Ficçao
+http://62.203.143.51:9981/play/TVIFic
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LevV74M.png" group-title="PORTUGAL",TVI Reality
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Tvi24logotype.png" group-title="PORTUGAL",TVI24
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?fluxustv.m3u8
+http://62.203.143.51:9981/play/TVI24
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="PORTUGAL",Travel Channel
+http://62.203.143.51:9981/play/TravelHD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="PORTUGAL",VH1
 http://94.61.44.29:3280/play/a02e/index.m3u8
@@ -4544,6 +4655,9 @@ http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BRAZIL",FX
 http://198.255.23.18:2095/streams/113_.m3u8
 
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/b3/2017/09/17/novo-logotipo-tv-globo-1505691763339_v2_900x506.png" group-title="BRAZIL",Globo Internacional
+http://62.203.143.51:9981/play/Globo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuBCDj4.png" group-title="BRAZIL",Gloob
 https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
@@ -4666,6 +4780,9 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV (Opt.2)
 http://198.255.23.18:2095/streams/34_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="BRAZIL",RecordTV Internacional
+http://62.203.143.51:9981/play/TVRe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X9DwiKH.png" group-title="BRAZIL",Rede Atividade
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
@@ -5625,17 +5742,32 @@ http://videos.rtva.ad:1935/live/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latin America TV ~
 http://50.7.56.2:8016
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="LATIN AMERICA",A&E
+http://200.73.59.84:8000/play/a00n
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="LATIN AMERICA",AMC
 http://181.198.153.175:5005/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DQSHHTS.png" group-title="LATIN AMERICA",America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LATIN AMERICA",Animal Planet
+http://200.73.59.84:8000/play/a00e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="LATIN AMERICA",AXN
+http://200.73.59.84:8000/play/a03e
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PUTPqg.png" group-title="LATIN AMERICA",Azteca America (New!)
 https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png" group-title="LATIN AMERICA",Canal Claro
+http://200.73.59.84:8000/play/a025
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="LATIN AMERICA",Cartelera Hollywood (Dual)
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Cartoon_Network_logo.png" group-title="LATIN AMERICA",Cartoon Network
+http://200.73.59.84:8000/play/a01u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -5643,11 +5775,56 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-2)
 http://livefr.cgtn.com/1000e/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATIN AMERICA",Cinecanal
+http://200.73.59.84:8000/play/a01k
+
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="LATIN AMERICA",Cinema Dinamita
+http://200.73.59.84:8000/play/a01d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATIN AMERICA",Cinemax
+http://200.73.59.84:8000/play/a03c
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png" group-title="LATIN AMERICA",Claro Cinema
+http://200.73.59.84:8000/play/a03n
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1578499325146-claro-musica_40.png" group-title="LATIN AMERICA",Claro Music
+http://200.73.59.84:8000/play/a02h
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="LATIN AMERICA",Claro Sports
+http://200.73.59.84:8000/play/a01w
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png" group-title="LATIN AMERICA",CNÑ
+http://200.73.59.84:8000/play/a00w
+
+#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="LATIN AMERICA",Discovery Channel
+http://200.73.59.84:8000/play/a00d
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png" group-title="LATIN AMERICA",Discovery Home & Health
+http://200.73.59.84:8000/play/a027
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATIN AMERICA",Discovery Kids
+http://200.73.59.84:8000/play/a00v
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="LATIN AMERICA",Discovery Science
 http://181.198.153.175:5003/play/a08d/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="LATIN AMERICA",Discovery Turbo
+http://200.73.59.84:8000/play/a03p
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="LATIN AMERICA",Disney Channel
+http://200.73.59.84:8000/play/a00c
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_kncJQ5vvL4/TZNtf21dRYI/AAAAAAAAIbQ/e3jzQUrp-CU/w1200-h630-p-k-no-nu/Logo%2BDisney%2BJunior.jpg" group-title="LATIN AMERICA",Disney Junior
+http://200.73.59.84:8000/play/a01c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="LATIN AMERICA",Disney XD
+http://200.73.59.84:8000/play/a01h
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black-880x660.png" group-title="LATIN AMERICA",E!
+http://200.73.59.84:8000/play/a00g
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="LATIN AMERICA",ESPN Sur
 http://181.198.153.175:5004/play/a075/index.m3u8
@@ -5655,8 +5832,26 @@ http://181.198.153.175:5004/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/is2JyD.png" group-title="LATIN AMERICA",ESPN 2 Sur
 http://181.198.153.175:5004/play/a076/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/305.png" group-title="LATIN AMERICA",ESPN 3
+http://200.73.59.84:8000/play/a03r
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="LATIN AMERICA",Fox Channel
+http://200.73.59.84:8000/play/a01m
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="LATIN AMERICA",Fox Life
+http://200.73.59.84:8000/play/a01q
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="LATIN AMERICA",Fox Premium Action
+http://200.73.59.84:8000/play/a017
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_FAMILY.png" group-title="LATIN AMERICA",Fox Premium Family
 http://181.198.153.175:5005/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATIN AMERICA",Fox Premium Movies
+http://200.73.59.84:8000/play/a015
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="LATIN AMERICA",Fox Premium Series
+http://200.73.59.84:8000/play/a016
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="LATIN AMERICA",Fox Sports 1
 http://181.198.153.175:5004/play/a077/index.m3u8
@@ -5673,11 +5868,20 @@ http://181.198.153.175:5003/play/a08h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATIN AMERICA",Fox Sports 3
 http://181.198.153.175:5007/play/a0a6/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="LATIN AMERICA",Fox Sports Premium
+http://200.73.59.84:8000/play/a014
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="LATIN AMERICA",Frecuencia Musical (Opt-1)
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="LATIN AMERICA",Frecuencia Musical (Opt-2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="LATIN AMERICA",FX
+http://200.73.59.84:8000/play/a03g
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="LATIN AMERICA",FXM
+http://200.73.59.84:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/503.png" group-title="LATIN AMERICA",Golden
 http://181.198.153.175:5003/play/a090/index.m3u8
@@ -5685,8 +5889,29 @@ http://181.198.153.175:5003/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="LATIN AMERICA",GolTV
 http://181.198.153.175:5002/play/a044/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="LATIN AMERICA",HBO
+http://200.73.59.84:8000/play/a03b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATIN AMERICA",HBO 2
+http://200.73.59.84:8000/play/a018
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATIN AMERICA",HBO Family
+http://200.73.59.84:8000/play/a01b
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/HBO%2BLA.png" group-title="LATIN AMERICA",HBO Plus
+http://200.73.59.84:8000/play/a019
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="LATIN AMERICA",HispanTV
 https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="LATIN AMERICA",History
+http://200.73.59.84:8000/play/a01j
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="LATIN AMERICA",Investigation Discovery
+http://200.73.59.84:8000/play/a023
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="LATIN AMERICA",I.Sat
+http://200.73.59.84:8000/play/a01n
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
@@ -5700,23 +5925,65 @@ http://5955f4ce3f2b7.streamlock.net:1935/8080/8080/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7SjPZSp.png" group-title="LATIN AMERICA",Locomotion TV
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="LATIN AMERICA",Max Prime
+http://200.73.59.84:8000/play/a01a
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://melodychannel.tv/images/logomeloddy.png" group-title="LATIN AMERICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="LATIN AMERICA",MTV (Opt-1)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="LATIN AMERICA",Nat Geo Kids
+http://200.73.59.84:8000/play/a01t
+
+#EXTINF:-1 tvg-logo="http://www.conecta.es/media/zoo/images/national-geographic_a94e7aafbf52b47107306063542658ba.png" group-title="LATIN AMERICA",National Geographic
+http://200.73.59.84:8000/play/a01i
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATIN AMERICA",Nick
+http://200.73.59.84:8000/play/a01g
+
+#EXTINF:-1 tvg-logo="https://www.completecontrol.co.uk/wp-content/uploads/2017/01/nick_jr_logo.png" group-title="LATIN AMERICA",Nick Jr.
+http://200.73.59.84:8000/play/a03o
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/CanalRCNNovelas2019.png" group-title="LATIN AMERICA",RCN Novelas
+http://200.73.59.84:8000/play/a022
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT Español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/1024px-Sony_Channel_latam_logo.svg.png" group-title="LATIN AMERICA",Sony Channel
+http://200.73.59.84:8000/play/a03d
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="LATIN AMERICA",Space
+http://200.73.59.84:8000/play/a03f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="LATIN AMERICA",TBS
+http://200.73.59.84:8000/play/a026
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="LATIN AMERICA",TCM
 http://181.198.153.175:5003/play/a091/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATIN AMERICA",Telemundo Internacional
+http://200.73.59.84:8000/play/a00u
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="LATIN AMERICA",Telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1200px-Tlc_logo_discovery.svg.png" group-title="LATIN AMERICA",TLC
+http://200.73.59.84:8000/play/a00p
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180504/eue/kisspng-tnt-logo-turner-broadcasting-system-television-screw-logo-5aec667424a7d4.2345000415254421641502.jpg" group-title="LATIN AMERICA",TNT
+http://200.73.59.84:8000/play/a01v
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="LATIN AMERICA",Universal TV
+http://200.73.59.84:8000/play/a01l
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATIN AMERICA",Warner TV
+http://200.73.59.84:8000/play/a00f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5AjNup.png" group-title="LATIN AMERICA",Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
@@ -5825,6 +6092,9 @@ https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYvobPG.png" group-title="MEXICO",Irapuato TV
 http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Las Estrellas Latinoamerica
+http://200.73.59.84:8000/play/a00r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y5mzuOK.png" group-title="MEXICO",Mexiquense Toluca
 https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/FluxusTV.m3u8
@@ -6153,6 +6423,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o7EUayX.png" group-title="ARGENTINA",TVM Misiones
 http://stream2.livestreamingservices.com:1935/tvmlive/tvmlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/94741-tycsports.gif" group-title="ARGENTINA",TyC Sports
+http://200.73.59.84:8000/play/a00l
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEOjQy4.png" group-title="ARGENTINA",UniRioTV
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w382997042.m3u8
 
@@ -6179,6 +6452,9 @@ https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BswJZk.png" group-title="CHILE",Atacama TV
 https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/Bang-Logo.png" group-title="CHILE",Bang
+http://200.73.59.84:8000/play/a02c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1NImvMp.png" group-title="CHILE",Campo Abierto TV Huechuraba
 http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8?fluxustv.m3u8
@@ -6210,11 +6486,20 @@ http://canal22santiago.cl/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.canalchilote.cl/ambar/empresa/archivos/imagen_nsr3oi.png" group-title="CHILE",Canal Chilote
 https://595b85410a151.streamlock.net/8010/8010/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/1/1d/CDF-TURNER_2019.png" group-title="CHILE",CDF
+http://200.73.59.84:8000/play/a00m
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/1/1d/CDF-TURNER_2019.png" group-title="CHILE",CDF Premium
+http://200.73.59.84:8000/play/a013
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ow2iJJo.png" group-title="CHILE",CDtv
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision
 http://181.198.153.175:5002/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.cnnchile.com/sites/2/2018/06/750px-CNN_Chile_Logo.svg_-740x430.png" group-title="CHILE",CNN Chile
+http://200.73.59.84:8000/play/a01r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiDr9wa.png" group-title="CHILE",Contivision Constitucion
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
@@ -6266,6 +6551,9 @@ http://unlimited4-cl.dps.live/itv/itv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQQcT9K.png" group-title="CHILE",Karavana TV
 http://unlimited5-us.dps.live/karavanatv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg.png" group-title="CHILE",la Red
+http://200.73.59.84:8000/play/a00x
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBGOdMx.png" group-title="CHILE",LTV Canal Renaico
 http://204.12.194.82:1935/ltv/myStream/playlist.m3u8
@@ -6420,6 +6708,9 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ii7t1.png" group-title="CHILE",VC Online Santiago
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",Via X
+http://200.73.59.84:8000/play/a00q
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c3FpQAc.png" group-title="CHILE",VTV Aconcagua (Opt-1)
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8 
 
@@ -6428,6 +6719,9 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3FpQAc.png" group-title="CHILE",VTV Viña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalartv.com/wp-content/themes/artv_ver_2/images/bajada/zona.png" group-title="CHILE",Zona Latina
+http://200.73.59.84:8000/play/a01p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83ihLPe.png" group-title="CHILE",ZP TV
 https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
