@@ -5303,6 +5303,9 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="SPAIN",Sevilla FC TV (Opt-2)
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
  
+#EXTINF:-1 tvg-logo="https://www.elboletin.com/fotos/1/star-tve-d.jpg" group-title="SPAIN",Star TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2375&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tac12.tv/templates/rt_ambrosia/custom/images/TAC12_tv_main-250px.png" group-title="SPAIN",TAC12 TV Tarragona
 https://liveingesta118.cdnmedia.tv//tac12live/smil:live.smil/playlist.m3u8?fluxustv.m3u8
 
@@ -5513,6 +5516,21 @@ http://181.189.225.36:9000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PUTPqg.png" group-title="LATIN AMERICA",Azteca America (New!)
 https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180925/vb/kisspng-babyfirsttv-clip-art-babytv-smile-little-rowland-buggies-what-the-bugs-are-watching-5baa45004fca31.0266491815378854403268.jpg" group-title="LATIN AMERICA",Baby First TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=1984&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="LATIN AMERICA",Baby TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=116&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal241-792x612-863910366.png" group-title="LATIN AMERICA",Bandamax
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=221&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BitMelogo.png/640px-BitMelogo.png" group-title="LATIN AMERICA",BitMe
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2591&format=HLSAD&f=.m3u
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180423/dqw/kisspng-bloomberg-television-television-channel-dish-netwo-custom-plan-5ade887957a1b9.683247721524533369359.jpg" group-title="LATIN AMERICA",Bloomberg
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=190&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/laguia/images/3/35/Logoclaro.png" group-title="LATIN AMERICA",Canal Claro
 http://200.73.59.84:8000/play/a025
 
@@ -5552,14 +5570,26 @@ http://181.189.225.36:9000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png" group-title="LATIN AMERICA",CNÑ
 http://181.189.225.36:9000/play/a02c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg.png" group-title="LATIN AMERICA",Comedy Central
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=340&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png" group-title="LATIN AMERICA",Concert Channel
 http://181.189.225.36:9000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="LATIN AMERICA",De Pelicula
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=335&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/d-plus.png" group-title="LATIN AMERICA",De Pelicula Plus
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=121&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" group-title="LATIN AMERICA",DHE
 http://181.189.225.36:9000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="LATIN AMERICA",Discovery Channel
 http://181.189.225.36:9000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/bd386-civilization.png" group-title="LATIN AMERICA",Discovery Civilization
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=99&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png" group-title="LATIN AMERICA",Discovery Home & Health
 http://181.189.225.36:9000/play/a03j/index.m3u8
@@ -5570,8 +5600,14 @@ http://181.189.225.36:9000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="LATIN AMERICA",Discovery Science
 http://181.198.153.175:5003/play/a08d/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATIN AMERICA",Discovery Theater
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=95&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="LATIN AMERICA",Discovery Turbo
 http://181.189.225.36:9000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="LATIN AMERICA",Discovery World
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=101&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="LATIN AMERICA",Disney Channel
 http://181.189.225.36:9000/play/a03g/index.m3u8
@@ -5581,6 +5617,9 @@ http://181.189.225.36:9000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="LATIN AMERICA",Disney XD
 http://181.189.225.36:9000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="LATIN AMERICA",Distrito Comedia
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=78&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
@@ -5614,6 +5653,9 @@ http://181.189.225.36:9000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="LATIN AMERICA",Eurochannel
 http://181.189.225.36:9000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="LATIN AMERICA",Europa Europa
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=136&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="LATIN AMERICA",Film & Arts
 http://181.189.225.36:9000/play/a04b/index.m3u8
@@ -5681,8 +5723,17 @@ http://181.189.225.36:9000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="LATIN AMERICA",FXM
 http://181.189.225.36:9000/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="LATIN AMERICA",Glitz
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=76&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/503.png" group-title="LATIN AMERICA",Golden
 http://181.198.153.175:5003/play/a090/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png" group-title="LATIN AMERICA",Golden Edge
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=124&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png" group-title="LATIN AMERICA",Golden Plus
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=122&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="LATIN AMERICA",GolTV
 http://181.198.153.175:5002/play/a044/index.m3u8
@@ -5708,11 +5759,14 @@ http://181.189.225.36:9000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png" group-title="LATIN AMERICA",History 2
 http://181.189.225.36:9000/play/a019/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/621715/HOLA_TV_PNG_LOGO_Logo.jpg" group-title="LATIN AMERICA",Hola! TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=219&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="LATIN AMERICA",Investigation Discovery
 http://181.189.225.36:9000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="LATIN AMERICA",I.Sat
-http://200.73.59.84:8000/play/a01n
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=135&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
@@ -5729,11 +5783,17 @@ http://181.189.225.36:9000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7SjPZSp.png" group-title="LATIN AMERICA",Locomotion TV
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="LATIN AMERICA",Mas Chic
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=1842&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="LATIN AMERICA",Max Prime
 http://181.189.225.36:9000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://melodychannel.tv/images/logomeloddy.png" group-title="LATIN AMERICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2017_01/586eb0505b198_Mrbido_TV.png.ac74ec93320958000bed1817229ff31a.png" group-title="LATIN AMERICA",Morbido TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=140&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="LATIN AMERICA",MTV (Opt-1)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
@@ -5756,14 +5816,26 @@ http://181.189.225.36:9000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.conecta.es/media/zoo/images/national-geographic_a94e7aafbf52b47107306063542658ba.png" group-title="LATIN AMERICA",National Geographic
 http://181.189.225.36:9000/play/a024/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/1280px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="LATIN AMERICA",NBC Golf
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=179&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATIN AMERICA",Nick
 http://181.189.225.36:9000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="LATIN AMERICA",Nick 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2147&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.completecontrol.co.uk/wp-content/uploads/2017/01/nick_jr_logo.png" group-title="LATIN AMERICA",Nick Jr.
 http://181.189.225.36:9000/play/a01t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1280276.png" group-title="LATIN AMERICA",Nicktoons
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=1708&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.numusic.club/wp-content/uploads/2018/11/numusic.png" group-title="LATIN AMERICA",Nu Music
 http://181.189.225.36:9000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="LATIN AMERICA",Paramount Channel
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=1726&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/CanalRCNNovelas2019.png" group-title="LATIN AMERICA",RCN Novelas
 http://181.189.225.36:9000/play/a016/index.m3u8
@@ -5786,11 +5858,23 @@ http://181.189.225.36:9000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="LATIN AMERICA",Sun Channel
 http://181.189.225.36:9000/play/a04a/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2015/10/Sundance-TV.png" group-title="LATIN AMERICA",Sundance TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=69&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg.png" group-title="LATIN AMERICA",Syfy
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=59&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="LATIN AMERICA",TBS
 http://181.189.225.36:9000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="LATIN AMERICA",TCM
 http://181.198.153.175:5003/play/a091/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="LATIN AMERICA",Telehit Plus
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=220&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/musica/telehit-urbano.png" group-title="LATIN AMERICA",Telehit Urbano
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=218&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATIN AMERICA",Telemundo Internacional
 http://181.189.225.36:9000/play/a01z/index.m3u8
@@ -5801,11 +5885,20 @@ http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1200px-Tlc_logo_discovery.svg.png" group-title="LATIN AMERICA",TLC
 http://181.189.225.36:9000/play/a030/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/TLnovelas2019.png" group-title="LATIN AMERICA",Tlnovelas
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=83&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180504/eue/kisspng-tnt-logo-turner-broadcasting-system-television-screw-logo-5aec667424a7d4.2345000415254421641502.jpg" group-title="LATIN AMERICA",TNT
 http://181.189.225.36:9000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/015/original/pic_tntseries.png" group-title="LATIN AMERICA",TNT Series
 http://181.189.225.36:9000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/013/original/pic_tooncast.png" group-title="LATIN AMERICA",Tooncast
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=108&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATIN AMERICA",TruTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=215&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
@@ -5822,6 +5915,9 @@ http://181.189.225.36:9000/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATIN AMERICA",Warner TV
 http://181.189.225.36:9000/play/a02t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2014/09/WOBI-la-dosis-diaria-de-motivaci%C3%B3n..jpg" group-title="LATIN AMERICA",WOBI
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=102&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5AjNup.png" group-title="LATIN AMERICA",Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
@@ -5837,8 +5933,17 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEj3hCA.png" group-title="MEXICO",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2019/01/ADRENALINA-SPORTS-NETWORK-NEGRO.png" group-title="MEXICO",Adrenalina Sports Network
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2404&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",Aprende TV
 https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://consejodelacomunicacion.org/web.cc.org.mx/wp-content/uploads/2018/03/aymsports.jpg" group-title="MEXICO",AYM Sports
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=180&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="MEXICO",AZ Clic
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=223&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/298-2981889_49-novelas-az-clic.png" group-title="MEXICO",AZ Corazon
 http://181.189.225.36:9000/play/a020/index.m3u8
@@ -5852,11 +5957,20 @@ http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/el31V6f.jpg" group-title="MEXICO",Bajio TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2355&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cs16OLz.png" group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/400px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",Canal 5 Mexico City
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2038&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="MEXICO",Canal 6 Morelia
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="MEXICO",Canal 8 Monterrey
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2307&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",Canal 10 Cancun (Opt-1)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -5894,6 +6008,9 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.launion.com.mx/media/k2/items/cache/b57d66e8207f9162d86cd7ab27eba613_XL.jpg" group-title="MEXICO",Canal Totalplay
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2361&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RiSJlqB.png" group-title="MEXICO",Capacita TV
 https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8?fluxustv.m3u8
 
@@ -5918,6 +6035,9 @@ https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxust
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtnqXQO.png" group-title="MEXICO",Hidalgo TV
 http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/213596/imagen-tv-logo/450_1000.jpg" group-title="MEXICO",Imagen TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2298&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kkgl1vm.png" group-title="MEXICO",Ingenio TV
 https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8?fluxustv.m3u8
 
@@ -5936,8 +6056,14 @@ https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYvobPG.png" group-title="MEXICO",Irapuato TV
 http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Las Estrellas
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=17&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Las Estrellas Latinoamerica
 http://200.73.59.84:8000/play/a00r
+
+#EXTINF:-1 tvg-logo="https://www.thematv.us/images/channels/latin-american-sports.png" group-title="MEXICO",Latin America Sports
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2089&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y5mzuOK.png" group-title="MEXICO",Mexiquense Toluca
 https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/FluxusTV.m3u8
@@ -5960,8 +6086,17 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kGv3cg5.png" group-title="MEXICO",MVM Noticias Oaxaca
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://dancefestmx.com/wp-content/uploads/2019/10/Logo_MVS_TV_Color_sitio.png" group-title="MEXICO",MVS TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2306&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Haxkj0I.png" group-title="MEXICO",Nuestravision Michoacan
 http://189.204.137.189:8888/m3u8/canal6.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Nuevocanal9mexico.png" group-title="MEXICO",Nu9ve
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2437&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Once_Ni%C3%B1os.png/621px-Logo_Once_Ni%C3%B1os.png" group-title="MEXICO",Once Niños
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2222&format=HLSAD&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8v0WFP0.png" group-title="MEXICO",Presumiendo Mexico
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
@@ -6014,6 +6149,21 @@ http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOQ7LkW.png" group-title="MEXICO",TRC TV Campeche
 http://video7.stream.mx:1935/8010/8010/chunklist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO",TUDN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=174&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.brandquo.net/images/portafolio/tv3/tv3.jpg" group-title="MEXICO",TV3 Puebla
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2312&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tuinterfaz.mx/fotos/2014/foto2394_800.jpg" group-title="MEXICO",TVC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2156&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbolcritico13.files.wordpress.com/2012/10/tvcd.png" group-title="MEXICO",TVC Deportes
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2157&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="MEXICO",TV Mas Veracruz
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=2324&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lfAyDm.png" group-title="MEXICO",TV UNAM
 http://api.new.livestream.com/accounts/27177136/events/8704166/live.m3u8?fluxustv.m3u8
 
@@ -6022,6 +6172,9 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO",Ultra TV Aguascalientes
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/200px-Unicable_logo.svg.png" group-title="MEXICO",Unicable
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=2rll36ar4syf7pv&lchId=1499&format=HLSAD&f=.m3
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
